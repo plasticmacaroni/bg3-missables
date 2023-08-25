@@ -1,0 +1,313 @@
+:root {
+  --badge-color: #ff6600;
+  --done-color: #32cd32;
+  --checkbox-bg-color: #1f6f8b;
+  --body-bg-color: #121212;
+  --body-font-color: #d0d0d0;
+  --highlight-bg-color: #ffd700;
+  --navbar-bg-color: #1f1f1f;
+  --navbar-link-color: #d0d0d0;
+  --active-link-bg-color: #ff6600;
+  --btn-group-flex-bg-color: #202020;
+  --back-to-top-bg-color: #202020;
+  --achievement-related-stroke-color: #ff6600;
+  --achievement-related-link-color: #3f9fd8;
+  --achievement-related-font-color: #d0d0d0;
+  --hover-color: #707070;
+  --btn-primary-color: #ff6600;
+  --btn-hover-text-color: #ffffff;
+}
+
+.in_progress,
+.done {
+  color: var(--main-color);
+  border: 1px solid;
+  border-radius: 3px;
+  padding: 0.1em 0.4em;
+  font-weight: normal;
+  margin-left: 0.2em;
+  vertical-align: middle;
+  font-size: 0.9em;
+}
+
+.done {
+  color: var(--done-color);
+}
+
+input[type="checkbox"] {
+  background: var(--checkbox-color);
+  accent-color: var(--checkbox-color);
+  opacity: 50%;
+}
+
+@media print {
+  body {
+    color: var(--body-color);
+  }
+  .navbar,
+  #intro,
+  input[type="checkbox"],
+  .done,
+  .in_progress,
+  a {
+    display: none;
+  }
+  a {
+    color: var(--body-color);
+    text-decoration: underline;
+  }
+  a[href]:after {
+    content: none !important;
+  }
+  .tab-content > .tab-pane,
+  .pill-content > .pill-pane {
+    display: block;
+  }
+  .tab-pane {
+    page-break-after: always;
+  }
+}
+
+body {
+  background-color: var(--body-bg-color);
+  color: var(--body-font-color);
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 22px;
+}
+
+ul li ul {
+  padding-top: 0;
+}
+
+h3 {
+  margin-bottom: 0;
+}
+
+.checkbox label,
+.radio label {
+  padding-left: 24px;
+}
+
+.checkbox input[type="checkbox"],
+.checkbox-inline input[type="checkbox"],
+.radio input[type="radio"],
+.radio-inline input[type="radio"] {
+  margin-left: -24px;
+}
+
+.table_of_contents {
+  margin-left: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+.highlight {
+  background-color: rgb(255, 246, 18);
+}
+
+.hiddenfile {
+  width: 0px;
+  height: 0px;
+  overflow: hidden;
+}
+
+select {
+  background-color: var(--btn-group-flex-bg-color);
+}
+
+.navbar {
+  background-color: var(--navbar-bg-color) !important;
+  border-color: var(--navbar-border-color);
+}
+
+.navbar a {
+  color: var(--navbar-link-color) !important;
+}
+
+nav .active a {
+  background-color: var(--active-link-bg-color) !important;
+}
+
+.btn:hover {
+  color: var(--btn-hover-text-color);
+}
+
+.btn {
+  color: var(--btn-group-flex-font-color);
+  background-color: var(--btn-group-flex-bg-color);
+}
+
+.btn-group-flex {
+  z-index: 1;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  text-decoration: none;
+  font-size: 12px;
+  padding: 0;
+  display: none;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
+.btn-group-flex .btn {
+  border-top-left-radius: 0;
+  border-left: 0;
+  flex-shrink: 1;
+  min-width: 0;
+}
+
+.fadingbutton.back-to-top {
+  border-top-right-radius: 0;
+  border-right: 0;
+  right: 0;
+}
+
+.back-to-top {
+  position: fixed;
+  bottom: 3em;
+  right: 0px;
+  text-decoration: none;
+  color: var(--back-to-top-font-color);
+  background-color: var(--back-to-top-bg-color);
+  font-size: 12px;
+  padding: 1em;
+  display: none;
+}
+
+.achievement-related .checkbox span {
+  -webkit-text-stroke: 0.6pt var(--achievement-related-stroke-color);
+  color: white;
+}
+
+.achievement-related .checkbox a {
+  -webkit-text-stroke-width: 0pt;
+  color: var(--achievement-related-link-color);
+  text-decoration: none;
+}
+
+.achievement-related li:not(.achievement-related) span {
+  -webkit-text-stroke-width: 0pt;
+  color: var(--achievement-related-font-color);
+  text-decoration: none;
+}
+
+.achievement-related .item_content a {
+  text-shadow: none;
+}
+
+.back-to-top:hover {
+  background-color: var(--hover-color);
+}
+
+.togglehide:hover {
+  background-color: var(--hover-color);
+}
+
+.btn-collapse {
+  padding: 4px 10px 1px;
+  margin-right: 10px;
+  vertical-align: top;
+}
+
+.btn:focus,
+.btn.active:focus {
+  outline: none;
+  outline: 0;
+}
+
+.btn.filter-inactive .glyphicon-eye-close {
+  display: inline-block;
+}
+.btn.filter-active .glyphicon-eye-open {
+  display: inline-block;
+}
+.btn.filter-inactive .glyphicon-chevron-down {
+  display: inline-block;
+}
+.btn.filter-active .glyphicon-chevron-up {
+  display: inline-block;
+}
+
+.btn.active {
+  text-decoration: line-through;
+}
+
+/* Icon when the collapsible content is shown */
+.btn-collapse:after {
+  font-family: "Glyphicons Halflings";
+  content: "\e082";
+}
+/* Icon when the collapsible content is hidden */
+.btn-collapse.collapsed:after {
+  content: "\e081";
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+body.hide_completed .completed {
+  display: none !important;
+}
+
+.hide_filtered {
+  display: none !important;
+}
+
+body.hide_non_achievement_related
+  .tab-content
+  ul.panel-collapse:not(.table_of_contents, .nav)
+  li:not(.achievement-related) {
+  display: none !important;
+}
+
+input[type="checkbox"]:checked + .item_content {
+  text-decoration: line-through;
+}
+
+input[type="checkbox"] ~ .glyphicon-eye-close,
+input[type="checkbox"] ~ * > .glyphicon-eye-close,
+input[type="checkbox"]:checked ~ .glyphicon-eye-open,
+input[type="checkbox"]:checked ~ * > .glyphicon-eye-open {
+  display: none;
+}
+input[type="checkbox"] ~ .glyphicon-eye-open,
+input[type="checkbox"] ~ * > .glyphicon-eye-open,
+input[type="checkbox"]:checked ~ .glyphicon-eye-close,
+input[type="checkbox"]:checked ~ * > .glyphicon-eye-close {
+  display: inline-block;
+}
+
+input[type="checkbox"] ~ .glyphicon-chevron-down,
+input[type="checkbox"] ~ * > .glyphicon-chevron-down,
+input[type="checkbox"]:checked ~ .glyphicon-chevron-up,
+input[type="checkbox"]:checked ~ * > .glyphicon-chevron-up {
+  display: none;
+}
+input[type="checkbox"] ~ .glyphicon-chevron-up,
+input[type="checkbox"] ~ * > .glyphicon-chevron-up,
+input[type="checkbox"]:checked ~ .glyphicon-chevron-down,
+input[type="checkbox"]:checked ~ * > .glyphicon-chevron-down {
+  display: inline-block;
+}
+
+.bi {
+  margin-left: -24px;
+  margin-right: 12px;
+  height: 80%;
+}
+
+label.completed .bi {
+  visibility: hidden;
+}
+
+label input {
+  visibility: hidden;
+}

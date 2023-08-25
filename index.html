@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="utf-8">
+    <title>The Best Dark Souls 2: Scholar of the First Sin Platinum Cheat Sheet</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The best, most updated cheat sheet for Dark Souls 2: Scholar of the First Sin. Get platinum and all achievements easily with this checklist.">
+    <meta name="author" content="plasticmacaroni">
+    <link id="bootstrap" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <!-- icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"> 
+    <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+	<script src="https://cdn.rawgit.com/andris9/jStorage/v0.4.12/jstorage.min.js"></script>	
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+        var profilesKey = 'bg3_profiles';
+    </script>
+    <script src="js/main.js"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BM4K9JRPSD"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-BM4K9JRPSD');
+    </script>
+    <script>
+    $(document).ready(function() {
+        generateTasks();
+    });
+    </script>
+</head>
+<body data-bs-theme="dark">
+    <nav class="navbar navbar-default">
+        <div class="container">
+                
+                    
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#tabPlaythrough" data-toggle="tab">Playthrough</a></li>
+                <li><a href="#tabInformation" data-toggle="tab">Information</a></li>
+                <li><a href="#tabHelp" data-toggle="tab">Help</a></li>
+            </ul>
+                <div class="profile" style="float: right; padding-top: 8px;">
+                    <div class="input-append">
+                        <select id="profiles">
+                        </select>
+                        <button class="btn btn-secondary" type="button" id="profileAdd">Add</button>
+                        <button class="btn btn-secondary" type="button" id="profileEdit">Edit</button>
+                    </div>
+                </div>
+                    
+                
+        </div>
+    </nav>
+
+    <div class="container">
+        <div id="intro">
+            <h1 class="text-center">Dark Souls 2: Scholar of the First Sin Cheat Sheet</h1>
+            <p>
+                This guide began from the helpful Reddit thread <a href="https://www.reddit.com/r/BaldursGate3/comments/15o0ye9/spoilers_checklist_of_things_to_do_before_leaving/">here</a>, and uses the Dark Souls checklist format found from <a href="https://github.com/smcnabb">Stephen McNabb</a> on the <a href="http://smcnabb.github.io/dark-souls-2-cheat-sheet/">Dark Souls 2 Cheat Sheet</a>, and <a href="https://github.com/xenevel">Xenevel</a> with their <a href="https://github.com/xenevel/dark-souls-2-sotfs-cheat-sheet">updated version</a>. 
+                If this is your first time visiting this page please check
+                out the Help section.
+            </p>
+            <p>
+
+                <em>Warning: Contains Spoilers!</em></br></br>
+
+                <b>The key to icons on this checklist:</b></br>
+                <i class="bi bi-trophy-fill"> </i>Shows you tasks directly related to achievements</br>
+                <i class="bi bi-map-fill"> </i>Indicates routing information to guide you through levels</br>
+                <i class="bi bi-gem"> </i>Shows you that a task is about collecting non-essential items (and because so much of the checklist is this type, you can filter it out at the bottom of the screen)</br>
+                <i class="bi bi-journal-check"> </i>Indicates information or tasks that are non-essential to all achievements</br>
+                <i class="bi bi-heartbreak"> </i>Indicates that an action (killing NPCs) will cause your sin to increase, and may cause questlines to end as NPCs die</br>
+            </p>
+
+        </div>
+
+        <div class="tab-content">
+
+            <div class="btn-group" role="group">
+		        <div class="btn-group btn-group-flex" role="group" data-toggle="buttons">
+		          <label class="btn btn-secondary">
+                    <input type="checkbox" id="toggleHideCompleted">
+                    <span class="glyphicon glyphicon-eye-close"></span>
+                    <span class="glyphicon glyphicon-eye-open"></span>
+                    Hide Completed
+                    <!-- <a class="btn btn-secondary btn-sm fadingbutton togglehide" onclick="$('#toggleHideCompleted').click();">
+                        <span class="glyphicon glyphicon-eye-close"></span>
+                        <span class="glyphicon glyphicon-eye-open"></span>
+                        Hide Completed
+                    </a> -->
+                </label>
+                <label class="btn btn-secondary">
+                    <input type="checkbox" id="toggleHideNonAchievements">
+                    <span class="glyphicon glyphicon-eye-close"></span>
+                    <span class="glyphicon glyphicon-eye-open"></span>
+                    Hide Non-Achievement Tasks
+                    <!-- <a class="btn btn-secondary btn-sm fadingbutton togglehide achievementhide" onclick="$('#toggleHideNonAchievements').click();">
+                        <span class="glyphicon glyphicon-eye-close"></span>
+                        <span class="glyphicon glyphicon-eye-open"></span>
+                        Hide Non-Achievement Tasks
+                    </a> -->
+                </label>
+                <label class="btn btn-secondary">
+                    <input type="checkbox" id="toggleHideJournal">
+                    <span class="glyphicon glyphicon-eye-close"></span>
+                    <span class="glyphicon glyphicon-eye-open"></span>
+                    Hide Non-Essential Tasks
+                    <!-- <a class="btn btn-secondary btn-sm fadingbutton togglehide" onclick="$('#toggleHideJournal').click();">
+                        <span class="glyphicon glyphicon-eye-close"></span>
+                        <span class="glyphicon glyphicon-eye-open"></span>
+                        Hide Non-Essential Checklist and Information Tasks
+                    </a> -->
+                </label>
+                <label class="btn btn-secondary">
+                    <input type="checkbox" id="toggleHideItems">
+                    <span class="glyphicon glyphicon-eye-close"></span>
+                    <span class="glyphicon glyphicon-eye-open"></span>
+                    Hide Non-Essential Items
+                    <!-- <a class="btn btn-secondary btn-sm fadingbutton togglehide" onclick="$('#toggleHideItems').click();">
+                        <span class="glyphicon glyphicon-eye-close"></span>
+                        <span class="glyphicon glyphicon-eye-open"></span>
+                        Hide Item Tasks
+                    </a> -->
+                </label>
+                <label class="btn btn-secondary">
+                    <input type="checkbox" id="toggleHideRouting">
+                    <span class="glyphicon glyphicon-eye-close"></span>
+                    <span class="glyphicon glyphicon-eye-open"></span>
+                    Hide Route Info
+                    <!-- <a class="btn btn-secondary btn-sm fadingbutton togglehide" onclick="$('#toggleHideRouting').click();">
+                        <span class="glyphicon glyphicon-eye-close"></span>
+                        <span class="glyphicon glyphicon-eye-open"></span>
+                        Hide Route Tasks
+                    </a> -->
+                </label>
+                <label class="btn btn-secondary">
+                    <input type="checkbox" id="toggleHideSin">
+                    <span class="glyphicon glyphicon-eye-close"></span>
+                    <span class="glyphicon glyphicon-eye-open"></span>
+                    Hide NPC Kills 
+                    <!-- <a class="btn btn-secondary btn-sm fadingbutton togglehide" onclick="$('#toggleHideSin').click();">
+                        <span class="glyphicon glyphicon-eye-close"></span>
+                        <span class="glyphicon glyphicon-eye-open"></span>
+                        Hide NPC Kills and Quest Breaks
+                    </a> -->
+                </label>
+		        </div>
+
+	        </div>
+            <div class="btn-group" role="group" data-toggle="buttons">
+                <label class="btn btn-secondary">
+                  <input type="checkbox" id="toggleCollapseAll">
+                  <span class="glyphicon glyphicon-chevron-up"></span>
+                  <span class="glyphicon glyphicon-chevron-down"></span>
+                  Collapse All
+                </label>
+              </div>
+        	
+            <div class="tab-pane active" id="tabPlaythrough">
+
+                <h2>Missables Checklist <span id="playthrough_overall_total"></span></h2>
+                <ul class="table_of_contents">
+                    
+                </ul>
+                <hr />
+            
+                <h3 id="Start_The_Game"><a href="#" data-toggle="collapse" data-parent="#tabPlaythrough" class="btn btn-primary btn-collapse btn-sm"></a><a href="#">Start The Game</a></h3>
+                <ul class="panel-collapse collapse in">
+                    <li data-id="playthrough_485ac964-d369-49b1-8b8c-3197ab317b78">See our savior Swen on the title menu leading a clueless band of adventurers</li>
+                </ul>
+
+                
+            </div>
+            
+            <div id="bottom-spacer" style="height:15vh;"></div>
+            <div class="tab-pane" id="tabInformation">
+
+                <h2>Information</h2>
+                <ul>
+                    <li><a href="#Soul_Types">Soul Types</a></li>
+                </ul>
+
+                <hr />
+
+                <a name="Soul_Types"></a>
+                <h3>Soul Types</h3>
+                <table class="table table-striped">
+                    <thead>
+                        <tr><th>Name</th><th>Souls</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td><a href="http://darksouls2.wikidot.com/soul-of-a-lost-undead">Soul of a Lost Undead</a></td><td>200</td></tr>
+                        <tr><td><a href="http://darksouls2.wikidot.com/large-soul-of-a-lost-undead">Large Soul of a Lost Undead</a></td><td>400</td></tr>
+                        <tr><td><a href="http://darksouls2.wikidot.com/soul-of-a-nameless-soldier">Soul of a Nameless Soldier</a></td><td>800</td></tr>
+                        <tr><td><a href="http://darksouls2.wikidot.com/large-soul-of-a-nameless-soldier">Large Soul of a Nameless Soldier</a></td><td>1,000</td></tr>
+                        <tr><td><a href="http://darksouls2.wikidot.com/soul-of-a-proud-knight">Soul of a Proud Knight</a></td><td>2,000</td></tr>
+                        <tr><td><a href="http://darksouls2.wikidot.com/large-soul-of-a-proud-knight">Large Soul of a Proud Knight</a></td><td>3,000</td></tr>
+                        <tr><td><a href="http://darksouls2.wikidot.com/soul-of-a-brave-warrior">Soul of a Brave Warrior</a></td><td>5,000</td></tr>
+                        <tr><td><a href="http://darksouls2.wikidot.com/large-soul-of-a-brave-warrior">Large Soul of a Brave Warrior</a></td><td>8,000</td></tr>
+                        <tr><td><a href="http://darksouls2.wikidot.com/soul-of-a-hero">Soul of a Hero</a></td><td>10,000</td></tr>
+                        <tr><td><a href="http://darksouls2.wikidot.com/soul-of-a-great-hero">Soul of a Great Hero</a></td><td>20,000</td></tr>
+                    </tbody>
+                </table>
+
+            </div>
+
+            <div class="tab-pane" id="tabHelp">
+
+                <h2>Credits</h2>
+                <p>
+                    I'd like to extend a HUGE thanks to <a href="https://github.com/smcnabb">Stephen McNabb</a> for creating the original 
+                    <a href="http://smcnabb.github.io/dark-souls-2-cheat-sheet/">Dark Souls 2 Cheat Sheet</a>, <a href="https://github.com/MuFeR">MuFeR</a>, 
+                    <a href="https://github.com/Rejna">Rafal Hejna</a>, and <a href="https://github.com/TheParty020">TheParty020</a> 
+                    for many SotFS additions, and <a href="https://github.com/ZKjellberg">Zachary Kjellberg</a> for the 
+                    <a href="http://zkjellberg.github.io/dark-souls-3-cheat-sheet/">Dark Souls 3 Cheat Sheet</a> 
+                    from which I borrowed some design elements. If I missed crediting someone please let me know!
+                </p>
+                <p>
+                    Furthermore, I wouldn't have made it through this with my sanity intact if it weren't for the walkthroughs from 
+                    <a href="https://www.youtube.com/channel/UC9N0DmacOi4iWKQyygX89OQ">FightinCowboy</a> and
+                    <a href="https://www.youtube.com/channel/UCZ59sO0IQRmYHQwcfC5exzw">BlueLizardJello</a>, so go stop by their channels sometime and check out their amazing content.
+                </p>
+
+                <h2>Help</h2>
+
+                <h3>Is this a guide?</h3>
+                <p>
+                    If you follow it chronologically, it is like a guide. However, exact item locations, paths, and routes can be hard to follow with a text guide. This tool also does not guide you through builds, weapon upgrades, recommended spells, or stat allocation. Prepare to face a very difficult NG++ if you don't have experience with the game or you don't plan to reference other guides. 
+                </p>
+
+                <h3>Do I need to follow the playthrough in this exact order?</h3>
+                <p>
+                    If you don't follow the exact order of steps in this playthrough, it's possible you could miss important NPC questlines that provide achievements. 
+                </p>
+
+                <h3>Can I use this for multiple characters?</h3>
+                <p>
+                    Yup, use the profile selector and buttons at the top right of the page to setup multiple
+                    characters.
+                </p>
+
+                <h3>How do I help with feedback, corrections, suggestions or additions?</h3>
+                <p>
+                    You can view the original updated guide conversation at <a href="https://www.reddit.com/r/DarkSouls2/comments/c1200w/complete_dark_souls_2_scholar_of_the_first_sin/?">this Reddit thread</a>
+                    or if you know your way about Git/GitHub then fork
+                    <a href="https://github.com/plasticmacaroni/dark-souls-2-sotfs-cheat-sheet">my repo</a> and
+                    submit a pull request.
+                </p>
+                <p>
+                    Thanks to the following people for their suggestions, fixes and improvements (for the original DS2 checklist)
+                    <ul>
+                        <li><a href="http://www.reddit.com/user/vScorp1o">vScorp1o</a></li>
+                        <li><a href="http://www.reddit.com/user/WaterChestnut3">WaterChestnut3</a></li>
+                        <li><a href="http://www.reddit.com/user/N4N4KI">N4N4KI</a></li>
+                        <li><a href="http://www.reddit.com/user/eightclicknine">eightclicknine</a></li>
+                        <li><a href="http://www.reddit.com/user/ravfe">ravfe</a></li>
+                        <li><a href="http://www.reddit.com/user/scalyblue">scalyblue</a></li>
+                        <li><a href="http://www.reddit.com/user/man_after_midnight">man_after_midnight</a></li>
+                        <li><a href="http://www.reddit.com/user/inertiatic_ESP">inertiatic_ESP</a></li>
+                        <li><a href="http://www.reddit.com/user/jerseymonkey">jerseymonkey</a></li>
+                        <li><a href="http://www.reddit.com/user/lehovo">lehovo</a></li>
+                        <li><a href="http://www.reddit.com/user/Shwez">Shwez</a></li>
+                    </ul>
+                </p>
+
+                <h3>How does the checklist status get saved?</h3>
+                <p>
+                    It gets saved to the local storage in your browser and not to any database or API. So if you are
+                    clearing your browser cache make sure not to delete the site data or your checklists will
+                    get reset.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div id="profileModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h3 id="profileModalTitle" class="modal-title">Profile</h3>
+                </div>
+                <div class="modal-body">
+                    <form class="form-horizontal">
+                        <div class="control-group">
+                            <label class="control-label" for="profileModalName">Name</label>
+                            <div class="controls">
+                                <input type="text" id="profileModalName" placeholder="Enter profile name">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <a href="#" id="profileModalClose" class="btn btn-secondary" data-dismiss="modal">Close</a>
+                    <a href="#" id="profileModalAdd" class="btn btn-primary" data-dismiss="modal">Add</a>
+                    <a href="#" id="profileModalUpdate" class="btn btn-primary">Update</a>
+                    <a href="#" id="profileModalDelete" class="btn btn-danger">Delete</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <a class="btn btn-secondary btn-sm fadingbutton back-to-top">Back to Top&thinsp;<span class="glyphicon glyphicon-arrow-up"></span></a>
+
+</body>
+</html>
