@@ -12,7 +12,7 @@ function generateTasks() {
   let markdownString = "none";
 
   // Fetch the markdown content from checklist.md
-  fetch("/checklist.md")
+  fetch("checklist.md")
     .then((response) => {
       // If fetching the markdown file was unsuccessful, throw an error
       if (!response.ok) {
