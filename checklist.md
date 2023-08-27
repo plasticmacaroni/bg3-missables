@@ -9,7 +9,8 @@
 # Dank Crypt
 - Gain access to a character that re-specs you
 # Emerald Grove
-- You meet Wyll here, so make sure to exhaust his dialogue 
+- You meet Wyll here, so make sure to exhaust his dialogue
+- Talk to Auntie Ethel and buy any items you need 
 - Kagha's plot with the shadow druids
 - Rescue the kid from harpies, you will hear singing voices one you go northeast of the grove's heart (credit: u/Saiaxs and many others for correcting me)
 - Speak to [Volo](https://bg3.wiki/wiki/Volo)
@@ -81,16 +82,22 @@
   - When fighting Grym, have one of your characters attack him where the forge hammer falls and you will aggro Grym, you see where I'm going with this?
 - Help the [cursed monk](https://baldursgate3.wiki.fextralife.com/Help+the+Cursed+Monk) (you just need to pick up a certain amulet and speak to him about his goals, for now)
 - Don't take the elevator up until you've done the creche and other Act 1.5 content
+# Monastary
+- Blue Jay friend and eagles' nest
+- Blood of Lathander puzzle 
+  - Nest on top
+  - Guardian
 # Creche
 - Save the student in the Classroom and get the second Orpheus disc from him, then talk to Lae'zel
 - Gith Egg quest
-- Blood of Lathander (legendary mace)
+- Blood of Lathander quest ([spoiler](https://bg3.wiki/wiki/Find_the_Blood_of_Lathander))
 - Lae’zel’s quest:
   - Get into gith creche
   - infirmary
   - speak to inquisitor
 - Undead
   - use speak with dead on corpses surrounding them
+- Astral Plane visit, talk to Lae'zel
 - Speak with Elminster at entrance to the Shadow-Cursed Lands
 - Don't continue to Moonrise Towers until you've completed the Grymforge (Underdark) content
 # Misc (and other general bits of useful info)
