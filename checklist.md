@@ -18,7 +18,7 @@
 - Kagha's plot with the shadow druids 
 - Deal with some harpies and [save someone small](https://bg3.wiki/wiki/Investigate_the_Beach)
 - Speak to [Volo](https://bg3.wiki/wiki/Volo)
-- [Tiefling hideout](https://bg3.wiki/wiki/Tiefling_Hideout)
+- Find your way to the [Tiefling hideout](https://bg3.wiki/wiki/Tiefling_Hideout)
   - Before entering, catch a thief or do the harpies quest above
 - [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) (some dialogue if you got Speak With Animals)
 - Save [Sazza](https://bg3.wiki/wiki/Sazza)
@@ -109,6 +109,7 @@
 - Speak with Elminster at entrance to the Shadow-Cursed Lands
 - Don't continue to Moonrise Towers until you've completed the Grymforge (Underdark) content
 # Misc (and other general bits of useful info)
+- Let a certain Dandy shove an icepick in your eye for a permanent upgrade
 - Deluxe edition: portraits: Fane in Ruins, Lohse near Nettie in Grove, Red Prince in Waukeen's Rest, Ifan in Blighted Village, Sebille in Hag's house, Beast in Arcane Tower (credits: u/Diraelka)
 - You will meet some hyenas near a broken cart in the upperworld (there will be a cutscene prompting you to react to the dead hyenas) (credits: u/Super_Nicee)
 - Raphael will show up at one point, not exactly sure what the triggers are (credits: u/BluePragmatic)
@@ -118,8 +119,21 @@
 # Act 2: First Things First
 - If you didn't talk to Dammon in Act 1, do this as soon as you can for Karlach's poor sake
 # Act 2: Order
-- Rescue the prisoners BEFORE Shar's Temple
+- Rescue the prisoners BEFORE Shar's Temple (and the Nightsong questline)
 # Moonrise Towers
 - Find the third Orpheus disc in Balthazar's tower and have Lae'zel comment
 # Last Light Inn
+- Get the pixie to help
+- Save from the ambush
+- Find the tiefling after he runs off
 - Talk to "His Majesty" the cat
+# Things the author hasn't seen yet
+- Check out the morgue
+- Deal with the gith patrol
+- Do the magic nature quest with the druid (child quest)
+# The town
+- Deal with the "coin boss" 
+- Fight the doctor
+- Find Arabella and help with her parents
+- Talk to the zombie at the bar
+- Check the cave under the masonary
