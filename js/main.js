@@ -16,7 +16,7 @@ function generateTasks() {
     .then((response) => {
       // If fetching the markdown file was unsuccessful, throw an error
       if (!response.ok) {
-        throw new Error("Network response was not ok");
+        throw new Error("Network response was not ok:", "/checklist.md", response);
       }
       return response.text(); // Return the content of the file as a string
     })
