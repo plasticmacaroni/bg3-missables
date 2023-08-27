@@ -260,76 +260,9 @@ function initializeProfileFunctionality($) {
       $("#profileModal").modal("hide");
       //_gaq.push(['_trackEvent', 'Profile', 'Delete']);
     });
-
-    $("#toggleHideNonAchievements").change(function () {
-      var hidden = !$(this).is(":checked");
-      $("body").toggleClass("hide_non_achievement_related", !hidden);
-      $("[data-item-toggle]").change(function () {
-        var type = $(this).data("item-toggle");
-        var to_hide = $(this).is(":checked");
-
-        calculateTotals();
-      });
-
-      calculateTotals();
-    });
     $("#toggleHideCompleted").change(function () {
       var hidden = !$(this).is(":checked");
       $("body").toggleClass("hide_completed", !hidden);
-      $("[data-item-toggle]").change(function () {
-        var type = $(this).data("item-toggle");
-        var to_hide = $(this).is(":checked");
-
-        calculateTotals();
-      });
-
-      calculateTotals();
-    });
-    $("#toggleHideJournal").change(function () {
-      var hidden = !$(this).is(":checked");
-      $("body i.bi-journal-check")
-        .parents("label")
-        .toggleClass("hide_filtered", !hidden);
-      $("[data-item-toggle]").change(function () {
-        var type = $(this).data("item-toggle");
-        var to_hide = $(this).is(":checked");
-
-        calculateTotals();
-      });
-
-      calculateTotals();
-    });
-    $("#toggleHideItems").change(function () {
-      var hidden = !$(this).is(":checked");
-      $("body i.bi-gem").parents("label").toggleClass("hide_filtered", !hidden);
-      $("[data-item-toggle]").change(function () {
-        var type = $(this).data("item-toggle");
-        var to_hide = $(this).is(":checked");
-
-        calculateTotals();
-      });
-
-      calculateTotals();
-    });
-    $("#toggleHideRouting").change(function () {
-      var hidden = !$(this).is(":checked");
-      $("body i.bi-map-fill")
-        .parents("label")
-        .toggleClass("hide_filtered", !hidden);
-      $("[data-item-toggle]").change(function () {
-        var type = $(this).data("item-toggle");
-        var to_hide = $(this).is(":checked");
-
-        calculateTotals();
-      });
-
-      calculateTotals();
-    });
-    $("#toggleHideSin").change(function () {
-      var hidden = !$(this).is(":checked");
-      $("body i.bi-heartbreak")
-        .parents("label")
-        .toggleClass("hide_filtered", !hidden);
       $("[data-item-toggle]").change(function () {
         var type = $(this).data("item-toggle");
         var to_hide = $(this).is(":checked");
