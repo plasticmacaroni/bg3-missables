@@ -1,6 +1,6 @@
 
 # Things to Remember
-- If you see a message that mentions you should "tie up any loose ends" while visiting a door to a new area, it'll immediately end the act -- don't go unless you're done!
+- As a rule of thumb, if you see "tie up any loose ends" while visiting a door to a new area, you may not be able to return -- don't go unless you're done!
 - This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry
 # Act 1: The Landing
 - Free Lae'zel
@@ -15,22 +15,22 @@
 - Rescue the kid from harpies, you will hear singing voices one you go northeast of the grove's heart (credit: u/Saiaxs and many others for correcting me)
 - Speak to [Volo](https://bg3.wiki/wiki/Volo)
 - Tiefling hideout
-- Strange Ox (some dialogue if you got Speak With Animals)
-- Save Sazza
-- After recusing Halsin, be sure to speak to Rath to get access to the druid vault
-- Speak with Alfira (the singing Tiefling bard), somewhere southeast of the heart of the grove (credits u/TheSkyLax)
+- [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) (some dialogue if you got Speak With Animals)
+- Save [Sazza](https://bg3.wiki/wiki/Sazza)
+- After recusing Halsin, be sure to speak to [Rath](https://bg3.wiki/wiki/Rath) to get access to the druid vault
+- Speak with [Alfira](https://bg3.wiki/wiki/Alfira) (the singing Tiefling bard), somewhere southeast of the heart of the grove (credits u/TheSkyLax)
   - Learn an instrument from her (credits: u/Dragonknight2692)
-- You will find Dammon that fixes Karlach (credits: u/BluePragmatic)
+- You will find [Dammon](https://bg3.wiki/wiki/Dammon) that fixes Karlach (credits: u/BluePragmatic)
 - Bugbear Assassin - go past the entrance, immediately turn right up the hill (credits: u/BluePragmatic)
-- Heal the paralyzed Tiefling
-- After recruiting a new bear friend, speak to Rath and enter the Druid vault
+- Heal the [paralyzed Tiefling](https://bg3.wiki/wiki/Pandirna)
+- After [recruiting a new bear friend](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin), speak to Rath and enter the [Druid vault](https://bg3.wiki/wiki/Hidden_Vault)
 # Goblin Camp
 - Owlbear race
 - Rescue Volo
-- Speak to the [priest of Loviatar](https://baldursgate3.wiki.fextralife.com/Abdirak) that talks about pain (credits: u/Sir-Cellophane)
+- Speak to the [priest of Loviatar](https://bg3.wiki/wiki/Abdirak) that talks about pain (credits: u/Sir-Cellophane)
 - Rescue Halsin 
 - Eliminating the 3 True Souls
-- If you're feeling especially evil, make sure to talk to Minthara to strike a deal
+- If you're feeling especially evil, make sure to talk to Minthara to strike an awful deal
 # The Risen Road
 - Meeting Karlach
 - Deal with the paladins she brings up
@@ -45,11 +45,12 @@
 - Kill the ogres, get a circlet that increases intelligence to 17 (credits: u/sunflower1491, u/12Blackbeast15)
 - In one of the houses north of the village, there is a bugbear having a moment with their partner
 # Waukeen's Rest
-- Save two people from the burning inn (one of them has some wedding dowry)
-  - Don't rest, or this quest will be lost
-- Basement to Zhentarim Hideout
-  - Missing shipment quest
-  - Free the artist
+- Save two people from the burning inn 
+  - Help one of them [find a certain ring](https://bg3.wiki/wiki/Dowry_Ring)
+  - Don't rest before saving them once you see them, or this quest will be lost
+- Basement to [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement)
+  - [Missing shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest
+  - [Free](https://bg3.wiki/wiki/Free_the_Artist) the artist
   - One of the cows here has interesting dialogue if you've got Speak with Animals
 # Putrid Bog & Riverside Teahouse
 - The place where Kagha met the shadow druids
@@ -58,11 +59,11 @@
 # Underdark
 - Selunite outpost
 - Sword stuck in the stone - Phalar Aluve
-- Check out the [fish people worshipping the fake god Boooal](https://baldursgate3.wiki.fextralife.com/The+Festering+Cove) in a village -- opposite the arcane tower (credits: u/Thanataura)
+- Check out the [fish people worshipping the fake god Boooal](https://bg3.wiki/wiki/The_Festering_Cove) in a village -- opposite the arcane tower (credits: u/Thanataura)
 - Drows and the spectator
 - Helping the myconid
   - Curing Thulla
-  - Meeting Omellum (Society of Brilliance)
+  - Meeting Omeluum (Society of Brilliance)
   - Saving a dude from a site of explosive mushrooms
     - Remember there's a very rare mushroom that can be found there as well, this can be given to Shadowheart to unlock a memory or given to this dude's wife at the Myconid place, or given to this dude to take revenge on his wife for making him a slave (credits: u/Neville_Lynwood, u/Passerby05)
   - Defeat the duergars / helping Gut (then double-cross them)
@@ -73,14 +74,14 @@
 - Meet Bernard
 - Don't forget to read all notes and be a good soul, complete the dog's grave in Underdark with some flowers (credits: u/Diraelka)
 - There is a gith disk, don't forget to interact with it after picking it up, and show it to Lae'zel (credits: u/Khellendorn)
-- [Stool of mysterious strength](https://baldursgate3.wiki.fextralife.com/Club+of+Hill+Giant+Strength) in the arcane tower. If you sit in it your character says they feel stronger and you can see your strength stat go up, but it goes away when you stand up. If you then destroy the chair a club will drop that increases your strength. (credits: u/Stack0verf10w)
+- [Stool of mysterious strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength) in the arcane tower. If you sit in it your character says they feel stronger and you can see your strength stat go up, but it goes away when you stand up. If you then destroy the chair a club will drop that increases your strength. (credits: u/Stack0verf10w)
 # Grymforge area
 - Getting the sergeant's boots
 - Save the Grymforge Gnomes, remember to speak to Thulla back at the myconid area
 - Runepowder gnome, past hidden kitchen area of Grymforge
 - Adamantine Forge (you can find 2 mithril ores to make 2 pieces of gear)
   - When fighting Grym, have one of your characters attack him where the forge hammer falls and you will aggro Grym, you see where I'm going with this?
-- Help the [cursed monk](https://baldursgate3.wiki.fextralife.com/Help+the+Cursed+Monk) (you just need to pick up a certain amulet and speak to him about his goals, for now)
+- Help the [cursed monk](https://bg3.wiki/wiki/Help_the_Cursed_Monk) (you just need to pick up a certain amulet and speak to him about his goals, for now)
 - Don't take the elevator up until you've done the creche and other Act 1.5 content
 # Monastary
 - Blue Jay friend and eagles' nest
