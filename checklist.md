@@ -140,6 +140,9 @@
   - Destroy the barrel with the tadpoles after investigating
   - You can move the crate out of sight of the guards
   - Gather 2 more tadpoles (you may need opportunity attacks)
+- Get a specially-brewed potion from your blood (there are truly no downsides to this event)
+  - Do the same for each companion you'd like a free potion for
+- Dominate the gnoll, and you can harvest Linsella's parasite (in the kitchen)
 - Find the third Orpheus disc in Balthazar's tower and have Lae'zel comment
 # Things the author hasn't seen yet
 - Check out the morgue
