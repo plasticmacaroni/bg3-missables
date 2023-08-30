@@ -1,9 +1,14 @@
 
-# Things to Remember
+# Getting Started (Feel Free to Check These Off)
 - As a rule of thumb, if you see "tie up any loose ends" while visiting a door to a new area, you may not be able to return -- don't go unless you're done!
 - This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry
 - Always crouch when stealing -- enemies will automatically  start investigating if not
 - Send all camp supplies to camp -- they'll automatically show up when you Long Rest
+# Act 1 Missables
+- Turn in a quest to save the tieflings in the grove -- you'll get a pair of gloves 
+- Buy any goblin vendor items before angering the goblin camp
+- Buy items from tiefling traders before completing the goblin camp 
+- Do not kill the Strange Ox in the grove
 # Nautiloid
 - Kill the devil to get the fiery sword (it's useful at least partway through Act 1)
 # Ravaged Beach
@@ -34,42 +39,51 @@
 - Heal the [paralyzed Tiefling](https://bg3.wiki/wiki/Pandirna)
 - After [recruiting a new bear friend](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin), speak to Rath and enter the [Druid vault](https://bg3.wiki/wiki/Hidden_Vault)
 - Optionally [steal the Idol for Mol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) (BEFORE finishing Goblin Camp)
+- After exposing Khaga, optionally steal the idol for Mol (start dialog with her to get the quest)
 # Goblin Camp
 - Owlbear race (do the Owlbear Cave first)
 - Rescue Volo
 - Speak to the [priest of Loviatar](https://bg3.wiki/wiki/Abdirak) that talks about pain 
 - Rescue Halsin 
 - Eliminating the 3 True Souls
-- If you're feeling especially evil, make sure to talk to Minthara to strike an awful deal
+- If you're feeling especially evil, make sure to talk to Minthara to strike an awful deal (this guide won't continue this train of quests though)
 # The Risen Road
 - Meet Karlach
 - Deal with the paladins she brings up
 # Blighted Village
 - Find two new friends, and consume what lies in the dwarf's noggin
+  - Combine the shaft he has with an item from the Owlbear mother to create an item
 - Fight some owlbears and leave a scent to follow
 - Finish the Masterwork weapon at a former blacksmith's home, get a sussur bark from the Underdark
 - Finding the Necromancy of Thay book which gives +1 WIS checks
 - Climb the well into a dungeon (Whispering Depths) which has decent loot
 - Rescue Barcus from the windmill
-- Scratch the dog (credits: u/BluePragmatic)
-- Kill the ogres, get a circlet that increases intelligence to 17 (credits: u/sunflower1491, u/12Blackbeast15)
+- Scratch the dog 
+- Kill the ogres, get a circlet that increases intelligence to 17
 - In one of the houses north of the village, there is a bugbear having a moment with their partner
 # Waukeen's Rest
 - Save two people from the burning inn 
   - Help one of them [find a certain ring](https://bg3.wiki/wiki/Dowry_Ring)
   - Don't rest before saving them once you see them, or this quest will be lost
+- Free the shipment holders from the gnoll attackers
+  - Keep at least one alive to learn the password
+  - Grab the shipment item from the chest they give you, after a check
+- One of the cows next to the entrace to the [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement) has interesting dialogue if you've got Speak with Animals
+# Zhentarim Hideout
 - Basement to [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement)
   - [Missing shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest
-  - [Free](https://bg3.wiki/wiki/Free_the_Artist) the artist
-  - One of the cows here has interesting dialogue if you've got Speak with Animals
+- [Free](https://bg3.wiki/wiki/Free_the_Artist) the artist
+- Optionally buy the [gloves of thievery](https://bg3.wiki/wiki/Gloves_of_Thievery) before dealing with the Zhentarim
 # Putrid Bog & Riverside Teahouse
 - The place where Kagha met the shadow druids (investigate the giant stump)
 - Saving Mayrina from the hag, exploring the hidden area behind the teahouse's fireplace
 - Meet Astarion's hunter, around the area to the left of the teahouse entrance
 # Underdark
 - Selunite outpost
+  - Light the lights in the area to solve the wall puzzles 
+  - Find the "secret" chest available with mage hand, jump, or misty step
 - Sword stuck in the stone - Phalar Aluve
-- Check out the [fish people worshipping the fake god Boooal](https://bg3.wiki/wiki/The_Festering_Cove) in a village -- opposite the arcane tower (credits: u/Thanataura)
+- Check out the [fish people worshipping the fake god Boooal](https://bg3.wiki/wiki/The_Festering_Cove) in a village -- opposite the arcane tower 
 - Drows and the spectator
 - Helping the myconid
   - Curing Thulla
@@ -79,12 +93,14 @@
   - Defeat the duergars / helping Gut (then double-cross them)
   - Eliminate Nere (which brings you to Grymforge) -- if you've come across the trapped gnomes, don't rest, or this quest will be lost
 - Get your sussur bark here to finish the weapon in Blighted Village
-- Don't forget Icy Metal, Icy Heave, and Icy Crystal are three components that are needed to craft the Mourning Frost staff. All three pieces are grey bordered and are seemingly trash, but if you get them you can right click and combine them. All pieces are found in the Underdark. (credits: u/Stack0verf10w)
+- Don't forget Icy Metal, Icy Heave, and Icy Crystal are three components that are needed to craft the Mourning Frost staff. All three pieces are grey bordered and are seemingly trash, but if you get them you can right click and combine them. All pieces are found in the Underdark 
 # Arcane Tower
 - Meet Bernard
-- Don't forget to read all notes and be a good soul, complete the dog's grave in Underdark with some flowers (credits: u/Diraelka)
-- There is a gith disk, don't forget to interact with it after picking it up, and show it to Lae'zel (credits: u/Khellendorn)
-- [Stool of mysterious strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength) in the arcane tower. If you sit in it your character says they feel stronger and you can see your strength stat go up, but it goes away when you stand up. If you then destroy the chair a club will drop that increases your strength. (credits: u/Stack0verf10w)
+- Don't forget to read all notes and be a good soul, complete the dog's grave in Underdark with some flowers 
+- There is a gith disk, don't forget to interact with it after picking it up, and show it to Lae'zel 
+- [Stool of mysterious strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength) in the arcane tower. If you sit in it your character says they feel stronger and you can see your strength stat go up, but it goes away when you stand up. If you then destroy the chair a club will drop that increases your strength. 
+- Visit the basement floor, by equipping the guiding light ring and accessing the new elevator button available 
+- This one, in Grymforge, is kind of hard to explain and there are multiple paths there, but the easiest one is you follow the west side of the Grymforge north, you will reach an area with a lot of traps (pressure plates, fire statues). If you go all the way through that gauntlet of traps, you get to a locked door. You can jump through this door with misty step (or gaseous form, maybe also fly from the backside). I haven't been able to find a key to this door. Inside, you find a decent clothing item for casters as well as an Idol of Shar that triggers some Shadowheart dialog.
 # Grymforge area
 - Getting the sergeant's boots
 - Save the Grymforge Gnomes, remember to speak to Thulla back at the myconid area
@@ -126,6 +142,7 @@
 - Play hide and seek, get a cool ring
 - Talk to a man who wants to make things "right" by interrogating a dead barkeeper
 - Save some harpers, find out about the Inn
+- Destroy the everburning torches next to Korliss and fight the shadow mastiffs
 # Last Light Inn
 - Talk to the inhabitants
   - Mol and Raphael
@@ -135,6 +152,7 @@
 - Find the tiefling after he runs off
 - Save the moon Cleric from the ambush
 # Moonrise Towers
+- Save Rolan from some scary shadows
 - Get some more tadpoles
   - Convince the guard on the docks to let you investigate the shipping crates
   - Destroy the barrel with the tadpoles after investigating
@@ -144,6 +162,9 @@
   - Do the same for each companion you'd like a free potion for
 - Dominate the gnoll, and you can harvest Linsella's parasite (in the kitchen)
 - Find the third Orpheus disc in Balthazar's tower and have Lae'zel comment
+- Save the gnomes (talk to them before freeing them)
+- Save the tieflings
+  - Talk to Rolan
 # Things the author hasn't seen yet
 - Check out the morgue
 - Deal with the gith patrol
