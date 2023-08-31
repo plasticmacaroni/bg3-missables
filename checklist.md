@@ -41,8 +41,7 @@
 - Bugbear Assassin -- go past the entrance, immediately turn right up the hill 
 - Heal the [paralyzed Tiefling](https://bg3.wiki/wiki/Pandirna)
 - After [recruiting a new bear friend](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin), speak to Rath and enter the [Druid vault](https://bg3.wiki/wiki/Hidden_Vault)
-- Optionally [steal the Idol for Mol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) (BEFORE finishing Goblin Camp)
-- After exposing Khaga, optionally steal the idol for Mol (start dialog with her to get the quest)
+- Optionally [steal the Idol for Mol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) (BEFORE finishing Goblin Camp, and after exposing Kagha)
 # Goblin Camp
 - Owlbear race (do the Owlbear Cave first)
 - Rescue Volo
@@ -84,7 +83,7 @@
 - Meet Astarion's hunter, around the area to the left of the teahouse entrance
 # Underdark
 - Selunite outpost
-  - Light the lights in the area to solve the wall puzzles 
+  - Light the sconces and braziers in the area to solve the wall puzzles 
   - Find the "secret" chest available with mage hand, jump, or misty step
 - Sword stuck in the stone - Phalar Aluve
 - Check out the [fish people worshipping the fake god Boooal](https://bg3.wiki/wiki/The_Festering_Cove) in a village -- opposite the arcane tower 
@@ -101,8 +100,10 @@
 - Defeat the drow that handles hooked horror monsters
 - Fight a land shark
 # Arcane Tower
-- Meet Bernard
-- Don't forget to read all notes and be a good soul, complete the dog's grave in Underdark with some flowers 
+- Use the dog collar to [achieve an unexpected result with a button](https://bg3.wiki/wiki/Dog_Collar)
+  - Find and git on the dog's grave to find the necessary item
+- Meet Bernard 
+- Don't forget to read all notes and be a good soul, 
 - There is a gith disk, don't forget to interact with it after picking it up, and show it to Lae'zel 
 - [Stool of mysterious strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength) in the arcane tower. If you sit in it your character says they feel stronger and you can see your strength stat go up, but it goes away when you stand up. If you then destroy the chair a club will drop that increases your strength. 
 - Visit the basement floor, by equipping the guiding light ring and accessing the new elevator button available 
