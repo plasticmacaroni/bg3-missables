@@ -99,9 +99,10 @@
 - Don't forget Icy Metal, Icy Heave, and Icy Crystal are three components that are needed to craft the Mourning Frost staff. All three pieces are grey bordered and are seemingly trash, but if you get them you can right click and combine them. All pieces are found in the Underdark 
 - Defeat the drow that handles hooked horror monsters
 - Fight a land shark
+- If you find a small grave site in a clearing, don't touch it until you read a certain note regarding a canine companion in the Arcane Tower
 # Arcane Tower
 - Use the dog collar to [achieve an unexpected result with a button](https://bg3.wiki/wiki/Dog_Collar)
-  - Find and git on the dog's grave to find the necessary item
+  - Find and dig on a dog's grave on the Underdark Road to find the necessary item
 - Meet Bernard 
 - Don't forget to read all notes and be a good soul, 
 - There is a gith disk, don't forget to interact with it after picking it up, and show it to Lae'zel 
