@@ -16,7 +16,7 @@
 # Ravaged Beach
 - Take revenge on your tentacled captor from the intro
 # Wilderness
-- Help Lae'zel drop out of her wooden bars
+- [Help Lae'zel](https://bg3.wiki/wiki/Lae%27zel#Recruitment) drop out of her wooden bars
 - Give Gale a hand in a teleporter
 - Check out Astarion's boar
 # Dank Crypt
@@ -100,6 +100,7 @@
 - Defeat the drow that handles hooked horror monsters
 - Fight a land shark
 - If you find a small grave site in a clearing, don't touch it until you read a certain note regarding a canine companion in the Arcane Tower
+  - Then, grab the collar from within and use it with the Arcane Tower button 
 # Arcane Tower
 - Use the dog collar to [achieve an unexpected result with a button](https://bg3.wiki/wiki/Dog_Collar)
   - Find and dig on a dog's grave on the Underdark Road to find the necessary item
@@ -154,6 +155,7 @@
   - Mol and Raphael conversation
   - Wake up the sleeping fist quest dialogues with Halsin
   - Talk to the Strange Ox again (don't kill it)
+  - Get the key from the little tiefling thief
 - Get the pixie to help, thanks to a drider conversation
 - Find the tiefling Rolan
   - Save him from some scary shadows
