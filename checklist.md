@@ -42,6 +42,7 @@
 - Heal the [paralyzed Tiefling](https://bg3.wiki/wiki/Pandirna)
 - After [recruiting a new bear friend](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin), speak to Rath and enter the [Druid vault](https://bg3.wiki/wiki/Hidden_Vault)
 - Optionally [steal the Idol for Mol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) (BEFORE finishing Goblin Camp, and after exposing Kagha)
+- After rescuing the Tieflings, get the Hellrider's Pride from Zevlor
 # Goblin Camp
 - Owlbear race (do the Owlbear Cave first)
 - Rescue Volo
@@ -51,15 +52,19 @@
 # The Risen Road
 - Meet Karlach
 - Deal with the paladins she brings up
+- Silver Pendant 
 # Blighted Village
 - Find two new friends, and consume what lies in the dwarf's noggin
   - Combine the shaft he has with an item from the Owlbear cave mother to create an item
 - Finish the Masterwork weapon at a former blacksmith's home, get a sussur bark from the Underdark
-- Finding the Necromancy of Thay book which gives +1 WIS checks
+- Find The Cellar
+  - Finding the Necromancy of Thay book which gives +1 WIS checks
+  - Find Shovel
 - Climb the well into a dungeon (Whispering Depths) which has decent loot
 - Rescue Barcus from the windmill
 - Scratch the dog 
-- Kill the ogres, get a circlet that increases intelligence to 17
+- Kill the ogres
+  - Headband of Intellect
 - In one of the houses north of the village, there is a bugbear having a moment with their partner
 # Owlbear Cave
 - Fight some owlbears and leave a scent to follow for the baby
@@ -173,14 +178,29 @@
 - Save the gnomes (talk to them before freeing them)
 - Save the tieflings
   - Talk to Rolan
-- Jump into the hole past the forbidden jail area
+# Destroyed Town
+- Find Arabella 
+# Mason's Guild
+- Explore the basement
+  - Use Mattis' Tower-Shaped Key
+# House of Healing
+- Find Arabella's parents
+- Kill the surgeon and take his instrument 
+# Morgue
+- Check out the morgue -- self explanatory
+# The Waning Moon
+- Have a drinking contest
+  - Use his key to open up the back
+  - Grab some purple guts
+  - Find the bar notes for the dead barkeeper interrogator 
+# Mason's Guild
+- Investigate the Selunite resistance
 # Things the author hasn't seen yet
-- Check out the morgue
 - Deal with the gith patrol
 - Do the magic nature quest with the druid (child quest)
 # The town
 - Deal with the "coin boss" 
 - Fight the doctor
-- Find Arabella and help with her parents
-- Talk to the zombie at the bar
 - Check the cave under the masonary
+# Ketheric
+- Investigate the basement of the prison
