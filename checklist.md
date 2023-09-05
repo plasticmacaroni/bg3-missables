@@ -195,12 +195,11 @@
   - Find the bar notes for the dead barkeeper interrogator 
 # Mason's Guild
 - Investigate the Selunite resistance
+- Check the cave under the masonary
+# Reithwin Tollhouse
+- Deal with the "coin boss" 
 # Things the author hasn't seen yet
 - Deal with the gith patrol
 - Do the magic nature quest with the druid (child quest)
-# The town
-- Deal with the "coin boss" 
-- Fight the doctor
-- Check the cave under the masonary
 # Ketheric
 - Investigate the basement of the prison
