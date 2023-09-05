@@ -165,6 +165,8 @@
 - Find the tiefling Rolan
   - Save him from some scary shadows
 - Save the moon Cleric from the ambush at the Inn
+- After helping the sleeping fist, send Halsin
+  - Protect the portal
 # Moonrise Towers
 - Get some more tadpoles
   - Convince the guard on the docks to let you investigate the shipping crates
@@ -186,6 +188,7 @@
 # House of Healing
 - Find Arabella's parents
 - Kill the surgeon and take his instrument 
+  - Keep him from stabbing you for an achivement
 # Morgue
 - Check out the morgue -- self explanatory
 # The Waning Moon
@@ -198,8 +201,8 @@
 - Check the cave under the masonary
 # Reithwin Tollhouse
 - Deal with the "coin boss" 
+  - Keep her from doing anything to you for an achievement
 # Things the author hasn't seen yet
 - Deal with the gith patrol
-- Do the magic nature quest with the druid (child quest)
 # Ketheric
 - Investigate the basement of the prison
