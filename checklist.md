@@ -36,8 +36,8 @@
 - Save [Sazza](https://bg3.wiki/wiki/Sazza)
 - After recusing Halsin, be sure to speak to [Rath](https://bg3.wiki/wiki/Rath) to get access to the druid vault
 - Speak with [Alfira](https://bg3.wiki/wiki/Alfira) within the Grove 
-  - Learn an instrument 
-- You will find [Dammon](https://bg3.wiki/wiki/Dammon) that has something important for Karlach
+  - Learn an instrument by playing along
+- You will find [Dammon](https://bg3.wiki/wiki/Dammon) who has something important for Karlach
 - Bugbear Assassin -- go past the entrance, immediately turn right up the hill 
 - Heal the [paralyzed Tiefling](https://bg3.wiki/wiki/Pandirna)
 - After [recruiting a new bear friend](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin), speak to Rath and enter the [Druid vault](https://bg3.wiki/wiki/Hidden_Vault)
@@ -66,6 +66,8 @@
 - Kill the ogres
   - Headband of Intellect
 - In one of the houses north of the village, there is a bugbear having a moment with their partner
+# Githyanki patrol
+- If you decide to fight, remember you can cause Kithrak Voss to drop his sword for Lae'zel with the command spell
 # Owlbear Cave
 - Fight some owlbears and leave a scent to follow for the baby
 - Check out the shrine and shrine puzzle to get a good item
@@ -142,13 +144,13 @@
 - Have a conversation with the inquisitor
 - Perform an Astral Plane visit, talk to Lae'zel
   - Talk to the visitor upon a long rest
-# Anytime Before Act 2
+# BEFORE CONTINUING TO ACT 2
 - Let a certain Dandy shove an icepick in your eye for a permanent upgrade (unconfirmed that this has to be before Act 2)
 - Deluxe edition -- portraits: optionally find Fane in The Ruins, Lohse near Nettie in The Emerald Grove, Red Prince in the Waukeen's Rest, Ifan in the Blighted Village, Sebille in the Hag's house, and finally Beast in The Arcane Tower 
 - You will meet some hyenas near a broken cart in the upperworld (there will be a cutscene prompting you to react to the dead hyenas) 
 - Raphael will show up either during a long rest, or automatically if you haven't rested in a while
 # Act 2: First Things First
-- If you didn't talk to Dammon in Act 1, do this as soon as you can for Karlach's poor sake
+- Remember if you didn't talk to Dammon in Act 1, do this as soon as you can for Karlach's poor sake
 - Plan to rescue the prisoners BEFORE Shar's Temple (and the Nightsong questline)
 # The road
 - Play hide and seek with a child, get a cool ring
@@ -167,6 +169,8 @@
 - Save the moon Cleric from the ambush at the Inn
 - After helping the sleeping fist, send Halsin
   - Protect the portal
+  - Visit camp to find out more about the boy, post-attack
+- Give Dammon what he needs to help Karlach, two times
 # Moonrise Towers
 - Get some more tadpoles
   - Convince the guard on the docks to let you investigate the shipping crates
@@ -202,7 +206,16 @@
 # Reithwin Tollhouse
 - Deal with the "coin boss" 
   - Keep her from doing anything to you for an achievement
-# Things the author hasn't seen yet
+# The Army Encampment 
 - Deal with the gith patrol
 # Ketheric
 - Investigate the basement of the prison
+# BEFORE CONTINUING TO THE TEMPLE
+- Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map)
+# Temple of Shar (Do This After Prisoners)
+- Check out the path to the right of the entryway statue for treasure "hidden in darkness"
+- Kill Balthazar
+  - If somehow you don't have a moonlantern yet, pass checks before killing him to get one
+- Kill Yurgir
+- Complete the trials
+  - Soft-Step Trial
