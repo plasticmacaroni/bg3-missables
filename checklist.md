@@ -13,6 +13,7 @@
 - Complete other quests before killing 3 goblin camp leaders
 # Nautiloid
 - Kill the devil to get the fiery sword (it's useful at least partway through Act 1)
+- Make a decision about the exposed brain. Sparing it may be relevant later in Act 2.
 # Ravaged Beach
 - Take revenge on your tentacled captor from the intro
 # Wilderness
@@ -46,7 +47,7 @@
 # Goblin Camp
 - Owlbear race (do the Owlbear Cave first)
 - Rescue Volo
-- Speak to the [priest of Loviatar](https://bg3.wiki/wiki/Abdirak) that talks about pain 
+- Speak to the [priest of Loviatar](https://bg3.wiki/wiki/Abdirak) that talks about pain. See what happens if you pass all the checks. 
 - Rescue Halsin 
 - Eliminate the 3 True Soul goblin leaders
 # The Risen Road
@@ -61,6 +62,8 @@
   - Finding the Necromancy of Thay book which gives +1 WIS checks
   - Find Shovel
 - Climb the well into a dungeon (Whispering Depths) which has decent loot
+  - Find a gem that can be used to open a certain book
+  - Read every book you can find in the dungeon 
 - Rescue Barcus from the windmill
 - Scratch the dog 
 - Kill the ogres
