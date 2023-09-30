@@ -184,6 +184,10 @@
 - Save the gnomes (talk to them before freeing them)
 - Save the tieflings
   - Talk to Rolan
+# Below Moonrise Towers
+- Enter the area under the prisons
+- Get the parasite from a corpse in the main area you drop into
+- Kill the hooked horrors and complete the area
 # Destroyed Town
 - Find Arabella 
 # Mason's Guild
@@ -217,5 +221,24 @@
 - Kill Balthazar
   - If somehow you don't have a moonlantern yet, pass checks before killing him to get one
 - Kill Yurgir
+  - Take the Umbral Gem
+- Find the accursed library
+  - Claim an artifact for Shadowheart by putting an item on the correct pedestal
 - Complete the trials
   - Soft-Step Trial
+  - Self-Same Trial
+  - Faith-Leap Trial
+- Visit the Inn
+  - Talk to the Selunite
+- Attack the towers
+  - Pick up two tadpoles in the entryway
+- Make your way upstairs and fight the boss
+- Jump into one of the towers itself
+- Destroy the undead creatures in a ritual room
+  - Complete the brain puzzle
+  - Past the door, get the sword, green jar, and items on the corpse
+  - Put the jar in the mind reader and gain a permanent boon
+- Find the tadpole room
+  - Collect the tadpole from the pool
+  - Free Wyll's captor
+  - Free the captured citizens
