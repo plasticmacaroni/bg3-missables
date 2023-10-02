@@ -7,7 +7,7 @@
 # Act 1 Main Missables Entry List
 - Turn in a quest to [save the tieflings](https://bg3.wiki/wiki/Save_the_Refugees) in the grove -- you'll get a pair of gloves 
 - Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
-- Buy items from tiefling traders [ [1](https://bg3.wiki/wiki/Arron) ] [ [2](https://bg3.wiki/wiki/Dammon) ] [ [3](https://bg3.wiki/wiki/Auntie_Ethel) ] from the [Emerald Grove](https://bg3.wiki/wiki/Emerald_Grove) before completing the goblin camp 
+- Buy items from tiefling traders ([1](https://bg3.wiki/wiki/Arron)) ([2](https://bg3.wiki/wiki/Dammon)) ([3](https://bg3.wiki/wiki/Auntie_Ethel)) from the [Emerald Grove](https://bg3.wiki/wiki/Emerald_Grove) before completing the goblin camp 
 - Do not kill the [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) in the grove
 - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
@@ -58,8 +58,8 @@
   - Combine the shaft he has with an item from the Owlbear cave mother to create a powerful item
 - Finish the Masterwork weapon at a former blacksmith's home, get a sussur bark from the Underdark
 - Find The Cellar
-  - Finding the Necromancy of Thay book which gives +1 WIS checks
-  - Find Shovel
+  - Finding the [Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) book which gives +1 WIS checks
+  - Find [Shovel](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit)
 - Climb the well into a dungeon (Whispering Depths) which has decent loot
 - Rescue [Barcus](https://bg3.wiki/wiki/Rescue_the_Gnome) from the windmill
 - [Scratch](https://bg3.wiki/wiki/Scratch) the dog 
