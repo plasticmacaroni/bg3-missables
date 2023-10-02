@@ -242,3 +242,5 @@
   - Collect the tadpole from the pool
   - Free Wyll's captor
   - Free the captured citizens
+# Before leaving for Act 2
+- Get the Owlbear Cub (and pet him in the middle of the night, of course) 
