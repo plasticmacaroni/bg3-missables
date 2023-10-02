@@ -72,7 +72,7 @@
 - [Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby
 - [Check out the shrine](https://bg3.wiki/wiki/Owlbear_Nest#Sel%C3%BBne_Shrine) and shrine puzzle to get a good item
 # Waukeen's Rest
-- Save two people [[1](https://bg3.wiki/wiki/Rescue_the_Trapped_Man)] [[2](https://bg3.wiki/wiki/Rescue_the_Grand_Duke)] from the [burning inn](https://bg3.wiki/wiki/Waukeen%27s_Rest) 
+- Save two people ([1](https://bg3.wiki/wiki/Rescue_the_Trapped_Man)) ([2](https://bg3.wiki/wiki/Rescue_the_Grand_Duke)) from the [burning inn](https://bg3.wiki/wiki/Waukeen%27s_Rest) 
   - Help one of them [find a certain ring](https://bg3.wiki/wiki/Dowry_Ring)
   - Don't rest before saving them once you see them, or this quest will be lost! 
 - [Free the shipment holders](https://bg3.wiki/wiki/Find_the_Missing_Shipment) from the gnoll attackers
