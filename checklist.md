@@ -4,34 +4,34 @@
 - This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry
 - Always crouch when stealing -- enemies will automatically  start investigating if not
 - Send all camp supplies to camp -- they'll automatically show up when you Long Rest
-# Act 1 Missables
-- Turn in a quest to save the tieflings in the grove -- you'll get a pair of gloves 
-- Buy any goblin vendor items before angering the goblin camp
-- Buy items from tiefling traders before completing the goblin camp 
-- Do not kill the Strange Ox in the grove
-- If you reach a burning building, do not long rest
-- Complete other quests before killing 3 goblin camp leaders
+# Act 1 Missables Entry List
+- Turn in a quest to [save the tieflings](https://bg3.wiki/wiki/Save_the_Refugees) in the grove -- you'll get a pair of gloves 
+- Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
+- Buy items from tiefling traders [[1](https://bg3.wiki/wiki/Arron)] [[2](https://bg3.wiki/wiki/Dammon)] [[3](https://bg3.wiki/wiki/Auntie_Ethel)] from the [Emerald Grove](https://bg3.wiki/wiki/Emerald_Grove) before completing the goblin camp 
+- Do not kill the [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) in the grove
+- If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
+- Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Nautiloid
-- Kill the devil to get the fiery sword (it's useful at least partway through Act 1)
+- [Kill the devil](https://bg3.wiki/wiki/Commander_Zhalk) to get the [fiery sword](https://bg3.wiki/wiki/Everburn_Blade) (it's useful at least partway through Act 1)
 # Ravaged Beach
 - Take revenge on your tentacled captor from the intro
 # Wilderness
 - [Help Lae'zel](https://bg3.wiki/wiki/Lae%27zel#Recruitment) drop out of her wooden bars
-- Give Gale a hand in a teleporter
-- Check out Astarion's boar
+- Give Gale a hand in a teleporter and add him to your party
+- Check out Astarion's boar and add him to your party
 # Dank Crypt
-- Gain access to a character that re-specs you
-- Check out the secret book that reveals information about gods
+- Gain access to [a character that re-specs you](https://bg3.wiki/wiki/Withers)
+- Check out the [secret book](https://bg3.wiki/wiki/Book_of_Dead_Gods) that reveals information about gods
 # Emerald Grove
 - You meet [Wyll](https://bg3.wiki/wiki/Wyll) here, so make sure to exhaust his dialogue
-- Talk to Auntie Ethel and buy any items you need 
-- Kagha's plot with the shadow druids (do this before freeing a bear friend in the goblin camp)
-  - Investigate her chest to start
+- Talk to [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) and buy any items you need 
+- [Kagha](https://bg3.wiki/wiki/Kagha)'s plot with the [shadow druids](https://bg3.wiki/wiki/Shadow_Druids) (do this before freeing a bear friend in the goblin camp)
+  - [Investigate her chest](https://bg3.wiki/wiki/Investigate_Kagha) to start
   - Check out the swamp and fight some mephits to continue it
 - Deal with some harpies and [save someone small](https://bg3.wiki/wiki/Investigate_the_Beach)
 - Speak to [Volo](https://bg3.wiki/wiki/Volo)
 - Find your way to the [Tiefling hideout](https://bg3.wiki/wiki/Tiefling_Hideout)
-  - Before entering, catch a thief or do the harpies quest above
+  - Before entering, catch a thief or do the [harpies](https://bg3.wiki/wiki/Investigate_the_Beach) quest above
 - [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) (some dialogue if you got Speak With Animals) -- do NOT kill it, or you'll break future quests!
 - Save [Sazza](https://bg3.wiki/wiki/Sazza)
 - After recusing Halsin, be sure to speak to [Rath](https://bg3.wiki/wiki/Rath) to get access to the druid vault
@@ -42,17 +42,17 @@
 - Heal the [paralyzed Tiefling](https://bg3.wiki/wiki/Pandirna)
 - After [recruiting a new bear friend](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin), speak to Rath and enter the [Druid vault](https://bg3.wiki/wiki/Hidden_Vault)
 - Optionally [steal the Idol for Mol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) (BEFORE finishing Goblin Camp, and after exposing Kagha)
-- After rescuing the Tieflings, get the Hellrider's Pride from Zevlor
+- After rescuing the Tieflings, get the Hellrider's Pride from [Zevlor](https://bg3.wiki/wiki/Zevlor)
 # Goblin Camp
-- Owlbear race (do the Owlbear Cave first)
-- Rescue Volo
+- [Chase the chicken](https://bg3.wiki/wiki/Owlbear_Cub) (do the Owlbear Cave first)
+- Rescue [Volo](https://bg3.wiki/wiki/Volo)
 - Speak to the [priest of Loviatar](https://bg3.wiki/wiki/Abdirak) that talks about pain 
-- Rescue Halsin 
-- Eliminate the 3 True Soul goblin leaders
+- Rescue [Halsin](https://bg3.wiki/wiki/Halsin) 
+- Eliminate the [three True Soul goblin leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # The Risen Road
-- Meet Karlach
-- Deal with the paladins she brings up
-- Silver Pendant 
+- Meet [Karlach](https://bg3.wiki/wiki/Karlach)
+- [Deal with the paladins](https://bg3.wiki/wiki/Hunt_the_Devil) she brings up
+- Find the [Silver Pendant](https://bg3.wiki/wiki/Silver_Pendant) 
 # Blighted Village
 - Find two new friends, and consume what lies in the dwarf's noggin
   - Combine the shaft he has with an item from the Owlbear cave mother to create an item
