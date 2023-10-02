@@ -4,7 +4,7 @@
 - This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry
 - Always crouch when stealing -- enemies will automatically  start investigating if not
 - Send all camp supplies to camp -- they'll automatically show up when you Long Rest
-# Act 1 Missables Entry List
+# Act 1 Main Missables Entry List
 - Turn in a quest to [save the tieflings](https://bg3.wiki/wiki/Save_the_Refugees) in the grove -- you'll get a pair of gloves 
 - Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
 - Buy items from tiefling traders [[1](https://bg3.wiki/wiki/Arron)] [[2](https://bg3.wiki/wiki/Dammon)] [[3](https://bg3.wiki/wiki/Auntie_Ethel)] from the [Emerald Grove](https://bg3.wiki/wiki/Emerald_Grove) before completing the goblin camp 
@@ -17,8 +17,8 @@
 - Take revenge on your tentacled captor from the intro
 # Wilderness
 - [Help Lae'zel](https://bg3.wiki/wiki/Lae%27zel#Recruitment) drop out of her wooden bars
-- Give Gale a hand in a teleporter and add him to your party
-- Check out Astarion's boar and add him to your party
+- Give [Gale](https://bg3.wiki/wiki/Gale) a hand (don't take a hand) in a teleporter and add him to your party
+- Check out [Astarion](https://bg3.wiki/wiki/Astarion)'s boar and add him to your party
 # Dank Crypt
 - Gain access to [a character that re-specs you](https://bg3.wiki/wiki/Withers)
 - Check out the [secret book](https://bg3.wiki/wiki/Book_of_Dead_Gods) that reveals information about gods
@@ -55,29 +55,29 @@
 - Find the [Silver Pendant](https://bg3.wiki/wiki/Silver_Pendant) 
 # Blighted Village
 - Find two new friends, and consume what lies in the dwarf's noggin
-  - Combine the shaft he has with an item from the Owlbear cave mother to create an item
+  - Combine the shaft he has with an item from the Owlbear cave mother to create a powerful item
 - Finish the Masterwork weapon at a former blacksmith's home, get a sussur bark from the Underdark
 - Find The Cellar
   - Finding the Necromancy of Thay book which gives +1 WIS checks
   - Find Shovel
 - Climb the well into a dungeon (Whispering Depths) which has decent loot
-- Rescue Barcus from the windmill
-- Scratch the dog 
-- Kill the ogres
-  - Headband of Intellect
+- Rescue [Barcus](https://bg3.wiki/wiki/Rescue_the_Gnome) from the windmill
+- [Scratch](https://bg3.wiki/wiki/Scratch) the dog 
+- Kill the [ogres](https://bg3.wiki/wiki/Lump_the_Enlightened)
+  - Nab the [Headband of Intellect](https://bg3.wiki/wiki/Warped_Headband_of_Intellect)
 - In one of the houses north of the village, there is a bugbear having a moment with their partner
 # Githyanki patrol
-- If you decide to fight, remember you can cause Kithrak Voss to drop his sword for Lae'zel with the command spell
+- If you decide to fight, remember you can cause [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss) to drop his sword for Lae'zel with the command spell
 # Owlbear Cave
-- Fight some owlbears and leave a scent to follow for the baby
-- Check out the shrine and shrine puzzle to get a good item
+- [Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby
+- [Check out the shrine](https://bg3.wiki/wiki/Owlbear_Nest#Sel%C3%BBne_Shrine) and shrine puzzle to get a good item
 # Waukeen's Rest
-- Save two people from the burning inn 
+- Save two people [[1](https://bg3.wiki/wiki/Rescue_the_Trapped_Man)] [[2](https://bg3.wiki/wiki/Rescue_the_Grand_Duke)] from the [burning inn](https://bg3.wiki/wiki/Waukeen%27s_Rest) 
   - Help one of them [find a certain ring](https://bg3.wiki/wiki/Dowry_Ring)
   - Don't rest before saving them once you see them, or this quest will be lost! 
-- Free the shipment holders from the gnoll attackers
+- [Free the shipment holders](https://bg3.wiki/wiki/Find_the_Missing_Shipment) from the gnoll attackers
   - Keep at least one alive to learn the password
-  - Grab the shipment item from the chest they give you 
+  - Grab [the shipment item](https://bg3.wiki/wiki/Iron_Flask) from the chest they give you 
 # Zhentarim Hideout
 - One of the cows next to the entrace to the [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement) has interesting dialogue if you've got Speak with Animals
 - Basement to [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement)
