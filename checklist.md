@@ -124,6 +124,7 @@
   - When fighting Grym, have one of your characters attack him where the forge hammer falls and you will aggro Grym, you see where I'm going with this?
 - Help the [cursed monk](https://bg3.wiki/wiki/Help_the_Cursed_Monk) (you just need to pick up a certain amulet and speak to him about his goals, for now)
 - This one, in Grymforge, is kind of hard to explain and there are multiple paths there, but the easiest one is you follow the west side of the Grymforge north, you will reach an area with a lot of traps (pressure plates, fire statues). If you go all the way through that gauntlet of traps, you get to a locked door. You can jump through this door with misty step (or gaseous form, maybe also fly from the backside). I haven't been able to find a key to this door. Inside, you find a decent clothing item for casters as well as an Idol of Shar that triggers some Shadowheart dialog.
+- Loot the [mimics](https://bg3.wiki/wiki/Mimic)
 - Don't take the elevator up until you've done the creche and other Act 1.5 content
 # Act 1.5 Road
 - Undead attackers on the road
