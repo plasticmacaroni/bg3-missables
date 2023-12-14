@@ -21,7 +21,6 @@ function generateTasks() {
       return response.text(); // Return the content of the file as a string
     })
     .then((markdown) => {
-      console.log(markdown);
       markdownString = markdown;
       const lines = markdownString.split("\n");
       let htmlOutput = "";
@@ -41,7 +40,7 @@ function generateTasks() {
         // Check if the line starts with '# ' indicating a header
         if (line.startsWith("# ")) {
           const headerText = line.substr(2);
-          const idText = headerText.replace(/ /g, "_").replace(/:/g, "");
+          const idText = sanitize(headerText);
           htmlOutput += `</ul><h3 id="${idText}"><a href="#" data-toggle="collapse" data-parent="#tabPlaythrough" class="btn btn-primary btn-collapse btn-sm"></a><a href="#">${headerText}</a></h3>\n`;
           htmlOutput += '<ul class="panel-collapse collapse in">\n';
         }
