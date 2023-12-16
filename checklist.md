@@ -4,35 +4,35 @@
 - This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry
 - Always crouch when stealing -- enemies will automatically  start investigating if not
 - Send all camp supplies to camp -- they'll automatically show up when you Long Rest
-# Act 1 Missables
-- Turn in a quest to save the tieflings in the grove -- you'll get a pair of gloves 
-- Buy any goblin vendor items before angering the goblin camp
-- Buy items from tiefling traders before completing the goblin camp 
-- Do not kill the Strange Ox in the grove
-- If you reach a burning building, do not long rest
-- Complete other quests before killing 3 goblin camp leaders
+# Act 1 Main Missables Entry List
+- Turn in a quest to [save the tieflings](https://bg3.wiki/wiki/Save_the_Refugees) in the grove -- you'll get a pair of gloves 
+- Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
+- Buy items from tiefling traders ([1](https://bg3.wiki/wiki/Arron)) ([2](https://bg3.wiki/wiki/Dammon)) ([3](https://bg3.wiki/wiki/Auntie_Ethel)) from the [Emerald Grove](https://bg3.wiki/wiki/Emerald_Grove) before completing the goblin camp 
+- Do not kill the [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) in the grove
+- If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
+- Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Nautiloid
-- Kill the devil to get the fiery sword (it's useful at least partway through Act 1)
+- [Kill the devil](https://bg3.wiki/wiki/Commander_Zhalk) to get the [fiery sword](https://bg3.wiki/wiki/Everburn_Blade) (it's useful at least partway through Act 1)
 - Make a decision about the exposed brain. Sparing it may be relevant later in Act 2.
 # Ravaged Beach
 - Take revenge on your tentacled captor from the intro
 # Wilderness
 - [Help Lae'zel](https://bg3.wiki/wiki/Lae%27zel#Recruitment) drop out of her wooden bars
-- Give Gale a hand in a teleporter
-- Check out Astarion's boar
+- Give [Gale](https://bg3.wiki/wiki/Gale) a hand (don't take a hand) in a teleporter and add him to your party
+- Check out [Astarion](https://bg3.wiki/wiki/Astarion)'s boar and add him to your party
 # Dank Crypt
-- Gain access to a character that re-specs you
-- Check out the secret book that reveals information about gods
+- Gain access to [a character that re-specs you](https://bg3.wiki/wiki/Withers)
+- Check out the [secret book](https://bg3.wiki/wiki/Book_of_Dead_Gods) that reveals information about gods
 # Emerald Grove
 - You meet [Wyll](https://bg3.wiki/wiki/Wyll) here, so make sure to exhaust his dialogue
-- Talk to Auntie Ethel and buy any items you need 
-- Kagha's plot with the shadow druids (do this before freeing a bear friend in the goblin camp)
-  - Investigate her chest to start
+- Talk to [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) and buy any items you need 
+- [Kagha](https://bg3.wiki/wiki/Kagha)'s plot with the [shadow druids](https://bg3.wiki/wiki/Shadow_Druids) (do this before freeing a bear friend in the goblin camp)
+  - [Investigate her chest](https://bg3.wiki/wiki/Investigate_Kagha) to start
   - Check out the swamp and fight some mephits to continue it
 - Deal with some harpies and [save someone small](https://bg3.wiki/wiki/Investigate_the_Beach)
 - Speak to [Volo](https://bg3.wiki/wiki/Volo)
 - Find your way to the [Tiefling hideout](https://bg3.wiki/wiki/Tiefling_Hideout)
-  - Before entering, catch a thief or do the harpies quest above
+  - Before entering, catch a thief or do the [harpies](https://bg3.wiki/wiki/Investigate_the_Beach) quest above
 - [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) (some dialogue if you got Speak With Animals) -- do NOT kill it, or you'll break future quests!
 - Save [Sazza](https://bg3.wiki/wiki/Sazza)
 - After recusing Halsin, be sure to speak to [Rath](https://bg3.wiki/wiki/Rath) to get access to the druid vault
@@ -43,44 +43,44 @@
 - Heal the [paralyzed Tiefling](https://bg3.wiki/wiki/Pandirna)
 - After [recruiting a new bear friend](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin), speak to Rath and enter the [Druid vault](https://bg3.wiki/wiki/Hidden_Vault)
 - Optionally [steal the Idol for Mol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) (BEFORE finishing Goblin Camp, and after exposing Kagha)
-- After rescuing the Tieflings, get the Hellrider's Pride from Zevlor
+- After rescuing the Tieflings, get the Hellrider's Pride from [Zevlor](https://bg3.wiki/wiki/Zevlor)
 # Goblin Camp
-- Owlbear race (do the Owlbear Cave first)
-- Rescue Volo
-- Speak to the [priest of Loviatar](https://bg3.wiki/wiki/Abdirak) that talks about pain. See what happens if you pass all the checks. 
-- Rescue Halsin 
-- Eliminate the 3 True Soul goblin leaders
+- [Chase the chicken](https://bg3.wiki/wiki/Owlbear_Cub) (do the Owlbear Cave first)
+- Rescue [Volo](https://bg3.wiki/wiki/Volo)
+- Speak to the [priest of Loviatar](https://bg3.wiki/wiki/Abdirak) that talks about pain 
+- Rescue [Halsin](https://bg3.wiki/wiki/Halsin) 
+- Eliminate the [three True Soul goblin leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # The Risen Road
-- Meet Karlach
-- Deal with the paladins she brings up
-- Silver Pendant 
+- Meet [Karlach](https://bg3.wiki/wiki/Karlach)
+- [Deal with the paladins](https://bg3.wiki/wiki/Hunt_the_Devil) she brings up
+- Find the [Silver Pendant](https://bg3.wiki/wiki/Silver_Pendant) 
 # Blighted Village
 - Find two new friends, and consume what lies in the dwarf's noggin
-  - Combine the shaft he has with an item from the Owlbear cave mother to create an item
+  - Combine the shaft he has with an item from the Owlbear cave mother to create a powerful item
 - Finish the Masterwork weapon at a former blacksmith's home, get a sussur bark from the Underdark
 - Find The Cellar
-  - Finding the Necromancy of Thay book which gives +1 WIS checks
-  - Find Shovel
+  - Finding the [Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) book which gives +1 WIS checks
+  - Find [Shovel](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit)
 - Climb the well into a dungeon (Whispering Depths) which has decent loot
   - Find a gem that can be used to open a certain book
   - Read every book you can find in the dungeon 
-- Rescue Barcus from the windmill
-- Scratch the dog 
-- Kill the ogres
-  - Headband of Intellect
+- Rescue [Barcus](https://bg3.wiki/wiki/Rescue_the_Gnome) from the windmill
+- [Scratch](https://bg3.wiki/wiki/Scratch) the dog 
+- Kill the [ogres](https://bg3.wiki/wiki/Lump_the_Enlightened)
+  - Nab the [Headband of Intellect](https://bg3.wiki/wiki/Warped_Headband_of_Intellect)
 - In one of the houses north of the village, there is a bugbear having a moment with their partner
 # Githyanki patrol
-- If you decide to fight, remember you can cause Kithrak Voss to drop his sword for Lae'zel with the command spell
+- If you decide to fight, remember you can cause [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss) to drop his sword for Lae'zel with the command spell
 # Owlbear Cave
-- Fight some owlbears and leave a scent to follow for the baby
-- Check out the shrine and shrine puzzle to get a good item
+- [Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby
+- [Check out the shrine](https://bg3.wiki/wiki/Owlbear_Nest#Sel%C3%BBne_Shrine) and shrine puzzle to get a good item
 # Waukeen's Rest
-- Save two people from the burning inn 
+- Save two people ([1](https://bg3.wiki/wiki/Rescue_the_Trapped_Man)) ([2](https://bg3.wiki/wiki/Rescue_the_Grand_Duke)) from the [burning inn](https://bg3.wiki/wiki/Waukeen%27s_Rest) 
   - Help one of them [find a certain ring](https://bg3.wiki/wiki/Dowry_Ring)
   - Don't rest before saving them once you see them, or this quest will be lost! 
-- Free the shipment holders from the gnoll attackers
+- [Free the shipment holders](https://bg3.wiki/wiki/Find_the_Missing_Shipment) from the gnoll attackers
   - Keep at least one alive to learn the password
-  - Grab the shipment item from the chest they give you 
+  - Grab [the shipment item](https://bg3.wiki/wiki/Iron_Flask) from the chest they give you 
 # Zhentarim Hideout
 - One of the cows next to the entrace to the [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement) has interesting dialogue if you've got Speak with Animals
 - Basement to [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement)
@@ -127,6 +127,7 @@
   - When fighting Grym, have one of your characters attack him where the forge hammer falls and you will aggro Grym, you see where I'm going with this?
 - Help the [cursed monk](https://bg3.wiki/wiki/Help_the_Cursed_Monk) (you just need to pick up a certain amulet and speak to him about his goals, for now)
 - This one, in Grymforge, is kind of hard to explain and there are multiple paths there, but the easiest one is you follow the west side of the Grymforge north, you will reach an area with a lot of traps (pressure plates, fire statues). If you go all the way through that gauntlet of traps, you get to a locked door. You can jump through this door with misty step (or gaseous form, maybe also fly from the backside). I haven't been able to find a key to this door. Inside, you find a decent clothing item for casters as well as an Idol of Shar that triggers some Shadowheart dialog.
+- Loot the [mimics](https://bg3.wiki/wiki/Mimic)
 - Don't take the elevator up until you've done the creche and other Act 1.5 content
 # Act 1.5 Road
 - Undead attackers on the road
@@ -187,6 +188,10 @@
 - Save the gnomes (talk to them before freeing them)
 - Save the tieflings
   - Talk to Rolan
+# Below Moonrise Towers
+- Enter the area under the prisons
+- Get the parasite from a corpse in the main area you drop into
+- Kill the hooked horrors and complete the area
 # Destroyed Town
 - Find Arabella 
 # Mason's Guild
@@ -220,5 +225,26 @@
 - Kill Balthazar
   - If somehow you don't have a moonlantern yet, pass checks before killing him to get one
 - Kill Yurgir
+  - Take the Umbral Gem
+- Find the accursed library
+  - Claim an artifact for Shadowheart by putting an item on the correct pedestal
 - Complete the trials
   - Soft-Step Trial
+  - Self-Same Trial
+  - Faith-Leap Trial
+- Visit the Inn
+  - Talk to the Selunite
+- Attack the towers
+  - Pick up two tadpoles in the entryway
+- Make your way upstairs and fight the boss
+- Jump into one of the towers itself
+- Destroy the undead creatures in a ritual room
+  - Complete the brain puzzle
+  - Past the door, get the sword, green jar, and items on the corpse
+  - Put the jar in the mind reader and gain a permanent boon
+- Find the tadpole room
+  - Collect the tadpole from the pool
+  - Free Wyll's captor
+  - Free the captured citizens
+# Before leaving for Act 2
+- Get the Owlbear Cub (and pet him in the middle of the night, of course) 
