@@ -13,6 +13,7 @@
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Nautiloid
 - [Kill the devil](https://bg3.wiki/wiki/Commander_Zhalk) to get the [fiery sword](https://bg3.wiki/wiki/Everburn_Blade) (it's useful at least partway through Act 1)
+- Make a decision about the exposed brain. Sparing it may be relevant later in Act 2.
 # Ravaged Beach
 - Take revenge on your tentacled captor from the intro
 # Wilderness
@@ -61,6 +62,9 @@
 - Find The Cellar
   - Finding the [Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) book which gives +1 WIS checks
   - Find [Shovel](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit) by finding a scroll
+- Climb the well into a dungeon (Whispering Depths) which has decent loot
+  - Find a gem that can be used to open a certain book
+  - Read every book you can find in the dungeon
 - Rescue [Barcus](https://bg3.wiki/wiki/Rescue_the_Gnome) from the windmill
 - [Scratch](https://bg3.wiki/wiki/Scratch) the dog 
 - Kill the [ogres](https://bg3.wiki/wiki/Lump_the_Enlightened)
