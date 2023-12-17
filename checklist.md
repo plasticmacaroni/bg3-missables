@@ -47,6 +47,7 @@
 - [Chase the chicken](https://bg3.wiki/wiki/Owlbear_Cub) (do the Owlbear Cave first)
 - Rescue [Volo](https://bg3.wiki/wiki/Volo)
 - Speak to the [priest of Loviatar](https://bg3.wiki/wiki/Abdirak) that talks about pain 
+  - Get the [Loviatar's Love](https://bg3.wiki/wiki/Loviatar%27s_Love_(Condition)) permanent buff, if you'd like  
 - Rescue [Halsin](https://bg3.wiki/wiki/Halsin) 
 - Eliminate the [three True Soul goblin leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # The Risen Road
@@ -59,13 +60,17 @@
 - Finish the Masterwork weapon at a former blacksmith's home, get a sussur bark from the Underdark
 - Find The Cellar
   - Finding the [Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) book which gives +1 WIS checks
-  - Find [Shovel](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit)
-- Climb the well into a dungeon (Whispering Depths) which has decent loot
+  - Find [Shovel](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit) by finding a scroll
 - Rescue [Barcus](https://bg3.wiki/wiki/Rescue_the_Gnome) from the windmill
 - [Scratch](https://bg3.wiki/wiki/Scratch) the dog 
 - Kill the [ogres](https://bg3.wiki/wiki/Lump_the_Enlightened)
   - Nab the [Headband of Intellect](https://bg3.wiki/wiki/Warped_Headband_of_Intellect)
 - In one of the houses north of the village, there is a bugbear having a moment with their partner
+# Blighted Village Well
+- Climb the well into a dungeon (Whispering Depths) which has decent loot
+  - Destroy the many enemies in the area, including the boss
+  - Get the [dark amethyst](https://bg3.wiki/wiki/Dark_Amethyst) and use it with [the cursed book](https://bg3.wiki/wiki/Necromancy_of_Thay)
+  - Pass the related checks for [the book]((https://bg3.wiki/wiki/Necromancy_of_Thay)) to get [a permanent buff](https://bg3.wiki/wiki/Forbidden_Knowledge)
 # Githyanki patrol
 - If you decide to fight, remember you can cause [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss) to drop his sword for Lae'zel with the command spell
 # Owlbear Cave
@@ -94,10 +99,12 @@
   - Find the "secret" chest available with mage hand, jump, or misty step
 - Sword stuck in the stone - Phalar Aluve
 - Check out the [fish people worshipping the fake god Boooal](https://bg3.wiki/wiki/The_Festering_Cove) in a village -- opposite the arcane tower 
+  - If you want to make a horrible, unrecommended decision, remove a party member for [a permanent buff](https://bg3.wiki/wiki/BOOOAL%27s_Blessing_(Condition))
 - Interact with the petrified drows and the spectator that appears
 - Help the myconid
   - Curing Thulla
   - Meet Omeluum (Society of Brilliance)
+    - Perform his quest and drink his potion for [a permanent buff](https://bg3.wiki/wiki/Survival_Instinct)
   - Save the gnome trapped by exploding green mushrooms
     - Remember there's a very rare mushroom that can be found there as well, this can be given to Shadowheart to unlock a memory or given to this dude's wife at the Myconid place, or given to this dude to take revenge on his wife for making him a slave 
   - Defeat the duergars / helping Gut (then double-cross them)
@@ -128,7 +135,7 @@
 - Don't take the elevator up until you've done the creche and other Act 1.5 content
 # Act 1.5 Road
 - Undead attackers on the road
-  - use speak with dead on corpses surrounding them
+  - Use speak with dead on corpses surrounding them
 - Blue Jay friend and eagles' nest
 - Speak with Elminster at entrance to the Shadow-Cursed Lands
 - Don't continue to Moonrise Towers until you've completed the Grymforge (Underdark) content
@@ -141,12 +148,13 @@
 - Save the student in the Classroom and get the second Orpheus disc from him, then talk to Lae'zel
 - Gith Egg quest
 - Visit the infirmary and try the machine
+  - Whoever enters is applicable for [a permanent buff](https://bg3.wiki/wiki/Awakened)
   - Grab 3 more parasites from this room
 - Have a conversation with the inquisitor
 - Perform an Astral Plane visit, talk to Lae'zel
   - Talk to the visitor upon a long rest
 # BEFORE CONTINUING TO ACT 2
-- Let a certain Dandy shove an icepick in your eye for a permanent upgrade (unconfirmed that this has to be before Act 2)
+- If you saved Volo, let him operate on your eye for [a permanent buff](https://bg3.wiki/wiki/Volo%27s_Ersatz_Eye_(Condition)) 
 - Deluxe edition -- portraits: optionally find Fane in The Ruins, Lohse near Nettie in The Emerald Grove, Red Prince in the Waukeen's Rest, Ifan in the Blighted Village, Sebille in the Hag's house, and finally Beast in The Arcane Tower 
 - You will meet some hyenas near a broken cart in the upperworld (there will be a cutscene prompting you to react to the dead hyenas) 
 - Raphael will show up either during a long rest, or automatically if you haven't rested in a while
