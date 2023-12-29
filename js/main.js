@@ -48,6 +48,25 @@ function generateTasks() {
         else if (line.startsWith("- ") || /^(\t| {2})+\- /.test(lines[i])) {
           // Extract the text after '- ' and trim any leading/trailing spaces
           let listItemText = line.substr(2).trim();
+          
+          // If there's no icon, default to ::task::
+          if (!listItemText.includes("::")) {
+            listItemText = "::task::" + listItemText;
+          } 
+
+          // Replace ::gem:: with the gem icon and ::missable:: with a clock icon, and ::task::, if present or added above
+          listItemText = listItemText.replace(
+            /::task::/g,
+            '<i class="bi bi-clipboard-check"></i>'
+          );
+          listItemText = listItemText.replace(
+            /::item::/g,
+            '<i class="bi bi-gem"></i>'
+          );
+          listItemText = listItemText.replace(
+            /::missable::/g,
+            '<i class="bi bi-stopwatch-fill"></i>'
+          );
 
           // Convert markdown-style links to HTML links
           const linkPattern = /\[(.*?)\]\((.*?)\)/g;

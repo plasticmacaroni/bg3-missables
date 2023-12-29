@@ -6,8 +6,9 @@
 - Send all camp supplies to camp -- they'll automatically show up when you Long Rest
 # Act 1 Main Missables Entry List
 - Turn in a quest to [save the tieflings](https://bg3.wiki/wiki/Save_the_Refugees) in the grove -- you'll get a pair of gloves 
-- Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
+- ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
 - Buy items from tiefling traders ([1](https://bg3.wiki/wiki/Arron)) ([2](https://bg3.wiki/wiki/Dammon)) ([3](https://bg3.wiki/wiki/Auntie_Ethel)) from the [Emerald Grove](https://bg3.wiki/wiki/Emerald_Grove) before completing the goblin camp 
+  - Note the [third vendor will leave](https://bg3.wiki/wiki/Auntie_Ethel#In_the_Druid_Grove) if you keep exploring the map
 - Do not kill the [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) in the grove
 - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
@@ -19,6 +20,7 @@
 # Wilderness
 - [Help Lae'zel](https://bg3.wiki/wiki/Lae%27zel#Recruitment) drop out of her wooden bars
 - Give [Gale](https://bg3.wiki/wiki/Gale) a hand (don't take a hand) in a teleporter and add him to your party
+  - ::missable::Feed him, once he brings up his hunger, within 2 long rests or face some serious consequences
 - Check out [Astarion](https://bg3.wiki/wiki/Astarion)'s boar and add him to your party
 # Dank Crypt
 - Gain access to [a character that re-specs you](https://bg3.wiki/wiki/Withers)
@@ -26,20 +28,21 @@
 # Emerald Grove
 - You meet [Wyll](https://bg3.wiki/wiki/Wyll) here, so make sure to exhaust his dialogue
 - Talk to [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) and buy any items you need 
+- ::missable::Save a [certain tiefling child](https://bg3.wiki/wiki/Save_Arabella) from a scaly death (if you solve the conflict between the tieflings and goblins, it'll be too late)
 - [Kagha](https://bg3.wiki/wiki/Kagha)'s plot with the [shadow druids](https://bg3.wiki/wiki/Shadow_Druids) (do this before freeing a bear friend in the goblin camp)
   - [Investigate her chest](https://bg3.wiki/wiki/Investigate_Kagha) to start
   - Check out the swamp and fight some mephits to continue it
-- Deal with some harpies and [save someone small](https://bg3.wiki/wiki/Investigate_the_Beach)
+- ::missable::Deal with some harpies and [save someone small](https://bg3.wiki/wiki/Investigate_the_Beach) (if you complete a long rest before helping, the small person will be killed)
 - Speak to [Volo](https://bg3.wiki/wiki/Volo)
 - Find your way to the [Tiefling hideout](https://bg3.wiki/wiki/Tiefling_Hideout)
   - Before entering, catch a thief or do the [harpies](https://bg3.wiki/wiki/Investigate_the_Beach) quest above
 - [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) (some dialogue if you got Speak With Animals) -- do NOT kill it, or you'll break future quests!
-- Save [Sazza](https://bg3.wiki/wiki/Sazza)
+- ::missable::Save or kill [the captive goblin](https://bg3.wiki/wiki/Sazza) (note if you save them, after one long rest the goblin leaders can no longer be spoken to!)
 - After recusing Halsin, be sure to speak to [Rath](https://bg3.wiki/wiki/Rath) to get access to the druid vault
 - Speak with [Alfira](https://bg3.wiki/wiki/Alfira) within the Grove 
   - Learn an instrument by playing along
 - You will find [Dammon](https://bg3.wiki/wiki/Dammon) who has something important for Karlach
-- Bugbear Assassin -- go past the entrance, immediately turn right up the hill 
+- ::missable::Stop an [Assassin](https://bg3.wiki/wiki/Nadira) -- go past the entrance, immediately turn right up the hill (failing to help in this case will cause a permanent NPC death)
 - Heal the [paralyzed Tiefling](https://bg3.wiki/wiki/Pandirna)
 - After [recruiting a new bear friend](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin), speak to Rath and enter the [Druid vault](https://bg3.wiki/wiki/Hidden_Vault)
 - Optionally [steal the Idol for Mol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) (BEFORE finishing Goblin Camp, and after exposing Kagha)
@@ -48,40 +51,37 @@
 - [Chase the chicken](https://bg3.wiki/wiki/Owlbear_Cub) (do the Owlbear Cave first)
 - Rescue [Volo](https://bg3.wiki/wiki/Volo)
 - Speak to the [priest of Loviatar](https://bg3.wiki/wiki/Abdirak) that talks about pain 
-  - Get the [Loviatar's Love](https://bg3.wiki/wiki/Loviatar%27s_Love_(Condition)) permanent buff, if you'd like  
 - Rescue [Halsin](https://bg3.wiki/wiki/Halsin) 
 - Eliminate the [three True Soul goblin leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # The Risen Road
 - Meet [Karlach](https://bg3.wiki/wiki/Karlach)
-- [Deal with the paladins](https://bg3.wiki/wiki/Hunt_the_Devil) she brings up
+- ::missable::[Deal with the paladins](https://bg3.wiki/wiki/Hunt_the_Devil) she brings up before going to Act 1.5, or deal with some permanent consequences
 - Find the [Silver Pendant](https://bg3.wiki/wiki/Silver_Pendant) 
+- ::missable::Protect [two](https://bg3.wiki/wiki/Rugan) [people](https://bg3.wiki/wiki/Olly) being attacked by furries to start the [missing shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest (if you encounter them and long rest without saving them, they'll permanently die)
 # Blighted Village
-- Find two new friends, and consume what lies in the dwarf's noggin
-  - Combine the shaft he has with an item from the Owlbear cave mother to create a powerful item
+- ::missable::Find two new friends [next to a dead man](https://bg3.wiki/wiki/Edowin) (if you don't interact in time they'll leave)
+  - Consume what lies in the dwarf's noggin
+  - Combine the [shaft](https://bg3.wiki/wiki/Shaft_of_a_Broken_Spear) he has on his person with [an item from the nearby cave](https://bg3.wiki/wiki/Head_of_a_Broken_Spear) to create [a powerful item](https://bg3.wiki/wiki/Vision_of_the_Absolute)
 - Finish the Masterwork weapon at a former blacksmith's home, get a sussur bark from the Underdark
 - Find The Cellar
   - Finding the [Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) book which gives +1 WIS checks
-  - Find [Shovel](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit) by finding a scroll
+  - Find [Shovel](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit)
 - Climb the well into a dungeon (Whispering Depths) which has decent loot
   - Find a gem that can be used to open a certain book
-  - Read every book you can find in the dungeon
-- Rescue [Barcus](https://bg3.wiki/wiki/Rescue_the_Gnome) from the windmill
+  - Read every book you can find in the dungeon 
+- ::missable::Rescue [Barcus](https://bg3.wiki/wiki/Rescue_the_Gnome) from the windmill (leaving for Act 1.5 will mean he can no longer be rescued)
 - [Scratch](https://bg3.wiki/wiki/Scratch) the dog 
 - Kill the [ogres](https://bg3.wiki/wiki/Lump_the_Enlightened)
   - Nab the [Headband of Intellect](https://bg3.wiki/wiki/Warped_Headband_of_Intellect)
 - In one of the houses north of the village, there is a bugbear having a moment with their partner
-# Blighted Village Well
-- Climb the well into a dungeon (Whispering Depths) which has decent loot
-  - Destroy the many enemies in the area, including the boss
-  - Get the [dark amethyst](https://bg3.wiki/wiki/Dark_Amethyst) and use it with [the cursed book](https://bg3.wiki/wiki/Necromancy_of_Thay)
-  - Pass the related checks for [the book]((https://bg3.wiki/wiki/Necromancy_of_Thay)) to get [a permanent buff](https://bg3.wiki/wiki/Forbidden_Knowledge)
-# Githyanki patrol
+# Githyanki Patrol
+- After you discover [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss), speak to him before long resting, or deal with some permanent consequences
 - If you decide to fight, remember you can cause [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss) to drop his sword for Lae'zel with the command spell
 # Owlbear Cave
-- [Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby
+- ::missable::[Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby (do this now, or an owlbear will die after a long rest)
 - [Check out the shrine](https://bg3.wiki/wiki/Owlbear_Nest#Sel%C3%BBne_Shrine) and shrine puzzle to get a good item
 # Waukeen's Rest
-- Save two people ([1](https://bg3.wiki/wiki/Rescue_the_Trapped_Man)) ([2](https://bg3.wiki/wiki/Rescue_the_Grand_Duke)) from the [burning inn](https://bg3.wiki/wiki/Waukeen%27s_Rest) 
+- ::missable::Save two people ([1](https://bg3.wiki/wiki/Rescue_the_Trapped_Man)) ([2](https://bg3.wiki/wiki/Rescue_the_Grand_Duke)) from the [burning inn](https://bg3.wiki/wiki/Waukeen%27s_Rest) (after encountering the area, if you fast travel or rest, they will both die)
   - Help one of them [find a certain ring](https://bg3.wiki/wiki/Dowry_Ring)
   - Don't rest before saving them once you see them, or this quest will be lost! 
 - [Free the shipment holders](https://bg3.wiki/wiki/Find_the_Missing_Shipment) from the gnoll attackers
@@ -90,7 +90,6 @@
 # Zhentarim Hideout
 - One of the cows next to the entrace to the [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement) has interesting dialogue if you've got Speak with Animals
 - Basement to [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement)
-  - [Missing shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest
 - [Free](https://bg3.wiki/wiki/Free_the_Artist) the artist
 - Optionally buy the [gloves of thievery](https://bg3.wiki/wiki/Gloves_of_Thievery) before dealing with the Zhentarim
 # Putrid Bog & Riverside Teahouse
@@ -103,12 +102,10 @@
   - Find the "secret" chest available with mage hand, jump, or misty step
 - Sword stuck in the stone - Phalar Aluve
 - Check out the [fish people worshipping the fake god Boooal](https://bg3.wiki/wiki/The_Festering_Cove) in a village -- opposite the arcane tower 
-  - If you want to make a horrible, unrecommended decision, remove a party member for [a permanent buff](https://bg3.wiki/wiki/BOOOAL%27s_Blessing_(Condition))
 - Interact with the petrified drows and the spectator that appears
 - Help the myconid
-  - Curing Thulla
+  - ::missable::[Cure Thulla](https://bg3.wiki/wiki/Cure_the_Poisoned_Gnome) before taking 3 long rests
   - Meet Omeluum (Society of Brilliance)
-    - Perform his quest and drink his potion for [a permanent buff](https://bg3.wiki/wiki/Survival_Instinct)
   - Save the gnome trapped by exploding green mushrooms
     - Remember there's a very rare mushroom that can be found there as well, this can be given to Shadowheart to unlock a memory or given to this dude's wife at the Myconid place, or given to this dude to take revenge on his wife for making him a slave 
   - Defeat the duergars / helping Gut (then double-cross them)
@@ -129,14 +126,18 @@
 - Visit the basement floor, by equipping the guiding light ring and accessing the new elevator button available 
 # Grymforge area
 - Getting the sergeant's boots
-- Save the Grymforge Gnomes, remember to speak to Thulla back at the myconid area
 - Runepowder gnome, past hidden kitchen area of Grymforge
+- ::missable::Free Nere (if you long rest or fast travel he'll die)
+- ::missable::Similarly, save the Grymforge Gnomes before long resting or fast travelling (although they technically may live a little longer)
+  - Remember to speak to [Thulla](https://bg3.wiki/wiki/Thulla) back at the myconid area now that this is done
 - Adamantine Forge (you can find 2 mithril ores to make 2 pieces of gear)
   - When fighting Grym, have one of your characters attack him where the forge hammer falls and you will aggro Grym, you see where I'm going with this?
 - Help the [cursed monk](https://bg3.wiki/wiki/Help_the_Cursed_Monk) (you just need to pick up a certain amulet and speak to him about his goals, for now)
 - This one, in Grymforge, is kind of hard to explain and there are multiple paths there, but the easiest one is you follow the west side of the Grymforge north, you will reach an area with a lot of traps (pressure plates, fire statues). If you go all the way through that gauntlet of traps, you get to a locked door. You can jump through this door with misty step (or gaseous form, maybe also fly from the backside). I haven't been able to find a key to this door. Inside, you find a decent clothing item for casters as well as an Idol of Shar that triggers some Shadowheart dialog.
 - Loot the [mimics](https://bg3.wiki/wiki/Mimic)
 - Don't take the elevator up until you've done the creche and other Act 1.5 content
+# BEFORE CONTINUING TO ACT 1.5
+- Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map)
 # Act 1.5 Road
 - Undead attackers on the road
   - Use speak with dead on corpses surrounding them
@@ -152,20 +153,20 @@
 - Save the student in the Classroom and get the second Orpheus disc from him, then talk to Lae'zel
 - Gith Egg quest
 - Visit the infirmary and try the machine
-  - Whoever enters is applicable for [a permanent buff](https://bg3.wiki/wiki/Awakened)
   - Grab 3 more parasites from this room
 - Have a conversation with the inquisitor
 - Perform an Astral Plane visit, talk to Lae'zel
   - Talk to the visitor upon a long rest
 # BEFORE CONTINUING TO ACT 2
-- If you saved Volo, let him operate on your eye for [a permanent buff](https://bg3.wiki/wiki/Volo%27s_Ersatz_Eye_(Condition)) 
+- Let a certain Dandy shove an icepick in your eye for a permanent upgrade (unconfirmed that this has to be before Act 2)
 - Deluxe edition -- portraits: optionally find Fane in The Ruins, Lohse near Nettie in The Emerald Grove, Red Prince in the Waukeen's Rest, Ifan in the Blighted Village, Sebille in the Hag's house, and finally Beast in The Arcane Tower 
 - You will meet some hyenas near a broken cart in the upperworld (there will be a cutscene prompting you to react to the dead hyenas) 
 - Raphael will show up either during a long rest, or automatically if you haven't rested in a while
+- Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map)
 # Act 2: First Things First
 - Remember if you didn't talk to Dammon in Act 1, do this as soon as you can for Karlach's poor sake
 - Plan to rescue the prisoners BEFORE Shar's Temple (and the Nightsong questline)
-# The road
+# The Road
 - Play hide and seek with a child, get a cool ring
 - Talk to a man who wants to make things "right" by interrogating a dead barkeeper
 - Save some harpers, find out about the Inn
@@ -175,11 +176,11 @@
   - Mol and Raphael conversation
   - Wake up the sleeping fist quest dialogues with Halsin
   - Talk to the Strange Ox again (don't kill it)
-  - Get the key from the little tiefling thief
-- Get the pixie to help, thanks to a drider conversation
-- Find the tiefling Rolan
+  - Get the key from a little tiefling thief
+- ::missable::Get [the inhabitant of a lantern](https://bg3.wiki/wiki/Dolly_Dolly_Dolly) to help, thanks to a [drider](https://bg3.wiki/wiki/Kar%27niss) (if you don't talk to the lantern soon enough, you are locked out of being able to speak with her)
+- Save the moon Cleric from the ambush at the Inn and [start hunting for abductees](https://bg3.wiki/wiki/Resolve_the_Abduction)
+- ::missable::[Find the tiefling](https://bg3.wiki/wiki/Find_Rolan_in_the_Shadows) without fast traveling or long resting (only happens after [the battle with the flying enemies](https://bg3.wiki/wiki/Resolve_the_Abduction), and the timer only starts if you walk near him)
   - Save him from some scary shadows
-- Save the moon Cleric from the ambush at the Inn
 - After helping the sleeping fist, send Halsin
   - Protect the portal
   - Visit camp to find out more about the boy, post-attack
@@ -194,9 +195,9 @@
   - Do the same for each companion you'd like a free potion for
 - Dominate the gnoll, and you can harvest Linsella's parasite (in the kitchen)
 - Find the third Orpheus disc in Balthazar's tower and have Lae'zel comment
-- Save the gnomes (talk to them before freeing them)
-- Save the tieflings
-  - Talk to Rolan
+- [Save the gnomes](https://bg3.wiki/wiki/Rescue_Wulbren) (talk to them before freeing them)
+- [Save the tieflings](https://bg3.wiki/wiki/Rescue_the_Tieflings) 
+  - Talk to [Rolan](https://bg3.wiki/wiki/Rolan)
 # Below Moonrise Towers
 - Enter the area under the prisons
 - Get the parasite from a corpse in the main area you drop into
