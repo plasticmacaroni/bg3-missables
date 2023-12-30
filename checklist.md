@@ -137,7 +137,7 @@
 - Kill some piggies and optionally get [some masks](https://bg3.wiki/wiki/Devilfoil_Mask)
 - Don't take the elevator up until you've done the creche and other Act 1.5 content
 # BEFORE CONTINUING TO ACT 1.5
-- Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map)
+- Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before going to Act 1.5
 # Act 1.5 Road
 - Undead attackers on the road
   - Use speak with dead on corpses surrounding them
@@ -162,7 +162,7 @@
 - Deluxe edition -- portraits: optionally find Fane in The Ruins, Lohse near Nettie in The Emerald Grove, Red Prince in the Waukeen's Rest, Ifan in the Blighted Village, Sebille in the Hag's house, and finally Beast in The Arcane Tower 
 - You will meet some hyenas near a broken cart in the upperworld (there will be a cutscene prompting you to react to the dead hyenas) 
 - Raphael will show up either during a long rest, or automatically if you haven't rested in a while
-- Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map)
+- Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before going to Act 2
 # Act 2: First Things First
 - Remember if you didn't talk to [Dammon](https://bg3.wiki/wiki/Dammon) in Act 1, do this as soon as you can for [Karlach](https://bg3.wiki/wiki/Karlach)'s poor sake
 - Plan to rescue the prisoners BEFORE Shar's Temple (and the Nightsong questline)
@@ -232,7 +232,7 @@
 # Ketheric
 - Investigate the basement of the prison
 # BEFORE CONTINUING TO THE TEMPLE
-- Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map)
+- Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before entering the Temple
 # Temple of Shar (Do This After Prisoners)
 - Check out the path to the right of the entryway statue for treasure "hidden in darkness"
 - Kill [Balthazar](https://bg3.wiki/wiki/Balthazar)
@@ -263,7 +263,7 @@
   - Free [the captured citizens](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_Centre)
 # BEFORE CONTINUING TO ACT 3
 - Get the Owlbear Cub (and pet him in the middle of the night, of course) 
-- Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) 
+- Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before leaving 
 # Act 3 Shortlist (WIP, as the author has not finished this yet)
 - INFO: Feel free to send requests for issues/updates you'd like to see [here](https://github.com/plasticmacaroni/bg3-missables/issues)
 - ::missable::[Free Counselor Florrick](https://bg3.wiki/wiki/Free_Counsellor_Florrick) before 5 long rests
