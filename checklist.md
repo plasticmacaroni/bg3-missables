@@ -41,7 +41,7 @@
 - After recusing Halsin, be sure to speak to [Rath](https://bg3.wiki/wiki/Rath) to get access to the druid vault
 - Speak with [Alfira](https://bg3.wiki/wiki/Alfira) within the Grove 
   - Learn an instrument by playing along
-- You will find [Dammon](https://bg3.wiki/wiki/Dammon) who has something important for Karlach
+- You will find [Dammon](https://bg3.wiki/wiki/Dammon) who has something important for [Karlach](https://bg3.wiki/wiki/Karlach)
 - ::missable::Stop an [Assassin](https://bg3.wiki/wiki/Nadira) -- go past the entrance, immediately turn right up the hill (failing to help in this case will cause a permanent NPC death)
 - Heal the [paralyzed Tiefling](https://bg3.wiki/wiki/Pandirna)
 - After [recruiting a new bear friend](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin), speak to Rath and enter the [Druid vault](https://bg3.wiki/wiki/Hidden_Vault)
@@ -164,7 +164,7 @@
 - Raphael will show up either during a long rest, or automatically if you haven't rested in a while
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map)
 # Act 2: First Things First
-- Remember if you didn't talk to Dammon in Act 1, do this as soon as you can for Karlach's poor sake
+- Remember if you didn't talk to [Dammon](https://bg3.wiki/wiki/Dammon) in Act 1, do this as soon as you can for [Karlach](https://bg3.wiki/wiki/Karlach)'s poor sake
 - Plan to rescue the prisoners BEFORE Shar's Temple (and the Nightsong questline)
 # The Road
 - Play hide and seek with a child, get a cool ring
@@ -184,7 +184,7 @@
 - Then, send Halsin to [solve a huge problem](https://bg3.wiki/wiki/Lift_the_Shadow_Curse)
   - Protect the portal
   - Visit camp to find out more about the boy, post-attack
-- Give Dammon what he needs to help Karlach, two times
+- Give [Dammon](https://bg3.wiki/wiki/Dammon) what [he needs](https://bg3.wiki/wiki/Infernal_Iron) to help [Karlach](https://bg3.wiki/wiki/Karlach), two times
 # Moonrise Towers
 - Get some more tadpoles
   - Convince the guard on the docks to let you investigate the shipping crates
@@ -202,7 +202,7 @@
 # Below Moonrise Towers
 - Enter the area under the prisons
 - Get the parasite from a corpse in the main area you drop into
-- Kill the hooked horrors and complete the area
+- Kill the hooked horrors and complete the area (you can't continue forward for now)
 # Destroyed Town
 - Find Arabella 
 - Interact with the center statue puzzle to [open a pathway down](https://bg3.wiki/wiki/Sharran_Sanctuary)
@@ -235,12 +235,12 @@
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map)
 # Temple of Shar (Do This After Prisoners)
 - Check out the path to the right of the entryway statue for treasure "hidden in darkness"
-- Kill Balthazar
+- Kill [Balthazar](https://bg3.wiki/wiki/Balthazar)
   - If somehow you don't have a moonlantern yet, pass checks before killing him to get one
 - [Deal with Yurgir](https://bg3.wiki/wiki/Kill_Raphael%27s_Old_Enemy)
   - Take the [Umbral Gem](https://bg3.wiki/wiki/Umbral_Gem)
-- Find the accursed library
-  - Claim an artifact for Shadowheart by putting an item on the correct pedestal
+- Find the [accursed library](https://bg3.wiki/wiki/Gauntlet_of_Shar#The_Silent_Library)
+  - Claim [an artifact](https://bg3.wiki/wiki/Spear_of_Night) for Shadowheart by putting an item on the correct pedestal
 - Complete the trials for three more [Umbral Gems](https://bg3.wiki/wiki/Umbral_Gem)
   - [Soft-Step Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Soft-Step_Trial)
   - [Self-Same Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Self-Same_Trial)

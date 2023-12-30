@@ -77,8 +77,7 @@ function generateTasks() {
 
           // Generate a unique ID for the item, starting by preparing a slice without the HTML tags, or else the ID may only get the first 50 characters of HTML (so it won't be unique)
           const listItemTextWithoutTags = listItemText.replace(/(<([^>]+)>)/gi, "");
-          const uuid = sanitize(listItemTextWithoutTags.slice(0, 50)); // Extract only the first 50 characters);
-          console.log(uuid)
+          const uuid = sanitize(listItemTextWithoutTags.slice(0, 50)); // Extract only the first 50 characters of the text without HTML tags
 
           // If the bullet is a top-level bullet (i.e., not indented)
           if (level === 0) {
