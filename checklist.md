@@ -13,7 +13,7 @@
 - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Nautiloid
-- [Kill the devil](https://bg3.wiki/wiki/Commander_Zhalk) to get the [fiery sword](https://bg3.wiki/wiki/Everburn_Blade) (it's useful at least partway through Act 1)
+- Kill [the devil](https://bg3.wiki/wiki/Commander_Zhalk) to get the [fiery sword](https://bg3.wiki/wiki/Everburn_Blade) (it's useful at least partway through Act 1)
 - Make a decision about the exposed brain -- sparing it may be relevant later in Act 2
 # Ravaged Beach
 - Take revenge on your tentacled captor from the intro
@@ -78,36 +78,37 @@
 - If you decide to fight, remember you can cause [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss) to drop his sword for Lae'zel with the command spell
 # Owlbear Cave
 - ::missable::[Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby (do this now, or an owlbear will die after a long rest)
-- [Check out the shrine](https://bg3.wiki/wiki/Owlbear_Nest#Sel%C3%BBne_Shrine) and shrine puzzle to get a good item
+- Check out [the shrine](https://bg3.wiki/wiki/Owlbear_Nest#Sel%C3%BBne_Shrine) and complete a shrine puzzle to unlock a chest
 # Waukeen's Rest
 - ::missable::Save two people ([1](https://bg3.wiki/wiki/Rescue_the_Trapped_Man)) ([2](https://bg3.wiki/wiki/Rescue_the_Grand_Duke)) from the [burning inn](https://bg3.wiki/wiki/Waukeen%27s_Rest) (after encountering the area, if you fast travel or rest, they will both die)
   - Help one of them [find a certain ring](https://bg3.wiki/wiki/Dowry_Ring)
   - Don't rest before saving them once you see them, or this quest will be lost! 
-- [Free the shipment holders](https://bg3.wiki/wiki/Find_the_Missing_Shipment) from the gnoll attackers
+- Free [the shipment holders](https://bg3.wiki/wiki/Find_the_Missing_Shipment) from the gnoll attackers
   - Keep at least one alive to learn the password
   - Grab [the shipment item](https://bg3.wiki/wiki/Iron_Flask) from the chest they give you 
 # Zhentarim Hideout
 - One of the cows next to the entrace to the [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement) has interesting dialogue if you've got Speak with Animals
 - Basement to [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement)
-- [Free](https://bg3.wiki/wiki/Free_the_Artist) the artist
+- Free [the artist](https://bg3.wiki/wiki/Free_the_Artist)
 - Optionally buy the [gloves of thievery](https://bg3.wiki/wiki/Gloves_of_Thievery) before dealing with the Zhentarim
 # Putrid Bog & Riverside Teahouse
-- Explore the place where Kagha met the shadow druids and defeat the attackers (investigate the giant stump or you can't complete the relevant quest)
-- Save Mayrina from the hag, exploring the hidden area behind the teahouse's fireplace
-- Meet Astarion's hunter, around the area to the left of the teahouse entrance
+- Explore [the place where Kagha met the shadow druids](https://bg3.wiki/wiki/Investigate_Kagha) and defeat the attackers (investigate the giant stump or you can't complete the relevant quest)
+- Save a [pregnant mother](https://bg3.wiki/wiki/Save_Mayrina)
+- Meet a [monster hunter](https://bg3.wiki/wiki/Gandrel) and deal with him as you see fit
 # Underdark
-- Selunite outpost
+- Clear out the [Selunite outpost](https://bg3.wiki/wiki/Sel%C3%BBnite_Outpost)
   - Light the sconces and braziers in the area to solve the wall puzzles 
   - Find the "secret" chest available with mage hand, jump, or misty step
-- Sword stuck in the stone - Phalar Aluve
-- Check out the [fish people worshipping the fake god Boooal](https://bg3.wiki/wiki/The_Festering_Cove) in a village -- opposite the arcane tower 
-- Interact with the petrified drows and the spectator that appears
-- Help the myconid
-  - ::missable::[Cure Thulla](https://bg3.wiki/wiki/Cure_the_Poisoned_Gnome) before taking 3 long rests
-  - Meet Omeluum (Society of Brilliance)
-  - Save the gnome trapped by exploding green mushrooms
-    - Remember there's a very rare mushroom that can be found there as well, this can be given to Shadowheart to unlock a memory or given to this dude's wife at the Myconid place, or given to this dude to take revenge on his wife for making him a slave 
-  - Defeat the duergars / helping Gut (then double-cross them)
+- Reenact [the sword in the stone](https://bg3.wiki/wiki/Phalar_Aluve)
+- Check out the [fish people's cove](https://bg3.wiki/wiki/The_Festering_Cove)  
+- Interact with [the petrified drows and the aberration](https://bg3.wiki/wiki/Underdark#Petrified_Battlefield) that appears
+- Help [the mushroom leader](https://bg3.wiki/wiki/Spaw)
+  - ::missable::[Cure the sick humanoid](https://bg3.wiki/wiki/Cure_the_Poisoned_Gnome) before taking 3 long rests
+  - Help [a friend that looks like a foe](https://bg3.wiki/wiki/Help_Omeluum_Investigate_the_Parasite) 
+  - Save [a witless gnome in dire straits](https://bg3.wiki/wiki/Find_the_Mushroom_Picker) 
+    - Choose what to do with [the reward from the gnome](https://bg3.wiki/wiki/Noblestalk) 
+  - Go and [defeat the duergars](https://bg3.wiki/wiki/Defeat_the_Duergar_Intruders)
+  - ["Help" Glut](https://bg3.wiki/wiki/Avenge_Glut%27s_Circle), but you probably want to betray him
   - Eliminate Nere (which brings you to Grymforge) -- if you've come across the trapped gnomes, don't rest, or this quest will be lost
 - Get your sussur bark here to finish the weapon in Blighted Village
 - Don't forget Icy Metal, Icy Heave, and Icy Crystal are three components that are needed to craft the Mourning Frost staff
@@ -173,14 +174,13 @@
 # Last Light Inn
 - Talk to the inhabitants
   - Mol and Raphael conversation
-  - Wake up the sleeping fist quest dialogues with Halsin
   - Talk to the Strange Ox again (don't kill it)
   - Get the key from a little tiefling thief
 - ::missable::Get [the inhabitant of a lantern](https://bg3.wiki/wiki/Dolly_Dolly_Dolly) to help, thanks to a [drider](https://bg3.wiki/wiki/Kar%27niss) (if you don't talk to the lantern soon enough, you are locked out of being able to speak with her)
 - Save the moon Cleric from the ambush at the Inn and [start hunting for abductees](https://bg3.wiki/wiki/Resolve_the_Abduction)
 - ::missable::[Find the tiefling](https://bg3.wiki/wiki/Find_Rolan_in_the_Shadows) without fast traveling or long resting (only happens after [the battle with the flying enemies](https://bg3.wiki/wiki/Resolve_the_Abduction), and the timer only starts if you walk near him)
   - Save him from some scary shadows
-- [Wake up](https://bg3.wiki/wiki/Wake_up_Art_Cullagh) a heavy sleeper
+- Wake up [a heavy sleeper](https://bg3.wiki/wiki/Wake_up_Art_Cullagh)
 - Then, send Halsin to [solve a huge problem](https://bg3.wiki/wiki/Lift_the_Shadow_Curse)
   - Protect the portal
   - Visit camp to find out more about the boy, post-attack
@@ -242,25 +242,25 @@
 - Find the accursed library
   - Claim an artifact for Shadowheart by putting an item on the correct pedestal
 - Complete the trials for three more [Umbral Gems](https://bg3.wiki/wiki/Umbral_Gem)
-  - Soft-Step Trial
-  - Self-Same Trial
-  - Faith-Leap Trial
+  - [Soft-Step Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Soft-Step_Trial)
+  - [Self-Same Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Self-Same_Trial)
+  - [Faith-Leap Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Faith-Step_Trial)
 # Approach the Towers
-- Visit the Inn and gather forces
+- Visit [the Inn](https://bg3.wiki/wiki/Last_Light_Inn) and gather forces
   - Talk to [the Selunite](https://bg3.wiki/wiki/Isobel)
 - Attack [the Towers](https://bg3.wiki/wiki/Infiltrate_Moonrise_Towers#Assaulting_Moonrise_Towers)
   - Pick up two tadpoles in the entryway
 - Make your way upstairs and [fight the boss](https://bg3.wiki/wiki/Defeat_Ketheric_Thorm)
-- Jump into one of the towers itself
+- Jump into one of the towers itself to continue
 # Enter the Enemy Base
 - Destroy the undead creatures in a ritual room
   - Complete the brain puzzle
 - Past the door, get the sword, green jar, and items on the corpse
-  - Put the jar in the mind reader and gain a permanent boon (until the character with the buff dies)
+  - Put the jar in the mind reader and gain [a permanent boon](https://bg3.wiki/wiki/Waking_Mind) (until the character with the buff dies)
 - Find the tadpole room
   - Collect the tadpole from the pool
-  - Free Wyll's captor
-  - Free the captured citizens
+  - Free [Wyll's captor](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_Centre)
+  - Free [the captured citizens](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_Centre)
 # BEFORE CONTINUING TO ACT 3
 - Get the Owlbear Cub (and pet him in the middle of the night, of course) 
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) 
