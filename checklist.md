@@ -14,7 +14,7 @@
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Nautiloid
 - [Kill the devil](https://bg3.wiki/wiki/Commander_Zhalk) to get the [fiery sword](https://bg3.wiki/wiki/Everburn_Blade) (it's useful at least partway through Act 1)
-- Make a decision about the exposed brain. Sparing it may be relevant later in Act 2.
+- Make a decision about the exposed brain -- sparing it may be relevant later in Act 2
 # Ravaged Beach
 - Take revenge on your tentacled captor from the intro
 # Wilderness
@@ -66,9 +66,8 @@
 - Find The Cellar
   - Finding the [Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) book which gives +1 WIS checks
   - Find [Shovel](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit)
-- Climb the well into a dungeon (Whispering Depths) which has decent loot
-  - Find a gem that can be used to open a certain book
-  - Read every book you can find in the dungeon 
+- Climb the well into a dungeon ([Whispering Depths](https://bg3.wiki/wiki/Whispering_Depths)) which has decent loot
+  - Find a [gem](https://bg3.wiki/wiki/Dark_Amethyst) that can be used to [open a certain book](https://bg3.wiki/wiki/Necromancy_of_Thay)
 - ::missable::Rescue [Barcus](https://bg3.wiki/wiki/Rescue_the_Gnome) from the windmill (leaving for Act 1.5 will mean he can no longer be rescued)
 - [Scratch](https://bg3.wiki/wiki/Scratch) the dog 
 - Kill the [ogres](https://bg3.wiki/wiki/Lump_the_Enlightened)
@@ -93,7 +92,7 @@
 - [Free](https://bg3.wiki/wiki/Free_the_Artist) the artist
 - Optionally buy the [gloves of thievery](https://bg3.wiki/wiki/Gloves_of_Thievery) before dealing with the Zhentarim
 # Putrid Bog & Riverside Teahouse
-- Explore the place where Kagha met the shadow druids and defeat the attackers (investigate the giant stump)
+- Explore the place where Kagha met the shadow druids and defeat the attackers (investigate the giant stump or you can't complete the relevant quest)
 - Save Mayrina from the hag, exploring the hidden area behind the teahouse's fireplace
 - Meet Astarion's hunter, around the area to the left of the teahouse entrance
 # Underdark
@@ -111,19 +110,18 @@
   - Defeat the duergars / helping Gut (then double-cross them)
   - Eliminate Nere (which brings you to Grymforge) -- if you've come across the trapped gnomes, don't rest, or this quest will be lost
 - Get your sussur bark here to finish the weapon in Blighted Village
-- Don't forget Icy Metal, Icy Heave, and Icy Crystal are three components that are needed to craft the Mourning Frost staff. All three pieces are grey bordered and are seemingly trash, but if you get them you can right click and combine them. All pieces are found in the Underdark 
+- Don't forget Icy Metal, Icy Heave, and Icy Crystal are three components that are needed to craft the Mourning Frost staff
 - Defeat the drow that handles hooked horror monsters
-- Fight a land shark
+- Fight [a land shark](https://baldursgate3.wiki.fextralife.com/Bulette)
 - If you find a small grave site in a clearing, don't touch it until you read a certain note regarding a canine companion in the Arcane Tower
-  - Then, grab the collar from within and use it with the Arcane Tower button 
+  - Once you've done that, grab the collar from within and use it with the Arcane Tower button 
 # Arcane Tower
 - Use the dog collar to [achieve an unexpected result with a button](https://bg3.wiki/wiki/Dog_Collar)
   - Find and dig on a dog's grave on the Underdark Road to find the necessary item
 - Meet Bernard 
-- Don't forget to read all notes and be a good soul, 
+- Don't forget to read all notes and be a good soul 
 - There is a gith disk, don't forget to interact with it after picking it up, and show it to Lae'zel 
-- [Stool of mysterious strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength) in the arcane tower. If you sit in it your character says they feel stronger and you can see your strength stat go up, but it goes away when you stand up. If you then destroy the chair a club will drop that increases your strength. 
-- Visit the basement floor, by equipping the guiding light ring and accessing the new elevator button available 
+- Use the [Stool of Mysterious Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength) to get a one-of-a-kind item
 # Grymforge area
 - Getting the sergeant's boots
 - Runepowder gnome, past hidden kitchen area of Grymforge
@@ -135,6 +133,7 @@
 - Help the [cursed monk](https://bg3.wiki/wiki/Help_the_Cursed_Monk) (you just need to pick up a certain amulet and speak to him about his goals, for now)
 - This one, in Grymforge, is kind of hard to explain and there are multiple paths there, but the easiest one is you follow the west side of the Grymforge north, you will reach an area with a lot of traps (pressure plates, fire statues). If you go all the way through that gauntlet of traps, you get to a locked door. You can jump through this door with misty step (or gaseous form, maybe also fly from the backside). I haven't been able to find a key to this door. Inside, you find a decent clothing item for casters as well as an Idol of Shar that triggers some Shadowheart dialog.
 - Loot the [mimics](https://bg3.wiki/wiki/Mimic)
+- Kill some piggies and optionally get [some masks](https://bg3.wiki/wiki/Devilfoil_Mask)
 - Don't take the elevator up until you've done the creche and other Act 1.5 content
 # BEFORE CONTINUING TO ACT 1.5
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map)
@@ -186,6 +185,7 @@
   - Visit camp to find out more about the boy, post-attack
 - Give Dammon what he needs to help Karlach, two times
 # Moonrise Towers
+- Convince the gnolls and chef to work with you
 - Get some more tadpoles
   - Convince the guard on the docks to let you investigate the shipping crates
   - Destroy the barrel with the tadpoles after investigating
@@ -204,9 +204,11 @@
 - Kill the hooked horrors and complete the area
 # Destroyed Town
 - Find Arabella 
+- Interact with the center statue puzzle to [open a pathway down](https://bg3.wiki/wiki/Sharran_Sanctuary)
+  - Complete the puzzle in the room for three temporary buffs, but DO NOT head further down or you'll lock yourself out of quests
 # Mason's Guild
-- Explore the basement
-  - Use Mattis' Tower-Shaped Key
+- Explore [the basement](https://bg3.wiki/wiki/Mason%27s_Guild)
+  - Use a [Tower-Shaped Key](https://bg3.wiki/wiki/Tower-Shaped_Key)
 # House of Healing
 - Find Arabella's parents
 - Kill the surgeon and take his instrument 
@@ -234,27 +236,39 @@
 - Check out the path to the right of the entryway statue for treasure "hidden in darkness"
 - Kill Balthazar
   - If somehow you don't have a moonlantern yet, pass checks before killing him to get one
-- Kill Yurgir
-  - Take the Umbral Gem
+- [Deal with Yurgir](https://bg3.wiki/wiki/Kill_Raphael%27s_Old_Enemy)
+  - Take the [Umbral Gem](https://bg3.wiki/wiki/Umbral_Gem)
 - Find the accursed library
   - Claim an artifact for Shadowheart by putting an item on the correct pedestal
-- Complete the trials
+- Complete the trials for three more [Umbral Gems](https://bg3.wiki/wiki/Umbral_Gem)
   - Soft-Step Trial
   - Self-Same Trial
   - Faith-Leap Trial
-- Visit the Inn
+# Approach the Towers
+- Visit the Inn and gather forces
   - Talk to the Selunite
 - Attack the towers
   - Pick up two tadpoles in the entryway
 - Make your way upstairs and fight the boss
 - Jump into one of the towers itself
+# Enter the Enemy Base
 - Destroy the undead creatures in a ritual room
   - Complete the brain puzzle
-  - Past the door, get the sword, green jar, and items on the corpse
-  - Put the jar in the mind reader and gain a permanent boon
+- Past the door, get the sword, green jar, and items on the corpse
+  - Put the jar in the mind reader and gain a permanent boon (until the character with the buff dies)
 - Find the tadpole room
   - Collect the tadpole from the pool
   - Free Wyll's captor
   - Free the captured citizens
-# Before leaving for Act 2
+# BEFORE CONTINUING TO ACT 3
 - Get the Owlbear Cub (and pet him in the middle of the night, of course) 
+- Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) 
+# Act 3 Shortlist (WIP, as the author has not finished this yet)
+- INFO: Feel free to send requests for issues/updates you'd like to see [here](https://github.com/plasticmacaroni/bg3-missables/issues)
+- ::missable::[Free Counselor Florrick](https://bg3.wiki/wiki/Free_Counsellor_Florrick) before 5 long rests
+- ::missable::[Help the Ox](https://bg3.wiki/wiki/Help_the_Devilish_Ox) before going to the lower city
+- ::missable::[Solve murders](https://bg3.wiki/wiki/Investigate_the_Murders) before going to the tribunal
+- ::missable::[Save the Gondians](https://bg3.wiki/wiki/Save_the_Gondians) before [Avenging the Ironhands](https://bg3.wiki/wiki/Save_the_Gondians) or before leaving the Iron Throne
+  - ::missable::Also [save a certain noble](https://bg3.wiki/wiki/Rescue_the_Grand_Duke)
+  - ::missable::[Save a tentacled friend](https://bg3.wiki/wiki/Retrieve_Omeluum)
+- ::missable::[Stop the bad news](https://bg3.wiki/wiki/Stop_the_Presses) from spreading before making a long rest
