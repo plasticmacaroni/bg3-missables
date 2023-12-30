@@ -129,6 +129,29 @@ function generateTasks() {
       console.error("There was a problem:", error.message);
       console.trace();
     });
+
+    // Set a recurring timer and watch headers with all subtasks completed with the watchEmptyHeaders function
+    setInterval(watchEmptyHeaders, 500);
+}
+
+// If hide completed is checked, hide the headers with no subtasks remaining
+function watchEmptyHeaders() { 
+  console.log("Running watchEmptyHeaders")
+  // If an h3's span has a class of in_progress, show the header
+  $("h3 > span.in_progress").each(function () {
+    $(this).parent().show();
+  });
+  // if hide completed is not checked, unhide all and return
+  if (!$("body").hasClass("hide_completed")) {
+    $("h3 > span.done").each(function () {
+      $(this).parent().show();
+    });
+    return;
+  }
+  // If an h3's span has a class of done, hide the header
+  $("h3 > span.done").each(function () {
+    $(this).parent().hide();
+  });
 }
 
 function setUlIdAndSpanIdFromH3() {

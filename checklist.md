@@ -167,7 +167,7 @@
 - Plan to rescue the prisoners BEFORE Shar's Temple (and the Nightsong questline)
 # The Road
 - Play hide and seek with a child, get a cool ring
-- Talk to a man who wants to make things "right" by interrogating a dead barkeeper
+- Talk to a man who wants to [make things "right" by interrogating a dead barkeeper](https://bg3.wiki/wiki/Punish_the_Wicked)
 - Save some harpers, find out about the Inn
 - Destroy the everburning torches next to Korliss and fight the shadow mastiffs
 # Last Light Inn
@@ -180,20 +180,21 @@
 - Save the moon Cleric from the ambush at the Inn and [start hunting for abductees](https://bg3.wiki/wiki/Resolve_the_Abduction)
 - ::missable::[Find the tiefling](https://bg3.wiki/wiki/Find_Rolan_in_the_Shadows) without fast traveling or long resting (only happens after [the battle with the flying enemies](https://bg3.wiki/wiki/Resolve_the_Abduction), and the timer only starts if you walk near him)
   - Save him from some scary shadows
-- After helping the sleeping fist, send Halsin
+- [Wake up](https://bg3.wiki/wiki/Wake_up_Art_Cullagh) a heavy sleeper
+- Then, send Halsin to [solve a huge problem](https://bg3.wiki/wiki/Lift_the_Shadow_Curse)
   - Protect the portal
   - Visit camp to find out more about the boy, post-attack
 - Give Dammon what he needs to help Karlach, two times
 # Moonrise Towers
-- Convince the gnolls and chef to work with you
 - Get some more tadpoles
   - Convince the guard on the docks to let you investigate the shipping crates
-  - Destroy the barrel with the tadpoles after investigating
-  - You can move the crate out of sight of the guards
+  - Destroy the barrel with the tadpoles after investigating (you can move the crate out of sight of the guards)
   - Gather 2 more tadpoles 
 - Get a specially-brewed potion from your blood (there are truly no downsides to this event)
   - Do the same for each companion you'd like a free potion for
-- Dominate the gnoll, and you can harvest Linsella's parasite (in the kitchen)
+- Visit the kitchen
+  - Convince the gnolls and chef to work with you
+  - You can optionally harvest Linsella's parasite (in the kitchen)
 - Find the third Orpheus disc in Balthazar's tower and have Lae'zel comment
 - [Save the gnomes](https://bg3.wiki/wiki/Rescue_Wulbren) (talk to them before freeing them)
 - [Save the tieflings](https://bg3.wiki/wiki/Rescue_the_Tieflings) 
@@ -210,7 +211,7 @@
 - Explore [the basement](https://bg3.wiki/wiki/Mason%27s_Guild)
   - Use a [Tower-Shaped Key](https://bg3.wiki/wiki/Tower-Shaped_Key)
 # House of Healing
-- Find Arabella's parents
+- Find [Arabella's parents](https://bg3.wiki/wiki/Find_Arabella%27s_Parents)
 - Kill the surgeon and take his instrument 
   - Keep him from stabbing you for an achivement
 # Morgue
@@ -246,10 +247,10 @@
   - Faith-Leap Trial
 # Approach the Towers
 - Visit the Inn and gather forces
-  - Talk to the Selunite
-- Attack the towers
+  - Talk to [the Selunite](https://bg3.wiki/wiki/Isobel)
+- Attack [the Towers](https://bg3.wiki/wiki/Infiltrate_Moonrise_Towers#Assaulting_Moonrise_Towers)
   - Pick up two tadpoles in the entryway
-- Make your way upstairs and fight the boss
+- Make your way upstairs and [fight the boss](https://bg3.wiki/wiki/Defeat_Ketheric_Thorm)
 - Jump into one of the towers itself
 # Enter the Enemy Base
 - Destroy the undead creatures in a ritual room
