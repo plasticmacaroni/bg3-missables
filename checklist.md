@@ -22,6 +22,7 @@
 - Give [Gale](https://bg3.wiki/wiki/Gale) a hand (don't take a hand) in a teleporter and add him to your party
   - ::missable::Feed him, once he brings up his hunger, within 2 long rests or face some serious consequences
 - Check out [Astarion](https://bg3.wiki/wiki/Astarion)'s boar and add him to your party
+- Optionally (very optionally) get [five temporary spider friends](https://bg3.wiki/wiki/Spider_Egg_Sac)
 # Dank Crypt
 - Gain access to [a character that re-specs you](https://bg3.wiki/wiki/Withers)
 - Check out the [secret book](https://bg3.wiki/wiki/Book_of_Dead_Gods) that reveals information about gods
@@ -51,6 +52,7 @@
 - [Chase the chicken](https://bg3.wiki/wiki/Owlbear_Cub) (do the Owlbear Cave first)
 - Rescue [Volo](https://bg3.wiki/wiki/Volo)
 - Speak to the [priest of Loviatar](https://bg3.wiki/wiki/Abdirak) that talks about pain 
+  - Let him hit you three times to get [a permanent buff](https://bg3.wiki/wiki/Loviatar%27s_Love_(Condition)) (at least until the character that gets the buff dies)
 - Rescue [Halsin](https://bg3.wiki/wiki/Halsin) 
 - Eliminate the [three True Soul goblin leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # The Risen Road
@@ -65,7 +67,7 @@
 - Finish the Masterwork weapon at a former blacksmith's home, get a sussur bark from the Underdark
 - Find The Cellar
   - Finding the [Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) book which gives +1 WIS checks
-  - Find [Shovel](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit)
+  - Find [a cheeky familiar spell](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit)
 - Climb the well into a dungeon ([Whispering Depths](https://bg3.wiki/wiki/Whispering_Depths)) which has decent loot
   - Find a [gem](https://bg3.wiki/wiki/Dark_Amethyst) that can be used to [open a certain book](https://bg3.wiki/wiki/Necromancy_of_Thay)
 - ::missable::Rescue [Barcus](https://bg3.wiki/wiki/Rescue_the_Gnome) from the windmill (leaving for Act 1.5 will mean he can no longer be rescued)
@@ -154,6 +156,7 @@
 - Gith Egg quest
 - Visit the infirmary and try the machine
   - Grab 3 more parasites from this room
+  - Get [a permanent buff](https://bg3.wiki/wiki/Awakened) by sitting in a chair
 - Have a conversation with the inquisitor
 - Perform an Astral Plane visit, talk to Lae'zel
   - Talk to the visitor upon a long rest
@@ -257,6 +260,7 @@
   - Complete the brain puzzle
 - Past the door, get the sword, green jar, and items on the corpse
   - Put the jar in the mind reader and gain [a permanent boon](https://bg3.wiki/wiki/Waking_Mind) (until the character with the buff dies)
+- [Free an old brain friend](https://bg3.wiki/wiki/Us#Act_Two), if you didn't kill them earlier, to get a new ability 
 - Find the tadpole room
   - Collect the tadpole from the pool
   - Free [Wyll's captor](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_Centre)
