@@ -10,6 +10,8 @@ function sanitize(s) {
 
 function generateTasks() {
   let markdownString = "none";
+  // Create counter in order to generate unique IDs for each task
+  let counter = 1;
 
   // Fetch the markdown content from checklist.md
   fetch("checklist.md")
@@ -78,6 +80,13 @@ function generateTasks() {
           // Generate a unique ID for the item, starting by preparing a slice without the HTML tags, or else the ID may only get the first 50 characters of HTML (so it won't be unique)
           const listItemTextWithoutTags = listItemText.replace(/(<([^>]+)>)/gi, "");
           const uuid = sanitize(listItemTextWithoutTags.slice(0, 50)); // Extract only the first 50 characters of the text without HTML tags
+          // Check if the UUID matches any others on the page, and if it does, make it unique
+          if (document.querySelectorAll(`[data-id="playthrough_${uuid}"]`).length > 0) {
+            while (document.querySelectorAll(`[data-id="playthrough_${uuid}_${counter}"]`).length > 0) {
+              counter++;
+            }
+            uuid = `${uuid}_${counter}`;
+          }
 
           // If the bullet is a top-level bullet (i.e., not indented)
           if (level === 0) {
