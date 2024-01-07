@@ -52,7 +52,7 @@
 - [Chase the chicken](https://bg3.wiki/wiki/Owlbear_Cub) (do the Owlbear Cave first)
 - Rescue [Volo](https://bg3.wiki/wiki/Volo)
 - Speak to the [priest of Loviatar](https://bg3.wiki/wiki/Abdirak) that talks about pain 
-  - Let him hit you three times to get [a permanent buff](https://bg3.wiki/wiki/Loviatar%27s_Love_(Condition)) (at least until the character that gets the buff dies)
+  - Let him hit you three times to get [a permanent buff](https://bg3.wiki/wiki/Loviatar%27s_Love_(Condition) (at least until the character that gets the buff dies)
 - Rescue [Halsin](https://bg3.wiki/wiki/Halsin) 
 - Eliminate the [three True Soul goblin leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # The Risen Road
@@ -103,15 +103,15 @@
   - Find the "secret" chest available with mage hand, jump, or misty step
 - Reenact [the sword in the stone](https://bg3.wiki/wiki/Phalar_Aluve)
 - Check out the [fish people's cove](https://bg3.wiki/wiki/The_Festering_Cove)  
-- Interact with [the petrified drows and the aberration](https://bg3.wiki/wiki/Underdark#Petrified_Battlefield) that appears
+- Interact with [the petrified humanoid statues and the aberration](https://bg3.wiki/wiki/Underdark#Petrified_Battlefield) that appears
 - Help [the mushroom leader](https://bg3.wiki/wiki/Spaw)
   - ::missable::[Cure the sick humanoid](https://bg3.wiki/wiki/Cure_the_Poisoned_Gnome) before taking 3 long rests
-  - Help [a friend that looks like a foe](https://bg3.wiki/wiki/Help_Omeluum_Investigate_the_Parasite) 
-  - Save [a witless gnome in dire straits](https://bg3.wiki/wiki/Find_the_Mushroom_Picker) 
-    - Choose what to do with [the reward from the gnome](https://bg3.wiki/wiki/Noblestalk) 
-  - Go and [defeat the duergars](https://bg3.wiki/wiki/Defeat_the_Duergar_Intruders)
-  - ["Help" Glut](https://bg3.wiki/wiki/Avenge_Glut%27s_Circle), but you probably want to betray him
-  - Eliminate Nere (which brings you to Grymforge) -- if you've come across the trapped gnomes, don't rest, or this quest will be lost
+- Help [a friend that looks like a foe](https://bg3.wiki/wiki/Help_Omeluum_Investigate_the_Parasite) 
+- Save [a witless gnome in dire straits](https://bg3.wiki/wiki/Find_the_Mushroom_Picker) 
+  - Choose what to do with [the reward from the gnome](https://bg3.wiki/wiki/Noblestalk) 
+- Go and [defeat the duergars](https://bg3.wiki/wiki/Defeat_the_Duergar_Intruders)
+- ["Help" Glut](https://bg3.wiki/wiki/Avenge_Glut%27s_Circle), but you probably want to betray him
+- Eliminate Nere (which brings you to Grymforge) -- if you've come across the trapped gnomes, don't rest, or this quest will be lost
 - Get your sussur bark here to finish the weapon in Blighted Village
 - Don't forget Icy Metal, Icy Heave, and Icy Crystal are three components that are needed to craft the Mourning Frost staff
 - Defeat the drow that handles hooked horror monsters
@@ -269,7 +269,7 @@
 - Get the Owlbear Cub (and pet him in the middle of the night, of course) 
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before leaving 
 # Act 3 Shortlist (WIP, as the author has not finished this yet)
-- INFO: Feel free to send requests for issues/updates you'd like to see [here](https://github.com/plasticmacaroni/bg3-missables/issues)
+- INFO: Feel free to send requests for issues/updates you'd like to see [here](https://github.com/plasticmacaroni/bg3-missables/issues) (click "New Issue" to log a request)
 - ::missable::[Free Counselor Florrick](https://bg3.wiki/wiki/Free_Counsellor_Florrick) before 5 long rests
 - ::missable::[Help the Ox](https://bg3.wiki/wiki/Help_the_Devilish_Ox) before going to the lower city
 - ::missable::[Solve murders](https://bg3.wiki/wiki/Investigate_the_Murders) before going to the tribunal
