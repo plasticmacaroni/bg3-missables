@@ -1,5 +1,8 @@
 
 # Getting Started (Feel Free to Check These Off)
+- Bingus
+- Bingus
+- Bingus
 - As a rule of thumb, if you see "tie up any loose ends" while visiting a door to a new area, you may not be able to return -- don't go unless you're done!
 - This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry
 - Always crouch when stealing -- enemies will automatically  start investigating if not

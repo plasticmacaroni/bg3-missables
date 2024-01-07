@@ -10,8 +10,6 @@ function sanitize(s) {
 
 function generateTasks() {
   let markdownString = "none";
-  // Create counter in order to generate unique IDs for each task
-  let counter = 1;
 
   // Fetch the markdown content from checklist.md
   fetch("checklist.md")
@@ -80,13 +78,6 @@ function generateTasks() {
           // Generate a unique ID for the item, starting by preparing a slice without the HTML tags, or else the ID may only get the first 50 characters of HTML (so it won't be unique)
           const listItemTextWithoutTags = listItemText.replace(/(<([^>]+)>)/gi, "");
           const uuid = sanitize(listItemTextWithoutTags.slice(0, 50)); // Extract only the first 50 characters of the text without HTML tags
-          // Check if the UUID matches any others on the page, and if it does, make it unique
-          if (document.querySelectorAll(`[data-id="playthrough_${uuid}"]`).length > 0) {
-            while (document.querySelectorAll(`[data-id="playthrough_${uuid}_${counter}"]`).length > 0) {
-              counter++;
-            }
-            uuid = `${uuid}_${counter}`;
-          }
 
           // If the bullet is a top-level bullet (i.e., not indented)
           if (level === 0) {
@@ -123,6 +114,41 @@ function generateTasks() {
       if (playthroughDiv) {
         playthroughDiv.innerHTML += htmlOutput;
       }
+    }) 
+    // Find any task (li) UUIDs that are duplicated, and asynchronously append the number of times they appear above themselves (so the second instance would have a 1, and the third instance would have a 2, etc.)
+    // This should be deterministic, so the same UUIDs should always have the same number appended
+    .then(() => {
+      // Get all li elements with a data-id attribute
+      let listItems = document.querySelectorAll("li[data-id]");
+
+      // Create an array of all the li elements with data-ids, even if their UUIDs and therefore their data-ids are the same
+      let listItemsArray = [];
+      listItems.forEach((listItem) => {
+        listItemsArray.push(listItem);
+      });
+
+      // Create a copy of this array, that won't update with the DOM
+      let shadowArray = listItemsArray.slice();
+
+      // For each li element, find the number of occurrences of its UUID above it in the shadow array, and append that number to the end of its data-id in the DOM, going from top to bottom (so the first entry would have nothing, the second would have "_1" appended, and so on, moving down the page)
+      // Only count instances above each li element, so if there are multiple instances of the same UUID below it, they won't be counted
+      listItemsArray.forEach((listItem) => {
+        // Get the UUID from the data-id attribute
+        let uuid = listItem.getAttribute("data-id").replace("playthrough_", "");
+
+        // Get the index of the current li element in the shadow array
+        let index = shadowArray.indexOf(listItem);
+
+        // Get the number of occurrences of the UUID above the current li element in the shadow array
+        let occurrences = shadowArray.slice(0, index).filter((item) => {
+          return item.getAttribute("data-id").includes(uuid);
+        }).length;
+
+        // If there are any occurrences, append the number of occurrences to the end of the data-id
+        if (occurrences > 0) {
+          listItem.setAttribute("data-id", listItem.getAttribute("data-id") + "_" + occurrences);
+        }
+      });
     })
     // Run the following additional functions after the markdown is converted
     .then(() => {
@@ -141,12 +167,11 @@ function generateTasks() {
     });
 
     // Set a recurring timer and watch headers with all subtasks completed with the watchEmptyHeaders function
-    setInterval(watchEmptyHeaders, 500);
+    setInterval(watchEmptyHeaders, 250);
 }
 
 // If hide completed is checked, hide the headers with no subtasks remaining
 function watchEmptyHeaders() { 
-  console.log("Running watchEmptyHeaders")
   // If an h3's span has a class of in_progress, show the header
   $("h3 > span.in_progress").each(function () {
     $(this).parent().show();
@@ -422,7 +447,7 @@ function initializeProfileFunctionality($) {
           });
         if (checked === count) {
           if (typeof $("#" + type + "_nav_totals_" + i)[0] === "undefined") {
-            console.log($("#" + type + "_nav_totals_" + i));
+            // console.log($("#" + type + "_nav_totals_" + i));
             return;
           }
           this.innerHTML = $("#" + type + "_nav_totals_" + i)[0].innerHTML =
