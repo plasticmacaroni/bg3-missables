@@ -121,7 +121,8 @@
 # Arcane Tower
 - Use the dog collar to [achieve an unexpected result with a button](https://bg3.wiki/wiki/Dog_Collar)
   - Find and dig on a dog's grave on the Underdark Road to find the necessary item
-- Meet Bernard 
+- Meet Bernard
+- Find a [perfectly normal chest](https://bg3.wiki/wiki/Chest_of_the_Mundane) filled with perfectly normal items.
 - Don't forget to read all notes and be a good soul 
 - There is a gith disk, don't forget to interact with it after picking it up, and show it to Lae'zel 
 - Use the [Stool of Mysterious Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength) to get a one-of-a-kind item
