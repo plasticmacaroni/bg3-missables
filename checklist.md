@@ -278,3 +278,5 @@
   - ::missable::Also [save a certain noble](https://bg3.wiki/wiki/Rescue_the_Grand_Duke)
   - ::missable::[Save a tentacled friend](https://bg3.wiki/wiki/Retrieve_Omeluum)
 - ::missable::[Stop the bad news](https://bg3.wiki/wiki/Stop_the_Presses) from spreading before making a long rest
+- When meeting a Djinni at a circus, trick your way into winning the jackpot!
+  - ::missable:: When he teleports you to another area, loot everything since you can't go back to [that place](https://bg3.wiki/wiki/Jungle) 
