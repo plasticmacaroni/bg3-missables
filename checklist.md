@@ -90,11 +90,11 @@
 - Free [the shipment holders](https://bg3.wiki/wiki/Find_the_Missing_Shipment) from the gnoll attackers
   - Keep at least one alive to learn the password
   - Grab [the shipment item](https://bg3.wiki/wiki/Iron_Flask) from the chest they give you 
-# Zhentarim Hideout
-- One of the cows next to the entrace to the [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement) has interesting dialogue if you've got Speak with Animals
-- Basement to [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement)
+# Thief Hideout
+- One of the cows next to the entrace to the [Thief Hideout](https://bg3.wiki/wiki/Zhentarim_Basement) has interesting dialogue if you've got Speak with Animals
+- Enter the basement to the [Thief Hideout](https://bg3.wiki/wiki/Zhentarim_Basement)
 - Free [the artist](https://bg3.wiki/wiki/Free_the_Artist)
-- Optionally buy the [gloves of thievery](https://bg3.wiki/wiki/Gloves_of_Thievery) before dealing with the Zhentarim
+- Optionally buy the [gloves of thievery](https://bg3.wiki/wiki/Gloves_of_Thievery) before dealing with the thieves
 # Putrid Bog & Riverside Teahouse
 - Explore [the place where Kagha met the shadow druids](https://bg3.wiki/wiki/Investigate_Kagha) and defeat the attackers (investigate the giant stump or you can't complete the relevant quest)
 - Save a [pregnant mother](https://bg3.wiki/wiki/Save_Mayrina)
