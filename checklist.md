@@ -15,6 +15,7 @@
 # Nautiloid
 - Kill [the devil](https://bg3.wiki/wiki/Commander_Zhalk) to get the [fiery sword](https://bg3.wiki/wiki/Everburn_Blade) (it's useful at least partway through Act 1)
 - Make a decision about the exposed brain -- sparing it may be relevant later in Act 2
+- Grab some green jars ([1](https://bg3.wiki/wiki/Dark_Mind), [2](https://bg3.wiki/wiki/Slave_Mind)) and hold them until the end of Act 2 for interesting dialogue later, although nothing is lost if you don't get them
 # Ravaged Beach
 - Take revenge on your tentacled captor from the intro
 # Wilderness
@@ -145,8 +146,8 @@
 # Act 1.5 Road
 - Undead attackers on the road
   - Use speak with dead on corpses surrounding them
-- Blue Jay friend and eagles' nest
-- Speak with Elminster at entrance to the Shadow-Cursed Lands
+- [Blue Jay friend](https://bg3.wiki/wiki/Reclaim_the_Blue_Jay%27s_Nest) and eagles' nest
+- Speak with [an ancient mage](https://bg3.wiki/wiki/Elminster#Act_Two) at entrance to the Shadow-Cursed Lands
 - Don't continue to Moonrise Towers until you've completed the Grymforge (Underdark) content
 # Monastary
 - Blood of Lathander puzzle 
