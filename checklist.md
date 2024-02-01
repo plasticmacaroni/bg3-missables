@@ -139,7 +139,7 @@
 - Help the [cursed monk](https://bg3.wiki/wiki/Help_the_Cursed_Monk) (you just need to pick up a certain amulet and speak to him about his goals, for now)
 - Grab a [specific idol](https://bg3.wiki/wiki/Idol_of_Shar) to unlock some dialogue and influence, but otherwise nothing missable
 - Loot the [mimics](https://bg3.wiki/wiki/Mimic)
-- Kill some piggies and optionally get [some masks](https://bg3.wiki/wiki/Devilfoil_Mask)
+- Kill some [piggies](https://bg3.wiki/wiki/Hellsboar) in [the area](https://bg3.wiki/wiki/Grymforge#Abandoned_Temple) and optionally get [some masks](https://bg3.wiki/wiki/Devilfoil_Mask)
 - Don't take the elevator up until you've done the creche and other Act 1.5 content
 # BEFORE CONTINUING TO ACT 1.5
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before going to Act 1.5
@@ -215,7 +215,7 @@
 # Destroyed Town
 - Find Arabella 
 - Interact with the center statue puzzle to [open a pathway down](https://bg3.wiki/wiki/Sharran_Sanctuary)
-  - Complete the puzzle in the room for three temporary buffs, but DO NOT head further down or you'll lock yourself out of quests
+  - Complete the puzzle in the room for three temporary buffs ([1](https://bg3.wiki/wiki/Dark_Lady%27s_Grace_(Condition), [2](https://bg3.wiki/wiki/Dark_Lady%27s_Awareness_(Condition))), [3](https://bg3.wiki/wiki/Dark_Lady%27s_Erudition_(Condition))), but DO NOT head further down or you'll lock yourself out of quests
 # Mason's Guild
 - Explore [the basement](https://bg3.wiki/wiki/Mason%27s_Guild)
   - Use a [Tower-Shaped Key](https://bg3.wiki/wiki/Tower-Shaped_Key)
