@@ -131,8 +131,8 @@
 # Grymforge area
 - Getting the sergeant's boots
 - Runepowder gnome, past hidden kitchen area of Grymforge
-- ::missable::Free Nere (if you long rest or fast travel he'll die)
-- ::missable::Similarly, save the Grymforge Gnomes before long resting or fast travelling (although they technically may live a little longer)
+- ::missable::Free a certain [Drow](https://bg3.wiki/wiki/Free_True_Soul_Nere) (if you long rest or fast travel he'll die)
+- ::missable::Similarly, save [some gnomes](https://bg3.wiki/wiki/Save_the_Grymforge_Gnomes) before long resting or fast travelling (although they technically may live a little longer)
   - Remember to speak to [Thulla](https://bg3.wiki/wiki/Thulla) back at the myconid area now that this is done
 - Adamantine Forge (you can find 2 mithril ores to make 2 pieces of gear)
   - When fighting Grym, have one of your characters attack him where the forge hammer falls and you will aggro Grym, you see where I'm going with this?
