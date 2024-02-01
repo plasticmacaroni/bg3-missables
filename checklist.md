@@ -201,8 +201,10 @@
   - Do the same for each companion you'd like a free potion for
 - Visit the kitchen
   - Convince the gnolls and chef to work with you
-  - You can optionally harvest Linsella's parasite (in the kitchen)
-- Find the third Orpheus disc in Balthazar's tower and have Lae'zel comment
+  - You can optionally harvest [their captor's](https://bg3.wiki/wiki/Linsella) parasite (in the kitchen)
+- Find the third Orpheus disc in Balthazar's tower and talk to Lae'zel to hear her thoughts
+- Get [a dark lantern](https://bg3.wiki/wiki/Shadow_Lantern) from [an enemy leader's chambers](https://bg3.wiki/wiki/Moonrise_Towers#Balthazar's_room), and have a wizard in your party activate it for a permanent summon
+- Investigate the daughter's room to find [something that isn't as it appears](https://bg3.wiki/wiki/Moonrise_Towers#Isobel's_room)
 - [Save the gnomes](https://bg3.wiki/wiki/Rescue_Wulbren) (talk to them before freeing them)
 - [Save the tieflings](https://bg3.wiki/wiki/Rescue_the_Tieflings) 
   - Talk to [Rolan](https://bg3.wiki/wiki/Rolan)
@@ -257,6 +259,7 @@
   - Talk to [the Selunite](https://bg3.wiki/wiki/Isobel)
 - Attack [the Towers](https://bg3.wiki/wiki/Infiltrate_Moonrise_Towers#Assaulting_Moonrise_Towers)
   - Pick up two tadpoles in the entryway
+- Join a new fight in the basement cells (even if you cleared it before)
 - Make your way upstairs and [fight the boss](https://bg3.wiki/wiki/Defeat_Ketheric_Thorm)
 - Jump into one of the towers itself to continue
 # Enter the Enemy Base
