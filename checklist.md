@@ -1,4 +1,3 @@
-
 # Getting Started (Feel Free to Check These Off)
 - As a rule of thumb, if you see "tie up any loose ends" while visiting a door to a new area, you may not be able to return -- don't go unless you're done!
 - This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry
@@ -24,29 +23,24 @@
 - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Nautiloid
-- ::task:: General tasks:
-  - ::task:: No general tasks.
-- ::missable:: Time sensitive tasks that can be failed:
-  - ::missable:: [Escape the Nautiloid before time runs out.](https://bg3.wiki/wiki/Prologue) 
-- ::item_story::Missable or limited story items:
-    - ::item_story:: No story items.
-- ::ability:: Missable or limited skills, spells or abilities:
-  - ::ability:: Make a [friend](https://bg3.wiki/wiki/Us) and keep him alive to be granted a missable ability later.
-- ::item_common:: Missable or limited items:
-  - ::item_uncommon:: Kill or Command (Drop) an [enemy](https://bg3.wiki/wiki/Zhalk) for a missable [item](https://bg3.wiki/wiki/Everburn_Blade).
-- ::item_ordinary:: Ordinary items may be unique in name, but don't differ from regular items. Missable or limited ordinary items:
-  - ::item_ordinary:: Pick up some missable items [1](https://bg3.wiki/wiki/Dark_Mind) [2](https://bg3.wiki/wiki/Slave_Mind)  for some dialogue later.
-  - ::item_ordinary:: Recruit a [companion](https://bg3.wiki/wiki/Lae%27zel) for some missable items [1](https://bg3.wiki/wiki/Githyanki_Boots) [2](https://bg3.wiki/wiki/Lae%27zel%27s_Clothes) [3](https://bg3.wiki/wiki/Lae%27zel%27s_Underwear) [4](https://bg3.wiki/wiki/Tasteful_Boots).
-  - ::item_ordinary:: Recruit a second [companion](https://bg3.wiki/wiki/Shadowheart) for some missable items [1](https://bg3.wiki/wiki/Circlet) [2](https://bg3.wiki/wiki/Chain_Shirt) [3](https://bg3.wiki/wiki/Shadowheart%27s_Clothes) [4](https://bg3.wiki/wiki/Shadowheart%27s_Underwear) [5](https://bg3.wiki/wiki/Tasteful_Boots).
-  - ::item_ordinary:: Unequip a companion for a missable [item](https://bg3.wiki/wiki/Bandit%27s%20Armour) later.
+- ::missable:: [Escape the Nautiloid before time runs out.](https://bg3.wiki/wiki/Prologue) 
+- ::ability:: Make a [friend](https://bg3.wiki/wiki/Us) and keep him alive to be granted a missable ability later.
+- ::item_uncommon:: Kill or Command (Drop) an [enemy](https://bg3.wiki/wiki/Zhalk) for a missable [item](https://bg3.wiki/wiki/Everburn_Blade).
+- ::item_ordinary:: Pick up some missable items [1](https://bg3.wiki/wiki/Dark_Mind) [2](https://bg3.wiki/wiki/Slave_Mind)  for some dialogue later.
+- ::item_ordinary:: Recruit a [companion](https://bg3.wiki/wiki/Lae%27zel) for some missable items [1](https://bg3.wiki/wiki/Githyanki_Boots) [2](https://bg3.wiki/wiki/Lae%27zel%27s_Clothes) [3](https://bg3.wiki/wiki/Lae%27zel%27s_Underwear) [4](https://bg3.wiki/wiki/Tasteful_Boots).
+- ::item_ordinary:: Recruit a second [companion](https://bg3.wiki/wiki/Shadowheart) for some missable items [1](https://bg3.wiki/wiki/Circlet) [2](https://bg3.wiki/wiki/Chain_Shirt) [3](https://bg3.wiki/wiki/Shadowheart%27s_Clothes) [4](https://bg3.wiki/wiki/Shadowheart%27s_Underwear) [5](https://bg3.wiki/wiki/Tasteful_Boots).
+- ::item_ordinary:: Unequip a companion for a missable [item](https://bg3.wiki/wiki/Bandit%27s%20Armour) later.
 # Ravaged Beach
 - Take revenge on your tentacled captor from the intro
-# Wilderness
-- [Help Lae'zel](https://bg3.wiki/wiki/Lae%27zel#Recruitment) drop out of her wooden bars
+- Check out [Astarion](https://bg3.wiki/wiki/Astarion)'s boar and add him to your party
+# Roadside Cliffs
 - Give [Gale](https://bg3.wiki/wiki/Gale) a hand (don't take a hand) in a teleporter and add him to your party
   - ::missable::Feed him, once he brings up his hunger, within 2 long rests or face some serious consequences
-- Check out [Astarion](https://bg3.wiki/wiki/Astarion)'s boar and add him to your party
+- [Help Lae'zel](https://bg3.wiki/wiki/Lae%27zel#Recruitment) drop out of her wooden bars
+# Roadside Cliffs (Harper's Outpost)
 - Optionally (very optionally) get [five temporary spider friends](https://bg3.wiki/wiki/Spider_Egg_Sac)
+# Overgrown Ruins
+# Refectory
 # Dank Crypt
 - Gain access to [a character that re-specs you](https://bg3.wiki/wiki/Withers)
 - Check out the [secret book](https://bg3.wiki/wiki/Book_of_Dead_Gods) that reveals information about gods
@@ -72,6 +66,18 @@
 - After [recruiting a new bear friend](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin), speak to Rath and enter the [Druid vault](https://bg3.wiki/wiki/Hidden_Vault)
 - Optionally [steal the Idol for Mol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) (BEFORE finishing Goblin Camp, and after exposing Kagha)
 - After rescuing the Tieflings, get the Hellrider's Pride from [Zevlor](https://bg3.wiki/wiki/Zevlor)
+# Druid's Chambers
+# Enclave Library
+# Hidden Vault
+# Inner Sanctum
+# Sacred Pool
+# Secluded Chamber
+# Secluded Cove
+# Servants' Quarters
+# The Hollow
+# Tiefling Hideout
+# Forest
+# Underground Passage
 # Goblin Camp
 - [Chase the chicken](https://bg3.wiki/wiki/Owlbear_Cub) (do the Owlbear Cave first)
 - Rescue [Volo](https://bg3.wiki/wiki/Volo)
@@ -79,11 +85,15 @@
   - Let him hit you three times to get [a permanent buff](https://bg3.wiki/wiki/Loviatar%27s_Love_(Condition) (at least until the character that gets the buff dies)
 - Rescue [Halsin](https://bg3.wiki/wiki/Halsin) 
 - Eliminate the [three True Soul goblin leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
+# Shattered Sanctum
+# Worg Pens
+# Defiled Temple
 # The Risen Road
 - Meet [Karlach](https://bg3.wiki/wiki/Karlach)
 - ::missable::[Deal with the paladins](https://bg3.wiki/wiki/Hunt_the_Devil) she brings up before going to Act 1.5, or deal with some permanent consequences
 - Find the [Silver Pendant](https://bg3.wiki/wiki/Silver_Pendant) 
 - ::missable::Protect [two](https://bg3.wiki/wiki/Rugan) [people](https://bg3.wiki/wiki/Olly) being attacked by furries to start the [missing shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest (if you encounter them and long rest without saving them, they'll permanently die)
+# The Risen Road (Toll House)
 # Blighted Village
 - ::missable::Find two new friends [next to a dead man](https://bg3.wiki/wiki/Edowin) (if you don't interact in time they'll leave)
   - Consume what lies in the dwarf's noggin
@@ -99,10 +109,12 @@
 - Kill the [ogres](https://bg3.wiki/wiki/Lump_the_Enlightened)
   - Nab the [Headband of Intellect](https://bg3.wiki/wiki/Warped_Headband_of_Intellect)
 - In one of the houses north of the village, there is a bugbear having a moment with their partner
-# Githyanki Patrol
+# Apothecary's Cellar
+# Whispering Depths
+# Mountain Pass
 - After you discover [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss), speak to him before long resting, or deal with some permanent consequences
 - If you decide to fight, remember you can cause [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss) to drop his sword for Lae'zel with the command spell
-# Owlbear Cave
+# Owlbear Nest
 - ::missable::[Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby (do this now, or an owlbear will die after a long rest)
 - Check out [the shrine](https://bg3.wiki/wiki/Owlbear_Nest#Sel%C3%BBne_Shrine) and complete a shrine puzzle to unlock a chest
 # Waukeen's Rest
@@ -112,16 +124,20 @@
 - After breaking down a door, obtain a [unique sword](https://bg3.wiki/wiki/Svartlebee%27s_Woundseeker) by [commanding](https://bg3.wiki/wiki/Command) its [wielder](https://bg3.wiki/wiki/Yeva) to drop it.
 - Free [the shipment holders](https://bg3.wiki/wiki/Find_the_Missing_Shipment) from the gnoll attackers
   - Keep at least one alive to learn the password
-  - Grab [the shipment item](https://bg3.wiki/wiki/Iron_Flask) from the chest they give you 
-# Thief Hideout
+  - Grab [the shipment item](https://bg3.wiki/wiki/Iron_Flask) from the chest they give you
+# Zhentarim Hideout
 - One of the cows next to the entrace to the [Thief Hideout](https://bg3.wiki/wiki/Zhentarim_Basement) has interesting dialogue if you've got Speak with Animals
 - Enter the basement to the [Thief Hideout](https://bg3.wiki/wiki/Zhentarim_Basement)
 - Free [the artist](https://bg3.wiki/wiki/Free_the_Artist)
 - Optionally buy the [gloves of thievery](https://bg3.wiki/wiki/Gloves_of_Thievery) before dealing with the thieves
-# Putrid Bog & Riverside Teahouse
+# Sunlit Wetlands
 - Explore [the place where Kagha met the shadow druids](https://bg3.wiki/wiki/Investigate_Kagha) and defeat the attackers (investigate the giant stump or you can't complete the relevant quest)
-- Save a [pregnant mother](https://bg3.wiki/wiki/Save_Mayrina)
 - Meet a [monster hunter](https://bg3.wiki/wiki/Gandrel) and deal with him as you see fit
+# Riverside Teahouse
+- Save a [pregnant mother](https://bg3.wiki/wiki/Save_Mayrina)
+# Overgrown Tunnel
+# Overgrown Tunnel (Ancient Abode)
+# Overgrown Tunnel (Acrid Workshop)
 # Underdark
 - Clear out the [outpost area that offers protection from monsters](https://bg3.wiki/wiki/Sel%C3%BBnite_Outpost)
   - Light the sconces and braziers in the area to solve the wall puzzles 
@@ -142,7 +158,13 @@
 - Defeat the drow that handles hooked horror monsters
 - Fight [a land shark](https://baldursgate3.wiki.fextralife.com/Bulette)
 - If you find a small grave site in a clearing, don't touch it until you read a certain note regarding a canine companion in the Arcane Tower
-  - Once you've done that, grab the collar from within and use it with the Arcane Tower button 
+  - Once you've done that, grab the collar from within and use it with the Arcane Tower button
+# Bibberbang Grotto
+# Decrepit Village
+# Dread Hollow
+# Myconid Colony
+# Selûnite Outpost
+# The Festering Cove
 # Arcane Tower
 - Use the dog collar to [achieve an unexpected result with a button](https://bg3.wiki/wiki/Dog_Collar)
   - Find and dig on a dog's grave on the Underdark Road to find the necessary item
@@ -151,7 +173,7 @@
 - Don't forget to read all notes and be a good soul 
 - There is a gith disk, don't forget to interact with it after picking it up, and show it to Lae'zel 
 - Use the [Stool of Mysterious Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength) to get a one-of-a-kind item
-# Grymforge area
+# Grymforge
 - Get [the sergeant's boots](https://bg3.wiki/wiki/Find_the_Missing_Boots)
 - Talk to a [gnome with runepowder](https://bg3.wiki/wiki/Philomeen), past hidden kitchen area of Grymforge
 - ::missable::Free a certain [Drow](https://bg3.wiki/wiki/Free_True_Soul_Nere) (if you long rest or fast travel he'll die)
@@ -164,17 +186,20 @@
 - Loot the [mimics](https://bg3.wiki/wiki/Mimic)
 - Kill some [piggies](https://bg3.wiki/wiki/Hellsboar) in [the area](https://bg3.wiki/wiki/Grymforge#Abandoned_Temple) and optionally get [some masks](https://bg3.wiki/wiki/Devilfoil_Mask)
 - Don't take the elevator up until you've done the creche and other Act 1.5 content
+# Abandoned Refuge
+# Abandoned Refuge (Ancient Forge)
+# The Adamantine Forge
 # BEFORE CONTINUING TO ACT 1.5
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before going to Act 1.5
-# Act 1.5 Road
+# Rosymorn Monastery Trail
 - Undead attackers on the road
   - Use speak with dead on corpses surrounding them
 - Talk to a [blue Jay friend](https://bg3.wiki/wiki/Reclaim_the_Blue_Jay%27s_Nest) and eagles' nest
 - Speak with [an ancient mage](https://bg3.wiki/wiki/Elminster#Act_Two) at entrance to the Shadow-Cursed Lands
 - Don't continue to Moonrise Towers until you've completed the Grymforge (Underdark) content
-# Monastary
+# Rosymorn Monastery
 - Solve a puzzle that involves the [blood of a god](https://bg3.wiki/wiki/Find_the_Blood_of_Lathander)  
-# Creche
+# Crèche Y'llek
 - Save the student in the Classroom and get [the second githyanki disc](https://bg3.wiki/wiki/Discover_the_history_of_Prince_Orpheus#Moonrise_Towers) from him, then talk to Lae'zel
 - Gith Egg quest
 - Visit the infirmary and get ready to try [the machine](https://bg3.wiki/wiki/Zaith%27isk)
@@ -183,6 +208,10 @@
 - Have a conversation with [the inquisitor](https://bg3.wiki/wiki/W%27wargaz)
 - Perform an [Astral Plane](https://bg3.wiki/wiki/Astral_Plane) visit, and then talk to Lae'zel
   - Talk to [the visitor](https://bg3.wiki/wiki/Voss) upon a long rest
+# Crèche Y'llek (Classroom)
+# Crèche Y'llek (Hatchery)
+# Crèche Y'llek (Infirmary)
+# Crèche Y'llek (Inquisitor's Chamber)
 # BEFORE CONTINUING TO ACT 2
 - Let a certain Dandy [shove an icepick in your eye](https://bg3.wiki/wiki/Volo%27s_Ersatz_Eye) for a permanent upgrade (unconfirmed that this has to be before Act 2)
 - Deluxe edition -- portraits: optionally find Fane in The Ruins, Lohse near Nettie in The Emerald Grove, Red Prince in the Waukeen's Rest, Ifan in the Blighted Village, Sebille in the Hag's house, and finally Beast in The Arcane Tower 
@@ -192,8 +221,9 @@
 # Act 2: First Things First
 - Remember if you didn't talk to [Dammon](https://bg3.wiki/wiki/Dammon) in Act 1, do this as soon as you can for [Karlach](https://bg3.wiki/wiki/Karlach)'s poor sake
 - Plan to rescue the prisoners BEFORE Shar's Temple (and the Nightsong questline)
-# The Road
+# House in Deep Shadows
 - Play hide and seek with [a child](https://bg3.wiki/wiki/Oliver), get [a cool ring](https://bg3.wiki/wiki/Ring_of_Shadows)
+# Ruined Battlefield
 - Talk to a man who wants to [make things "right" by interrogating a dead barkeeper](https://bg3.wiki/wiki/Punish_the_Wicked)
 - Save some harpers, find out about the Inn
 - Give a certain companion [a certain flower](https://bg3.wiki/wiki/Night_Orchid) they might have mentioned
@@ -228,24 +258,27 @@
 - [Save the gnomes](https://bg3.wiki/wiki/Rescue_Wulbren) (talk to them before freeing them)
 - [Save the tieflings](https://bg3.wiki/wiki/Rescue_the_Tieflings) 
   - Talk to [the aspiring Tiefling wizard](https://bg3.wiki/wiki/Rolan)
-# Below Moonrise Towers
+# Moonrise Towers (Ketheric's Room)
+# Oubliette
 - Enter [the area under the prisons](https://bg3.wiki/wiki/Oubliette)
 - Get the parasite from a Zealot corpse in the main area you drop into
 - Kill [the monstrosities within](https://bg3.wiki/wiki/Hook_Horror) and complete the area (you can't continue forward for now)
-# Destroyed Town
+# Reithwin Town
 - Find [a young tiefling](https://bg3.wiki/wiki/Arabella#Act_Two) that needs help 
 - Interact with the center statue puzzle to [open a pathway down](https://bg3.wiki/wiki/Sharran_Sanctuary)
   - Complete the puzzle in the room for three temporary buffs ([1](https://bg3.wiki/wiki/Dark_Lady%27s_Grace_(Condition)), ([2](https://bg3.wiki/wiki/Dark_Lady%27s_Awareness_(Condition)), ([3](https://bg3.wiki/wiki/Dark_Lady%27s_Erudition_(Condition)) but DO NOT head further down and complete the area, freeing an important prisoner, or you'll lock yourself out of freeing prisoners at Moonrise
+  - Deal with the gith patrol and [their leader](https://bg3.wiki/wiki/Tska%27an)
 # Mason's Guild
 - Explore [the basement](https://bg3.wiki/wiki/Mason%27s_Guild)
   - Use a [Tower-Shaped Key](https://bg3.wiki/wiki/Tower-Shaped_Key)
 - Investigate [a particular resistance group](https://bg3.wiki/wiki/Investigate_the_Sel%C3%BBnite_Resistance)
 - Check [the cave](https://bg3.wiki/wiki/Mason's_Guild#Mason's_Guild_Basement) under the masonary
+# Reithwin Graveyard
 # House of Healing
 - Find [the lost tiefling child's parents](https://bg3.wiki/wiki/Find_Arabella%27s_Parents)
 - Kill [a surgeon with questionable ethics](https://bg3.wiki/wiki/Malus_Thorm) and take his instrument 
   - Keep him from stabbing you for an achievement
-# Morgue
+# House of Healing Morgue
 - Check out [the morgue](https://bg3.wiki/wiki/House_of_Healing_Morgue) for some lore and good items
 # The Waning Moon
 - Have a [drinking contest](https://bg3.wiki/wiki/Thisobald_Thorm#Find_Ketheric_Thorm's_Relic)
@@ -255,11 +288,10 @@
 # Reithwin Tollhouse
 - Deal with [the "coin boss"](https://bg3.wiki/wiki/Gerringothe_Thorm) 
   - Keep her from doing anything to you for [an achievement](https://bg3.wiki/wiki/Achievements)
-# The Army Encampment 
-- Deal with the gith patrol and [their leader](https://bg3.wiki/wiki/Tska%27an)
 # BEFORE CONTINUING TO THE TEMPLE
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before entering the Temple
-# Temple of Shar (Do This After Freeing Prisoners from a Certain Dungeon)
+# Grand Mausoleum
+# Gauntlet of Shar
 - Check out the path to the right of the entryway statue for treasure "hidden in darkness"
 - Kill [Balthazar](https://bg3.wiki/wiki/Balthazar)
   - If somehow you don't have a moonlantern yet, pass checks before killing him to get one
@@ -271,14 +303,16 @@
   - [Soft-Step Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Soft-Step_Trial)
   - [Self-Same Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Self-Same_Trial)
   - [Faith-Leap Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Faith-Step_Trial)
-# Approach the Towers
+# Silent Library
+# Shadowfell
+# Moonrise Towers (Revisited)
 - Visit [the Inn](https://bg3.wiki/wiki/Last_Light_Inn) and gather forces
   - Talk to [the Selunite](https://bg3.wiki/wiki/Isobel)
 - Attack [the Towers](https://bg3.wiki/wiki/Infiltrate_Moonrise_Towers#Assaulting_Moonrise_Towers)
   - Pick up two tadpoles in the entryway
 - Join a new fight in the basement cells (even if you cleared it before)
 - Make your way upstairs and [fight the boss](https://bg3.wiki/wiki/Defeat_Ketheric_Thorm)
-# Enter the Enemy Base
+# Mind Flayer Colony
 - Jump into [one of the towers](https://bg3.wiki/wiki/Mind_Flayer_Colony) to enter an enemy base
 - Destroy the undead creatures in [a ritual room](https://bg3.wiki/wiki/Mind_Flayer_Colony#Necrotic_laboratory)
   - Complete the brain puzzle
@@ -302,4 +336,86 @@
   - ::missable::[Save a tentacled friend](https://bg3.wiki/wiki/Retrieve_Omeluum)
 - ::missable::[Stop the bad news](https://bg3.wiki/wiki/Stop_the_Presses) from spreading before making a long rest
 - When meeting a Djinni at a circus, trick your way into winning the jackpot!
-  - ::missable:: When he teleports you to another area, loot everything since you can't go back to [that place](https://bg3.wiki/wiki/Jungle) 
+  - ::missable:: When he teleports you to another area, loot everything since you can't go back to [that place](https://bg3.wiki/wiki/Jungle)
+# Abandoned Windmill
+# Ancient Lair
+# Angleiron's Cellar
+# Arfur's Mansion
+# Arfur's Mansion (Basement)
+# Astral Plane
+# Baldur's Mouth
+# Baldur's Mouth (Basement)
+# Basilisk Gate Barracks
+# Bloomridge Park
+# Bonecloak's Apothecary
+# Campsite
+# Carm's Garm
+# Cazador's Dungeon
+# Chromatic Scale
+# Circus of the Last Days
+# Cloister of Sombre Embrace
+# Crimson Draughts
+# Danthelon's Dancing Axe
+# Devil's Den
+# Devil's Fee
+# Elerrathin's Home
+# Elerrathin's Home (Jaheira's Basement)
+# Elfsong Tavern
+# Elfsong Tavern (Basement)
+# Elminster's Library
+# Facemaker's Boutique
+# Felogyr's Fireworks
+# Flymm Cargo
+# Flymm's Cobblers
+# Forge of the Nine
+# Fraygo's Flophouse
+# Guildhall
+# Gur Camp
+# Heapside Prison
+# Hhune Mausoleum
+# Highberry's Home
+# House of Grief
+# House of Hope
+# Iron Throne
+# Jungle
+# Knights of the Shield Hideout
+# Lady Jannath's Estate
+# Lower City
+# Lower City Sewers
+# Morphic Pool
+# Murder Tribunal
+# Nortale's Hostel
+# Old Garlow's Place
+# Open Hand Temple
+# Philgrave's Mansion
+# Ramazith's Tower
+# Requisitioned Barn
+# Rivington
+# Rivington (Western Beach)
+# Sharess' Caress
+# Sharran Enclave
+# Sorcerous Sundries
+# Steel Watch Foundry
+# Stormshore Armoury
+# Stormshore Tabernacle
+# Sword Coast Couriers
+# Szarr Palace
+# Temple of Bhaal
+# The Bibliophile
+# The Blushing Mermaid
+# The Counting House
+# The Dragon's Sanctum
+# The Glitter Gala
+# The High Hall
+# The Lodge
+# The Lodge - Basement Docks
+# The Wyrmway
+# Under Temple Cave Area
+# Undercity Ruins
+# Vonayn's Home
+# Water Queen's House
+# Windmill Basement
+# Wine Festival
+# Wyrm's Crossing
+# Wyrm's Crossing (The Velveteen Elixir)
+# Wyrm's Rock Fortress
