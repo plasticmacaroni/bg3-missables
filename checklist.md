@@ -100,7 +100,7 @@
 - Save a [pregnant mother](https://bg3.wiki/wiki/Save_Mayrina)
 - Meet a [monster hunter](https://bg3.wiki/wiki/Gandrel) and deal with him as you see fit
 # Underdark
-- Clear out the [Selunite outpost](https://bg3.wiki/wiki/Sel%C3%BBnite_Outpost)
+- Clear out the [outpost area that offers protection from monsters](https://bg3.wiki/wiki/Sel%C3%BBnite_Outpost)
   - Light the sconces and braziers in the area to solve the wall puzzles 
   - Find the "secret" chest available with mage hand, jump, or misty step
 - Reenact [the sword in the stone](https://bg3.wiki/wiki/Phalar_Aluve)
@@ -179,10 +179,10 @@
 - Give a certain companion [a certain flower](https://bg3.wiki/wiki/Night_Orchid) they might have mentioned
 - Destroy the everburning torches next to Korliss and fight the shadow mastiffs
 # Last Light Inn
-- Talk to the inhabitants
-  - Mol and Raphael conversation
-  - Talk to the Strange Ox again (don't kill it)
-  - Get the key from a little tiefling thief
+- Talk to the inhabitants of [the Inn](https://bg3.wiki/wiki/Last_Light_Inn)
+  - Make sure to speak with a pair playing chess ([a tiefling child](https://bg3.wiki/wiki/Mol) and [a familiar opponent](https://bg3.wiki/wiki/Raphael))
+  - Talk to [a Strange Ox](https://bg3.wiki/wiki/Strange_Ox) again (don't kill it)
+  - Get [a key](https://bg3.wiki/wiki/Tower-Shaped_Key) from a little tiefling thief
 - ::missable::Get [the inhabitant of a lantern](https://bg3.wiki/wiki/Dolly_Dolly_Dolly) to help, thanks to a [drider](https://bg3.wiki/wiki/Kar%27niss) (if you don't talk to the lantern soon enough, you are locked out of being able to speak with her)
 - Save the moon Cleric from the ambush at the Inn and [start hunting for abductees](https://bg3.wiki/wiki/Resolve_the_Abduction)
 - ::missable::[Find the tiefling](https://bg3.wiki/wiki/Find_Rolan_in_the_Shadows) without fast traveling or long resting (only happens after [the battle with the flying enemies](https://bg3.wiki/wiki/Resolve_the_Abduction), and the timer only starts if you walk near him)
@@ -190,63 +190,60 @@
 - Wake up [a heavy sleeper](https://bg3.wiki/wiki/Wake_up_Art_Cullagh)
 - Then, send Halsin to [solve a huge problem](https://bg3.wiki/wiki/Lift_the_Shadow_Curse)
   - Protect the portal
-  - Visit camp to find out more about the boy, post-attack
+  - Visit camp to find out more about [the boy](https://bg3.wiki/wiki/Thaniel), post-attack
 - Give [Dammon](https://bg3.wiki/wiki/Dammon) what [he needs](https://bg3.wiki/wiki/Infernal_Iron) to help [Karlach](https://bg3.wiki/wiki/Karlach), two times
 # Moonrise Towers
 - Get some more tadpoles
   - Convince the guard on the docks to let you investigate the shipping crates
   - Destroy the barrel with the tadpoles after investigating (you can move the crate out of sight of the guards)
   - Gather 2 more tadpoles 
-- Get a specially-brewed potion from your blood (there are truly no downsides to this event)
+- Get [a specially-brewed potion](https://bg3.wiki/wiki/Araj_Oblodra) from your blood (there are truly no downsides to this event)
   - Do the same for each companion you'd like a free potion for
-- Visit the kitchen
-  - Convince the gnolls and chef to work with you
+- Visit [the kitchen](https://bg3.wiki/wiki/Moonrise_Towers#Kitchen)
+  - Convince [the gnolls](https://bg3.wiki/wiki/%27Barnabus%27) to work with you
   - You can optionally harvest [their captor's](https://bg3.wiki/wiki/Linsella) parasite (in the kitchen)
 - Find the third Orpheus disc in Balthazar's tower and talk to Lae'zel to hear her thoughts
 - Get [a dark lantern](https://bg3.wiki/wiki/Shadow_Lantern) from [an enemy leader's chambers](https://bg3.wiki/wiki/Moonrise_Towers#Balthazar's_room), and have a wizard in your party activate it for a permanent summon
 - Investigate the daughter's room to find [something that isn't as it appears](https://bg3.wiki/wiki/Moonrise_Towers#Isobel's_room)
 - [Save the gnomes](https://bg3.wiki/wiki/Rescue_Wulbren) (talk to them before freeing them)
 - [Save the tieflings](https://bg3.wiki/wiki/Rescue_the_Tieflings) 
-  - Talk to [Rolan](https://bg3.wiki/wiki/Rolan)
+  - Talk to [the aspiring Tiefling wizard](https://bg3.wiki/wiki/Rolan)
 # Below Moonrise Towers
-- Enter the area under the prisons
-- Get the parasite from a corpse in the main area you drop into
-- Kill the hooked horrors and complete the area (you can't continue forward for now)
+- Enter [the area under the prisons](https://bg3.wiki/wiki/Oubliette)
+- Get the parasite from a Zealot corpse in the main area you drop into
+- Kill [the monstrosities within](https://bg3.wiki/wiki/Hook_Horror) and complete the area (you can't continue forward for now)
 # Destroyed Town
-- Find Arabella 
+- Find [a young tiefling](https://bg3.wiki/wiki/Arabella#Act_Two) that needs help 
 - Interact with the center statue puzzle to [open a pathway down](https://bg3.wiki/wiki/Sharran_Sanctuary)
-  - Complete the puzzle in the room for three temporary buffs ([1](https://bg3.wiki/wiki/Dark_Lady%27s_Grace_(Condition), [2](https://bg3.wiki/wiki/Dark_Lady%27s_Awareness_(Condition))), [3](https://bg3.wiki/wiki/Dark_Lady%27s_Erudition_(Condition))), but DO NOT head further down or you'll lock yourself out of quests
+  - Complete the puzzle in the room for three temporary buffs ([1](https://bg3.wiki/wiki/Dark_Lady%27s_Grace_(Condition))), ([2](https://bg3.wiki/wiki/Dark_Lady%27s_Awareness_(Condition))), ([3](https://bg3.wiki/wiki/Dark_Lady%27s_Erudition_(Condition))) but DO NOT head further down and complete the area, freeing an important prisoner, or you'll lock yourself out of freeing prisoners at Moonrise
 # Mason's Guild
 - Explore [the basement](https://bg3.wiki/wiki/Mason%27s_Guild)
   - Use a [Tower-Shaped Key](https://bg3.wiki/wiki/Tower-Shaped_Key)
+- Investigate [a particular resistance group](https://bg3.wiki/wiki/Investigate_the_Sel%C3%BBnite_Resistance)
+- Check [the cave](https://bg3.wiki/wiki/Mason's_Guild#Mason's_Guild_Basement) under the masonary
 # House of Healing
-- Find [Arabella's parents](https://bg3.wiki/wiki/Find_Arabella%27s_Parents)
-- Kill the surgeon and take his instrument 
-  - Keep him from stabbing you for an achivement
+- Find [the lost tiefling child's parents](https://bg3.wiki/wiki/Find_Arabella%27s_Parents)
+- Kill [a surgeon with questionable ethics](https://bg3.wiki/wiki/Malus_Thorm) and take his instrument 
+  - Keep him from stabbing you for an achievement
 # Morgue
-- Check out the morgue -- self explanatory
+- Check out [the morgue](https://bg3.wiki/wiki/House_of_Healing_Morgue) for some lore and good items
 # The Waning Moon
-- Have a drinking contest
-  - Use his key to open up the back
-  - Grab some purple guts
-  - Find the bar notes for the dead barkeeper interrogator 
-# Mason's Guild
-- Investigate the Selunite resistance
-- Check the cave under the masonary
+- Have a [drinking contest](https://bg3.wiki/wiki/Thisobald_Thorm#Find_Ketheric_Thorm's_Relic)
+  - Use [his key](https://bg3.wiki/wiki/Worn_Key) to open up the back
+  - Grab [three purple guts](https://bg3.wiki/wiki/Purple_Worm_Gullet) from the area ([Reddit backup link until the wiki updates](https://www.reddit.com/r/BaldursGate3/comments/15po0hp/purple_worm_gullet/))
+  - Find [the bar notes](https://bg3.wiki/wiki/Madeline%27s_Ledger) for a quest about revenge 
 # Reithwin Tollhouse
-- Deal with the "coin boss" 
-  - Keep her from doing anything to you for an achievement
+- Deal with [the "coin boss"](https://bg3.wiki/wiki/Gerringothe_Thorm) 
+  - Keep her from doing anything to you for [an achievement](https://bg3.wiki/wiki/Achievements)
 # The Army Encampment 
-- Deal with the gith patrol
-# Ketheric
-- Investigate the basement of the prison
+- Deal with the gith patrol and [their leader](https://bg3.wiki/wiki/Tska%27an)
 # BEFORE CONTINUING TO THE TEMPLE
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before entering the Temple
-# Temple of Shar (Do This After Prisoners)
+# Temple of Shar (Do This After Freeing Prisoners from a Certain Dungeon)
 - Check out the path to the right of the entryway statue for treasure "hidden in darkness"
 - Kill [Balthazar](https://bg3.wiki/wiki/Balthazar)
   - If somehow you don't have a moonlantern yet, pass checks before killing him to get one
-- [Deal with Yurgir](https://bg3.wiki/wiki/Kill_Raphael%27s_Old_Enemy)
+- Deal with [a certain devil's nemesis](https://bg3.wiki/wiki/Kill_Raphael%27s_Old_Enemy)
   - Take the [Umbral Gem](https://bg3.wiki/wiki/Umbral_Gem)
 - Find the [accursed library](https://bg3.wiki/wiki/Gauntlet_of_Shar#The_Silent_Library)
   - Claim [an artifact](https://bg3.wiki/wiki/Spear_of_Night) for Shadowheart by putting an item on the correct pedestal
@@ -261,15 +258,15 @@
   - Pick up two tadpoles in the entryway
 - Join a new fight in the basement cells (even if you cleared it before)
 - Make your way upstairs and [fight the boss](https://bg3.wiki/wiki/Defeat_Ketheric_Thorm)
-- Jump into one of the towers itself to continue
 # Enter the Enemy Base
-- Destroy the undead creatures in a ritual room
+- Jump into [one of the towers](https://bg3.wiki/wiki/Mind_Flayer_Colony) to enter an enemy base
+- Destroy the undead creatures in [a ritual room](https://bg3.wiki/wiki/Mind_Flayer_Colony#Necrotic_laboratory)
   - Complete the brain puzzle
 - Past the door, get the sword, green jar, and items on the corpse
   - Put the jar in the mind reader and gain [a permanent boon](https://bg3.wiki/wiki/Waking_Mind) (until the character with the buff dies)
 - [Free an old brain friend](https://bg3.wiki/wiki/Us#Act_Two), if you didn't kill them earlier, to get a new ability 
-- Find the tadpole room
-  - Collect the tadpole from the pool
+- Find [the tadpole room](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_centre)
+  - Collect a tadpole from the pool
   - Free [Wyll's captor](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_Centre)
   - Free [the captured citizens](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_Centre)
 # BEFORE CONTINUING TO ACT 3
