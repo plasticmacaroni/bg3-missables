@@ -115,7 +115,7 @@
 - ["Help" Glut](https://bg3.wiki/wiki/Avenge_Glut%27s_Circle), but you probably want to betray him
 - Eliminate Nere (which brings you to Grymforge) -- if you've come across the trapped gnomes, don't rest, or this quest will be lost
 - Get your sussur bark here to finish the weapon in Blighted Village
-- Don't forget Icy Metal, Icy Heave, and Icy Crystal are three components that are needed to craft the Mourning Frost staff
+- Don't forget to gather three components that are needed to craft a [frosty staff](https://bg3.wiki/wiki/Mourning_Frost)
 - Defeat the drow that handles hooked horror monsters
 - Fight [a land shark](https://baldursgate3.wiki.fextralife.com/Bulette)
 - If you find a small grave site in a clearing, don't touch it until you read a certain note regarding a canine companion in the Arcane Tower
@@ -129,13 +129,13 @@
 - There is a gith disk, don't forget to interact with it after picking it up, and show it to Lae'zel 
 - Use the [Stool of Mysterious Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength) to get a one-of-a-kind item
 # Grymforge area
-- Getting the sergeant's boots
-- Runepowder gnome, past hidden kitchen area of Grymforge
+- Get [the sergeant's boots](https://bg3.wiki/wiki/Find_the_Missing_Boots)
+- Talk to a [gnome with runepowder](https://bg3.wiki/wiki/Philomeen), past hidden kitchen area of Grymforge
 - ::missable::Free a certain [Drow](https://bg3.wiki/wiki/Free_True_Soul_Nere) (if you long rest or fast travel he'll die)
 - ::missable::Similarly, save [some gnomes](https://bg3.wiki/wiki/Save_the_Grymforge_Gnomes) before long resting or fast travelling (although they technically may live a little longer)
   - Remember to speak to [Thulla](https://bg3.wiki/wiki/Thulla) back at the myconid area now that this is done
-- Adamantine Forge (you can find 2 mithril ores to make 2 pieces of gear)
-  - When fighting Grym, have one of your characters attack him where the forge hammer falls and you will aggro Grym, you see where I'm going with this?
+- Enter the [Forge](https://bg3.wiki/wiki/Adamantine_Forge) (you can find 2 mithril ores to make 2 pieces of gear)
+  - When fighting [the Forge boss](https://bg3.wiki/wiki/Grym), don't use the area's huge hammer to attack, and you'll get an achievement
 - Help the [cursed monk](https://bg3.wiki/wiki/Help_the_Cursed_Monk) (you just need to pick up a certain amulet and speak to him about his goals, for now)
 - Grab a [specific idol](https://bg3.wiki/wiki/Idol_of_Shar) to unlock some dialogue and influence, but otherwise nothing missable
 - Loot the [mimics](https://bg3.wiki/wiki/Mimic)
@@ -146,34 +146,31 @@
 # Act 1.5 Road
 - Undead attackers on the road
   - Use speak with dead on corpses surrounding them
-- [Blue Jay friend](https://bg3.wiki/wiki/Reclaim_the_Blue_Jay%27s_Nest) and eagles' nest
+- Talk to a [blue Jay friend](https://bg3.wiki/wiki/Reclaim_the_Blue_Jay%27s_Nest) and eagles' nest
 - Speak with [an ancient mage](https://bg3.wiki/wiki/Elminster#Act_Two) at entrance to the Shadow-Cursed Lands
 - Don't continue to Moonrise Towers until you've completed the Grymforge (Underdark) content
 # Monastary
-- Blood of Lathander puzzle 
-  - Nest on top
-  - Guardian
-- Blood of Lathander quest ([spoiler](https://bg3.wiki/wiki/Find_the_Blood_of_Lathander))
+- Solve a puzzle that involves the [blood of a god](https://bg3.wiki/wiki/Find_the_Blood_of_Lathander)  
 # Creche
-- Save the student in the Classroom and get the second Orpheus disc from him, then talk to Lae'zel
+- Save the student in the Classroom and get [the second githyanki disc](https://bg3.wiki/wiki/Discover_the_history_of_Prince_Orpheus#Moonrise_Towers) from him, then talk to Lae'zel
 - Gith Egg quest
-- Visit the infirmary and try the machine
+- Visit the infirmary and get ready to try [the machine](https://bg3.wiki/wiki/Zaith%27isk)
   - Grab 3 more parasites from this room
   - Get [a permanent buff](https://bg3.wiki/wiki/Awakened) by sitting in a chair
-- Have a conversation with the inquisitor
-- Perform an Astral Plane visit, talk to Lae'zel
-  - Talk to the visitor upon a long rest
+- Have a conversation with [the inquisitor](https://bg3.wiki/wiki/W%27wargaz)
+- Perform an [Astral Plane](https://bg3.wiki/wiki/Astral_Plane) visit, and then talk to Lae'zel
+  - Talk to [the visitor](https://bg3.wiki/wiki/Voss) upon a long rest
 # BEFORE CONTINUING TO ACT 2
-- Let a certain Dandy shove an icepick in your eye for a permanent upgrade (unconfirmed that this has to be before Act 2)
+- Let a certain Dandy [shove an icepick in your eye](https://bg3.wiki/wiki/Volo%27s_Ersatz_Eye) for a permanent upgrade (unconfirmed that this has to be before Act 2)
 - Deluxe edition -- portraits: optionally find Fane in The Ruins, Lohse near Nettie in The Emerald Grove, Red Prince in the Waukeen's Rest, Ifan in the Blighted Village, Sebille in the Hag's house, and finally Beast in The Arcane Tower 
 - You will meet some hyenas near a broken cart in the upperworld (there will be a cutscene prompting you to react to the dead hyenas) 
-- Raphael will show up either during a long rest, or automatically if you haven't rested in a while
+- [A particular demonic visitor](https://bg3.wiki/wiki/Raphael) will show up either during a long rest, or automatically if you haven't rested in a while
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before going to Act 2
 # Act 2: First Things First
 - Remember if you didn't talk to [Dammon](https://bg3.wiki/wiki/Dammon) in Act 1, do this as soon as you can for [Karlach](https://bg3.wiki/wiki/Karlach)'s poor sake
 - Plan to rescue the prisoners BEFORE Shar's Temple (and the Nightsong questline)
 # The Road
-- Play hide and seek with a child, get a cool ring
+- Play hide and seek with [a child](https://bg3.wiki/wiki/Oliver), get [a cool ring](https://bg3.wiki/wiki/Ring_of_Shadows)
 - Talk to a man who wants to [make things "right" by interrogating a dead barkeeper](https://bg3.wiki/wiki/Punish_the_Wicked)
 - Save some harpers, find out about the Inn
 - Give a certain companion [a certain flower](https://bg3.wiki/wiki/Night_Orchid) they might have mentioned
