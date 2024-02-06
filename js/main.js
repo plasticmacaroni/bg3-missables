@@ -57,7 +57,7 @@ function generateTasks() {
           // Replace ::missable:: with a clock icon, ::item:: with the gem icon, ::ability:: with mortarboard icon, and ::task::, if present or added above
           listItemText = listItemText.replace(
             /::missable::/g,
-            '<i class="bi bi-stopwatch"></i>'
+            '<i class="bi bi-stopwatch text-warning"></i>'
           );
           listItemText = listItemText.replace(
             /::item::/g,
