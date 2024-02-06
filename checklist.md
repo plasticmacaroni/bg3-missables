@@ -26,12 +26,12 @@
 # Nautiloid
 - ::ability:: Missable or limited skills, spells or abilities:
   - ::ability:: Make a [friend](https://bg3.wiki/wiki/Us) and keep him alive to be granted a missable ability later.
-- ::item_ordinary:: Missable or limited ordinary items.  Ordinary items may be unique in name, but don't differ from regular items.
+- ::item_ordinary:: Ordinary items may be unique in name, but don't differ from regular items. Missable or limited ordinary items:
   - ::item_ordinary:: Pick up some missable items [1](https://bg3.wiki/wiki/Dark_Mind) [2](https://bg3.wiki/wiki/Slave_Mind)  for some dialogue later.
   - ::item_ordinary:: Recruit a [companion](https://bg3.wiki/wiki/Lae%27zel) for some missable items [1](https://bg3.wiki/wiki/Githyanki_Boots) [2](https://bg3.wiki/wiki/Lae%27zel%27s_Clothes) [3](https://bg3.wiki/wiki/Lae%27zel%27s_Underwear) [4](https://bg3.wiki/wiki/Tasteful_Boots).
   - ::item_ordinary:: Recruit a second [companion](https://bg3.wiki/wiki/Shadowheart) for some missable items [1](https://bg3.wiki/wiki/Circlet) [2](https://bg3.wiki/wiki/Chain_Shirt) [3](https://bg3.wiki/wiki/Shadowheart%27s_Clothes) [4](https://bg3.wiki/wiki/Shadowheart%27s_Underwear) [5](https://bg3.wiki/wiki/Tasteful_Boots).
   - ::item_ordinary:: Unequip a companion for a missable [item](https://bg3.wiki/wiki/Bandit%27s%20Armour) later.
-- ::item_common:: Missable or limited items.
+- ::item_common:: Missable or limited items:
   - ::item_uncommon:: Kill or Command (Drop) an [enemy](https://bg3.wiki/wiki/Zhalk) for a missable [item](https://bg3.wiki/wiki/Everburn_Blade).
 # Ravaged Beach
 - Take revenge on your tentacled captor from the intro
