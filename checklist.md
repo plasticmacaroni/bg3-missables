@@ -4,6 +4,7 @@
 - This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry
 - Always crouch when stealing -- enemies will automatically  start investigating if not
 - Send all camp supplies to camp -- they'll automatically show up when you Long Rest
+- ::task::This represents general tasks. ::item::This represents missable or limited items. ::ability::This represents missable or limited skills, spells or abilities. ::missable::This represents time sensitive mechanics that can be failed.
 # Act 1 Main Missables Entry List
 - Turn in a quest to [save the tieflings](https://bg3.wiki/wiki/Save_the_Refugees) in the grove -- you'll get a pair of gloves 
 - ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
@@ -13,11 +14,12 @@
 - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Nautiloid
-- ::gem::test
-- ::missable::test
-- Kill [the devil](https://bg3.wiki/wiki/Commander_Zhalk) to get the [fiery sword](https://bg3.wiki/wiki/Everburn_Blade) (it's useful at least partway through Act 1)
-- Make a decision about the exposed brain -- sparing it may be relevant later in Act 2
-- Grab some green jars ([1](https://bg3.wiki/wiki/Dark_Mind), [2](https://bg3.wiki/wiki/Slave_Mind)) and hold them until the end of Act 2 for interesting dialogue later, although nothing is lost if you don't get them
+- ::ability::[URL](https://bg3.wiki/wiki/Us) Make a friend that can grant a missable ability later.
+- ::item:: [URL1](https://bg3.wiki/wiki/Dark_Mind) [URL2](https://bg3.wiki/wiki/Slave_Mind) Pick up some missable items for some dialogue later.
+- ::item:: [URL](https://bg3.wiki/wiki/Lae%27zel) Recruit a companion for some missable items.
+- ::item:: [URL](https://bg3.wiki/wiki/Shadowheart) Recruit a second companion for some missable items.
+- ::item:: [URL](https://bg3.wiki/wiki/Bandit%27s%20Armour) Unequip a companion for a missable item later.
+- ::item:: [URL](https://bg3.wiki/wiki/Everburn_Blade) Kill or Command (Drop) an enemy for a missable item.
 # Ravaged Beach
 - Take revenge on your tentacled captor from the intro
 # Wilderness
