@@ -24,7 +24,7 @@
 - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Nautiloid
-- ::ability:: Make a [friend](https://bg3.wiki/wiki/Us) that can grant a missable ability later.
+- ::ability:: Make a [friend](https://bg3.wiki/wiki/Us) and keep him alive to be granted a missable ability later.
 - ::item_common:: Pick up some missable items [1](https://bg3.wiki/wiki/Dark_Mind) [2](https://bg3.wiki/wiki/Slave_Mind)  for some dialogue later.
 - ::item_common:: Recruit a [companion](https://bg3.wiki/wiki/Lae%27zel) for some missable items.
 - ::item_common:: Recruit a second [companion](https://bg3.wiki/wiki/Shadowheart) for some missable items.
