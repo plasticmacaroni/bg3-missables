@@ -212,7 +212,7 @@
 # Destroyed Town
 - Find [a young tiefling](https://bg3.wiki/wiki/Arabella#Act_Two) that needs help 
 - Interact with the center statue puzzle to [open a pathway down](https://bg3.wiki/wiki/Sharran_Sanctuary)
-  - Complete the puzzle in the room for three temporary buffs ([1](https://bg3.wiki/wiki/Dark_Lady%27s_Grace_(Condition))), ([2](https://bg3.wiki/wiki/Dark_Lady%27s_Awareness_(Condition))), ([3](https://bg3.wiki/wiki/Dark_Lady%27s_Erudition_(Condition))) but DO NOT head further down and complete the area, freeing an important prisoner, or you'll lock yourself out of freeing prisoners at Moonrise
+  - Complete the puzzle in the room for three temporary buffs ([1](https://bg3.wiki/wiki/Dark_Lady%27s_Grace_(Condition)), ([2](https://bg3.wiki/wiki/Dark_Lady%27s_Awareness_(Condition)), ([3](https://bg3.wiki/wiki/Dark_Lady%27s_Erudition_(Condition)) but DO NOT head further down and complete the area, freeing an important prisoner, or you'll lock yourself out of freeing prisoners at Moonrise
 # Mason's Guild
 - Explore [the basement](https://bg3.wiki/wiki/Mason%27s_Guild)
   - Use a [Tower-Shaped Key](https://bg3.wiki/wiki/Tower-Shaped_Key)
