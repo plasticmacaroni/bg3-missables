@@ -308,8 +308,8 @@
 - When meeting a Djinni at a circus, trick your way into winning the jackpot!
   - ::missable:: When he teleports you to another area, loot everything since you can't go back to [that place](https://bg3.wiki/wiki/Jungle)
 # Lower City
-- ::item_story:: [URL](https://bg3.wiki/wiki/Guild%20Ring)
+- ::item_story:: [Story Item Placeholder](https://bg3.wiki/wiki/Guild%20Ring)
 # Murder Tribunal
-- ::item_story:: [URL](https://bg3.wiki/wiki/Amulet%20of%20Bhaal)
+- ::item_story:: [Story Item Placeholder](https://bg3.wiki/wiki/Amulet%20of%20Bhaal)
 # Szarr Palace
-- ::item_story:: [URL](https://bg3.wiki/wiki/Szarr%20Family%20Ring)
+- ::item_story:: [Story Item Placeholder](https://bg3.wiki/wiki/Szarr%20Family%20Ring)
