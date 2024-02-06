@@ -4,17 +4,17 @@
 - This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry
 - Always crouch when stealing -- enemies will automatically  start investigating if not
 - Send all camp supplies to camp -- they'll automatically show up when you Long Rest
-- ::task::This represents general tasks.
-- ::item::This represents missable or limited items.
-- ::ability::This represents missable or limited skills, spells or abilities.
-- ::missable::This represents time sensitive mechanics that can be failed.
-- ::item_ordinary::
-- ::item_common::
-- ::item_uncommon::
-- ::item_rare::
-- ::item_veryrare::
-- ::item_legendary::
-- ::item_story::
+- The following icon usage is described below
+  - ::task::This represents general tasks.
+  - ::missable::This represents time sensitive tasks that can be failed.
+  - ::ability::This represents missable or limited skills, spells or abilities.
+  - ::item_common::This represents missable or limited common items.
+  - ::item_uncommon::This represents missable or limited uncommon items.
+  - ::item_rare::This represents missable or limited rare items.
+  - ::item_veryrare::This represents missable or limited very rare items.
+  - ::item_legendary::This represents missable or limited legendary items.
+  - ::item_story::This represents missable or limited story items.
+  - ::item_ordinary::This represents missable or limited ordinary items.  Ordinary items may be unique in name, but don't differ from regular items.
 # Act 1 Main Missables Entry List
 - Turn in a quest to [save the tieflings](https://bg3.wiki/wiki/Save_the_Refugees) in the grove -- you'll get a pair of gloves 
 - ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
