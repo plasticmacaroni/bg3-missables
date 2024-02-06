@@ -8,6 +8,13 @@
 - ::item::This represents missable or limited items.
 - ::ability::This represents missable or limited skills, spells or abilities.
 - ::missable::This represents time sensitive mechanics that can be failed.
+- ::item_ordinary::
+- ::item_common::
+- ::item_uncommon::
+- ::item_rare::
+- ::item_veryrare::
+- ::item_legendary::
+- ::item_story::
 # Act 1 Main Missables Entry List
 - Turn in a quest to [save the tieflings](https://bg3.wiki/wiki/Save_the_Refugees) in the grove -- you'll get a pair of gloves 
 - ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
@@ -17,8 +24,8 @@
 - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Nautiloid
-- ::ability::[URL](https://bg3.wiki/wiki/Us) Make a friend that can grant a missable ability later.
-- ::item:: [URL1](https://bg3.wiki/wiki/Dark_Mind) [URL2](https://bg3.wiki/wiki/Slave_Mind) Pick up some missable items for some dialogue later.
+- ::ability:: Make a [friend](https://bg3.wiki/wiki/Us) that can grant a missable ability later.
+- ::item:: Pick up some missable items [1](https://bg3.wiki/wiki/Dark_Mind) [2](https://bg3.wiki/wiki/Slave_Mind)  for some dialogue later.
 - ::item:: [URL](https://bg3.wiki/wiki/Lae%27zel) Recruit a companion for some missable items.
 - ::item:: [URL](https://bg3.wiki/wiki/Shadowheart) Recruit a second companion for some missable items.
 - ::item:: [URL](https://bg3.wiki/wiki/Bandit%27s%20Armour) Unequip a companion for a missable item later.
