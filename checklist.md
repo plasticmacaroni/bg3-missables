@@ -26,10 +26,10 @@
 # Nautiloid
 - ::ability:: Make a [friend](https://bg3.wiki/wiki/Us) that can grant a missable ability later.
 - ::item_common:: Pick up some missable items [1](https://bg3.wiki/wiki/Dark_Mind) [2](https://bg3.wiki/wiki/Slave_Mind)  for some dialogue later.
-- ::item_common:: [URL](https://bg3.wiki/wiki/Lae%27zel) Recruit a companion for some missable items.
-- ::item_common:: [URL](https://bg3.wiki/wiki/Shadowheart) Recruit a second companion for some missable items.
-- ::item_common:: [URL](https://bg3.wiki/wiki/Bandit%27s%20Armour) Unequip a companion for a missable item later.
-- ::item_uncommon:: [URL](https://bg3.wiki/wiki/Everburn_Blade) Kill or Command (Drop) an enemy for a missable item.
+- ::item_common:: Recruit a [companion](https://bg3.wiki/wiki/Lae%27zel) for some missable items.
+- ::item_common:: Recruit a second [companion](https://bg3.wiki/wiki/Shadowheart) for some missable items.
+- ::item_common:: Unequip a companion for a missable [item](https://bg3.wiki/wiki/Bandit%27s%20Armour) later.
+- ::item_uncommon:: Kill or Command (Drop) an [enemy](https://bg3.wiki/wiki/Zhalk) for a missable [item](https://bg3.wiki/wiki/Everburn_Blade).
 # Ravaged Beach
 - Take revenge on your tentacled captor from the intro
 # Wilderness
