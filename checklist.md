@@ -72,10 +72,10 @@
 # Sacred Pool
 # Secluded Chamber
 # Secluded Cove
-- ::item_story:: Perform with [Alfira](https://bg3.wiki/wiki/Alfira) to obtain an [item](https://bg3.wiki/wiki/Lihala%27s%20Lute).
+- ::item_story:: Perform with [Alfira](https://bg3.wiki/wiki/Alfira) to obtain an [Lute](https://bg3.wiki/wiki/Lihala%27s%20Lute).
 # Servants' Quarters
 # The Hollow
-- ::item_story:: Find the [item](https://bg3.wiki/wiki/Brass%20Locket) to complete the [quest](https://bg3.wiki/wiki/Return_the_Locket).
+- ::item_story:: Find the [stolen locket](https://bg3.wiki/wiki/Brass%20Locket) to complete a [quest](https://bg3.wiki/wiki/Return_the_Locket).
 # Tiefling Hideout
 # Forest
 # Underground Passage
@@ -87,7 +87,7 @@
 - Rescue [Halsin](https://bg3.wiki/wiki/Halsin) 
 - Eliminate the [three True Soul goblin leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Shattered Sanctum
-- ::story_item:: The first opportunity to obtain a [limited item](https://bg3.wiki/wiki/Spider%27s%20Lyre).
+- ::story_item:: The first opportunity to obtain a [Spider Lyre](https://bg3.wiki/wiki/Spider%27s%20Lyre).
 # Worg Pens
 # Defiled Temple
 # The Risen Road
@@ -97,7 +97,7 @@
 - ::missable::Protect [two](https://bg3.wiki/wiki/Rugan) [people](https://bg3.wiki/wiki/Olly) being attacked by furries to start the [missing shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest (if you encounter them and long rest without saving them, they'll permanently die)
 # The Risen Road (Toll House)
 # Blighted Village
-- ::item_story:: The first opportunity to find a missable [item](https://bg3.wiki/wiki/Bloody%20Amulet).  It is not recommended to obtain this.
+- ::item_story:: The first opportunity to find the [Bloody Amulet](https://bg3.wiki/wiki/Bloody%20Amulet).  It is not recommended to obtain this.
 - ::missable::Find two new friends [next to a dead man](https://bg3.wiki/wiki/Edowin) (if you don't interact in time they'll leave)
   - Consume what lies in the dwarf's noggin
   - Combine the [shaft](https://bg3.wiki/wiki/Shaft_of_a_Broken_Spear) he has on his person with [an item from the nearby cave](https://bg3.wiki/wiki/Head_of_a_Broken_Spear) to create [a powerful item](https://bg3.wiki/wiki/Vision_of_the_Absolute)
@@ -228,7 +228,8 @@
 # House in Deep Shadows
 - Play hide and seek with [a child](https://bg3.wiki/wiki/Oliver), get [a cool ring](https://bg3.wiki/wiki/Ring_of_Shadows)
 # Ruined Battlefield
-- ::missable:: ::item_story:: First opportunity to find a missable [item](https://bg3.wiki/wiki/Moonlantern) from an [enemy](https://bg3.wiki/wiki/Kar%27niss).
+- ::item_story:: First opportunity to find a [Moonlantern](https://bg3.wiki/wiki/Moonlantern), dropped from an [enemy](https://bg3.wiki/wiki/Kar%27niss).
+  - ::missable:: This version of the item is time limited and must be obtained before the target reaches Moonrise Towers (depending on how the player entered Act 2).  It is recommended to obtain this item ASAP.
   - ::item_common:: It is higly recommended to get this one, as it grants another missable [item](https://bg3.wiki/wiki/Filigreed_Feywild_Bell) and affects a future interaction with a little [friend](https://bg3.wiki/wiki/Dolly_Dolly_Dolly)
 - Talk to a man who wants to [make things "right" by interrogating a dead barkeeper](https://bg3.wiki/wiki/Punish_the_Wicked)
 - Save some harpers, find out about the Inn
