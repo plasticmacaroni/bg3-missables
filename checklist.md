@@ -228,15 +228,15 @@
 # House in Deep Shadows
 - Play hide and seek with [a child](https://bg3.wiki/wiki/Oliver), get [a cool ring](https://bg3.wiki/wiki/Ring_of_Shadows)
 # Ruined Battlefield
-- ::item_story:: First opportunity to find a [Moonlantern](https://bg3.wiki/wiki/Moonlantern), dropped from an [enemy](https://bg3.wiki/wiki/Kar%27niss).
-  - ::missable:: This version of the item is time limited and must be obtained before the target reaches Moonrise Towers (depending on how the player entered Act 2).  It is recommended to obtain this item ASAP.
-  - ::item_common:: It is higly recommended to get this one, as it grants another missable [item](https://bg3.wiki/wiki/Filigreed_Feywild_Bell) and affects a future interaction with a little [friend](https://bg3.wiki/wiki/Dolly_Dolly_Dolly)
+- ::item_story:: First opportunity to find a [Moonlantern](https://bg3.wiki/wiki/Moonlantern), dropped from [Kar'niss](https://bg3.wiki/wiki/Kar%27niss).
+  - ::missable:: This version of the item is time limited and, depending on how the player entered Act 2, must be obtained before the target reaches Moonrise Towers.  It is recommended to obtain this item ASAP.
+  - ::item_common:: It is higly recommended to get this one as it grants another item, the [Filigreed Feywild Bell](https://bg3.wiki/wiki/Filigreed_Feywild_Bell), and affects a future interaction with [Dolly Dolly Dolly](https://bg3.wiki/wiki/Dolly_Dolly_Dolly)
 - Talk to a man who wants to [make things "right" by interrogating a dead barkeeper](https://bg3.wiki/wiki/Punish_the_Wicked)
 - Save some harpers, find out about the Inn
 - Give a certain companion [a certain flower](https://bg3.wiki/wiki/Night_Orchid) they might have mentioned
 - Destroy the everburning torches next to Korliss and fight the shadow mastiffs
 # Last Light Inn
-- ::item_story:: Second chance to get a missable [item](https://bg3.wiki/wiki/Moonlantern).
+- ::item_story:: Second chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern).
 - Talk to the inhabitants of [the Inn](https://bg3.wiki/wiki/Last_Light_Inn)
   - Make sure to speak with a pair playing chess ([a tiefling child](https://bg3.wiki/wiki/Mol) and [a familiar opponent](https://bg3.wiki/wiki/Raphael))
   - Talk to [a Strange Ox](https://bg3.wiki/wiki/Strange_Ox) again (don't kill it)
@@ -250,7 +250,7 @@
   - Visit camp to find out more about [the boy](https://bg3.wiki/wiki/Thaniel), post-attack
 - Give [Dammon](https://bg3.wiki/wiki/Dammon) what [he needs](https://bg3.wiki/wiki/Infernal_Iron) to help [Karlach](https://bg3.wiki/wiki/Karlach), two times
 # Moonrise Towers
-- ::item_story:: Final chance to get a missable [item](https://bg3.wiki/wiki/Moonlantern).
+- ::item_story:: Final chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern).
 - Get some more tadpoles
   - Convince the guard on the docks to let you investigate the shipping crates
   - Destroy the barrel with the tadpoles after investigating (you can move the crate out of sight of the guards)
