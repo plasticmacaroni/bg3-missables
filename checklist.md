@@ -13,7 +13,7 @@
   - ::item_veryrare::This represents missable or limited very rare items.
   - ::item_legendary::This represents missable or limited legendary items.
   - ::item_story::This represents missable or limited story items.
-  - ::item_ordinary::This represents missable or limited ordinary items.  Ordinary items may be unique in name, but don't differ from regular items.
+  - ::item_ordinary::This represents missable or limited ordinary items.  Ordinary items may be unique in name, but are not different from regular items.
 # Act 1 Main Missables Entry List
 - Turn in a quest to [save the tieflings](https://bg3.wiki/wiki/Save_the_Refugees) in the grove -- you'll get a pair of gloves 
 - ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
@@ -45,6 +45,7 @@
 - Gain access to [a character that re-specs you](https://bg3.wiki/wiki/Withers)
 - Check out the [secret book](https://bg3.wiki/wiki/Book_of_Dead_Gods) that reveals information about gods
 # Emerald Grove
+- ::task:: Save an [adventurer](https://bg3.wiki/wiki/Barth) to get a missable [quest](https://bg3.wiki/wiki/Return_the_Locket).
 - You meet [Wyll](https://bg3.wiki/wiki/Wyll) here, so make sure to exhaust his dialogue
 - Talk to [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) and buy any items you need 
 - ::missable::Save a [certain tiefling child](https://bg3.wiki/wiki/Save_Arabella) from a scaly death (if you solve the conflict between the tieflings and goblins, it'll be too late)
@@ -58,8 +59,6 @@
 - [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) (some dialogue if you got Speak With Animals) -- do NOT kill it, or you'll break future quests!
 - ::missable::Save or kill [the captive goblin](https://bg3.wiki/wiki/Sazza) (note if you save them, after one long rest the goblin leaders can no longer be spoken to!)
 - After recusing Halsin, be sure to speak to [Rath](https://bg3.wiki/wiki/Rath) to get access to the druid vault
-- Speak with [Alfira](https://bg3.wiki/wiki/Alfira) within the Grove 
-  - Learn an instrument by playing along
 - You will find [Dammon](https://bg3.wiki/wiki/Dammon) who has something important for [Karlach](https://bg3.wiki/wiki/Karlach)
 - ::missable::Stop an [Assassin](https://bg3.wiki/wiki/Nadira) -- go past the entrance, immediately turn right up the hill (failing to help in this case will cause a permanent NPC death)
 - Heal the [paralyzed Tiefling](https://bg3.wiki/wiki/Pandirna)
@@ -73,8 +72,10 @@
 # Sacred Pool
 # Secluded Chamber
 # Secluded Cove
+- ::item_story:: Perform with [Alfira](https://bg3.wiki/wiki/Alfira) to obtain an [item](https://bg3.wiki/wiki/Lihala%27s%20Lute).
 # Servants' Quarters
 # The Hollow
+- ::item_story:: Find the [item](https://bg3.wiki/wiki/Brass%20Locket) to complete the [quest](https://bg3.wiki/wiki/Return_the_Locket).
 # Tiefling Hideout
 # Forest
 # Underground Passage
@@ -86,6 +87,7 @@
 - Rescue [Halsin](https://bg3.wiki/wiki/Halsin) 
 - Eliminate the [three True Soul goblin leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Shattered Sanctum
+- ::story_item:: The first opportunity to obtain a [limited item](https://bg3.wiki/wiki/Spider%27s%20Lyre).
 # Worg Pens
 # Defiled Temple
 # The Risen Road
@@ -95,6 +97,7 @@
 - ::missable::Protect [two](https://bg3.wiki/wiki/Rugan) [people](https://bg3.wiki/wiki/Olly) being attacked by furries to start the [missing shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest (if you encounter them and long rest without saving them, they'll permanently die)
 # The Risen Road (Toll House)
 # Blighted Village
+- ::item_story:: The first opportunity to find a missable [item](https://bg3.wiki/wiki/Bloody%20Amulet).  It is not recommended to obtain this.
 - ::missable::Find two new friends [next to a dead man](https://bg3.wiki/wiki/Edowin) (if you don't interact in time they'll leave)
   - Consume what lies in the dwarf's noggin
   - Combine the [shaft](https://bg3.wiki/wiki/Shaft_of_a_Broken_Spear) he has on his person with [an item from the nearby cave](https://bg3.wiki/wiki/Head_of_a_Broken_Spear) to create [a powerful item](https://bg3.wiki/wiki/Vision_of_the_Absolute)
@@ -135,6 +138,7 @@
 - Meet a [monster hunter](https://bg3.wiki/wiki/Gandrel) and deal with him as you see fit
 # Riverside Teahouse
 - Save a [pregnant mother](https://bg3.wiki/wiki/Save_Mayrina)
+- ::item_story:: A missable [item](https://bg3.wiki/wiki/Mayrina%27s%20Locket) can be obtained here.  Obtaining this item may prevent obtaining other items, so it is not recommended to collect this one. (Alternate methods may be available. Verification needed.)
 # Overgrown Tunnel
 # Overgrown Tunnel (Ancient Abode)
 # Overgrown Tunnel (Acrid Workshop)
@@ -224,16 +228,18 @@
 # House in Deep Shadows
 - Play hide and seek with [a child](https://bg3.wiki/wiki/Oliver), get [a cool ring](https://bg3.wiki/wiki/Ring_of_Shadows)
 # Ruined Battlefield
+- ::missable:: ::item_story:: First opportunity to find a missable [item](https://bg3.wiki/wiki/Moonlantern) from an [enemy](https://bg3.wiki/wiki/Kar%27niss).
+  - ::item_common:: It is higly recommended to get this one, as it grants another missable [item](https://bg3.wiki/wiki/Filigreed_Feywild_Bell) and affects a future interaction with a little [friend](https://bg3.wiki/wiki/Dolly_Dolly_Dolly)
 - Talk to a man who wants to [make things "right" by interrogating a dead barkeeper](https://bg3.wiki/wiki/Punish_the_Wicked)
 - Save some harpers, find out about the Inn
 - Give a certain companion [a certain flower](https://bg3.wiki/wiki/Night_Orchid) they might have mentioned
 - Destroy the everburning torches next to Korliss and fight the shadow mastiffs
 # Last Light Inn
+- ::item_story:: Second chance to get a missable [item](https://bg3.wiki/wiki/Moonlantern).
 - Talk to the inhabitants of [the Inn](https://bg3.wiki/wiki/Last_Light_Inn)
   - Make sure to speak with a pair playing chess ([a tiefling child](https://bg3.wiki/wiki/Mol) and [a familiar opponent](https://bg3.wiki/wiki/Raphael))
   - Talk to [a Strange Ox](https://bg3.wiki/wiki/Strange_Ox) again (don't kill it)
   - Get [a key](https://bg3.wiki/wiki/Tower-Shaped_Key) from a little tiefling thief
-- ::missable::Get [the inhabitant of a lantern](https://bg3.wiki/wiki/Dolly_Dolly_Dolly) to help, thanks to a [drider](https://bg3.wiki/wiki/Kar%27niss) (if you don't talk to the lantern soon enough, you are locked out of being able to speak with her)
 - Save the moon Cleric from the ambush at the Inn and [start hunting for abductees](https://bg3.wiki/wiki/Resolve_the_Abduction)
 - ::missable::[Find the tiefling](https://bg3.wiki/wiki/Find_Rolan_in_the_Shadows) without fast traveling or long resting (only happens after [the battle with the flying enemies](https://bg3.wiki/wiki/Resolve_the_Abduction), and the timer only starts if you walk near him)
   - Save him from some scary shadows
@@ -243,6 +249,7 @@
   - Visit camp to find out more about [the boy](https://bg3.wiki/wiki/Thaniel), post-attack
 - Give [Dammon](https://bg3.wiki/wiki/Dammon) what [he needs](https://bg3.wiki/wiki/Infernal_Iron) to help [Karlach](https://bg3.wiki/wiki/Karlach), two times
 # Moonrise Towers
+- ::item_story:: Final chance to get a missable [item](https://bg3.wiki/wiki/Moonlantern).
 - Get some more tadpoles
   - Convince the guard on the docks to let you investigate the shipping crates
   - Destroy the barrel with the tadpoles after investigating (you can move the crate out of sight of the guards)
@@ -381,9 +388,11 @@
 # Knights of the Shield Hideout
 # Lady Jannath's Estate
 # Lower City
+- ::item_story:: [URL](https://bg3.wiki/wiki/Guild%20Ring)
 # Lower City Sewers
 # Morphic Pool
 # Murder Tribunal
+- ::item_story:: [URL](https://bg3.wiki/wiki/Amulet%20of%20Bhaal)
 # Nortale's Hostel
 # Old Garlow's Place
 # Open Hand Temple
@@ -400,6 +409,7 @@
 # Stormshore Tabernacle
 # Sword Coast Couriers
 # Szarr Palace
+- ::item_story:: [URL](https://bg3.wiki/wiki/Szarr%20Family%20Ring)
 # Temple of Bhaal
 # The Bibliophile
 # The Blushing Mermaid
