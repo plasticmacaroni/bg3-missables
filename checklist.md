@@ -313,4 +313,3 @@
 - ::item_story:: [URL](https://bg3.wiki/wiki/Amulet%20of%20Bhaal)
 # Szarr Palace
 - ::item_story:: [URL](https://bg3.wiki/wiki/Szarr%20Family%20Ring)
-# Wyrm's Rock Fortress
