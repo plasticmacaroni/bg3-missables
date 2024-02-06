@@ -39,8 +39,6 @@
 - [Help Lae'zel](https://bg3.wiki/wiki/Lae%27zel#Recruitment) drop out of her wooden bars
 # Roadside Cliffs (Harper's Outpost)
 - Optionally (very optionally) get [five temporary spider friends](https://bg3.wiki/wiki/Spider_Egg_Sac)
-# Overgrown Ruins
-# Refectory
 # Dank Crypt
 - Gain access to [a character that re-specs you](https://bg3.wiki/wiki/Withers)
 - Check out the [secret book](https://bg3.wiki/wiki/Book_of_Dead_Gods) that reveals information about gods
@@ -65,20 +63,10 @@
 - After [recruiting a new bear friend](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin), speak to Rath and enter the [Druid vault](https://bg3.wiki/wiki/Hidden_Vault)
 - Optionally [steal the Idol for Mol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) (BEFORE finishing Goblin Camp, and after exposing Kagha)
 - After rescuing the Tieflings, get the Hellrider's Pride from [Zevlor](https://bg3.wiki/wiki/Zevlor)
-# Druid's Chambers
-# Enclave Library
-# Hidden Vault
-# Inner Sanctum
-# Sacred Pool
-# Secluded Chamber
 # Secluded Cove
 - ::item_story:: Perform with [Alfira](https://bg3.wiki/wiki/Alfira) to obtain an [Lute](https://bg3.wiki/wiki/Lihala%27s%20Lute).
-# Servants' Quarters
 # The Hollow
 - ::item_story:: Find the [stolen locket](https://bg3.wiki/wiki/Brass%20Locket) to complete a [quest](https://bg3.wiki/wiki/Return_the_Locket).
-# Tiefling Hideout
-# Forest
-# Underground Passage
 # Goblin Camp
 - [Chase the chicken](https://bg3.wiki/wiki/Owlbear_Cub) (do the Owlbear Cave first)
 - Rescue [Volo](https://bg3.wiki/wiki/Volo)
@@ -88,14 +76,11 @@
 - Eliminate the [three True Soul goblin leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Shattered Sanctum
 - ::story_item:: The first opportunity to obtain a [Spider Lyre](https://bg3.wiki/wiki/Spider%27s%20Lyre).
-# Worg Pens
-# Defiled Temple
 # The Risen Road
 - Meet [Karlach](https://bg3.wiki/wiki/Karlach)
 - ::missable::[Deal with the paladins](https://bg3.wiki/wiki/Hunt_the_Devil) she brings up before going to Act 1.5, or deal with some permanent consequences
 - Find the [Silver Pendant](https://bg3.wiki/wiki/Silver_Pendant) 
 - ::missable::Protect [two](https://bg3.wiki/wiki/Rugan) [people](https://bg3.wiki/wiki/Olly) being attacked by furries to start the [missing shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest (if you encounter them and long rest without saving them, they'll permanently die)
-# The Risen Road (Toll House)
 # Blighted Village
 - ::item_story:: The first opportunity to find the [Bloody Amulet](https://bg3.wiki/wiki/Bloody%20Amulet).  It is not recommended to obtain this.
 - ::missable::Find two new friends [next to a dead man](https://bg3.wiki/wiki/Edowin) (if you don't interact in time they'll leave)
@@ -112,8 +97,6 @@
 - Kill the [ogres](https://bg3.wiki/wiki/Lump_the_Enlightened)
   - Nab the [Headband of Intellect](https://bg3.wiki/wiki/Warped_Headband_of_Intellect)
 - In one of the houses north of the village, there is a bugbear having a moment with their partner
-# Apothecary's Cellar
-# Whispering Depths
 # Mountain Pass
 - After you discover [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss), speak to him before long resting, or deal with some permanent consequences
 - If you decide to fight, remember you can cause [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss) to drop his sword for Lae'zel with the command spell
@@ -139,9 +122,6 @@
 # Riverside Teahouse
 - Save a [pregnant mother](https://bg3.wiki/wiki/Save_Mayrina)
 - ::item_story:: A missable [item](https://bg3.wiki/wiki/Mayrina%27s%20Locket) can be obtained here.  Obtaining this item may prevent obtaining other items, so it is not recommended to collect this one. (Alternate methods may be available. Verification needed.)
-# Overgrown Tunnel
-# Overgrown Tunnel (Ancient Abode)
-# Overgrown Tunnel (Acrid Workshop)
 # Underdark
 - Clear out the [outpost area that offers protection from monsters](https://bg3.wiki/wiki/Sel%C3%BBnite_Outpost)
   - Light the sconces and braziers in the area to solve the wall puzzles 
@@ -163,12 +143,6 @@
 - Fight [a land shark](https://baldursgate3.wiki.fextralife.com/Bulette)
 - If you find a small grave site in a clearing, don't touch it until you read a certain note regarding a canine companion in the Arcane Tower
   - Once you've done that, grab the collar from within and use it with the Arcane Tower button
-# Bibberbang Grotto
-# Decrepit Village
-# Dread Hollow
-# Myconid Colony
-# Selûnite Outpost
-# The Festering Cove
 # Arcane Tower
 - Use the dog collar to [achieve an unexpected result with a button](https://bg3.wiki/wiki/Dog_Collar)
   - Find and dig on a dog's grave on the Underdark Road to find the necessary item
@@ -190,9 +164,6 @@
 - Loot the [mimics](https://bg3.wiki/wiki/Mimic)
 - Kill some [piggies](https://bg3.wiki/wiki/Hellsboar) in [the area](https://bg3.wiki/wiki/Grymforge#Abandoned_Temple) and optionally get [some masks](https://bg3.wiki/wiki/Devilfoil_Mask)
 - Don't take the elevator up until you've done the creche and other Act 1.5 content
-# Abandoned Refuge
-# Abandoned Refuge (Ancient Forge)
-# The Adamantine Forge
 # BEFORE CONTINUING TO ACT 1.5
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before going to Act 1.5
 # Rosymorn Monastery Trail
@@ -212,10 +183,6 @@
 - Have a conversation with [the inquisitor](https://bg3.wiki/wiki/W%27wargaz)
 - Perform an [Astral Plane](https://bg3.wiki/wiki/Astral_Plane) visit, and then talk to Lae'zel
   - Talk to [the visitor](https://bg3.wiki/wiki/Voss) upon a long rest
-# Crèche Y'llek (Classroom)
-# Crèche Y'llek (Hatchery)
-# Crèche Y'llek (Infirmary)
-# Crèche Y'llek (Inquisitor's Chamber)
 # BEFORE CONTINUING TO ACT 2
 - Let a certain Dandy [shove an icepick in your eye](https://bg3.wiki/wiki/Volo%27s_Ersatz_Eye) for a permanent upgrade (unconfirmed that this has to be before Act 2)
 - Deluxe edition -- portraits: optionally find Fane in The Ruins, Lohse near Nettie in The Emerald Grove, Red Prince in the Waukeen's Rest, Ifan in the Blighted Village, Sebille in the Hag's house, and finally Beast in The Arcane Tower 
@@ -266,7 +233,6 @@
 - [Save the gnomes](https://bg3.wiki/wiki/Rescue_Wulbren) (talk to them before freeing them)
 - [Save the tieflings](https://bg3.wiki/wiki/Rescue_the_Tieflings) 
   - Talk to [the aspiring Tiefling wizard](https://bg3.wiki/wiki/Rolan)
-# Moonrise Towers (Ketheric's Room)
 # Oubliette
 - Enter [the area under the prisons](https://bg3.wiki/wiki/Oubliette)
 - Get the parasite from a Zealot corpse in the main area you drop into
@@ -281,7 +247,6 @@
   - Use a [Tower-Shaped Key](https://bg3.wiki/wiki/Tower-Shaped_Key)
 - Investigate [a particular resistance group](https://bg3.wiki/wiki/Investigate_the_Sel%C3%BBnite_Resistance)
 - Check [the cave](https://bg3.wiki/wiki/Mason's_Guild#Mason's_Guild_Basement) under the masonary
-# Reithwin Graveyard
 # House of Healing
 - Find [the lost tiefling child's parents](https://bg3.wiki/wiki/Find_Arabella%27s_Parents)
 - Kill [a surgeon with questionable ethics](https://bg3.wiki/wiki/Malus_Thorm) and take his instrument 
@@ -298,7 +263,6 @@
   - Keep her from doing anything to you for [an achievement](https://bg3.wiki/wiki/Achievements)
 # BEFORE CONTINUING TO THE TEMPLE
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before entering the Temple
-# Grand Mausoleum
 # Gauntlet of Shar
 - Check out the path to the right of the entryway statue for treasure "hidden in darkness"
 - Kill [Balthazar](https://bg3.wiki/wiki/Balthazar)
@@ -311,8 +275,6 @@
   - [Soft-Step Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Soft-Step_Trial)
   - [Self-Same Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Self-Same_Trial)
   - [Faith-Leap Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Faith-Step_Trial)
-# Silent Library
-# Shadowfell
 # Moonrise Towers (Revisited)
 - Visit [the Inn](https://bg3.wiki/wiki/Last_Light_Inn) and gather forces
   - Talk to [the Selunite](https://bg3.wiki/wiki/Isobel)
@@ -345,88 +307,10 @@
 - ::missable::[Stop the bad news](https://bg3.wiki/wiki/Stop_the_Presses) from spreading before making a long rest
 - When meeting a Djinni at a circus, trick your way into winning the jackpot!
   - ::missable:: When he teleports you to another area, loot everything since you can't go back to [that place](https://bg3.wiki/wiki/Jungle)
-# Abandoned Windmill
-# Ancient Lair
-# Angleiron's Cellar
-# Arfur's Mansion
-# Arfur's Mansion (Basement)
-# Astral Plane
-# Baldur's Mouth
-# Baldur's Mouth (Basement)
-# Basilisk Gate Barracks
-# Bloomridge Park
-# Bonecloak's Apothecary
-# Campsite
-# Carm's Garm
-# Cazador's Dungeon
-# Chromatic Scale
-# Circus of the Last Days
-# Cloister of Sombre Embrace
-# Crimson Draughts
-# Danthelon's Dancing Axe
-# Devil's Den
-# Devil's Fee
-# Elerrathin's Home
-# Elerrathin's Home (Jaheira's Basement)
-# Elfsong Tavern
-# Elfsong Tavern (Basement)
-# Elminster's Library
-# Facemaker's Boutique
-# Felogyr's Fireworks
-# Flymm Cargo
-# Flymm's Cobblers
-# Forge of the Nine
-# Fraygo's Flophouse
-# Guildhall
-# Gur Camp
-# Heapside Prison
-# Hhune Mausoleum
-# Highberry's Home
-# House of Grief
-# House of Hope
-# Iron Throne
-# Jungle
-# Knights of the Shield Hideout
-# Lady Jannath's Estate
 # Lower City
 - ::item_story:: [URL](https://bg3.wiki/wiki/Guild%20Ring)
-# Lower City Sewers
-# Morphic Pool
 # Murder Tribunal
 - ::item_story:: [URL](https://bg3.wiki/wiki/Amulet%20of%20Bhaal)
-# Nortale's Hostel
-# Old Garlow's Place
-# Open Hand Temple
-# Philgrave's Mansion
-# Ramazith's Tower
-# Requisitioned Barn
-# Rivington
-# Rivington (Western Beach)
-# Sharess' Caress
-# Sharran Enclave
-# Sorcerous Sundries
-# Steel Watch Foundry
-# Stormshore Armoury
-# Stormshore Tabernacle
-# Sword Coast Couriers
 # Szarr Palace
 - ::item_story:: [URL](https://bg3.wiki/wiki/Szarr%20Family%20Ring)
-# Temple of Bhaal
-# The Bibliophile
-# The Blushing Mermaid
-# The Counting House
-# The Dragon's Sanctum
-# The Glitter Gala
-# The High Hall
-# The Lodge
-# The Lodge - Basement Docks
-# The Wyrmway
-# Under Temple Cave Area
-# Undercity Ruins
-# Vonayn's Home
-# Water Queen's House
-# Windmill Basement
-# Wine Festival
-# Wyrm's Crossing
-# Wyrm's Crossing (The Velveteen Elixir)
 # Wyrm's Rock Fortress
