@@ -24,6 +24,12 @@
 - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Nautiloid
+- ::task:: General tasks:
+  - ::task:: No general tasks.
+- ::missable:: Time sensitive tasks that can be failed:
+  - ::task:: [Escape the Nautiloid before time runs out.](https://bg3.wiki/wiki/Prologue) 
+- ::item_story::This represents missable or limited story items.
+    - ::item_story:: No story items.
 - ::ability:: Missable or limited skills, spells or abilities:
   - ::ability:: Make a [friend](https://bg3.wiki/wiki/Us) and keep him alive to be granted a missable ability later.
 - ::item_common:: Missable or limited items:
