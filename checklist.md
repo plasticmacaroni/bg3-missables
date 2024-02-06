@@ -27,7 +27,7 @@
 - ::task:: General tasks:
   - ::task:: No general tasks.
 - ::missable:: Time sensitive tasks that can be failed:
-  - ::task:: [Escape the Nautiloid before time runs out.](https://bg3.wiki/wiki/Prologue) 
+  - ::missable:: [Escape the Nautiloid before time runs out.](https://bg3.wiki/wiki/Prologue) 
 - ::item_story::This represents missable or limited story items.
     - ::item_story:: No story items.
 - ::ability:: Missable or limited skills, spells or abilities:
