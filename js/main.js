@@ -54,18 +54,22 @@ function generateTasks() {
             listItemText = "::task::" + listItemText;
           } 
 
-          // Replace ::gem:: with the gem icon and ::missable:: with a clock icon, and ::task::, if present or added above
+          // Replace ::missable:: with a clock icon, ::item:: with the gem icon, ::ability:: with mortarboard icon, and ::task::, if present or added above
           listItemText = listItemText.replace(
-            /::task::/g,
-            '<i class="bi bi-clipboard-check"></i>'
+            /::missable::/g,
+            '<i class="bi bi-stopwatch"></i>'
           );
           listItemText = listItemText.replace(
             /::item::/g,
             '<i class="bi bi-gem"></i>'
           );
           listItemText = listItemText.replace(
-            /::missable::/g,
-            '<i class="bi bi-stopwatch-fill"></i>'
+            /::ability::/g,
+            '<i class="bi bi-mortarboard"></i>'
+          );
+          listItemText = listItemText.replace(
+            /::task::/g,
+            '<i class="bi bi-clipboard-check"></i>'
           );
 
           // Convert markdown-style links to HTML links
