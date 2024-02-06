@@ -64,6 +64,34 @@ function generateTasks() {
             '<i class="bi bi-gem"></i>'
           );
           listItemText = listItemText.replace(
+            /::item_ordinary::/g,
+            '<i class="bi bi-gem"></i>'
+          );
+                    listItemText = listItemText.replace(
+            /::item_common::/g,
+            '<i class="bi bi-gem"></i>'
+          );
+                    listItemText = listItemText.replace(
+            /::item_uncommon::/g,
+            '<i class="bi bi-gem text-success"></i>'
+          );
+                    listItemText = listItemText.replace(
+            /::item_rare::/g,
+            '<i class="bi bi-gem text-primary"></i>'
+          );
+                    listItemText = listItemText.replace(
+            /::item_veryrare::/g,
+            '<i class="bi bi-gem text-danger"></i>'
+          );
+                    listItemText = listItemText.replace(
+            /::item_legendary::/g,
+            '<i class="bi bi-gem text-warning"></i>'
+          );
+                    listItemText = listItemText.replace(
+            /::item_story::/g,
+            '<i class="bi bi-gem"></i>'
+          );
+          listItemText = listItemText.replace(
             /::ability::/g,
             '<i class="bi bi-mortarboard"></i>'
           );
