@@ -13,7 +13,8 @@
 - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Nautiloid
-- ::gem:: test
+- ::gem::test
+- ::missable::test
 - Kill [the devil](https://bg3.wiki/wiki/Commander_Zhalk) to get the [fiery sword](https://bg3.wiki/wiki/Everburn_Blade) (it's useful at least partway through Act 1)
 - Make a decision about the exposed brain -- sparing it may be relevant later in Act 2
 - Grab some green jars ([1](https://bg3.wiki/wiki/Dark_Mind), [2](https://bg3.wiki/wiki/Slave_Mind)) and hold them until the end of Act 2 for interesting dialogue later, although nothing is lost if you don't get them
