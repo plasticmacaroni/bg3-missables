@@ -4,7 +4,10 @@
 - This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry
 - Always crouch when stealing -- enemies will automatically  start investigating if not
 - Send all camp supplies to camp -- they'll automatically show up when you Long Rest
-- ::task::This represents general tasks. ::item::This represents missable or limited items. ::ability::This represents missable or limited skills, spells or abilities. ::missable::This represents time sensitive mechanics that can be failed.
+- ::task::This represents general tasks.
+- ::item::This represents missable or limited items.
+- ::ability::This represents missable or limited skills, spells or abilities.
+- ::missable::This represents time sensitive mechanics that can be failed.
 # Act 1 Main Missables Entry List
 - Turn in a quest to [save the tieflings](https://bg3.wiki/wiki/Save_the_Refugees) in the grove -- you'll get a pair of gloves 
 - ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
