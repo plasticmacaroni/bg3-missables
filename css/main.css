@@ -257,6 +257,10 @@ body.hide_completed .completed {
   display: none !important;
 }
 
+.hide_ordinary, .hide_common, .hide_uncommon, .hide_rare, .hide_very_rare, .hide_legendary, .hide_story {
+  display: none !important;
+}
+
 .hide_filtered {
   display: none !important;
 }

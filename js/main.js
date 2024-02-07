@@ -16,7 +16,11 @@ function generateTasks() {
     .then((response) => {
       // If fetching the markdown file was unsuccessful, throw an error
       if (!response.ok) {
-        throw new Error("Network response was not ok:", "/checklist.md", response);
+        throw new Error(
+          "Network response was not ok:",
+          "/checklist.md",
+          response
+        );
       }
       return response.text(); // Return the content of the file as a string
     })
@@ -48,11 +52,11 @@ function generateTasks() {
         else if (line.startsWith("- ") || /^(\t| {2})+\- /.test(lines[i])) {
           // Extract the text after '- ' and trim any leading/trailing spaces
           let listItemText = line.substr(2).trim();
-          
+
           // If there's no icon, default to ::task::
           if (!listItemText.includes("::")) {
             listItemText = "::task::" + listItemText;
-          } 
+          }
 
           // Replace ::missable:: with a clock icon, ::item:: with the gem icon, ::ability:: with mortarboard icon, and ::task::, if present or added above
           listItemText = listItemText.replace(
@@ -98,7 +102,7 @@ function generateTasks() {
           listItemText = listItemText.replace(
             /::task::\s*/g,
             '<i class="bi bi-clipboard-check"></i>'
-          );          
+          );
 
           // Convert markdown-style links to HTML links
           const linkPattern = /\[(.*?)\]\((.*?)\)/g;
@@ -108,7 +112,10 @@ function generateTasks() {
           );
 
           // Generate a unique ID for the item, starting by preparing a slice without the HTML tags, or else the ID may only get the first 50 characters of HTML (so it won't be unique)
-          const listItemTextWithoutTags = listItemText.replace(/(<([^>]+)>)/gi, "");
+          const listItemTextWithoutTags = listItemText.replace(
+            /(<([^>]+)>)/gi,
+            ""
+          );
           const uuid = sanitize(listItemTextWithoutTags.slice(0, 50)); // Extract only the first 50 characters of the text without HTML tags
 
           // If the bullet is a top-level bullet (i.e., not indented)
@@ -146,7 +153,7 @@ function generateTasks() {
       if (playthroughDiv) {
         playthroughDiv.innerHTML += htmlOutput;
       }
-    }) 
+    })
     // Find any task (li) UUIDs that are duplicated, and asynchronously append the number of times they appear above themselves (so the second instance would have a 1, and the third instance would have a 2, etc.)
     // This should be deterministic, so the same UUIDs should always have the same number appended
     .then(() => {
@@ -178,7 +185,10 @@ function generateTasks() {
 
         // If there are any occurrences, append the number of occurrences to the end of the data-id
         if (occurrences > 0) {
-          listItem.setAttribute("data-id", listItem.getAttribute("data-id") + "_" + occurrences);
+          listItem.setAttribute(
+            "data-id",
+            listItem.getAttribute("data-id") + "_" + occurrences
+          );
         }
       });
     })
@@ -198,12 +208,12 @@ function generateTasks() {
       console.trace();
     });
 
-    // Set a recurring timer and watch headers with all subtasks completed with the watchEmptyHeaders function
-    setInterval(watchEmptyHeaders, 250);
+  // Set a recurring timer and watch headers with all subtasks completed with the watchEmptyHeaders function
+  setInterval(watchEmptyHeaders, 250);
 }
 
 // If hide completed is checked, hide the headers with no subtasks remaining
-function watchEmptyHeaders() { 
+function watchEmptyHeaders() {
   // If an h3's span has a class of in_progress, show the header
   $("h3 > span.in_progress").each(function () {
     $(this).parent().show();
@@ -368,18 +378,85 @@ function initializeProfileFunctionality($) {
       $("#profileModal").modal("hide");
       //_gaq.push(['_trackEvent', 'Profile', 'Delete']);
     });
-    $("#toggleHideCompleted").change(function () {
-      var hidden = !$(this).is(":checked");
-      $("body").toggleClass("hide_completed", !hidden);
-      $("[data-item-toggle]").change(function () {
-        var type = $(this).data("item-toggle");
-        var to_hide = $(this).is(":checked");
+    // Hide completed items (from <input type="checkbox" id="toggleHideCompleted">)
+    // Define a configuration for each toggle action
+    const toggleConfig = [
+      {
+        id: "toggleHideCompleted",
+        action: function() {
+          var hidden = !$(this).is(":checked");
+          $("body").toggleClass("hide_completed", !hidden);
+        }
+      },
+      {
+        id: "toggleHideOrdinary",
+        classes: ["bi", "bi-patch-minus"],
+        toggleTask: "hide_ordinary",
+      },
+      {
+        id: "toggleHideCommon",
+        classes: ["bi", "bi-gem"],
+        toggleTask: "hide_common",
+      },
+      {
+        id: "toggleHideUncommon",
+        classes: ["bi", "bi-gem", "text-success"],
+        toggleTask: "hide_uncommon",
+      },
+      {
+        id: "toggleHideRare",
+        classes: ["bi", "bi-gem", "text-primary"],
+        toggleTask: "hide_rare",
+      },
+      {
+        id: "toggleHideVeryRare",
+        classes: ["bi", "bi-gem", "text-danger"],
+        toggleTask: "hide_very_rare",
+      },
+      {
+        id: "toggleHideLegendary",
+        classes: ["bi", "bi-gem", "text-warning"],
+        toggleTask: "hide_legendary",
+      },
+      {
+        id: "toggleHideStory",
+        classes: ["bi", "bi-book", "text-danger"],
+        toggleTask: "hide_story",
+      }
+    ];
 
-        calculateTotals();
+    // Function to check if the element matches the specified classes and only those classes (see classes.length)
+    function matchesClasses($element, classes) {
+      return classes.every(c => $element.hasClass(c)) && $element.attr("class").split(" ").length === classes.length;
+    }
+
+    // Generic function to apply toggle logic based on configuration
+    function applyToggle(config) {
+      $(`#${config.id}`).change(function() {
+        if (config.action) {
+          // Custom action for special cases
+          config.action.call(this);
+        } else {
+          // Default action for class-based toggling
+          $("li").each(function() {
+            // find the child div label span i
+            // TODO this feels hacky, but it works for now
+            var $icon = $(this).find("div").first().find("label").first().find("span").first().find("i");
+
+            // var $icon = $(this).find("i");
+            if (matchesClasses($icon, config.classes)) {
+              //find the parent label, toggle the class
+              $($icon).closest("label").toggleClass(config.toggleTask);
+            }
+          });
+          calculateTotals();
+        }
       });
-
       calculateTotals();
-    });
+    }
+
+    // Initialize all toggles based on the configuration
+    toggleConfig.forEach(config => applyToggle(config));
 
     $("#toggleCollapseAll").change(function () {
       if (
@@ -452,7 +529,7 @@ function initializeProfileFunctionality($) {
         var regexFilter = new RegExp("^playthrough_(.*)");
         var i = parseInt(this.id.match(totalNumber)[1]);
         var count = 0,
-          checked = 0;
+          checkedAndHidden = 0;
 
         //get top level section of each total header/label, and find the sibling section that has the 'li' elements
         $(element2)
@@ -472,12 +549,12 @@ function initializeProfileFunctionality($) {
             }
             count++;
             overallCount++;
-            if (checkbox.find("input").prop("checked")) {
-              checked++;
+            if (checkbox.find("input").prop("checked") || checkbox.find("label").is(":hidden")) {
+              checkedAndHidden++;
               overallChecked++;
             }
           });
-        if (checked === count) {
+        if (checkedAndHidden === count) {
           if (typeof $("#" + type + "_nav_totals_" + i)[0] === "undefined") {
             // console.log($("#" + type + "_nav_totals_" + i));
             return;
@@ -490,7 +567,7 @@ function initializeProfileFunctionality($) {
             .addClass("done");
         } else {
           this.innerHTML = $("#" + type + "_nav_totals_" + i)[0].innerHTML =
-            checked + "/" + count;
+            checkedAndHidden + "/" + count;
           $(this).removeClass("done").addClass("in_progress");
           $($("#" + type + "_nav_totals_" + i)[0])
             .removeClass("done")
@@ -553,32 +630,32 @@ function initializeProfileFunctionality($) {
   }
 
   function canFilter(entry) {
-    if (!entry.attr("class")) {
-      return false;
-    }
-    var classList = entry.attr("class").split(/\s+/);
-    var foundMatch = 0;
-    for (var i = 0; i < classList.length; i++) {
-      if (!classList[i].match(/^f_(.*)/)) {
-        continue;
-      }
-      if (
-        classList[i] in
-        profiles[profilesKey][profiles.current].hidden_categories
-      ) {
-        if (
-          !profiles[profilesKey][profiles.current].hidden_categories[
-            classList[i]
-          ]
-        ) {
-          return false;
-        }
-        foundMatch = 1;
-      }
-    }
-    if (foundMatch === 0) {
-      return false;
-    }
+    // if (!entry.attr("class")) {
+    //   return false;
+    // }
+    // var classList = entry.attr("class").split(/\s+/);
+    // var foundMatch = 0;
+    // for (var i = 0; i < classList.length; i++) {
+    //   if (!classList[i].match(/^f_(.*)/)) {
+    //     continue;
+    //   }
+    //   if (
+    //     classList[i] in
+    //     profiles[profilesKey][profiles.current].hidden_categories
+    //   ) {
+    //     if (
+    //       !profiles[profilesKey][profiles.current].hidden_categories[
+    //         classList[i]
+    //       ]
+    //     ) {
+    //       return false;
+    //     }
+    //     foundMatch = 1;
+    //   }
+    // }
+    // if (foundMatch === 0) {
+    //   return false;
+    // }
     return true;
   }
 
@@ -606,40 +683,6 @@ function initializeProfileFunctionality($) {
   });
 
   $("#toggleHideCompleted").attr("checked", false);
-
-  /*
-     * ------------------------------------------
-     * Restore tabs/hidden sections functionality
-     * ------------------------------------------
-     
-     $(function() {
-        // reset `Hide completed` button state (otherwise Chrome bugs out)
-        $('#toggleHideCompleted').attr('checked', false);
-
-        // restore collapsed state on page load
-        restoreState(profiles.current);
-
-        if (profiles[profilesKey][profiles.current].current_tab) {
-            $('.nav.nav-tabs li a[href="' + profiles[profilesKey][profiles.current].current_tab + '"]').click();
-        }
-
-        // register on click handlers to store state
-        $('a[href$="_col"]').on('click', function(el) {
-            var collapsed_key = $(this).attr('href');
-            var saved_tab_state = !!profiles[profilesKey][profiles.current].collapsed[collapsed_key];
-
-            profiles[profilesKey][profiles.current].collapsed[$(this).attr('href')] = !saved_tab_state;
-
-            $.jStorage.set(profilesKey, profiles);
-        });
-
-        $('.nav.nav-tabs li a').on('click', function(el) {
-            profiles[profilesKey][profiles.current].current_tab = $(this).attr('href');
-
-            $.jStorage.set(profilesKey, profiles);
-        });
-     });
-     */
 }
 
 function createTableOfContents() {

@@ -4,16 +4,16 @@
 - Always crouch when stealing -- enemies will automatically  start investigating if not
 - Send all camp supplies to camp -- they'll automatically show up when you Long Rest
 - The following icon usage is described below
-  - ::task::This represents general tasks.
-  - ::missable::This represents time sensitive tasks that can be failed.
-  - ::ability::This represents missable or limited skills, spells or abilities.
-  - ::item_common::This represents missable or limited common items.
-  - ::item_uncommon::This represents missable or limited uncommon items.
-  - ::item_rare::This represents missable or limited rare items.
-  - ::item_veryrare::This represents missable or limited very rare items.
-  - ::item_legendary::This represents missable or limited legendary items.
-  - ::item_story::This represents missable or limited story items.
-  - ::item_ordinary::This represents missable or limited ordinary items.  Ordinary items may be unique in name, but are not different from regular items.
+  - ::task::This represents general tasks 
+  - ::missable::This represents time sensitive tasks that can be failed 
+  - ::ability::This represents missable or limited skills, spells or abilities 
+  - ::item_common::This represents missable or limited common items 
+  - ::item_uncommon::This represents missable or limited uncommon items 
+  - ::item_rare::This represents missable or limited rare items 
+  - ::item_veryrare::This represents missable or limited very rare items 
+  - ::item_legendary::This represents missable or limited legendary items 
+  - ::item_story::This represents missable or limited story items 
+  - ::item_ordinary::This represents missable or limited ordinary items -- ordinary items may be unique in name, but are not different from regular items 
 # Act 1 Main Missables Entry List
 - Turn in a quest to [save the tieflings](https://bg3.wiki/wiki/Save_the_Refugees) in the grove -- you'll get a pair of gloves 
 - ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
