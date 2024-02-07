@@ -26,3 +26,7 @@ Feel free to submit a PR. All checklist items are sourced from the [checklist.md
 4. Links follow markdown formatting "[Link] (link-reference)"
 5. No linking to FextraLife, use bg3.wiki
 6. Try to make bullets as spoiler-free as possible
+
+## Contributors
+- Huge thanks to everyone that's invested time in updates. 
+- Big thanks to [asmoranomour](https://github.com/asmoranomar) for massive updates!

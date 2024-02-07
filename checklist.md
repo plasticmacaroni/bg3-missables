@@ -40,8 +40,6 @@
 - [Help Lae'zel](https://bg3.wiki/wiki/Lae%27zel#Recruitment) drop out of her wooden bars
 # Roadside Cliffs (Harper's Outpost)
 - Optionally (very optionally) get [five temporary spider friends](https://bg3.wiki/wiki/Spider_Egg_Sac)
-# Overgrown Ruins
-# Refectory
 # Dank Crypt
 - ::item_rare:: [The Amulet of Lost Voices](https://bg3.wiki/wiki/The%20Amulet%20of%20Lost%20Voices)
 - ::item_uncommon:: [The Watcher's Guide](https://bg3.wiki/wiki/The%20Watcher's%20Guide)
@@ -125,7 +123,7 @@
 - Rescue [Halsin](https://bg3.wiki/wiki/Halsin) 
 - Eliminate the [three True Soul goblin leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Shattered Sanctum
-- ::story_item:: The first opportunity to obtain a [Spider Lyre](https://bg3.wiki/wiki/Spider%27s%20Lyre).
+- ::item_story:: The first opportunity to obtain a [Spider Lyre](https://bg3.wiki/wiki/Spider%27s%20Lyre).
 - ::item_rare:: [Blooded Greataxe](https://bg3.wiki/wiki/Blooded%20Greataxe)
 - ::item_rare:: [Linebreaker Boots](https://bg3.wiki/wiki/Linebreaker%20Boots)
 - ::item_rare:: [Monster Slayer Glaive](https://bg3.wiki/wiki/Monster%20Slayer%20Glaive)
@@ -163,7 +161,6 @@
 - ::missable::[Deal with the paladins](https://bg3.wiki/wiki/Hunt_the_Devil) she brings up before going to Act 1.5, or deal with some permanent consequences
 - Find the [Silver Pendant](https://bg3.wiki/wiki/Silver_Pendant) 
 - ::missable::Protect [two](https://bg3.wiki/wiki/Rugan) [people](https://bg3.wiki/wiki/Olly) being attacked by furries to start the [missing shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest (if you encounter them and long rest without saving them, they'll permanently die)
-# The Risen Road (Toll House)
 # Blighted Village
 - ::item_story:: The first opportunity to find the [Bloody Amulet](https://bg3.wiki/wiki/Bloody%20Amulet).  It is not recommended to obtain this.
 - ::item_rare:: [Haste Helm](https://bg3.wiki/wiki/Haste%20Helm)
@@ -548,7 +545,6 @@
 - [Save the gnomes](https://bg3.wiki/wiki/Rescue_Wulbren) (talk to them before freeing them)
 - [Save the tieflings](https://bg3.wiki/wiki/Rescue_the_Tieflings) 
   - Talk to [the aspiring Tiefling wizard](https://bg3.wiki/wiki/Rolan)
-# Moonrise Towers (Ketheric's Room)
 # Oubliette
 - Enter [the area under the prisons](https://bg3.wiki/wiki/Oubliette)
 - Get the parasite from a Zealot corpse in the main area you drop into
@@ -568,7 +564,6 @@
   - Use a [Tower-Shaped Key](https://bg3.wiki/wiki/Tower-Shaped_Key)
 - Investigate [a particular resistance group](https://bg3.wiki/wiki/Investigate_the_Sel%C3%BBnite_Resistance)
 - Check [the cave](https://bg3.wiki/wiki/Mason's_Guild#Mason's_Guild_Basement) under the masonary
-# Reithwin Graveyard
 # House of Healing
 - ::item_rare:: [Boots of Apparent Death](https://bg3.wiki/wiki/Boots%20of%20Apparent%20Death)
 - ::item_rare:: [Icebite Robe](https://bg3.wiki/wiki/Icebite%20Robe)
