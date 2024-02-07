@@ -54,19 +54,51 @@ function generateTasks() {
             listItemText = "::task::" + listItemText;
           } 
 
-          // Replace ::gem:: with the gem icon and ::missable:: with a clock icon, and ::task::, if present or added above
+          // Replace ::missable:: with a clock icon, ::item:: with the gem icon, ::ability:: with mortarboard icon, and ::task::, if present or added above
           listItemText = listItemText.replace(
-            /::task::/g,
-            '<i class="bi bi-clipboard-check"></i>'
+            /::missable::\s*/g,
+            '<i class="bi bi-stopwatch text-danger"></i>'
           );
           listItemText = listItemText.replace(
-            /::item::/g,
+            /::item::\s*/g,
             '<i class="bi bi-gem"></i>'
           );
           listItemText = listItemText.replace(
-            /::missable::/g,
-            '<i class="bi bi-stopwatch-fill"></i>'
+            /::item_ordinary::\s*/g,
+            '<i class="bi bi-patch-minus"></i>'
           );
+          listItemText = listItemText.replace(
+            /::item_common::\s*/g,
+            '<i class="bi bi-gem"></i>'
+          );
+          listItemText = listItemText.replace(
+            /::item_uncommon::\s*/g,
+            '<i class="bi bi-gem text-success"></i>'
+          );
+          listItemText = listItemText.replace(
+            /::item_rare::\s*/g,
+            '<i class="bi bi-gem text-primary"></i>'
+          );
+          listItemText = listItemText.replace(
+            /::item_veryrare::\s*/g,
+            '<i class="bi bi-gem text-danger"></i>'
+          );
+          listItemText = listItemText.replace(
+            /::item_legendary::\s*/g,
+            '<i class="bi bi-gem text-warning"></i>'
+          );
+          listItemText = listItemText.replace(
+            /::item_story::\s*/g,
+            '<i class="bi bi-book text-danger"></i>'
+          );
+          listItemText = listItemText.replace(
+            /::ability::\s*/g,
+            '<i class="bi bi-mortarboard"></i>'
+          );
+          listItemText = listItemText.replace(
+            /::task::\s*/g,
+            '<i class="bi bi-clipboard-check"></i>'
+          );          
 
           // Convert markdown-style links to HTML links
           const linkPattern = /\[(.*?)\]\((.*?)\)/g;
