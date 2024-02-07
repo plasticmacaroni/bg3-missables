@@ -75,7 +75,7 @@
 - Rescue [Halsin](https://bg3.wiki/wiki/Halsin) 
 - Eliminate the [three True Soul goblin leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 # Shattered Sanctum
-- ::story_item:: The first opportunity to obtain a [Spider Lyre](https://bg3.wiki/wiki/Spider%27s%20Lyre).
+- ::item_story:: The first opportunity to obtain a [Spider Lyre](https://bg3.wiki/wiki/Spider%27s%20Lyre).
 # The Risen Road
 - Meet [Karlach](https://bg3.wiki/wiki/Karlach)
 - ::missable::[Deal with the paladins](https://bg3.wiki/wiki/Hunt_the_Devil) she brings up before going to Act 1.5, or deal with some permanent consequences
