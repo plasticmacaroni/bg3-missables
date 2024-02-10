@@ -115,7 +115,7 @@
   - ::item_uncommon:: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother's%20Revenge) (Kagha Dies or is Knocked Out) (#1)
   - ::item_rare:: [Pale Oak](https://bg3.wiki/wiki/Pale%20Oak) (Kagha Survives and player is Druid)
   - ::item_uncommon:: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider's%20Pride)
-- ::missable:: Complete [Steal the Sacred Idol] after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
+- ::missable:: Complete [Steal the Sacred Idol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
   - ::item_rare:: [Ring of Protection](https://bg3.wiki/wiki/Ring%20of%20Protection)
 - ::missable:: Complete [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
   - ::task:: Keeping Goblin Sazza alive into Act 2 unlocks a missable achievement
