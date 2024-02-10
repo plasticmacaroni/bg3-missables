@@ -76,9 +76,6 @@
 - ::task:: Minor missable events with ordinary rewards are available
   - ::missable:: Save [Nadira](https://bg3.wiki/wiki/Nadira) from a Bugbear Assasin
   - ::missable:: Heal [Pandirna](https://bg3.wiki/wiki/Pandirna) from paralysis
-- ::task:: The following items can be found around the area
-  - ::item_uncommon:: [Cap of Curing](https://bg3.wiki/wiki/Cap%20of%20Curing)
-  - ::item_uncommon:: [Amulet of Silvanus](https://bg3.wiki/wiki/Amulet%20of%20Silvanus)
 - ::task:: [Arron](https://bg3.wiki/wiki/Arron) offers merchant services
   - ::item_rare:: [Gloves of Missile Snaring](https://bg3.wiki/wiki/Gloves%20of%20Missile%20Snaring)
   - ::item_uncommon:: [Dragon's Grasp](https://bg3.wiki/wiki/Dragon's%20Grasp)
@@ -106,6 +103,7 @@
 - ::missable::  Complete the quest [Save Arabella](https://bg3.wiki/wiki/Save_Arabella) before resolving [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees) to receive a reward now and more later
   - ::task:: [Arabella](https://bg3.wiki/wiki/Arabella) must not die
   - ::item_uncommon:: [Komira's Locket](https://bg3.wiki/wiki/Komira's%20Locket)
+- ::missable:: Complete [Investigate the Beach](https://bg3.wiki/wiki/Investigate_the_Beach) before completing [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
 - ::missable:: Compelte [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) before [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin)
   - ::item_uncommon:: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother's%20Revenge) (Kagha Dies or is Knocked Out) (#1)
   - ::item_rare:: [Pale Oak](https://bg3.wiki/wiki/Pale%20Oak) (Kagha Survives and player is Druid)
@@ -121,15 +119,16 @@
   - ::task:: You may also steal the Rune needed from Rath beforehand to access the vault early.
   - ::item_rare:: [Sorrow](https://bg3.wiki/wiki/Sorrow)
   - ::item_uncommon:: [Robe of Summer](https://bg3.wiki/wiki/Robe%20of%20Summer)
+- ::task:: The following items can be found around the area
+  - ::item_uncommon:: [Amulet of Silvanus](https://bg3.wiki/wiki/Amulet%20of%20Silvanus)
+  - ::item_uncommon:: [Cap of Curing](https://bg3.wiki/wiki/Cap%20of%20Curing)
+  - ::item_uncommon:: [Nature's Snare](https://bg3.wiki/wiki/Nature's%20Snare)
+  - ::item_uncommon:: [Ring of Colour Spray](https://bg3.wiki/wiki/Ring%20of%20Colour%20Spray)
+- ::task:: The following items can be pickpocketed
+  - ::item_uncommon:: [Key of the Ancients](https://bg3.wiki/wiki/Key%20of%20the%20Ancients)
 <!-- Reviewed up to this point -->
-# Secluded Cove
-- ::missable::Deal with some harpies and [save someone small](https://bg3.wiki/wiki/Investigate_the_Beach) (if you complete a long rest before helping, the small person will be killed)
-- ::item_uncommon:: [Ring of Colour Spray](https://bg3.wiki/wiki/Ring%20of%20Colour%20Spray)
 # Forest
 - ::item_uncommon:: [Fleetfingers](https://bg3.wiki/wiki/Fleetfingers)
-# Underground Passage\
-- ::item_uncommon:: [Key of the Ancients](https://bg3.wiki/wiki/Key%20of%20the%20Ancients)
-- ::item_uncommon:: [Nature's Snare](https://bg3.wiki/wiki/Nature's%20Snare)
 # Goblin Camp
 - ::item_rare:: [Swiresy Shoes](https://bg3.wiki/wiki/Swiresy%20Shoes)
 - ::item_uncommon:: [Blazer of Benevolence](https://bg3.wiki/wiki/Blazer%20of%20Benevolence)
