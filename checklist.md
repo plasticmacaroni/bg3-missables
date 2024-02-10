@@ -1,4 +1,4 @@
-<!--For Review Later
+<!-- For Review Later
 # Act 1 Main Missables Entry List
 - ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
 - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
