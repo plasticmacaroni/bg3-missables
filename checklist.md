@@ -356,7 +356,7 @@
   - ::item_uncommon:: [Bow of Awareness](https://bg3.wiki/wiki/Bow%20of%20Awareness)
   - ::item_uncommon:: [Hunter's Dagger](https://bg3.wiki/wiki/Hunter's%20Dagger) (#1)
 - ::task:: Play [Chase the chicken](https://bg3.wiki/wiki/Krolla) to gain a camp follower
-- ::ability:: Participate in [Abdirak's](https://bg3.wiki/wiki/Abdirak) ritual to gain a permanent bonus, [Loviatar's Love](https://bg3.wiki/wiki/Loviatar%27s_Love_(Condition))
+- ::ability:: Participate in [Abdirak's](https://bg3.wiki/wiki/Abdirak) ritual to gain a permanent bonus, [Loviatar's Love](https://bg3.wiki/wiki/Loviatar%27s_Love_%28Condition%29)
 - ::task:: Complete [Rescue Volo](https://bg3.wiki/wiki/Rescue_Volo) before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
   - ::item_uncommon:: [Blazer of Benevolence](https://bg3.wiki/wiki/Blazer%20of%20Benevolence)
 - ::missable:: Complete [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
