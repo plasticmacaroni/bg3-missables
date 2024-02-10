@@ -1,19 +1,3 @@
-# Getting Started (Feel Free to Check These Off)
-- As a rule of thumb, if you see "tie up any loose ends" while visiting a door to a new area, you may not be able to return -- don't go unless you're done!
-- This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry
-- Always crouch when stealing -- enemies will automatically  start investigating if not
-- Send all camp supplies to camp -- they'll automatically show up when you Long Rest
-- The following icon usage is described below
-  - ::task::This represents general tasks 
-  - ::missable::This represents time sensitive tasks that can be failed 
-  - ::ability::This represents missable or limited skills, spells or abilities 
-  - ::item_common::This represents missable or limited common items 
-  - ::item_uncommon::This represents missable or limited uncommon items 
-  - ::item_rare::This represents missable or limited rare items 
-  - ::item_veryrare::This represents missable or limited very rare items 
-  - ::item_legendary::This represents missable or limited legendary items 
-  - ::item_story::This represents missable or limited story items 
-  - ::item_ordinary::This represents missable or limited ordinary items -- ordinary items may be unique in name, but are not different from regular items 
 # Act 1 Main Missables Entry List
 - Turn in a quest to [save the tieflings](https://bg3.wiki/wiki/Save_the_Refugees) in the grove -- you'll get a pair of gloves 
 - ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
@@ -22,89 +6,134 @@
 - Do not kill the [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) in the grove
 - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
+<!-- Start of Review -->
+# Getting Started (Feel Free to Check These Off)
+- ::task:: If you see a "tie up any loose ends" warning, this indicates a progression point
+  - ::task:: Various quests can be automatically completed (usually failed), and can potentially lock out future objectives
+  - ::task:: Some NPC's can be unavailable or killed, including merchants or quest givers
+  - ::task:: It may be impossible to return to some areas
+- This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry
+- Always crouch when stealing -- enemies will automatically  start investigating if not
+- Send all camp supplies to camp -- they'll automatically show up when you Long Rest
+- The following icon usage is described below
+  - ::task::This represents general tasks
+  - ::missable::This represents time sensitive tasks that can be failed 
+  - ::ability::This represents missable or limited skills, spells or abilities
+  - ::item_common::This represents missable or limited common items 
+  - ::item_uncommon::This represents missable or limited uncommon items 
+  - ::item_rare::This represents missable or limited rare items 
+  - ::item_veryrare::This represents missable or limited very rare items
+  - ::item_legendary::This represents missable or limited legendary items
+  - ::item_story::This represents missable or limited story items 
+  - ::item_ordinary::This represents missable or limited ordinary items -- ordinary items may be unique in name, but are not different from regular items 
+# Act 1 (General Tasks)
+  - ::task:: Feed [Gale](https://bg3.wiki/wiki/Gale) 3 magical artefacts to progress his personal quest, [The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep)
 # Nautiloid
-- ::item_uncommon:: [Everburn Blade](https://bg3.wiki/wiki/Everburn%20Blade)
-- ::missable:: [Escape the Nautiloid before time runs out.](https://bg3.wiki/wiki/Prologue) 
-- ::ability:: Make a [friend](https://bg3.wiki/wiki/Us) and keep him alive to be granted a missable ability later.
-- ::item_uncommon:: Kill or Command (Drop) an [enemy](https://bg3.wiki/wiki/Zhalk) for a missable [item](https://bg3.wiki/wiki/Everburn_Blade).
-- ::item_ordinary:: Pick up some missable items [1](https://bg3.wiki/wiki/Dark_Mind) [2](https://bg3.wiki/wiki/Slave_Mind)  for some dialogue later.
-- ::item_ordinary:: Recruit a [companion](https://bg3.wiki/wiki/Lae%27zel) for some missable items [1](https://bg3.wiki/wiki/Githyanki_Boots) [2](https://bg3.wiki/wiki/Lae%27zel%27s_Clothes) [3](https://bg3.wiki/wiki/Lae%27zel%27s_Underwear) [4](https://bg3.wiki/wiki/Tasteful_Boots).
-- ::item_ordinary:: Recruit a second [companion](https://bg3.wiki/wiki/Shadowheart) for some missable items [1](https://bg3.wiki/wiki/Circlet) [2](https://bg3.wiki/wiki/Chain_Shirt) [3](https://bg3.wiki/wiki/Shadowheart%27s_Clothes) [4](https://bg3.wiki/wiki/Shadowheart%27s_Underwear) [5](https://bg3.wiki/wiki/Tasteful_Boots).
-- ::item_ordinary:: Unequip a companion for a missable [item](https://bg3.wiki/wiki/Bandit%27s%20Armour) later.
+- ::task:: Make a [friend](https://bg3.wiki/wiki/Us) and keep him alive to be granted a missable ability later
+- ::task:: Recruit a companion, [Lae'zel](https://bg3.wiki/wiki/Lae%27zel), for some missable items
+  - ::item_ordinary:: [Githyanki Boots](https://bg3.wiki/wiki/Githyanki_Boots)
+  - ::item_ordinary:: [Lae'zel's Clothes](https://bg3.wiki/wiki/Lae%27zel%27s_Clothes)
+  - ::item_ordinary:: [Lae'zel's Underwear](https://bg3.wiki/wiki/Lae%27zel%27s_Underwear)
+  - ::item_ordinary:: [Tasteful Boots (Lae'zel)](https://bg3.wiki/wiki/Tasteful_Boots)
+- ::task:: Recruit a second companion, [Shadowheart](https://bg3.wiki/wiki/Shadowheart) for some missable items
+  - ::item_ordinary:: [Circlet](https://bg3.wiki/wiki/Circlet)
+  - ::item_ordinary:: [Chain Shirt (Shadowheart)](https://bg3.wiki/wiki/Chain_Shirt)
+  - ::item_ordinary:: [Shadowheart's Clothes](https://bg3.wiki/wiki/Shadowheart%27s_Clothes)
+  - ::item_ordinary:: [Shadowheart's Underwear](https://bg3.wiki/wiki/Shadowheart%27s_Underwear)
+  - ::item_ordinary:: [Tasteful Boots (Shadowheart)](https://bg3.wiki/wiki/Tasteful_Boots)
+- ::task:: Pick up some missable items for some dialogue later
+  - ::item_ordinary:: [Dark Mind](https://bg3.wiki/wiki/Dark_Mind)
+  - ::item_ordinary:: [Slave Mind](https://bg3.wiki/wiki/Slave_Mind)
+- ::task:: Remove [Shadowheart's](https://bg3.wiki/wiki/Shadowheart) armor and move it into your inventory for an item later
+- ::task:: Kill or Command (Drop) an [enemy](https://bg3.wiki/wiki/Zhalk) for a missable 
+  - ::item_uncommon:: [Everburn Blade](https://bg3.wiki/wiki/Everburn_Blade)
+- ::missable:: [Escape the Nautiloid before time runs out.](https://bg3.wiki/wiki/Prologue)
 # Ravaged Beach
+- ::task:: Recruit [Shadowheart](https://bg3.wiki/wiki/Shadowheart) again, for another missable item
+  - ::item_ordinary:: [Bandit Armor](https://bg3.wiki/wiki/Bandit%27s%20Armour)
+- ::task:: Recruit [Astarion](https://bg3.wiki/wiki/Astarion) for some missable items
+  - ::item_ordinary:: [Padded Armour (Astarion)](https://bg3.wiki/wiki/Padded_Armour)
+  - ::item_ordinary:: [Astarion's Eccentric Clothes](https://bg3.wiki/wiki/Astarion%27s_Eccentric_Clothes)
+  - ::item_ordinary:: [Astarion's Underwear](https://bg3.wiki/wiki/Astarion%27s_Underwear)
+  - ::item_ordinary:: [Tasteful Boots (Astarion)](https://bg3.wiki/wiki/Tasteful_Boots)
 - Take revenge on your tentacled captor from the intro
-- Check out [Astarion](https://bg3.wiki/wiki/Astarion)'s boar and add him to your party
 # Roadside Cliffs
-- Give [Gale](https://bg3.wiki/wiki/Gale) a hand (don't take a hand) in a teleporter and add him to your party
-  - ::missable::Feed him, once he brings up his hunger, within 2 long rests or face some serious consequences
-- [Help Lae'zel](https://bg3.wiki/wiki/Lae%27zel#Recruitment) drop out of her wooden bars
-# Roadside Cliffs (Harper's Outpost)
-- Optionally (very optionally) get [five temporary spider friends](https://bg3.wiki/wiki/Spider_Egg_Sac)
-# Dank Crypt
-- ::item_rare:: [The Amulet of Lost Voices](https://bg3.wiki/wiki/The%20Amulet%20of%20Lost%20Voices)
-- ::item_uncommon:: [The Watcher's Guide](https://bg3.wiki/wiki/The%20Watcher's%20Guide)
-- Gain access to [a character that re-specs you](https://bg3.wiki/wiki/Withers)
-- Check out the [secret book](https://bg3.wiki/wiki/Book_of_Dead_Gods) that reveals information about gods
+- ::task:: Recruit [Gale](https://bg3.wiki/wiki/Gale) for some missable items
+  - ::item_ordinary:: [Simple Robe (Gale)](https://bg3.wiki/wiki/Simple_Robe)
+  - ::item_ordinary:: [Gale's Austere Clothes](https://bg3.wiki/wiki/Gale%27s_Austere_Clothes)
+  - ::item_ordinary:: [Netherese Briefs](https://bg3.wiki/wiki/Netherese_Briefs)
+  - ::item_ordinary:: [Tasteful Boots (Gale)](https://bg3.wiki/wiki/Tasteful_Boots)
+- ::task:: Recruit [Lae'zel](https://bg3.wiki/wiki/Lae%27zel#Recruitment) again.
+- ::task:: Visit [Harper Outpost](https://bg3.wiki/wiki/Ravaged_Beach#Harper_Outpost) for some missable items
+  - ::item_uncommon:: [Silver Pendant](https://bg3.wiki/wiki/Silver%20Pendant)
+  - ::item_ordinary:: [Spider Egg Sac](https://bg3.wiki/wiki/Spider_Egg_Sac)
+# Overgrown Ruins
+- ::task:: Visit the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt) for some missable items
+  - ::item_rare:: [The Amulet of Lost Voices](https://bg3.wiki/wiki/The%20Amulet%20of%20Lost%20Voices)
+  - ::item_uncommon:: [The Watcher's Guide](https://bg3.wiki/wiki/The%20Watcher's%20Guide)
+  - ::item_ordinary:: [Book of the Dead Gods](https://bg3.wiki/wiki/Book_of_Dead_Gods)
+- Invite [Withers](https://bg3.wiki/wiki/Withers) to your camp
 # Emerald Grove
-- ::task:: Save an [adventurer](https://bg3.wiki/wiki/Barth) to get a missable [quest](https://bg3.wiki/wiki/Return_the_Locket).
-- ::item_rare:: [Gloves of Missile Snaring](https://bg3.wiki/wiki/Gloves%20of%20Missile%20Snaring)
-- ::item_rare:: [Pale Oak](https://bg3.wiki/wiki/Pale%20Oak)
-- ::item_rare:: [Ring of Protection](https://bg3.wiki/wiki/Ring%20of%20Protection)
-- ::item_uncommon:: [Amulet of Silvanus](https://bg3.wiki/wiki/Amulet%20of%20Silvanus)
-- ::item_uncommon:: [Cap of Curing](https://bg3.wiki/wiki/Cap%20of%20Curing)
-- ::item_uncommon:: [Corellon's Grace](https://bg3.wiki/wiki/Corellon's%20Grace)
-- ::item_uncommon:: [Dragon's Grasp](https://bg3.wiki/wiki/Dragon's%20Grasp)
-- ::item_uncommon:: [Gloves of Power](https://bg3.wiki/wiki/Gloves%20of%20Power)
-- ::item_uncommon:: [Hedge Wanderer Armour](https://bg3.wiki/wiki/Hedge%20Wanderer%20Armour)
-- ::item_uncommon:: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider's%20Pride)
-- ::item_uncommon:: [Hunting Shortbow](https://bg3.wiki/wiki/Hunting%20Shortbow)
-- ::item_uncommon:: [Key of the Ancients](https://bg3.wiki/wiki/Key%20of%20the%20Ancients)
-- ::item_uncommon:: [Komira's Locket](https://bg3.wiki/wiki/Komira's%20Locket)
-- ::item_uncommon:: [Nature's Snare](https://bg3.wiki/wiki/Nature's%20Snare)
-- ::item_uncommon:: [Rain Dancer](https://bg3.wiki/wiki/Rain%20Dancer)
-- ::item_uncommon:: [Ring of Flinging](https://bg3.wiki/wiki/Ring%20of%20Flinging)
-- ::item_uncommon:: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard%20Shield)
-- ::item_uncommon:: [Silver Pendant](https://bg3.wiki/wiki/Silver%20Pendant)
-- ::item_uncommon:: [Spellthief](https://bg3.wiki/wiki/Spellthief)
-- ::item_uncommon:: [Wapira's Crown](https://bg3.wiki/wiki/Wapira's%20Crown)
-- ::item_common:: [Ring Mail Armour](https://bg3.wiki/wiki/Ring%20Mail%20Armour)
-- You meet [Wyll](https://bg3.wiki/wiki/Wyll) here, so make sure to exhaust his dialogue
-- Talk to [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) and buy any items you need 
-- ::missable::Save a [certain tiefling child](https://bg3.wiki/wiki/Save_Arabella) from a scaly death (if you solve the conflict between the tieflings and goblins, it'll be too late)
-- [Kagha](https://bg3.wiki/wiki/Kagha)'s plot with the [shadow druids](https://bg3.wiki/wiki/Shadow_Druids) (do this before freeing a bear friend in the goblin camp)
-  - [Investigate her chest](https://bg3.wiki/wiki/Investigate_Kagha) to start
-  - Check out the swamp and fight some mephits to continue it
-- ::missable::Deal with some harpies and [save someone small](https://bg3.wiki/wiki/Investigate_the_Beach) (if you complete a long rest before helping, the small person will be killed)
-- Speak to [Volo](https://bg3.wiki/wiki/Volo)
-- Find your way to the [Tiefling hideout](https://bg3.wiki/wiki/Tiefling_Hideout)
-  - Before entering, catch a thief or do the [harpies](https://bg3.wiki/wiki/Investigate_the_Beach) quest above
-- [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) (some dialogue if you got Speak With Animals) -- do NOT kill it, or you'll break future quests!
-- ::missable::Save or kill [the captive goblin](https://bg3.wiki/wiki/Sazza) (note if you save them, after one long rest the goblin leaders can no longer be spoken to!)
-- After recusing Halsin, be sure to speak to [Rath](https://bg3.wiki/wiki/Rath) to get access to the druid vault
-- You will find [Dammon](https://bg3.wiki/wiki/Dammon) who has something important for [Karlach](https://bg3.wiki/wiki/Karlach)
-- ::missable::Stop an [Assassin](https://bg3.wiki/wiki/Nadira) -- go past the entrance, immediately turn right up the hill (failing to help in this case will cause a permanent NPC death)
-- Heal the [paralyzed Tiefling](https://bg3.wiki/wiki/Pandirna)
-- After [recruiting a new bear friend](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin), speak to Rath and enter the [Druid vault](https://bg3.wiki/wiki/Hidden_Vault)
-- Optionally [steal the Idol for Mol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) (BEFORE finishing Goblin Camp, and after exposing Kagha)
-- After rescuing the Tieflings, get the Hellrider's Pride from [Zevlor](https://bg3.wiki/wiki/Zevlor)
-# Druid's Chambers
-# Enclave Library
-# Hidden Vault
-- ::item_rare:: [Sorrow](https://bg3.wiki/wiki/Sorrow)
-- ::item_uncommon:: [Robe of Summer](https://bg3.wiki/wiki/Robe%20of%20Summer)
-# Inner Sanctum
-# Sacred Pool
-# Secluded Chamber
-# Secluded Cove
+- ::missable:: Save [Berth](https://bg3.wiki/wiki/Barth) and his companions from the goblins at the gate.  Berth must survive for a missable quest.
+  - ::item_uncommon:: [Gloves of Power](https://bg3.wiki/wiki/Gloves%20of%20Power)
+  - ::item_story:: Find the [stolen locket](https://bg3.wiki/wiki/Brass%20Locket) to complete a [quest](https://bg3.wiki/wiki/Return_the_Locket)
+- ::task:: Minor missable events with ordinary rewards are available
+  - ::missable:: Save [Nadira](https://bg3.wiki/wiki/Nadira) from a Bugbear Assasin
+  - ::missable:: Heal [Pandirna](https://bg3.wiki/wiki/Pandirna) from paralysis
+- ::task:: The following items can be found around the area
+  - ::item_uncommon:: [Cap of Curing](https://bg3.wiki/wiki/Cap%20of%20Curing)
+  - ::item_uncommon:: [Amulet of Silvanus](https://bg3.wiki/wiki/Amulet%20of%20Silvanus)
+- ::task:: [Arron](https://bg3.wiki/wiki/Arron) offers merchant services
+  - ::item_rare:: [Gloves of Missile Snaring](https://bg3.wiki/wiki/Gloves%20of%20Missile%20Snaring)
+  - ::item_uncommon:: [Dragon's Grasp](https://bg3.wiki/wiki/Dragon's%20Grasp)
+  - ::item_uncommon:: [Ring of Flinging](https://bg3.wiki/wiki/Ring%20of%20Flinging)
+  - ::item_uncommon:: [Hedge Wanderer Armour](https://bg3.wiki/wiki/Hedge%20Wanderer%20Armour)
+  - ::item_uncommon:: [Rain Dancer](https://bg3.wiki/wiki/Rain%20Dancer)
+  - ::item_uncommon:: [Spellthief](https://bg3.wiki/wiki/Spellthief)
+- ::task:: [Dammon](https://bg3.wiki/wiki/Dammon) offers merchant services
+  - ::item_uncommon:: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard%20Shield)
+  - ::item_uncommon:: [Hunting Shortbow](https://bg3.wiki/wiki/Hunting%20Shortbow)
+- ::task:: [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) offers merchant services
+  - ::missable:: She moves her shop upon meeting her at the entrance of [Sunlit Wetlands](https://bg3.wiki/wiki/Sunlit_Wetlands)
+  - ::item_uncommon:: [Corellon's Grace](https://bg3.wiki/wiki/Corellon's%20Grace)
+- ::task:: [Volo](https://bg3.wiki/wiki/Volo) offers merchant services
+  - ::missable:: Volo will no longer sell this item after leaving the Emerald Grove
+  - ::item_uncommon:: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
+- ::task:: Recruit [Wyll](https://bg3.wiki/wiki/Wyll) for some missable items
+  - ::item_ordinary:: [Wyll's Earthy Garb](https://bg3.wiki/wiki/Wyll%27s_Earthy_Garb)
+  - ::item_ordinary:: [Wyll's Underwear](https://bg3.wiki/wiki/Wyll%27s_Underwear)
+  - ::item_ordinary:: [Tasteful Boots (Wyll)](https://bg3.wiki/wiki/Tasteful_Boots)
+- ::task:: Use Speak with Animals to talk to the [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) for some dialogue. The Strange Ox must not be killed to obtain future rewards
+- ::task:: [Dammon](https://bg3.wiki/wiki/Dammon) is a core part of [Karlach's](https://bg3.wiki/wiki/Karlach) companion quest [The Hellion's Heart](https://bg3.wiki/wiki/The_Hellion%27s_Heart).  He must not die
+  - ::task:: The first upgrade may be performed here if Karlach is present and the required items are obtained
 - ::item_story:: Perform with [Alfira](https://bg3.wiki/wiki/Alfira) to obtain an [Lute](https://bg3.wiki/wiki/Lihala%27s%20Lute).
+- ::missable::  Complete the quest [Save Arabella](https://bg3.wiki/wiki/Save_Arabella) before resolving [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees) to receive a reward now and more later
+  - ::task:: [Arabella](https://bg3.wiki/wiki/Arabella) must not die
+  - ::item_uncommon:: [Komira's Locket](https://bg3.wiki/wiki/Komira's%20Locket)
+- ::missable:: Compelte [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) before [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin)
+  - ::item_uncommon:: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother's%20Revenge) (Kagha Dies or is Knocked Out) (#1)
+  - ::item_rare:: [Pale Oak](https://bg3.wiki/wiki/Pale%20Oak) (Kagha Survives and player is Druid)
+  - ::item_uncommon:: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider's%20Pride)
+- ::missable:: Complete [Steal the Sacred Idol] after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
+  - ::item_rare:: [Ring of Protection](https://bg3.wiki/wiki/Ring%20of%20Protection)
+- ::missable:: Complete [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
+  - ::task:: Keeping Goblin Sazza alive into Act 2 unlocks a missable achievement
+  - ::task:: Sazza can be freed earlier, but delaying it until now ensures she doesn't die and Minthara can be recruited as a companion later.  More details in the Goblin Camp section
+- ::task:: After completing [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees), accept the reward for a missable item
+  - ::item_uncommon:: [Wapira's Crown](https://bg3.wiki/wiki/Wapira's%20Crown)
+- ::task:: After completing [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) speak to [Rath](https://bg3.wiki/wiki/Rath) to gain access to the Hidden Vault
+  - ::task:: You may also steal the Rune needed from Rath beforehand to access the vault early.
+  - - ::item_rare:: [Sorrow](https://bg3.wiki/wiki/Sorrow)
+  - ::item_uncommon:: [Robe of Summer](https://bg3.wiki/wiki/Robe%20of%20Summer)
+<!-- Reviewed up to this point -->
+# Secluded Cove
+- ::missable::Deal with some harpies and [save someone small](https://bg3.wiki/wiki/Investigate_the_Beach) (if you complete a long rest before helping, the small person will be killed)
 - ::item_uncommon:: [Ring of Colour Spray](https://bg3.wiki/wiki/Ring%20of%20Colour%20Spray)
-# Servants' Quarters
-# The Hollow
-- ::item_story:: Find the [stolen locket](https://bg3.wiki/wiki/Brass%20Locket) to complete a [quest](https://bg3.wiki/wiki/Return_the_Locket).
-# Tiefling Hideout
 # Forest
 - ::item_uncommon:: [Fleetfingers](https://bg3.wiki/wiki/Fleetfingers)
-# Underground Passage
+# Underground Passage\
+- ::item_uncommon:: [Key of the Ancients](https://bg3.wiki/wiki/Key%20of%20the%20Ancients)
+- ::item_uncommon:: [Nature's Snare](https://bg3.wiki/wiki/Nature's%20Snare)
 # Goblin Camp
 - ::item_rare:: [Swiresy Shoes](https://bg3.wiki/wiki/Swiresy%20Shoes)
 - ::item_uncommon:: [Blazer of Benevolence](https://bg3.wiki/wiki/Blazer%20of%20Benevolence)
