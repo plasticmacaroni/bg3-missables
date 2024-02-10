@@ -16,7 +16,14 @@
   - ::item_veryrare::This represents missable or limited very rare items
   - ::item_legendary::This represents missable or limited legendary items
   - ::item_story::This represents missable or limited story items 
-  - ::item_ordinary::This represents missable or limited ordinary items -- ordinary items may be unique in name, but are not different from regular items 
+  - ::item_ordinary::This represents missable or limited ordinary items -- ordinary items may be unique in name, but are not different from regular items
+- ::task:: Tips for obtaining equipped weapons from NPC's, a variety of these may or may not work depnding on the NPC:
+  - ::task:: Steal another item to make NPC's temporarily hostile, use [non-lethal damage](https://bg3.wiki/wiki/Non-Lethal_Damage_(Condition)) to knock them out and loot them.  Long Resting resets them.
+  - ::task:: If an NPC can be an ally in battle, you can use [disarming attacks](https://bg3.wiki/wiki/Disarming) (Not command drop) on them.  Their attitude won't change
+  - ::task:: Sometimes you can buy the item from them if you engage in dialogue
+  - ::task:: Use Disguise Self, Turn Based Mode, [disarm](https://bg3.wiki/wiki/Disarming), and escape.  Stay safe by escaping with stacking movement skills, invisible or sanctuary.
+  - ::task:: Bards can be a great distraction if there are too many people. Either draw your target away or draw everyone else away from your target.  Illusion spells work too.
+  - ::task:: You can [disarm](https://bg3.wiki/wiki/Disarming) them without using any trickery and escape.  They may remember you, but you can barter their attitude back with other items.  Can get pricy if there are multiple witnesses.
 # Act 1 (General Tasks)
 - ::task:: During your adventure [Gale](https://bg3.wiki/wiki/Gale) will receive a debuff and ask for 3 magical artefacts to progress his personal quest, [The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep)
 <!-- Start of Review -->
