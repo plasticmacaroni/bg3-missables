@@ -359,14 +359,15 @@
 - ::ability:: Participate in [Abdirak's](https://bg3.wiki/wiki/Abdirak) ritual to gain a permanent bonus, [Loviatar's Love](https://bg3.wiki/wiki/Loviatar%27s_Love_%28Condition%29)
 - ::task:: Complete [Rescue Volo](https://bg3.wiki/wiki/Rescue_Volo) before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
   - ::item_uncommon:: [Blazer of Benevolence](https://bg3.wiki/wiki/Blazer%20of%20Benevolence)
+- ::task:: Minor missable events with ordinary rewards are available
+  - ::task:: [Poison the goblins](https://bg3.wiki/wiki/Goblin_Camp#Booze_Tub) and do not get caught
+  - ::task:: Rescue the [tortured prisoner](https://bg3.wiki/wiki/Shattered_Sanctum#Torture_rack) and do not get caught
 - ::missable:: Complete [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
   - ::task:: If you plan on recruiting Minthara or obtaining the achievement for keeping Sazza alive, work this into the next task.
   - ::item_uncommon:: [Assassin's Touch](https://bg3.wiki/wiki/Assassin's%20Touch)
 - ::task:: Compelte [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
   - ::task:: If you plan on recruiting Minthara or obtaining the achievement for keeping Sazza alive do the following below
   - ::task:: Remember: do not long rest until told to do so
-  - ::task:: [Poison the goblins](https://bg3.wiki/wiki/Goblin_Camp#Booze_Tub) and do not get caught
-  - ::task:: Rescue the [tortured prisoner](https://bg3.wiki/wiki/Shattered_Sanctum#Torture_rack) and do not get caught
   - ::task:: Defeat [Priestess Gut](https://bg3.wiki/wiki/Gut) and do not get caught
   - ::task:: Defeat [Scrying Eye](https://bg3.wiki/wiki/Scrying_Eye) and do not get caught
   - ::task:: Speak to [Dror Ragzlin](https://bg3.wiki/wiki/Dror_Ragzlin) and accept instruction to report to [Minthara](https://bg3.wiki/wiki/Minthara)
