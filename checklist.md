@@ -124,7 +124,7 @@
   - ::item_uncommon:: [Wapira's Crown](https://bg3.wiki/wiki/Wapira's%20Crown)
 - ::task:: After completing [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) speak to [Rath](https://bg3.wiki/wiki/Rath) to gain access to the Hidden Vault
   - ::task:: You may also steal the Rune needed from Rath beforehand to access the vault early.
-  - - ::item_rare:: [Sorrow](https://bg3.wiki/wiki/Sorrow)
+  - ::item_rare:: [Sorrow](https://bg3.wiki/wiki/Sorrow)
   - ::item_uncommon:: [Robe of Summer](https://bg3.wiki/wiki/Robe%20of%20Summer)
 <!-- Reviewed up to this point -->
 # Secluded Cove
