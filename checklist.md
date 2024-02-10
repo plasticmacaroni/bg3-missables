@@ -345,7 +345,7 @@
 # Goblin Camp
 - ::missable:: Note: Goblin Camp has been listed last due to pacing requirements
   - ::missable:: Several quests become unavailable once the area becomes hostile
-  - ::missable:: Several quests become unavailable once [Defeat the Goblins], (https://bg3.wiki/wiki/Defeat_the_Goblins) is completed
+  - ::missable:: Several quests become unavailable once [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins) is completed
   - ::missable:: Several quests become unavailable once [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) is completed
   - ::missable:: Several quests become unavailable once [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees) is completed
   - ::missable:: While it is possible to enter and leave the Goblin Camp early, it's safest to delay it until the player has completed all other tasks and is ready to clear it just before entering Act 1.5.
