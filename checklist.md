@@ -19,7 +19,8 @@
   - ::item_ordinary::This represents missable or limited ordinary items -- ordinary items may be unique in name, but are not different from regular items 
 # Act 1 (General Tasks)
 - ::task:: During your adventure [Gale](https://bg3.wiki/wiki/Gale) will receive a debuff and ask for 3 magical artefacts to progress his personal quest, [The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep)
-<!-- For Review Later 
+<!-- 
+For Review Later 
 - ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
 - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
