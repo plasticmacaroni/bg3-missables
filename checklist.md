@@ -1,9 +1,8 @@
-<!-- For Review Later
-# Act 1 Main Missables Entry List
-- ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
-- If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
-- Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
--->
+<!-- For Review Later -->
+<!-- # Act 1 Main Missables Entry List -->
+<!-- - ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp -->
+<!-- - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest -->
+<!-- - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins) -->
 <!-- Start of Review -->
 # Getting Started (Feel Free to Check These Off)
 - ::task:: If you see a "tie up any loose ends" warning, this indicates a progression point
