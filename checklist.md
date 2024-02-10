@@ -1,9 +1,5 @@
 # Act 1 Main Missables Entry List
-- Turn in a quest to [save the tieflings](https://bg3.wiki/wiki/Save_the_Refugees) in the grove -- you'll get a pair of gloves 
 - ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
-- Buy items from tiefling traders ([1](https://bg3.wiki/wiki/Arron)) ([2](https://bg3.wiki/wiki/Dammon)) ([3](https://bg3.wiki/wiki/Auntie_Ethel)) from the [Emerald Grove](https://bg3.wiki/wiki/Emerald_Grove) before completing the goblin camp 
-  - Note the [third vendor will leave](https://bg3.wiki/wiki/Auntie_Ethel#In_the_Druid_Grove) if you keep exploring the map
-- Do not kill the [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) in the grove
 - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
 - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
 <!-- Start of Review -->
