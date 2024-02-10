@@ -343,6 +343,13 @@
 - ::item_rare:: [Adamantine Shield](https://bg3.wiki/wiki/Adamantine%20Shield)
 <!-- Goblin Camp has been reviewed. Section was moved to just before Act 1.5 -->
 # Goblin Camp
+- ::missable:: Note: Goblin Camp has been listed last due to pacing requirements
+  - ::missable:: Several quests become unavailable once the area becomes hostile
+  - ::missable:: Several quests become unavailable once [Defeat the Goblins], (https://bg3.wiki/wiki/Defeat_the_Goblins) is completed
+  - ::missable:: Several quests become unavailable once [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) is completed
+  - ::missable:: Several quests become unavailable once [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees) is completed
+  - ::missable:: While it is possible to enter and leave the Goblin Camp early, it's safest to delay it until the player has completed all other tasks and is ready to clear it just before entering Act 1.5.
+  - ::missable:: It is advised to read through this section in it's entirety to avoid any problems
 - ::task:: [Grat](https://bg3.wiki/wiki/Grat) offers merchant services
   - ::item_rare:: [Swiresy Shoes](https://bg3.wiki/wiki/Swiresy%20Shoes)
   - ::item_uncommon:: [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots%20of%20Aid%20and%20Comfort)
