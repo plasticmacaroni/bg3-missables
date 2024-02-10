@@ -525,10 +525,10 @@
   - Convince the guard on the docks to let you investigate the shipping crates
   - Destroy the barrel with the tadpoles after investigating (you can move the crate out of sight of the guards)
   - Gather 2 more tadpoles 
-- ::task:: [Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra) offers merchant sevices and special dialogue.
+- ::task:: [Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra) offers merchant sevices
   - ::item_rare:: [The Graceful Cloth](https://bg3.wiki/wiki/The%20Graceful%20Cloth) (#2)
-  - Get [a specially-brewed potion](https://bg3.wiki/wiki/Araj_Oblodra) from your blood (there are truly no downsides to this event)
-    - Do the same for each companion you'd like a free potion for
+- Get [a specially-brewed potion](https://bg3.wiki/wiki/Araj_Oblodra) from your blood (there are truly no downsides to this event)
+  - Do the same for each companion you'd like a free potion for
 - ::task:: [Roah Moonglow](https://bg3.wiki/wiki/Roah_Moonglow) offers merchant services
   - ::item_veryrare:: [Sharpened Snare Cuirass](https://bg3.wiki/wiki/Sharpened%20Snare%20Cuirass)
   - ::item_rare:: [Armour of Devotion](https://bg3.wiki/wiki/Armour%20of%20Devotion)
@@ -672,8 +672,8 @@
 - Find [the tadpole room](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_centre)
   - Collect a tadpole from the pool
   - Free [Wyll's captor](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_Centre)
-  - Free [the captured citizens](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_Centre)
-    - ::item_uncommon:: If [Svartlebee's Woundseeker](https://bg3.wiki/wiki/Svartlebee%27s_Woundseeker) was missed, it can be obtained by disarming [Gauntlet Yeva](https://bg3.wiki/wiki/Yeva) in combat without negative consequences.
+- Free [the captured citizens](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_Centre)
+  - ::item_uncommon:: If [Svartlebee's Woundseeker](https://bg3.wiki/wiki/Svartlebee%27s_Woundseeker) was missed, it can be obtained by disarming [Gauntlet Yeva](https://bg3.wiki/wiki/Yeva) in combat without negative consequences.
 # BEFORE CONTINUING TO ACT 3
 - Get the Owlbear Cub (and pet him in the middle of the night, of course) 
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before leaving 
@@ -720,22 +720,19 @@
 - ::item_rare:: [Dark Displacement Gloves](https://bg3.wiki/wiki/Dark%20Displacement%20Gloves)
 - ::item_rare:: [Hollow's Staff](https://bg3.wiki/wiki/Hollow's%20Staff)
 - ::item_rare:: [The Pointy Hat](https://bg3.wiki/wiki/The%20Pointy%20Hat)
-- ::task:: [Akabi](https://bg3.wiki/wiki/Akabi) is a merchant and runs the Wheel of Fortune game. You can only play with him 16 times.  It is not possible to get all items.  Obtaining the Jackpot causes Akabi to close the stall.  Only notable items are listed.
-  - ::task:: Regular Stock
-    - ::item_uncommon:: [Djinni Ring](https://bg3.wiki/wiki/Djinni%20Ring)
-  - ::task:: Consolation Prizes
-    - ::item_uncommon:: [Boots of Very Fast Blinking](https://bg3.wiki/wiki/Boots%20of%20Very%20Fast%20Blinking)
-    - ::item_uncommon:: [Reverse Rain Cloak](https://bg3.wiki/wiki/Reverse%20Rain%20Cloak)
-    - ::item_uncommon:: [Comback Handaxe](https://bg3.wiki/wiki/Comeback_Handaxe)
-      - Not Ordinary. This item appears identical to a Handaxe +1, but has the hidden effect of dealing damage to the thrower.
-    - ::item_uncommon:: [Eternal Carafe of Wine (Or Sometimes Acid)](https://bg3.wiki/wiki/Eternal_Carafe_of_Wine_(Or_Sometimes_Acid)) 
-    - ::item_uncommon:: [Staff of a Mumbling Wizard](https://bg3.wiki/wiki/Staff%20of%20a%20Mumbling%20Wizard)
-    - ::item_uncommon:: [Unlucky Thief's Gloves](https://bg3.wiki/wiki/Unlucky%20Thief's%20Gloves)
-    - ::item_common:: [+1 Breastplate](https://bg3.wiki/wiki/%2B1_Breastplate)
-    - ::item_common:: [Bag of Moulding](https://bg3.wiki/wiki/Bag_of_Moulding)
-    - ::item_common:: [Magical Walnut](https://bg3.wiki/wiki/Magical_Walnut) (container)
-  - ::task:: Jackpot
-    - ::item_legendary:: [Nyrulna](https://bg3.wiki/wiki/Nyrulna)
+- ::task:: [Akabi](https://bg3.wiki/wiki/Akabi) offers merchant services
+  - ::item_uncommon:: [Djinni Ring](https://bg3.wiki/wiki/Djinni%20Ring)
+- ::task:: [Akabi](https://bg3.wiki/wiki/Akabi) runs the Wheel of Fortune game. You can only play with him 16 times.  It is not possible to get all items.  Obtaining the Jackpot causes Akabi to close the stall.  Only notable items are listed.
+  - ::item_legendary:: [Nyrulna](https://bg3.wiki/wiki/Nyrulna) (Jackpot) 
+  - ::item_uncommon:: [Boots of Very Fast Blinking](https://bg3.wiki/wiki/Boots%20of%20Very%20Fast%20Blinking)
+  - ::item_uncommon:: [Reverse Rain Cloak](https://bg3.wiki/wiki/Reverse%20Rain%20Cloak)
+  - ::item_uncommon:: [Comback Handaxe](https://bg3.wiki/wiki/Comeback_Handaxe) Not Ordinary. This item appears identical to a Handaxe +1, but has the hidden effect of dealing damage to the thrower.
+  - ::item_uncommon:: [Eternal Carafe of Wine (Or Sometimes Acid)](https://bg3.wiki/wiki/Eternal_Carafe_of_Wine_(Or_Sometimes_Acid)) 
+  - ::item_uncommon:: [Staff of a Mumbling Wizard](https://bg3.wiki/wiki/Staff%20of%20a%20Mumbling%20Wizard)
+  - ::item_uncommon:: [Unlucky Thief's Gloves](https://bg3.wiki/wiki/Unlucky%20Thief's%20Gloves)
+  - ::item_common:: [+1 Breastplate](https://bg3.wiki/wiki/%2B1_Breastplate)
+  - ::item_common:: [Bag of Moulding](https://bg3.wiki/wiki/Bag_of_Moulding)
+  - ::item_common:: [Magical Walnut](https://bg3.wiki/wiki/Magical_Walnut) (container)
 # Cloister of Sombre Embrace
 - ::item_legendary:: [Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia's%20Walking%20Fortress)
 - ::item_veryrare:: [Handmaiden's Mace](https://bg3.wiki/wiki/Handmaiden's%20Mace)
@@ -878,14 +875,12 @@
 - ::item_rare:: [Warhammer +2](https://bg3.wiki/wiki/Warhammer%20+2)
 - ::task:: Ferg Drogher is an merchant that sells missable items. He is located across the Requisitioned Barn.
   - ::task:: Shadowheart must not be in the active party upon encountering him and the player must pass a persuation check to access his special stock.
-  - ::task:: Regular Stock
-    - ::item_veryrare:: [Dwarven Thrower](https://bg3.wiki/wiki/Dwarven%20Thrower)
-    - ::item_rare:: [Cold Snap](https://bg3.wiki/wiki/Cold%20Snap)
-    - ::item_uncommon:: [Hellrider Longbow](https://bg3.wiki/wiki/Hellrider%20Longbow)
-  - ::task:: Special Stock
-    - ::item_veryrare:: [Nymph Cloak](https://bg3.wiki/wiki/Nymph%20Cloak) (#1)
-    - ::item_veryrare:: [Robe of Supreme Defences](https://bg3.wiki/wiki/Robe%20of%20Supreme%20Defences)
-    - ::item_veryrare:: [Sethan](https://bg3.wiki/wiki/Sethan)    
+  - ::item_veryrare:: [Dwarven Thrower](https://bg3.wiki/wiki/Dwarven%20Thrower) (Regular Stock)
+  - ::item_rare:: [Cold Snap](https://bg3.wiki/wiki/Cold%20Snap) (Regular Stock)
+  - ::item_uncommon:: [Hellrider Longbow](https://bg3.wiki/wiki/Hellrider%20Longbow) (Regular Stock)
+  - ::item_veryrare:: [Nymph Cloak](https://bg3.wiki/wiki/Nymph%20Cloak) (#1) (Special Stock)
+  - ::item_veryrare:: [Robe of Supreme Defences](https://bg3.wiki/wiki/Robe%20of%20Supreme%20Defences) (Special Stock)
+  - ::item_veryrare:: [Sethan](https://bg3.wiki/wiki/Sethan) (Special Stock)
 # Rivington (Western Beach)
 # Sharess' Caress
 - ::item_rare:: [Amulet of the Drunkard](https://bg3.wiki/wiki/Amulet%20of%20the%20Drunkard)
