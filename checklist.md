@@ -107,9 +107,11 @@
   - ::item_uncommon:: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider's%20Pride)
 - ::missable:: Complete [Steal the Sacred Idol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
   - ::item_rare:: [Ring of Protection](https://bg3.wiki/wiki/Ring%20of%20Protection)
-- ::missable:: Complete [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
+- ::missable:: Start [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
   - ::task:: Keeping Sazza alive into Act 2 unlocks a missable achievement
   - ::task:: Sazza can be freed earlier, but delaying it until now ensures she doesn't die and Minthara can be recruited as a companion later.  More details in the Goblin Camp section
+  - ::task:: Perform a manual save before triggering this quest in the event Sazza dies
+  - ::task:: Do not perform a long rest until after [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) and [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
 - ::task:: After completing [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees), accept the reward for a missable item
   - ::item_uncommon:: [Wapira's Crown](https://bg3.wiki/wiki/Wapira's%20Crown)
 - ::task:: After completing [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) speak to [Rath](https://bg3.wiki/wiki/Rath) to gain access to the Hidden Vault
@@ -123,53 +125,10 @@
   - ::item_uncommon:: [Ring of Colour Spray](https://bg3.wiki/wiki/Ring%20of%20Colour%20Spray)
 - ::task:: The following items can be pickpocketed
   - ::item_uncommon:: [Key of the Ancients](https://bg3.wiki/wiki/Key%20of%20the%20Ancients)
-<!-- Reviewed up to this point -->
 # Forest
-- ::item_uncommon:: [Fleetfingers](https://bg3.wiki/wiki/Fleetfingers)
-# Goblin Camp
-- Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
-- ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
-- ::item_rare:: [Swiresy Shoes](https://bg3.wiki/wiki/Swiresy%20Shoes)
-- ::item_uncommon:: [Blazer of Benevolence](https://bg3.wiki/wiki/Blazer%20of%20Benevolence)
-- ::item_uncommon:: [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots%20of%20Aid%20and%20Comfort)
-- ::item_uncommon:: [Crusher's Ring](https://bg3.wiki/wiki/Crusher's%20Ring)
-- ::item_uncommon:: [Doom Hammer](https://bg3.wiki/wiki/Doom%20Hammer)
-- ::item_uncommon:: [Gloves of Archery](https://bg3.wiki/wiki/Gloves%20of%20Archery)
-- ::item_uncommon:: [Glowing Shield](https://bg3.wiki/wiki/Glowing%20Shield)
-- ::item_uncommon:: [Returning Pike](https://bg3.wiki/wiki/Returning%20Pike)
-- ::item_uncommon:: [Worgfang](https://bg3.wiki/wiki/Worgfang)
-- ::item_common:: [Goblin Bow](https://bg3.wiki/wiki/Goblin%20Bow)
-- [Chase the chicken](https://bg3.wiki/wiki/Owlbear_Cub) (do the Owlbear Cave first)
-- Rescue [Volo](https://bg3.wiki/wiki/Volo)
-- Speak to the [priest of Loviatar](https://bg3.wiki/wiki/Abdirak) that talks about pain 
-  - Let him hit you three times to get [a permanent buff](https://bg3.wiki/wiki/Loviatar%27s_Love_(Condition) (at least until the character that gets the buff dies)
-- Rescue [Halsin](https://bg3.wiki/wiki/Halsin) 
-- Eliminate the [three True Soul goblin leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
-# Shattered Sanctum
-- ::item_story:: The first opportunity to obtain a [Spider Lyre](https://bg3.wiki/wiki/Spider%27s%20Lyre).
-- ::item_rare:: [Blooded Greataxe](https://bg3.wiki/wiki/Blooded%20Greataxe)
-- ::item_rare:: [Linebreaker Boots](https://bg3.wiki/wiki/Linebreaker%20Boots)
-- ::item_rare:: [Monster Slayer Glaive](https://bg3.wiki/wiki/Monster%20Slayer%20Glaive)
-- ::item_rare:: [Ring of Poison Resistance](https://bg3.wiki/wiki/Ring%20of%20Poison%20Resistance)
-- ::item_rare:: [Spidersilk Armour](https://bg3.wiki/wiki/Spidersilk%20Armour)
-- ::item_rare:: [Springstep Boots](https://bg3.wiki/wiki/Springstep%20Boots)
-- ::item_rare:: [The Watersparkers](https://bg3.wiki/wiki/The%20Watersparkers)
-- ::item_uncommon:: [Absolute's Talisman](https://bg3.wiki/wiki/Absolute's%20Talisman)
-- ::item_uncommon:: [Absolute's Warboard](https://bg3.wiki/wiki/Absolute's%20Warboard)
-- ::item_uncommon:: [Amulet of Selûne's Chosen](https://bg3.wiki/wiki/Amulet%20of%20Selûne's%20Chosen)
-- ::item_uncommon:: [Assassin's Touch](https://bg3.wiki/wiki/Assassin's%20Touch)
-- ::item_uncommon:: [Beastmaster's Chain](https://bg3.wiki/wiki/Beastmaster's%20Chain)
-- ::item_uncommon:: [Bow of Awareness](https://bg3.wiki/wiki/Bow%20of%20Awareness)
-- ::item_uncommon:: [Faithbreaker](https://bg3.wiki/wiki/Faithbreaker)
-- ::item_uncommon:: [Hunter's Dagger](https://bg3.wiki/wiki/Hunter's%20Dagger) (#1)
-- ::item_uncommon:: [Jagged Spear](https://bg3.wiki/wiki/Jagged%20Spear)
-- ::item_uncommon:: [Loviatar's Scourge](https://bg3.wiki/wiki/Loviatar's%20Scourge)
-- ::item_uncommon:: [Ritual Axe](https://bg3.wiki/wiki/Ritual%20Axe)
-- ::item_uncommon:: [Ritual Dagger](https://bg3.wiki/wiki/Ritual%20Dagger)
-- ::item_uncommon:: [Xyanyde](https://bg3.wiki/wiki/Xyanyde)
-- ::item_common:: [Chain Mail](https://bg3.wiki/wiki/Chain%20Mail)
-# Worg Pens
-# Defiled Temple
+::task:: The following items can be found around the area
+  - ::item_uncommon:: [Fleetfingers](https://bg3.wiki/wiki/Fleetfingers)
+<!-- Reviewed up to this point -->
 # The Risen Road
 - ::item_veryrare:: [Abyss Beckoners](https://bg3.wiki/wiki/Abyss%20Beckoners)
 - ::item_rare:: [Shattered Flail](https://bg3.wiki/wiki/Shattered%20Flail)
@@ -382,6 +341,73 @@
 - ::item_rare:: [Adamantine Mace](https://bg3.wiki/wiki/Adamantine%20Mace)
 - ::item_rare:: [Adamantine Scimitar](https://bg3.wiki/wiki/Adamantine%20Scimitar)
 - ::item_rare:: [Adamantine Shield](https://bg3.wiki/wiki/Adamantine%20Shield)
+<!-- Goblin Camp has been reviewed. Section was moved to just before Act 1.5 -->
+# Goblin Camp
+- ::task:: [Grat](https://bg3.wiki/wiki/Grat) offers merchant services
+  - ::item_rare:: [Swiresy Shoes](https://bg3.wiki/wiki/Swiresy%20Shoes)
+  - ::item_uncommon:: [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots%20of%20Aid%20and%20Comfort)
+  - ::item_uncommon:: [Doom Hammer](https://bg3.wiki/wiki/Doom%20Hammer)
+  - ::item_uncommon:: [Gloves of Archery](https://bg3.wiki/wiki/Gloves%20of%20Archery)
+  - ::item_uncommon:: [Returning Pike](https://bg3.wiki/wiki/Returning%20Pike)
+- ::task:: [Roah Moonglow](https://bg3.wiki/wiki/Roah_Moonglow) offers merchant services
+  - ::item_rare:: [Blooded Greataxe](https://bg3.wiki/wiki/Blooded%20Greataxe)
+  - ::item_rare:: [Gold Wyrmling Staff](https://bg3.wiki/wiki/Gold%20Wyrmling%20Staff) (#1)
+  - ::item_rare:: [Monster Slayer Glaive](https://bg3.wiki/wiki/Monster%20Slayer%20Glaive)
+  - ::item_uncommon:: [Bow of Awareness](https://bg3.wiki/wiki/Bow%20of%20Awareness)
+  - ::item_uncommon:: [Hunter's Dagger](https://bg3.wiki/wiki/Hunter's%20Dagger) (#1)
+- ::task:: Play [Chase the chicken](https://bg3.wiki/wiki/Krolla) to gain a camp follower
+- ::ability:: Participate in [Abdirak's](https://bg3.wiki/wiki/Abdirak) ritual to gain a permanent bonus, [Loviatar's Love](https://bg3.wiki/wiki/Loviatar%27s_Love_(Condition))
+- ::task:: Complete [Rescue Volo](https://bg3.wiki/wiki/Rescue_Volo) before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
+  - ::item_uncommon:: [Blazer of Benevolence](https://bg3.wiki/wiki/Blazer%20of%20Benevolence)
+- ::missable:: Complete [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
+  - ::task:: If you plan on recruiting Minthara or obtaining the achievement for keeping Sazza alive, work this into the next task.
+  - ::item_uncommon:: [Assassin's Touch](https://bg3.wiki/wiki/Assassin's%20Touch)
+- ::task:: Compelte [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
+  - ::task:: If you plan on recruiting Minthara or obtaining the achievement for keeping Sazza alive do the following below
+  - ::task:: Remember: do not long rest until told to do so
+  - ::task:: [Poison the goblins](https://bg3.wiki/wiki/Goblin_Camp#Booze_Tub) and do not get caught
+  - ::task:: Rescue the [tortured prisoner](https://bg3.wiki/wiki/Shattered_Sanctum#Torture_rack) and do not get caught
+  - ::task:: Defeat [Priestess Gut](https://bg3.wiki/wiki/Gut) and do not get caught
+  - ::task:: Defeat [Scrying Eye](https://bg3.wiki/wiki/Scrying_Eye) and do not get caught
+  - ::task:: Speak to [Dror Ragzlin](https://bg3.wiki/wiki/Dror_Ragzlin) and accept instruction to report to [Minthara](https://bg3.wiki/wiki/Minthara)
+  - ::task:: Perform any preperation needed to defeat Dror Ragzlin, (barrels, etc) but do not start combat
+  - ::task:: Immediately after receiving the reward for [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza), enter turn based mode and steal in front of Minthara.
+  - ::task:: Ensure Minthara and Sazza are temporary hostile
+  - ::task:: Enable [Non-Leathal Attacks](https://bg3.wiki/wiki/Toggle_Non-Lethal_Attacks) and defeat Minthara and Sazza.
+  - ::task:: Defeat the rest of the enemies with lethal attacks.
+  - ::task:: Defeat [Dror Ragzlin](https://bg3.wiki/wiki/Dror_Ragzlin)
+  - ::task:: Defeat [Abdirak](https://bg3.wiki/wiki/Abdirak) before he escapes with all his missable loot
+  - ::task:: Complete [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) and [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees).
+  - ::task:: Long rest.
+  - ::task:: Return to where Minthara and Sazza were defeated and ensure they are both alive.
+  - ::task:: If they are missing or dead, reload back to [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza). 
+  - ::task:: If they are alive, congratualtions! It is highly recommended to make a new manual save.
+- ::task:: Minthara has the following items when defeated
+  - ::task:: Minthara will be naked in cutscenes until you recruit her in Act 2 if you loot her. Nothing is lost if you chose not to.
+  - ::item_story:: The first opportunity to obtain a [Spider Lyre](https://bg3.wiki/wiki/Spider%27s%20Lyre).
+  - ::item_uncommon:: [Xyanyde](https://bg3.wiki/wiki/Xyanyde)
+  - ::item_rare:: [Spidersilk Armour](https://bg3.wiki/wiki/Spidersilk%20Armour)
+  - ::item_ordinary:: [Minthara's At-Ease Clothes](https://bg3.wiki/wiki/Minthara%27s_At-Ease_Clothes)
+  - ::item_ordinary:: [Minthara's Underwear](https://bg3.wiki/wiki/Minthara%27s_Underwear)
+  - ::item_ordinary:: [Tasteful Boots (Minthara)](https://bg3.wiki/wiki/Tasteful_Boots)
+- ::task:: The following items can be found around the area
+  - ::item_rare:: [Ring of Poison Resistance](https://bg3.wiki/wiki/Ring%20of%20Poison%20Resistance)
+  - ::item_rare:: [Springstep Boots](https://bg3.wiki/wiki/Springstep%20Boots)
+  - ::item_rare:: [The Watersparkers](https://bg3.wiki/wiki/The%20Watersparkers)
+  - ::item_uncommon:: [Amulet of Selûne's Chosen](https://bg3.wiki/wiki/Amulet%20of%20Selûne's%20Chosen)
+  - ::item_uncommon:: [Beastmaster's Chain](https://bg3.wiki/wiki/Beastmaster's%20Chain)
+  - ::item_uncommon:: [Glowing Shield](https://bg3.wiki/wiki/Glowing%20Shield)
+  - ::item_uncommon:: [Jagged Spear](https://bg3.wiki/wiki/Jagged%20Spear)
+  - ::item_uncommon:: [Worgfang](https://bg3.wiki/wiki/Worgfang)
+- ::task:: The following items can be obtained from killing NPC's
+  - ::item_rare:: [Linebreaker Boots](https://bg3.wiki/wiki/Linebreaker%20Boots)
+  - ::item_uncommon:: [Absolute's Talisman](https://bg3.wiki/wiki/Absolute's%20Talisman)
+  - ::item_uncommon:: [Absolute's Warboard](https://bg3.wiki/wiki/Absolute's%20Warboard)
+  - ::item_uncommon:: [Crusher's Ring](https://bg3.wiki/wiki/Crusher's%20Ring)
+  - ::item_uncommon:: [Faithbreaker](https://bg3.wiki/wiki/Faithbreaker)
+  - ::item_uncommon:: [Loviatar's Scourge](https://bg3.wiki/wiki/Loviatar's%20Scourge)
+  - ::item_uncommon:: [Ritual Axe](https://bg3.wiki/wiki/Ritual%20Axe)
+  - ::item_uncommon:: [Ritual Dagger](https://bg3.wiki/wiki/Ritual%20Dagger)
 # BEFORE CONTINUING TO ACT 1.5
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before going to Act 1.5
 # Rosymorn Monastery Trail
