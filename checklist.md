@@ -346,7 +346,7 @@
   - ::missable:: While it is possible to enter and leave the Goblin Camp early, it's safest to delay it until the player has completed all other tasks and is ready to clear it just before entering Act 1.5.
   - ::missable:: It is advised to read through this section in it's entirety to avoid any problems
 - ::missable:: Start [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
-  - ::task:: This taks officially starts in Emerald Grove, but it's better placed here for pacing
+  - ::task:: This task officially starts in Emerald Grove, but it's better placed here for pacing
   - ::task:: Keeping Sazza alive into Act 2 unlocks a missable achievement
   - ::task:: It is highly recommended to delay this until you are ready to enter the Goblin Camp
   - ::task:: Perform a manual save before triggering this quest in the event Sazza dies
