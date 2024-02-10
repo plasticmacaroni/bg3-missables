@@ -107,11 +107,6 @@
   - ::item_uncommon:: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider's%20Pride)
 - ::missable:: Complete [Steal the Sacred Idol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
   - ::item_rare:: [Ring of Protection](https://bg3.wiki/wiki/Ring%20of%20Protection)
-- ::missable:: Start [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
-  - ::task:: Keeping Sazza alive into Act 2 unlocks a missable achievement
-  - ::task:: Sazza can be freed earlier, but delaying it until now ensures she doesn't die and Minthara can be recruited as a companion later.  More details in the Goblin Camp section
-  - ::task:: Perform a manual save before triggering this quest in the event Sazza dies
-  - ::task:: Do not perform a long rest until after [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) and [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
 - ::task:: After completing [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees), accept the reward for a missable item
   - ::item_uncommon:: [Wapira's Crown](https://bg3.wiki/wiki/Wapira's%20Crown)
 - ::task:: After completing [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) speak to [Rath](https://bg3.wiki/wiki/Rath) to gain access to the Hidden Vault
@@ -350,6 +345,12 @@
   - ::missable:: Several quests become unavailable once [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees) is completed
   - ::missable:: While it is possible to enter and leave the Goblin Camp early, it's safest to delay it until the player has completed all other tasks and is ready to clear it just before entering Act 1.5.
   - ::missable:: It is advised to read through this section in it's entirety to avoid any problems
+- ::missable:: Start [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
+  - ::task:: This taks officially starts in Emerald Grove, but it's better placed here for pacing
+  - ::task:: Keeping Sazza alive into Act 2 unlocks a missable achievement
+  - ::task:: It is highly recommended to delay this until you are ready to enter the Goblin Camp
+  - ::task:: Perform a manual save before triggering this quest in the event Sazza dies
+  - ::task:: Do not perform a long rest until after [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) and [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
 - ::task:: [Grat](https://bg3.wiki/wiki/Grat) offers merchant services
   - ::item_rare:: [Swiresy Shoes](https://bg3.wiki/wiki/Swiresy%20Shoes)
   - ::item_uncommon:: [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots%20of%20Aid%20and%20Comfort)
