@@ -19,9 +19,6 @@
   - ::item_ordinary::This represents missable or limited ordinary items -- ordinary items may be unique in name, but are not different from regular items 
 # Act 1 (General Tasks)
 - ::task:: During your adventure [Gale](https://bg3.wiki/wiki/Gale) will receive a debuff and ask for 3 magical artefacts to progress his personal quest, [The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep)
-<!-- - ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp -->
-<!-- - If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest -->
-<!-- - Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins) -->
 <!-- Start of Review -->
 # Nautiloid
 - ::task:: Make friends with [Us](https://bg3.wiki/wiki/Us) and keep him alive to be granted a missable ability later
@@ -52,7 +49,7 @@
   - ::item_ordinary:: [Astarion's Underwear](https://bg3.wiki/wiki/Astarion%27s_Underwear)
   - ::item_ordinary:: [Tasteful Boots (Astarion)](https://bg3.wiki/wiki/Tasteful_Boots)
 <!-- Is this necessary? -->
-- ::task:: Take revenge on your tentacled captor from the intro
+<!-- - ::task:: Take revenge on your tentacled captor from the intro -->
 # Roadside Cliffs
 - ::task:: Recruit [Gale](https://bg3.wiki/wiki/Gale) for some missable items
   - ::item_ordinary:: [Simple Robe (Gale)](https://bg3.wiki/wiki/Simple_Robe)
@@ -130,6 +127,8 @@
 # Forest
 - ::item_uncommon:: [Fleetfingers](https://bg3.wiki/wiki/Fleetfingers)
 # Goblin Camp
+- Complete other quests before [killing 3 goblin camp leaders](https://bg3.wiki/wiki/Defeat_the_Goblins)
+- ::missable::Buy any [goblin vendor](https://bg3.wiki/wiki/Grat_the_Trader) items before angering the goblin camp
 - ::item_rare:: [Swiresy Shoes](https://bg3.wiki/wiki/Swiresy%20Shoes)
 - ::item_uncommon:: [Blazer of Benevolence](https://bg3.wiki/wiki/Blazer%20of%20Benevolence)
 - ::item_uncommon:: [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots%20of%20Aid%20and%20Comfort)
@@ -223,6 +222,7 @@
 - ::missable::[Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby (do this now, or an owlbear will die after a long rest)
 - Check out [the shrine](https://bg3.wiki/wiki/Owlbear_Nest#Sel%C3%BBne_Shrine) and complete a shrine puzzle to unlock a chest
 # Waukeen's Rest
+- If you reach a [burning building](https://bg3.wiki/wiki/Waukeen's_Rest), do not long rest
 - ::item_rare:: [The Joltshooter](https://bg3.wiki/wiki/The%20Joltshooter)
 - ::item_rare:: [The Sparky Points](https://bg3.wiki/wiki/The%20Sparky%20Points)
 - ::item_rare:: [The Spellsparkler](https://bg3.wiki/wiki/The%20Spellsparkler)
