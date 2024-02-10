@@ -57,7 +57,7 @@
   - ::item_ordinary:: [Astarion's Underwear](https://bg3.wiki/wiki/Astarion%27s_Underwear)
   - ::item_ordinary:: [Tasteful Boots (Astarion)](https://bg3.wiki/wiki/Tasteful_Boots)
 <!-- Is this necessary? -->
-- Take revenge on your tentacled captor from the intro
+- ::task:: Take revenge on your tentacled captor from the intro
 # Roadside Cliffs
 - ::task:: Recruit [Gale](https://bg3.wiki/wiki/Gale) for some missable items
   - ::item_ordinary:: [Simple Robe (Gale)](https://bg3.wiki/wiki/Simple_Robe)
@@ -73,7 +73,7 @@
   - ::item_rare:: [The Amulet of Lost Voices](https://bg3.wiki/wiki/The%20Amulet%20of%20Lost%20Voices)
   - ::item_uncommon:: [The Watcher's Guide](https://bg3.wiki/wiki/The%20Watcher's%20Guide)
   - ::item_ordinary:: [Book of the Dead Gods](https://bg3.wiki/wiki/Book_of_Dead_Gods)
-- Invite [Withers](https://bg3.wiki/wiki/Withers) to your camp
+- ::task:: Invite [Withers](https://bg3.wiki/wiki/Withers) to your camp
 # Emerald Grove
 - ::missable:: Save [Berth](https://bg3.wiki/wiki/Barth) and his companions from the goblins at the gate.  Berth must survive for a missable quest.
   - ::item_uncommon:: [Gloves of Power](https://bg3.wiki/wiki/Gloves%20of%20Power)
