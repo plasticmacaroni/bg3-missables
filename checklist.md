@@ -726,13 +726,13 @@
   - ::task:: Consolation Prizes
     - ::item_uncommon:: [Boots of Very Fast Blinking](https://bg3.wiki/wiki/Boots%20of%20Very%20Fast%20Blinking)
     - ::item_uncommon:: [Reverse Rain Cloak](https://bg3.wiki/wiki/Reverse%20Rain%20Cloak)
-    - ::item_common:: [+1 Breastplate](https://bg3.wiki/wiki/%2B1_Breastplate)
-    - ::item_common:: [Bag of Moulding](https://bg3.wiki/wiki/Bag_of_Moulding)
     - ::item_uncommon:: [Comback Handaxe](https://bg3.wiki/wiki/Comeback_Handaxe)
       - Not Ordinary. This item appears identical to a Handaxe +1, but has the hidden effect of dealing damage to the thrower.
     - ::item_uncommon:: [Eternal Carafe of Wine (Or Sometimes Acid)](https://bg3.wiki/wiki/Eternal_Carafe_of_Wine_(Or_Sometimes_Acid)) 
     - ::item_uncommon:: [Staff of a Mumbling Wizard](https://bg3.wiki/wiki/Staff%20of%20a%20Mumbling%20Wizard)
     - ::item_uncommon:: [Unlucky Thief's Gloves](https://bg3.wiki/wiki/Unlucky%20Thief's%20Gloves)
+    - ::item_common:: [+1 Breastplate](https://bg3.wiki/wiki/%2B1_Breastplate)
+    - ::item_common:: [Bag of Moulding](https://bg3.wiki/wiki/Bag_of_Moulding)
     - ::item_common:: [Magical Walnut](https://bg3.wiki/wiki/Magical_Walnut) (container)
   - ::task:: Jackpot
     - ::item_legendary:: [Nyrulna](https://bg3.wiki/wiki/Nyrulna)
