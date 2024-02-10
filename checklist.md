@@ -118,7 +118,7 @@
 - ::missable:: Complete [Steal the Sacred Idol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
   - ::item_rare:: [Ring of Protection](https://bg3.wiki/wiki/Ring%20of%20Protection)
 - ::missable:: Complete [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
-  - ::task:: Keeping Goblin Sazza alive into Act 2 unlocks a missable achievement
+  - ::task:: Keeping Sazza alive into Act 2 unlocks a missable achievement
   - ::task:: Sazza can be freed earlier, but delaying it until now ensures she doesn't die and Minthara can be recruited as a companion later.  More details in the Goblin Camp section
 - ::task:: After completing [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees), accept the reward for a missable item
   - ::item_uncommon:: [Wapira's Crown](https://bg3.wiki/wiki/Wapira's%20Crown)
