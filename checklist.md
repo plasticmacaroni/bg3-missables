@@ -45,7 +45,7 @@
   - ::item_ordinary:: [Dark Mind](https://bg3.wiki/wiki/Dark_Mind)
   - ::item_ordinary:: [Slave Mind](https://bg3.wiki/wiki/Slave_Mind)
 - ::task:: Remove [Shadowheart's](https://bg3.wiki/wiki/Shadowheart) armor and move it into your inventory for an item later
-- ::task:: Kill or Command (Drop) an [Commander Zhalk](https://bg3.wiki/wiki/Zhalk) for a missable item
+- ::task:: Kill or Command (Drop) [Commander Zhalk](https://bg3.wiki/wiki/Zhalk) for a missable item
   - ::item_uncommon:: [Everburn Blade](https://bg3.wiki/wiki/Everburn_Blade)
 - ::missable:: Escape the [Nautiloid](https://bg3.wiki/wiki/Prologue) before time runs out
 # Ravaged Beach
