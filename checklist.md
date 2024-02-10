@@ -56,6 +56,7 @@
   - ::item_ordinary:: [Astarion's Eccentric Clothes](https://bg3.wiki/wiki/Astarion%27s_Eccentric_Clothes)
   - ::item_ordinary:: [Astarion's Underwear](https://bg3.wiki/wiki/Astarion%27s_Underwear)
   - ::item_ordinary:: [Tasteful Boots (Astarion)](https://bg3.wiki/wiki/Tasteful_Boots)
+<!-- Is this necessary? -->
 - Take revenge on your tentacled captor from the intro
 # Roadside Cliffs
 - ::task:: Recruit [Gale](https://bg3.wiki/wiki/Gale) for some missable items
