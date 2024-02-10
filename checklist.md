@@ -29,7 +29,7 @@
 # Act 1 (General Tasks)
   - ::task:: Feed [Gale](https://bg3.wiki/wiki/Gale) 3 magical artefacts to progress his personal quest, [The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep)
 # Nautiloid
-- ::task:: Make a [friend](https://bg3.wiki/wiki/Us) and keep him alive to be granted a missable ability later
+- ::task:: Make friends with [Us](https://bg3.wiki/wiki/Us) and keep him alive to be granted a missable ability later
 - ::task:: Recruit a companion, [Lae'zel](https://bg3.wiki/wiki/Lae%27zel), for some missable items
   - ::item_ordinary:: [Githyanki Boots](https://bg3.wiki/wiki/Githyanki_Boots)
   - ::item_ordinary:: [Lae'zel's Clothes](https://bg3.wiki/wiki/Lae%27zel%27s_Clothes)
@@ -45,9 +45,9 @@
   - ::item_ordinary:: [Dark Mind](https://bg3.wiki/wiki/Dark_Mind)
   - ::item_ordinary:: [Slave Mind](https://bg3.wiki/wiki/Slave_Mind)
 - ::task:: Remove [Shadowheart's](https://bg3.wiki/wiki/Shadowheart) armor and move it into your inventory for an item later
-- ::task:: Kill or Command (Drop) an [enemy](https://bg3.wiki/wiki/Zhalk) for a missable 
+- ::task:: Kill or Command (Drop) an [Commander Zhalk](https://bg3.wiki/wiki/Zhalk) for a missable item
   - ::item_uncommon:: [Everburn Blade](https://bg3.wiki/wiki/Everburn_Blade)
-- ::missable:: [Escape the Nautiloid before time runs out.](https://bg3.wiki/wiki/Prologue)
+- ::missable:: Escape the [Nautiloid](https://bg3.wiki/wiki/Prologue) before time runs out
 # Ravaged Beach
 - ::task:: Recruit [Shadowheart](https://bg3.wiki/wiki/Shadowheart) again, for another missable item
   - ::item_ordinary:: [Bandit Armor](https://bg3.wiki/wiki/Bandit%27s%20Armour)
