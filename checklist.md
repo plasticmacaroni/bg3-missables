@@ -392,7 +392,7 @@
   - ::task:: If they are alive, congratualtions! It is highly recommended to make a new manual save.
 - ::task:: Minthara has the following items when defeated
   - ::task:: Minthara will be naked in cutscenes until you recruit her in Act 2 if you loot her. Nothing is lost if you chose not to.
-  - ::item_story:: The first opportunity to obtain a [Spider Lyre](https://bg3.wiki/wiki/Spider%27s%20Lyre).
+  - ::item_story:: [Spider Lyre](https://bg3.wiki/wiki/Spider%27s%20Lyre)
   - ::item_uncommon:: [Xyanyde](https://bg3.wiki/wiki/Xyanyde)
   - ::item_rare:: [Spidersilk Armour](https://bg3.wiki/wiki/Spidersilk%20Armour)
   - ::item_ordinary:: [Minthara's At-Ease Clothes](https://bg3.wiki/wiki/Minthara%27s_At-Ease_Clothes)
