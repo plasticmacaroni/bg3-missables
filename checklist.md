@@ -122,7 +122,7 @@
   - ::item_uncommon:: [Key of the Ancients](https://bg3.wiki/wiki/Key%20of%20the%20Ancients)
 # Forest
 ::task:: The following items can be found around the area
-  - ::item_uncommon:: [Fleetfingers](https://bg3.wiki/wiki/Fleetfingers)
+- ::item_uncommon:: [Fleetfingers](https://bg3.wiki/wiki/Fleetfingers)
 <!-- Reviewed up to this point -->
 # The Risen Road
 - ::item_veryrare:: [Abyss Beckoners](https://bg3.wiki/wiki/Abyss%20Beckoners)
