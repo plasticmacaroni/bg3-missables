@@ -8,7 +8,7 @@
 - Send all camp supplies to camp -- they'll automatically show up when you Long Rest
 - The following icon usage is described below
   - ::task::This represents general tasks
-  - ::missable::This represents time sensitive tasks that can be failed 
+  - ::missable::This represents time sensitive tasks that can be failed if you perform a long rest
   - ::ability::This represents missable or limited skills, spells or abilities
   - ::item_common::This represents missable or limited common items 
   - ::item_uncommon::This represents missable or limited uncommon items 
@@ -24,56 +24,98 @@
   - ::task:: Use disguise self, turn based mode, [disarm](https://bg3.wiki/wiki/Disarming), and escape.  Stay safe by escaping with stacking movement skills, invisible or sanctuary.
   - ::task:: Bards can be a great distraction if there are too many people. Either draw your target away or draw everyone else away from your target.  Illusion spells work too.
   - ::task:: You can [disarm](https://bg3.wiki/wiki/Disarming) them without using any trickery and escape.  They may remember you, but you may be able to barter their attitude back with other items.  Can get pricy if there are multiple witnesses.
+<!-- Objectives Template -->
+<!-- Time-Sensitive Tasks -->
+<!-- Quests to Start -->
+<!-- Quests to Progress -->
+<!-- Quests to Complete -->
+<!-- Miscellaneous Tasks -->
+<!-- Items -->
 # Act 1 (General Tasks)
-- ::task:: During your adventure [Gale](https://bg3.wiki/wiki/Gale) will receive a debuff and ask for 3 magical artefacts to progress his personal quest, [The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep)
-<!-- Start of Review -->
+<!-- Quests to Start -->
+<!-- Quests to Progress -->
+- ::task:: Progress quest [The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep)
+  - ::task:: At various locations during Act 1 in your adventure [Gale](https://bg3.wiki/wiki/Gale) will receive a debuff and ask for 3 magical artefacts
+<!-- Quests to Complete -->
+<!-- Miscellaneous Tasks -->
+<!-- Items -->
 # Nautiloid
+<!-- Time-Sensitive Tasks -->
+<!-- Quests to Start -->
+- ::task:: Start quest [Escape the Nautiloid](https://bg3.wiki/wiki/Prologue)
+<!-- Quests to Progress -->
+<!-- Quests to Complete -->
+<!-- Miscellaneous Tasks -->
 - ::task:: Make friends with [Us](https://bg3.wiki/wiki/Us) and keep him alive to be granted a missable ability later
-- ::task:: Recruit a companion, [Lae'zel](https://bg3.wiki/wiki/Lae%27zel), for some missable items
-  - ::item_ordinary:: [Githyanki Boots](https://bg3.wiki/wiki/Githyanki_Boots)
-  - ::item_ordinary:: [Lae'zel's Clothes](https://bg3.wiki/wiki/Lae%27zel%27s_Clothes)
-  - ::item_ordinary:: [Lae'zel's Underwear](https://bg3.wiki/wiki/Lae%27zel%27s_Underwear)
-  - ::item_ordinary:: [Tasteful Boots (Lae'zel)](https://bg3.wiki/wiki/Tasteful_Boots)
-- ::task:: Recruit a second companion, [Shadowheart](https://bg3.wiki/wiki/Shadowheart) for some missable items
-  - ::item_ordinary:: [Circlet](https://bg3.wiki/wiki/Circlet)
-  - ::item_ordinary:: [Chain Shirt (Shadowheart)](https://bg3.wiki/wiki/Chain_Shirt)
-  - ::item_ordinary:: [Shadowheart's Clothes](https://bg3.wiki/wiki/Shadowheart%27s_Clothes)
-  - ::item_ordinary:: [Shadowheart's Underwear](https://bg3.wiki/wiki/Shadowheart%27s_Underwear)
-  - ::item_ordinary:: [Tasteful Boots (Shadowheart)](https://bg3.wiki/wiki/Tasteful_Boots)
-- ::task:: Pick up some missable items for some dialogue later
-  - ::item_ordinary:: [Dark Mind](https://bg3.wiki/wiki/Dark_Mind)
-  - ::item_ordinary:: [Slave Mind](https://bg3.wiki/wiki/Slave_Mind)
-- ::task:: Remove [Shadowheart's](https://bg3.wiki/wiki/Shadowheart) armor and move it into your inventory for an item later
-- ::task:: Kill or Command (Drop) [Commander Zhalk](https://bg3.wiki/wiki/Zhalk) for a missable item
-  - ::item_uncommon:: [Everburn Blade](https://bg3.wiki/wiki/Everburn_Blade)
-- ::missable:: Escape the [Nautiloid](https://bg3.wiki/wiki/Prologue) before time runs out
+<!-- Items -->
+- ::item_uncommon:: [Everburn Blade](https://bg3.wiki/wiki/Everburn_Blade) - Defeat or [Disarm](https://bg3.wiki/wiki/Disarming) [Commander Zhalk](https://bg3.wiki/wiki/Zhalk)
+- ::item_ordinary:: [Chain Shirt (Shadowheart)](https://bg3.wiki/wiki/Chain_Shirt) - Remove Shadowheart's armour and move it into your inventory for another item later
+- ::item_ordinary:: [Dark Mind](https://bg3.wiki/wiki/Dark_Mind) - Pick this up for some dialogue later in Act 2
+- ::item_ordinary:: [Slave Mind](https://bg3.wiki/wiki/Slave_Mind) - Pick this up for some dialogue later in Act 2
 # Ravaged Beach
-- ::task:: Recruit [Shadowheart](https://bg3.wiki/wiki/Shadowheart) again, for another missable item
-  - ::item_ordinary:: [Bandit Armor](https://bg3.wiki/wiki/Bandit%27s%20Armour)
-- ::task:: Recruit [Astarion](https://bg3.wiki/wiki/Astarion) for some missable items
-  - ::item_ordinary:: [Padded Armour (Astarion)](https://bg3.wiki/wiki/Padded_Armour)
-  - ::item_ordinary:: [Astarion's Eccentric Clothes](https://bg3.wiki/wiki/Astarion%27s_Eccentric_Clothes)
-  - ::item_ordinary:: [Astarion's Underwear](https://bg3.wiki/wiki/Astarion%27s_Underwear)
-  - ::item_ordinary:: [Tasteful Boots (Astarion)](https://bg3.wiki/wiki/Tasteful_Boots)
-<!-- Is this necessary? -->
-<!-- - ::task:: Take revenge on your tentacled captor from the intro -->
+<!-- Time-Sensitive Tasks -->
+<!-- Quests to Start -->
+- ::task:: Start the quest [Daughter of Darkness](https://bg3.wiki/wiki/Daughter_of_Darkness)
+- ::task:: Start the quest [The Pale Elf](https://bg3.wiki/wiki/The_Pale_Elf)
+<!-- Quests to Progress -->
+<!-- Quests to Complete -->
+- ::task:: Complete quest [Escape the Nautiloid](https://bg3.wiki/wiki/Prologue)
+<!-- Miscellaneous Tasks -->
+<!-- Items -->
+- ::item_ordinary:: [Astarion's Eccentric Clothes](https://bg3.wiki/wiki/Astarion%27s_Eccentric_Clothes) - Recruit Asterion
+- ::item_ordinary:: [Astarion's Underwear](https://bg3.wiki/wiki/Astarion%27s_Underwear) - Recruit Asterion
+- ::item_ordinary:: [Bandit Armor](https://bg3.wiki/wiki/Bandit%27s%20Armour) - Recruit Shadowheart
+- ::item_ordinary:: [Circlet](https://bg3.wiki/wiki/Circlet) - Recruit Shadowheart
+- ::item_ordinary:: [Padded Armour (Astarion)](https://bg3.wiki/wiki/Padded_Armour) - Recruit Asterion
+- ::item_ordinary:: [Shadowheart's Clothes](https://bg3.wiki/wiki/Shadowheart%27s_Clothes) - Recruit Shadowheart
+- ::item_ordinary:: [Shadowheart's Underwear](https://bg3.wiki/wiki/Shadowheart%27s_Underwear) - Recruit Shadowheart
+- ::item_ordinary:: [Tasteful Boots (Astarion)](https://bg3.wiki/wiki/Tasteful_Boots) - Recruit Asterion
+- ::item_ordinary:: [Tasteful Boots (Shadowheart)](https://bg3.wiki/wiki/Tasteful_Boots) - Recruit Shadowheart
 # Roadside Cliffs
-- ::task:: Recruit [Gale](https://bg3.wiki/wiki/Gale) for some missable items
-  - ::item_ordinary:: [Simple Robe (Gale)](https://bg3.wiki/wiki/Simple_Robe)
-  - ::item_ordinary:: [Gale's Austere Clothes](https://bg3.wiki/wiki/Gale%27s_Austere_Clothes)
-  - ::item_ordinary:: [Netherese Briefs](https://bg3.wiki/wiki/Netherese_Briefs)
-  - ::item_ordinary:: [Tasteful Boots (Gale)](https://bg3.wiki/wiki/Tasteful_Boots)
-- ::task:: Recruit [Lae'zel](https://bg3.wiki/wiki/Lae%27zel#Recruitment) again.
-- ::task:: Visit [Harper Outpost](https://bg3.wiki/wiki/Ravaged_Beach#Harper_Outpost) for some missable items
-  - ::item_uncommon:: [Silver Pendant](https://bg3.wiki/wiki/Silver%20Pendant)
-  - ::item_ordinary:: [Spider Egg Sac](https://bg3.wiki/wiki/Spider_Egg_Sac)
+<!-- Time-Sensitive Tasks -->
+<!-- Quests to Start -->
+- ::task:: Start quest [The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep)
+- ::task:: Start quest [In Case of Death...](https://bg3.wiki/wiki/In_Case_of_Death...)
+- ::task:: Start quest [Free Lae'zel](https://bg3.wiki/wiki/Free_Lae%27zel)
+- ::task:: Start quest [The Githyanki Warrior](https://bg3.wiki/wiki/The_Githyanki_Warrior)
+<!-- Quests to Progress -->
+- ::task:: Progress quest [In Case of Death...](https://bg3.wiki/wiki/In_Case_of_Death...)
+  - ::task:: Defeat Gale with your own party to quickly complete this quest
+<!-- Quests to Complete -->
+- ::task:: Complete quest [In Case of Death...](https://bg3.wiki/wiki/In_Case_of_Death...)
+- ::task:: Complete quest [Free Lae'zel](https://bg3.wiki/wiki/Free_Lae%27zel)
+<!-- Miscellaneous Tasks -->
+<!-- Items -->
+- ::item_uncommon:: [Silver Pendant](https://bg3.wiki/wiki/Silver%20Pendant) - Located at the [Harper Outpost](https://bg3.wiki/wiki/Ravaged_Beach#Harper_Outpost)
+- ::item_ordinary:: [Gale's Austere Clothes](https://bg3.wiki/wiki/Gale%27s_Austere_Clothes) - Recruit Gale
+- ::item_ordinary:: [Githyanki Boots](https://bg3.wiki/wiki/Githyanki_Boots) - Recruit Lae'zel
+- ::item_ordinary:: [Lae'zel's Clothes](https://bg3.wiki/wiki/Lae%27zel%27s_Clothes) - Recruit Lae'zel
+- ::item_ordinary:: [Lae'zel's Underwear](https://bg3.wiki/wiki/Lae%27zel%27s_Underwear) - Recruit Lae'zel
+- ::item_ordinary:: [Netherese Briefs](https://bg3.wiki/wiki/Netherese_Briefs) - Recruit Gale
+- ::item_ordinary:: [Scroll of True Ressurection](https://bg3.wiki/wiki/Scroll_of_True_Resurrection) - Obtained from the quest [In Case of Death...](https://bg3.wiki/wiki/In_Case_of_Death...)
+- ::item_ordinary:: [Simple Robe (Gale)](https://bg3.wiki/wiki/Simple_Robe) - Recruit Gale
+- ::item_ordinary:: [Spider Egg Sac](https://bg3.wiki/wiki/Spider_Egg_Sac) - Located at the [Harper Outpost](https://bg3.wiki/wiki/Ravaged_Beach#Harper_Outpost)
+- ::item_ordinary:: [Tasteful Boots (Gale)](https://bg3.wiki/wiki/Tasteful_Boots) - Recruit Gale
+- ::item_ordinary:: [Tasteful Boots (Lae'zel)](https://bg3.wiki/wiki/Tasteful_Boots) - Recruit Lae'zel
 # Overgrown Ruins
-- ::task:: Visit the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt) for some missable items
-  - ::item_rare:: [The Amulet of Lost Voices](https://bg3.wiki/wiki/The%20Amulet%20of%20Lost%20Voices)
-  - ::item_uncommon:: [The Watcher's Guide](https://bg3.wiki/wiki/The%20Watcher's%20Guide)
-  - ::item_ordinary:: [Book of the Dead Gods](https://bg3.wiki/wiki/Book_of_Dead_Gods)
-- ::task:: Invite [Withers](https://bg3.wiki/wiki/Withers) to your camp
+<!-- Time-Sensitive Tasks -->
+<!-- Quests to Start -->
+- ::task:: Start quest [Explore the Ruins](https://bg3.wiki/wiki/Explore_the_Ruins)
+<!-- Quests to Progress -->
+<!-- Quests to Complete -->
+- ::task:: Complete quest [Explore the Ruins](https://bg3.wiki/wiki/Explore_the_Ruins)
+<!-- Miscellaneous Tasks -->
+<!-- Items -->
+- ::item_rare:: [The Amulet of Lost Voices](https://bg3.wiki/wiki/The%20Amulet%20of%20Lost%20Voices) - Located at the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)
+- ::item_uncommon:: [The Watcher's Guide](https://bg3.wiki/wiki/The%20Watcher's%20Guide) - Located at the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)
+- ::item_ordinary:: [Book of the Dead Gods](https://bg3.wiki/wiki/Book_of_Dead_Gods) - Located at the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)
 # Emerald Grove
+<!-- Time-Sensitive Tasks -->
+<!-- Quests to Start -->
+<!-- Quests to Progress -->
+<!-- Quests to Complete -->
+<!-- Miscellaneous Tasks -->
+<!-- Review Incomplete -->
 - ::missable:: Save [Berth](https://bg3.wiki/wiki/Barth) and his companions from the goblins at the gate.  Berth must survive for a missable quest.
   - ::item_uncommon:: [Gloves of Power](https://bg3.wiki/wiki/Gloves%20of%20Power)
   - ::item_story:: Find the [stolen locket](https://bg3.wiki/wiki/Brass%20Locket) to complete a [quest](https://bg3.wiki/wiki/Return_the_Locket)
@@ -130,7 +172,6 @@
 # Forest
 ::task:: The following items can be found around the area
 - ::item_uncommon:: [Fleetfingers](https://bg3.wiki/wiki/Fleetfingers)
-<!-- Reviewed up to this point -->
 # The Risen Road
 - ::item_veryrare:: [Abyss Beckoners](https://bg3.wiki/wiki/Abyss%20Beckoners)
 - ::item_rare:: [Shattered Flail](https://bg3.wiki/wiki/Shattered%20Flail)
