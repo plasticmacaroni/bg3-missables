@@ -1147,7 +1147,7 @@
 <!-- # Wyrm's Crossing -->
 <!-- # Wyrm's Crossing (The Velveteen Elixir) -->
 <!-- # Wyrm's Rock Fortress -->
-# Items Obtained in Various Locations
+# Items Obtained in Various Locations (WIP)
 - ::item_legendary:: [Silver Sword of the Astral Plane](https://bg3.wiki/wiki/Silver%20Sword%20of%20the%20Astral%20Plane)
 - ::item_legendary:: [Orphic Hammer](https://bg3.wiki/wiki/Orphic%20Hammer)
 - ::item_veryrare:: [Armour of Landfall](https://bg3.wiki/wiki/Armour%20of%20Landfall)
@@ -1203,7 +1203,7 @@
 - ::item_common:: [Practice Sword](https://bg3.wiki/wiki/Practice%20Sword)
 - ::item_common:: [Watcher Crossbow](https://bg3.wiki/wiki/Watcher%20Crossbow)
 - ::item_common:: [Whispering Mask](https://bg3.wiki/wiki/Whispering%20Mask)
-# Items Obtained in Unknown Locations
+# Items Obtained in Unknown Locations (WIP)
 - ::item_rare:: [Studded Shield +1](https://bg3.wiki/wiki/Studded%20Shield%20+1)
 - ::item_rare:: [Cruel Sting](https://bg3.wiki/wiki/Cruel%20Sting)
 - ::item_uncommon:: [Sylvan Scimitar](https://bg3.wiki/wiki/Sylvan%20Scimitar)
