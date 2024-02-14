@@ -817,6 +817,7 @@
 - ::task:: Act 3 - [Find Mystic Carrion's Servant](https://bg3.wiki/wiki/Find%20Mystic%20Carrion%27s%20Servant)
 - ::task:: Act 3 - [Find the 'Stern Librarian' Ffion](https://bg3.wiki/wiki/Find%20the%20%27Stern%20Librarian%27%20Ffion)
 - ::task:: Act 3 - [Find the Missing Letters](https://bg3.wiki/wiki/Find%20the%20Missing%20Letters)
+- ::task:: Act 3 - [Find the Nightsong](https://bg3.wiki/wiki/Find%20the%20Nightsong)
 - ::task:: Act 3 - [Forging a Heart](https://bg3.wiki/wiki/Forging%20a%20Heart)
 - ::missable:: Act 3 - [Free Counsellor Florrick](https://bg3.wiki/wiki/Free%20Counsellor%20Florrick)
   - Free Counselor Florrick before 5 long rests
