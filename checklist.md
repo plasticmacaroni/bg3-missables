@@ -117,7 +117,7 @@
 <!-- Quests to Complete -->
 <!-- Miscellaneous Tasks -->
 <!-- == End of Review by Asmoranomar == -->
-- ::missable:: Save [Berth](https://bg3.wiki/wiki/Barth) and his companions from the goblins at the gate.  Berth must survive for a missable quest.
+- ::missable:: Save [Berth](https://bg3.wiki/wiki/Barth) and [Aradin](https://bg3.wiki/wiki/Aradin) and the rest of their companions from the goblins at the gate.  Berth must survive for a missable quest. Aradin must survive for additional content in Act 3.
   - ::item_uncommon:: [Gloves of Power](https://bg3.wiki/wiki/Gloves%20of%20Power)
   - ::item_story:: Find the [stolen locket](https://bg3.wiki/wiki/Brass%20Locket) to complete a [quest](https://bg3.wiki/wiki/Return_the_Locket)
 - ::task:: Minor missable events with ordinary rewards are available
