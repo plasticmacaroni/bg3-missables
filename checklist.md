@@ -843,7 +843,8 @@
 - ::task:: Act 3 - [Our Fiery Friend](https://bg3.wiki/wiki/Our%20Fiery%20Friend)
 - ::task:: Act 3 - [Rescue Orin's Victim](https://bg3.wiki/wiki/Rescue%20Orin%27s%20Victim)
 - ::missable:: Act 3 - [Rescue the Grand Duke](https://bg3.wiki/wiki/Rescue%20the%20Grand%20Duke)
-  - ::item_rare:: [Duke Ravengard's Longsword](https://bg3.wiki/wiki/Duke%20Ravengard's%20Longsword) When Duke Ravengard becomes a temporary party member, use the throw command and pick his weapon up.
+  - ::item_veryrare:: [Emblazoned Plate of the Marshal](https://bg3.wiki/wiki/Emblazoned_Plate_of_the_Marshal) Sneak, blind, and use non-lethal attacks to knock out Duke Ravengard at camp.  Engaging dialogue with him can restore action points.
+  - ::item_rare:: [Duke Ravengard's Longsword](https://bg3.wiki/wiki/Duke%20Ravengard's%20Longsword) Sneak, blind, and use non-lethal attacks to knock out Duke Ravengard at camp.  Engaging dialogue with him can restore action points.
   - Save the Gondians before Avenging the Ironhands or before leaving the Iron Throne
 - ::missable:: Act 3 - [Retrieve Omeluum](https://bg3.wiki/wiki/Retrieve%20Omeluum)
 - Save the Gondians before Avenging the Ironhands or before leaving the Iron Throne
