@@ -843,6 +843,7 @@
 - ::task:: Act 3 - [Our Fiery Friend](https://bg3.wiki/wiki/Our%20Fiery%20Friend)
 - ::task:: Act 3 - [Rescue Orin's Victim](https://bg3.wiki/wiki/Rescue%20Orin%27s%20Victim)
 - ::missable:: Act 3 - [Rescue the Grand Duke](https://bg3.wiki/wiki/Rescue%20the%20Grand%20Duke)
+  - ::item_rare:: [Duke Ravengard's Longsword](https://bg3.wiki/wiki/Duke%20Ravengard's%20Longsword) When Duke Ravengard becomes a temporary party member, use the throw command and pick his weapon up.
   - Save the Gondians before Avenging the Ironhands or before leaving the Iron Throne
 - ::missable:: Act 3 - [Retrieve Omeluum](https://bg3.wiki/wiki/Retrieve%20Omeluum)
 - Save the Gondians before Avenging the Ironhands or before leaving the Iron Throne
@@ -1166,7 +1167,6 @@
 - ::item_rare:: [Blade of Oppressed Souls](https://bg3.wiki/wiki/Blade%20of%20Oppressed%20Souls)
 - ::item_rare:: [Dagger +2](https://bg3.wiki/wiki/Dagger%20+2)
 - ::item_rare:: [Dolor Amarus](https://bg3.wiki/wiki/Dolor%20Amarus)
-- ::item_rare:: [Duke Ravengard's Longsword](https://bg3.wiki/wiki/Duke%20Ravengard's%20Longsword)
 - ::item_rare:: [Gold Wyrmling Staff](https://bg3.wiki/wiki/Gold%20Wyrmling%20Staff)
 - ::item_rare:: [Harper Sacredstriker](https://bg3.wiki/wiki/Harper%20Sacredstriker)
 - ::item_rare:: [Infernal Mace](https://bg3.wiki/wiki/Infernal%20Mace)
