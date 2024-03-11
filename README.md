@@ -28,5 +28,7 @@ Feel free to submit a PR. All checklist items are sourced from the [checklist.md
 6. Try to make bullets as spoiler-free as possible
 
 ## Contributors
-- Huge thanks to everyone that's invested time in updates. 
-- Big thanks to [asmoranomour](https://github.com/asmoranomar) for massive updates!
+- Huge thanks to everyone that's invested time in updates.
+
+## Biggest Contributor Shoutout
+- [asmoranomour](https://github.com/asmoranomar) is responsible for many massive updates on this guide. Items, cleanup, and formatting are largely thanks to asmoranomour's work to make this guide usable and useful for the community. 
