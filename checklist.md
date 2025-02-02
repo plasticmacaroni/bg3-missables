@@ -493,7 +493,7 @@
 - ::item_uncommon:: [Luminous Gloves](https://bg3.wiki/wiki/Luminous%20Gloves)
 - ::item_uncommon:: [Ring of Mental Inhibition](https://bg3.wiki/wiki/Ring%20of%20Mental%20Inhibition)
 - ::item_uncommon:: [Ring of Self Immolation](https://bg3.wiki/wiki/Ring%20of%20Self%20Immolation)
-- ::item_uncommon:: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked%20Ring)
+
 - Trim some [hedges](https://bg3.wiki/wiki/Shadow-Cursed_Vine_Blight)
   - ::item_uncommon:: [Frost Prince](https://bg3.wiki/wiki/Frost%20Prince)
 - Talk to a man who wants to [make things "right" by interrogating a dead barkeeper](https://bg3.wiki/wiki/Punish_the_Wicked)
@@ -503,6 +503,7 @@
   - ::item_uncommon:: [Hammergrim Mist Amulet](https://bg3.wiki/wiki/Hammergrim%20Mist%20Amulet)
 - Give a certain companion [a certain flower](https://bg3.wiki/wiki/Night_Orchid) they might have mentioned
 - Destroy the everburning torches next to Korliss and fight the shadow mastiffs
+  - ::item_uncommon:: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked%20Ring)
 # Last Light Inn
 - ::item_story:: Second chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern).
 - ::item_veryrare:: [Incandescent Staff](https://bg3.wiki/wiki/Incandescent%20Staff)
