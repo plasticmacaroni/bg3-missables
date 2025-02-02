@@ -500,6 +500,7 @@
 - Save some harpers, find out about the Inn
   - ::item_rare:: [Cruel Sting](https://bg3.wiki/wiki/Cruel%20Sting)
   - ::item_uncommon:: [Thermoarcanic Gloves](https://bg3.wiki/wiki/Thermoarcanic%20Gloves)
+  - ::item_uncommon:: [Hammergrim Mist Amulet](https://bg3.wiki/wiki/Hammergrim%20Mist%20Amulet)
 - Give a certain companion [a certain flower](https://bg3.wiki/wiki/Night_Orchid) they might have mentioned
 - Destroy the everburning torches next to Korliss and fight the shadow mastiffs
 # Last Light Inn
@@ -1075,7 +1076,6 @@
 - ::item_rare:: [Studded Shield +1](https://bg3.wiki/wiki/Studded%20Shield%20+1)
 - ::item_uncommon:: [Sylvan Scimitar](https://bg3.wiki/wiki/Sylvan%20Scimitar)
 - ::item_uncommon:: [Murderous Cut](https://bg3.wiki/wiki/Murderous%20Cut)
-- ::item_uncommon:: [Hammergrim Mist Amulet](https://bg3.wiki/wiki/Hammergrim%20Mist%20Amulet)
 - ::item_uncommon:: [Ring of Shadows](https://bg3.wiki/wiki/Ring%20of%20Shadows)
 - ::item_common:: [Azer Warhammer](https://bg3.wiki/wiki/Azer%20Warhammer)
 - ::item_common:: [Damaged Scale Mail](https://bg3.wiki/wiki/Damaged%20Scale%20Mail)
