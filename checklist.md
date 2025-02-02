@@ -481,6 +481,7 @@
 - Plan to rescue the prisoners BEFORE Shar's Temple (and the Nightsong questline)
 # House in Deep Shadows
 - Play hide and seek with [a child](https://bg3.wiki/wiki/Oliver), get [a cool ring](https://bg3.wiki/wiki/Ring_of_Shadows)
+  - ::item_uncommon:: [Ring of Mental Inhibition](https://bg3.wiki/wiki/Ring%20of%20Mental%20Inhibition)
 # Ruined Battlefield
 - ::item_story:: First opportunity to find a [Moonlantern](https://bg3.wiki/wiki/Moonlantern), dropped from [Kar'niss](https://bg3.wiki/wiki/Kar%27niss).
   - ::missable:: This version of the item is time limited and, depending on how the player entered Act 2, must be obtained before the target reaches Moonrise Towers.  It is recommended to obtain this item ASAP.
@@ -491,7 +492,7 @@
 - ::item_uncommon:: [Gloomstrand Shield](https://bg3.wiki/wiki/Gloomstrand%20Shield)
 - ::item_uncommon:: [Ironwood Club](https://bg3.wiki/wiki/Ironwood%20Club)
 - ::item_uncommon:: [Luminous Gloves](https://bg3.wiki/wiki/Luminous%20Gloves)
-- ::item_uncommon:: [Ring of Mental Inhibition](https://bg3.wiki/wiki/Ring%20of%20Mental%20Inhibition)
+
 - ::item_uncommon:: [Ring of Self Immolation](https://bg3.wiki/wiki/Ring%20of%20Self%20Immolation)
 
 - Trim some [hedges](https://bg3.wiki/wiki/Shadow-Cursed_Vine_Blight)
