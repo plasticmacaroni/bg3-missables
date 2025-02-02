@@ -539,7 +539,6 @@
 - ::item_uncommon:: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak%20of%20Cunning%20Brume)
 - ::item_uncommon:: [Cloak of Protection](https://bg3.wiki/wiki/Cloak%20of%20Protection)
 - ::item_uncommon:: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation%20Ring)
-- ::item_uncommon:: [Covert Cowl](https://bg3.wiki/wiki/Covert%20Cowl)
 - ::item_uncommon:: [Ring of Geniality](https://bg3.wiki/wiki/Ring%20of%20Geniality)
 - ::item_uncommon:: [Snowburst Ring](https://bg3.wiki/wiki/Snowburst%20Ring)
 - Talk to the inhabitants of [the Inn](https://bg3.wiki/wiki/Last_Light_Inn)
@@ -554,6 +553,8 @@
   - Protect the portal
   - Visit camp to find out more about [the boy](https://bg3.wiki/wiki/Thaniel), post-attack
 - Give [Dammon](https://bg3.wiki/wiki/Dammon) what [he needs](https://bg3.wiki/wiki/Infernal_Iron) to help [Karlach](https://bg3.wiki/wiki/Karlach), two times
+- Exterminate some [scary bugs](https://bg3.wiki/wiki/Meenlock)
+  - ::item_uncommon:: [Covert Cowl](https://bg3.wiki/wiki/Covert%20Cowl)
 # Moonrise Towers
 - ::item_story:: Final chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern).
 - ::item_veryrare:: [Circlet of Hunting](https://bg3.wiki/wiki/Circlet%20of%20Hunting)
