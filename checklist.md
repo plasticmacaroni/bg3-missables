@@ -498,6 +498,7 @@
 - ::item_uncommon:: [Thermoarcanic Gloves](https://bg3.wiki/wiki/Thermoarcanic%20Gloves)
 - Talk to a man who wants to [make things "right" by interrogating a dead barkeeper](https://bg3.wiki/wiki/Punish_the_Wicked)
 - Save some harpers, find out about the Inn
+  - ::item_rare:: [Cruel Sting](https://bg3.wiki/wiki/Cruel%20Sting)
 - Give a certain companion [a certain flower](https://bg3.wiki/wiki/Night_Orchid) they might have mentioned
 - Destroy the everburning torches next to Korliss and fight the shadow mastiffs
 # Last Light Inn
@@ -1071,7 +1072,6 @@
 - ::item_common:: [Whispering Mask](https://bg3.wiki/wiki/Whispering%20Mask)
 # Items Obtained in Unknown Locations (WIP)
 - ::item_rare:: [Studded Shield +1](https://bg3.wiki/wiki/Studded%20Shield%20+1)
-- ::item_rare:: [Cruel Sting](https://bg3.wiki/wiki/Cruel%20Sting)
 - ::item_uncommon:: [Sylvan Scimitar](https://bg3.wiki/wiki/Sylvan%20Scimitar)
 - ::item_uncommon:: [Murderous Cut](https://bg3.wiki/wiki/Murderous%20Cut)
 - ::item_uncommon:: [Hammergrim Mist Amulet](https://bg3.wiki/wiki/Hammergrim%20Mist%20Amulet)
