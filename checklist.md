@@ -502,7 +502,7 @@
   - ::item_uncommon:: [Thermoarcanic Gloves](https://bg3.wiki/wiki/Thermoarcanic%20Gloves)
   - ::item_uncommon:: [Hammergrim Mist Amulet](https://bg3.wiki/wiki/Hammergrim%20Mist%20Amulet)
 - Give a certain companion [a certain flower](https://bg3.wiki/wiki/Night_Orchid) they might have mentioned
-- Destroy the everburning torches next to Korliss and fight the shadow mastiffs
+- Destroy the everburning torches next to [Korliss](https://bg3.wiki/wiki/Korliss) and fight the [Shadow Mastiffs](https://bg3.wiki/wiki/Shadow_mastiff)
   - ::item_uncommon:: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked%20Ring)
 # Last Light Inn
 - ::item_story:: Second chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern).
