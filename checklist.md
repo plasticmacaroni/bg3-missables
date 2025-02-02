@@ -495,10 +495,10 @@
 - ::item_uncommon:: [Ring of Mental Inhibition](https://bg3.wiki/wiki/Ring%20of%20Mental%20Inhibition)
 - ::item_uncommon:: [Ring of Self Immolation](https://bg3.wiki/wiki/Ring%20of%20Self%20Immolation)
 - ::item_uncommon:: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked%20Ring)
-- ::item_uncommon:: [Thermoarcanic Gloves](https://bg3.wiki/wiki/Thermoarcanic%20Gloves)
 - Talk to a man who wants to [make things "right" by interrogating a dead barkeeper](https://bg3.wiki/wiki/Punish_the_Wicked)
 - Save some harpers, find out about the Inn
   - ::item_rare:: [Cruel Sting](https://bg3.wiki/wiki/Cruel%20Sting)
+  - ::item_uncommon:: [Thermoarcanic Gloves](https://bg3.wiki/wiki/Thermoarcanic%20Gloves)
 - Give a certain companion [a certain flower](https://bg3.wiki/wiki/Night_Orchid) they might have mentioned
 - Destroy the everburning torches next to Korliss and fight the shadow mastiffs
 # Last Light Inn
