@@ -487,7 +487,6 @@
 - ::item_story:: First opportunity to find a [Moonlantern](https://bg3.wiki/wiki/Moonlantern), dropped from [Kar'niss](https://bg3.wiki/wiki/Kar%27niss).
   - ::missable:: This version of the item is time limited and, depending on how the player entered Act 2, must be obtained before the target reaches Moonrise Towers.  It is recommended to obtain this item ASAP.
   - ::item_common:: It is higly recommended to get this one as it grants another item, the [Filigreed Feywild Bell](https://bg3.wiki/wiki/Filigreed_Feywild_Bell), and affects a future interaction with [Dolly Dolly Dolly](https://bg3.wiki/wiki/Dolly_Dolly_Dolly)
-- ::item_rare:: [Raven Gloves](https://bg3.wiki/wiki/Raven%20Gloves)
 - ::item_rare:: [Ring of Twilight](https://bg3.wiki/wiki/Ring%20of%20Twilight)
 - ::item_uncommon:: [Family Ring](https://bg3.wiki/wiki/Family%20Ring)
 - ::item_uncommon:: [Gloomstrand Shield](https://bg3.wiki/wiki/Gloomstrand%20Shield)
@@ -497,6 +496,7 @@
 - Trim some [hedges](https://bg3.wiki/wiki/Shadow-Cursed_Vine_Blight)
   - ::item_uncommon:: [Frost Prince](https://bg3.wiki/wiki/Frost%20Prince)
 - Talk to a man who wants to [make things "right" by interrogating a dead barkeeper](https://bg3.wiki/wiki/Punish_the_Wicked)
+  - ::item_rare:: [Raven Gloves](https://bg3.wiki/wiki/Raven%20Gloves)
 - Save some harpers, find out about the Inn
   - ::item_rare:: [Cruel Sting](https://bg3.wiki/wiki/Cruel%20Sting)
   - ::item_uncommon:: [Thermoarcanic Gloves](https://bg3.wiki/wiki/Thermoarcanic%20Gloves)
