@@ -244,6 +244,7 @@
 - Eliminate Nere (which brings you to Grymforge) -- if you've come across the trapped gnomes, don't rest, or this quest will be lost
 - Get your sussur bark here to finish the weapon in Blighted Village
 - Don't forget to gather three components that are needed to craft a [frosty staff](https://bg3.wiki/wiki/Mourning_Frost)
+  - ::item_veryrare:: [Mourning Frost](https://bg3.wiki/wiki/Mourning%20Frost)
 - Defeat the drow that handles hooked horror monsters
 - Fight [a land shark](https://baldursgate3.wiki.fextralife.com/Bulette)
 - If you find a small grave site in a clearing, don't touch it until you read a certain note regarding a canine companion in the Arcane Tower
@@ -1210,6 +1211,7 @@
 
 
 # Lower City - Cloister of Sombre Embrace
+- ::task:: Act 3 - [A Familiar Face](https://bg3.wiki/wiki/A%20Familiar%20Face)
 - ::item_story:: [High Security Vault n°8 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%B08_Key)
 - ::item_legendary:: [Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia's%20Walking%20Fortress)
 - ::item_veryrare:: [Handmaiden's Mace](https://bg3.wiki/wiki/Handmaiden's%20Mace)
@@ -1284,7 +1286,6 @@
 
 
 # Act 3 quests (need to move to above sections)
-- ::task:: Act 3 - [A Familiar Face](https://bg3.wiki/wiki/A%20Familiar%20Face)
 - ::task:: Act 3 - [Aid the Underduke](https://bg3.wiki/wiki/Aid%20the%20Underduke)
 - ::task:: Act 3 - [Avenge the Drowned](https://bg3.wiki/wiki/Avenge%20the%20Drowned)
 - ::task:: Act 3 - [Avenge the Hag Survivors](https://bg3.wiki/wiki/Avenge%20the%20Hag%20Survivors)
@@ -1370,7 +1371,6 @@
   
 # Items Obtained in Various Locations (WIP)
 - ::item_veryrare:: [Moon Devotion Robe](https://bg3.wiki/wiki/Moon%20Devotion%20Robe)
-- ::item_veryrare:: [Mourning Frost](https://bg3.wiki/wiki/Mourning%20Frost)
 - ::item_veryrare:: [Voss' Silver Sword](https://bg3.wiki/wiki/Voss'%20Silver%20Sword)
 - ::item_rare:: [After Death Do Us Part](https://bg3.wiki/wiki/After%20Death%20Do%20Us%20Part)
 - ::item_rare:: [Blade of Oppressed Souls](https://bg3.wiki/wiki/Blade%20of%20Oppressed%20Souls)
