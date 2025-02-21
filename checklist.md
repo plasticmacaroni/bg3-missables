@@ -564,7 +564,7 @@
   - ::item_rare:: [Thorn Blade](https://bg3.wiki/wiki/Thorn%20Blade)
 - If [Rolan](https://bg3.wiki/wiki/Rolan) was convinced to stay in the Grove in Act 1, [Mattis](https://bg3.wiki/wiki/Mattis) offers merchant services
   - ::item_rare:: [Evasive Shoes](https://bg3.wiki/wiki/Evasive%20Shoes)
-   - ::item_uncommon:: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak%20of%20Cunning%20Brume)
+  - ::item_uncommon:: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak%20of%20Cunning%20Brume)
 - If [rescued in Act 1](https://bg3.wiki/wiki/Rescue_the_Gnome), [Barcus Wroot](https://bg3.wiki/wiki/Barcus_Wroot) offers merchant services
   - ::item_rare:: [Acrobat Shoes](https://bg3.wiki/wiki/Acrobat%20Shoes)
   - ::item_rare:: [Gloves of the Automaton](https://bg3.wiki/wiki/Gloves%20of%20the%20Automaton)
@@ -819,9 +819,9 @@
   - ::item_rare:: [Stalker Gloves](https://bg3.wiki/wiki/Stalker%20Gloves)
 - Speak to some [familiar terrorists](https://bg3.wiki/wiki/Clan_Ironhand) in [the basement](https://bg3.wiki/wiki/Angleiron%27s_Cellar), accessible via a cave entrance near the beach
   - [Bumpnagel](https://bg3.wiki/wiki/Bumpnagel) offers merchant services
-  - ::item_rare:: [Martial Exertion Gloves](https://bg3.wiki/wiki/Martial%20Exertion%20Gloves)
-  - ::item_rare:: [Nimblefinger Gloves](https://bg3.wiki/wiki/Nimblefinger%20Gloves)
-  - ::item_rare:: [Thunderpalm Strikers](https://bg3.wiki/wiki/Thunderpalm%20Strikers)
+    - ::item_rare:: [Martial Exertion Gloves](https://bg3.wiki/wiki/Martial%20Exertion%20Gloves)
+    - ::item_rare:: [Nimblefinger Gloves](https://bg3.wiki/wiki/Nimblefinger%20Gloves)
+    - ::item_rare:: [Thunderpalm Strikers](https://bg3.wiki/wiki/Thunderpalm%20Strikers)
 
 
 # Rivington - Circus of the Last Days
