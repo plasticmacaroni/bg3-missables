@@ -30,5 +30,6 @@ Feel free to submit a PR. All checklist items are sourced from the [checklist.md
 ## Contributors
 - Huge thanks to everyone that's invested time in updates.
 
-## Biggest Contributor Shoutout
-- [asmoranomour](https://github.com/asmoranomar) is responsible for many massive updates on this guide. Items, cleanup, and formatting are largely thanks to asmoranomour's work to make this guide usable and useful for the community. 
+## Biggest Contributors Shoutout
+- [asmoranomour](https://github.com/asmoranomar) is responsible for many massive updates on this guide. Items, cleanup, and formatting are largely thanks to asmoranomour's work to make this guide usable and useful for the community.
+- [scottbishopdev](https://github.com/scottbishopdev) somehow managed to finally clean up many of the vague item locations, and to help clean up aspects of Act 3, which is the biggest request since the start of this guide. 
