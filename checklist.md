@@ -31,10 +31,11 @@
 # Nautiloid
 - ::task:: Start quest [Escape the Nautiloid](https://bg3.wiki/wiki/Prologue)
 - ::task:: Make friends with [Us](https://bg3.wiki/wiki/Us) and keep him alive to be granted a missable ability later
-- ::item_uncommon:: [Everburn Blade](https://bg3.wiki/wiki/Everburn_Blade) - Defeat or [Disarm](https://bg3.wiki/wiki/Disarming) [Commander Zhalk](https://bg3.wiki/wiki/Zhalk)
+- ::item_story:: [Nautiloid Schematic](https://bg3.wiki/wiki/Rune_Slate) - Read the schematic on the table in the first or second room. Grants advantage on a DC10 Intelligence check when obtaining [Ring of Mind-Shielding](https://bg3.wiki/wiki/Ring_of_Mind-Shielding) later in Act 3
 - ::item_ordinary:: [Chain Shirt (Shadowheart)](https://bg3.wiki/wiki/Chain_Shirt) - Remove Shadowheart's armour and move it into your inventory for another item later
 - ::item_ordinary:: [Dark Mind](https://bg3.wiki/wiki/Dark_Mind) - Pick this up for some dialogue later in Act 2
 - ::item_ordinary:: [Slave Mind](https://bg3.wiki/wiki/Slave_Mind) - Pick this up for some dialogue later in Act 2
+- ::item_uncommon:: [Everburn Blade](https://bg3.wiki/wiki/Everburn_Blade) - Defeat or [Disarm](https://bg3.wiki/wiki/Disarming) [Commander Zhalk](https://bg3.wiki/wiki/Zhalk)
 # Ravaged Beach
 - ::task:: Start the quest [Daughter of Darkness](https://bg3.wiki/wiki/Daughter_of_Darkness)
 - ::task:: Start the quest [The Pale Elf](https://bg3.wiki/wiki/The_Pale_Elf)
@@ -1327,6 +1328,7 @@
   - ::item_rare:: [Duke Ravengard's Longsword](https://bg3.wiki/wiki/Duke%20Ravengard's%20Longsword) Sneak+darkness+non-lethal attacks to knock out Duke Ravengard at camp.  Engaging dialogue with him can restore action points.
   - Save the Gondians before Avenging the Ironhands or before leaving the Iron Throne
 - ::missable:: Act 3 - [Retrieve Omeluum](https://bg3.wiki/wiki/Retrieve%20Omeluum)
+  - ::item_rare:: [Ring of Mind-Shielding](https://bg3.wiki/wiki/Ring_of_Mind-Shielding) - Reading the [Nautiloid Schematic](https://bg3.wiki/wiki/Rune_Slate) in the prologue grants advantage on the DC10 Intelligence check to obtain this ring
 - Save the Gondians before Avenging the Ironhands or before leaving the Iron Throne
 - ::task:: Act 3 - [Return Rakath's Gold](https://bg3.wiki/wiki/Return%20Rakath%27s%20Gold)
 - ::task:: Act 3 - [Roveer's Storehouse](https://bg3.wiki/wiki/Roveer%27s%20Storehouse)
