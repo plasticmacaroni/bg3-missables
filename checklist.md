@@ -4,7 +4,7 @@
   - ::task:: Some NPC's can be unavailable or killed, including merchants or quest givers
   - ::task:: It may be impossible to return to some areas
 - This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry
-- Always crouch when stealing -- enemies will automatically  start investigating if not
+- Always crouch when stealing -- enemies will automatically start investigating if not
 - Send all camp supplies to camp -- they'll automatically show up when you Long Rest
 - The following icon usage is described below
   - ::task:: This represents general tasks
@@ -17,13 +17,13 @@
   - ::item_legendary:: This represents missable or limited legendary items
   - ::item_story:: This represents missable or limited story items 
   - ::item_ordinary:: This represents missable or limited ordinary items -- ordinary items may be unique in name, but are not different from regular items
-- ::task:: Tips for obtaining equipped weapons from NPC's, a variety of these may or may not work depnding on the NPC:
-  - ::task:: Steal another item to make NPC's temporarily hostile, use [non-lethal damage](https://bg3.wiki/wiki/Non-Lethal_Damage_%28Condition%29) to knock them out and loot them.  Long Resting resets them.
-  - ::task:: If an NPC can be an ally in battle, you can use [disarming attacks](https://bg3.wiki/wiki/Disarming) (Not command drop) on them.  Their attitude won't change
+- ::task:: Tips for obtaining equipped weapons from NPC's, a variety of these may or may not work depending on the NPC:
+  - ::task:: Steal another item to make NPC's temporarily hostile, use [non-lethal damage](https://bg3.wiki/wiki/Non-Lethal_Damage_%28Condition%29) to knock them out and loot them. Long Resting resets them.
+  - ::task:: If an NPC can be an ally in battle, you can use [disarming attacks](https://bg3.wiki/wiki/Disarming) (Not command drop) on them. Their attitude won't change
   - ::task:: Sometimes you can buy the item from them if you engage in dialogue
-  - ::task:: Use disguise self, turn based mode, [disarm](https://bg3.wiki/wiki/Disarming), and escape.  Stay safe by escaping with stacking movement skills, invisible or sanctuary.
-  - ::task:: Bards can be a great distraction if there are too many people. Either draw your target away or draw everyone else away from your target.  Illusion spells work too.
-  - ::task:: You can [disarm](https://bg3.wiki/wiki/Disarming) them without using any trickery and escape.  They may remember you, but you may be able to barter their attitude back with other items.  Can get pricy if there are multiple witnesses.
+  - ::task:: Use disguise self, turn based mode, [disarm](https://bg3.wiki/wiki/Disarming), and escape. Stay safe by escaping with stacking movement skills, invisible or sanctuary.
+  - ::task:: Bards can be a great distraction if there are too many people. Either draw your target away or draw everyone else away from your target. Illusion spells work too.
+  - ::task:: You can [disarm](https://bg3.wiki/wiki/Disarming) them without using any trickery and escape. They may remember you, but you may be able to barter their attitude back with other items. Can get pricey if there are multiple witnesses.
 # Act 1 (General Tasks)
 - ::item_legendary:: [Mask of the Shapeshifter](https://bg3.wiki/wiki/Mask%20of%20the%20Shapeshifter) Deluxe Edition -- find this item in the Traveler's Chest in camp
 - ::task:: Progress quest [The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep)
@@ -39,14 +39,14 @@
 - ::task:: Start the quest [Daughter of Darkness](https://bg3.wiki/wiki/Daughter_of_Darkness)
 - ::task:: Start the quest [The Pale Elf](https://bg3.wiki/wiki/The_Pale_Elf)
 - ::task:: Complete quest [Escape the Nautiloid](https://bg3.wiki/wiki/Prologue)
-- ::item_ordinary:: [Astarion's Eccentric Clothes](https://bg3.wiki/wiki/Astarion%27s_Eccentric_Clothes) - Recruit Asterion
-- ::item_ordinary:: [Astarion's Underwear](https://bg3.wiki/wiki/Astarion%27s_Underwear) - Recruit Asterion
+- ::item_ordinary:: [Astarion's Eccentric Clothes](https://bg3.wiki/wiki/Astarion%27s_Eccentric_Clothes) - Recruit Astarion
+- ::item_ordinary:: [Astarion's Underwear](https://bg3.wiki/wiki/Astarion%27s_Underwear) - Recruit Astarion
 - ::item_ordinary:: [Bandit Armor](https://bg3.wiki/wiki/Bandit%27s%20Armour) - Recruit Shadowheart
 - ::item_ordinary:: [Circlet](https://bg3.wiki/wiki/Circlet) - Recruit Shadowheart
-- ::item_ordinary:: [Padded Armour (Astarion)](https://bg3.wiki/wiki/Padded_Armour) - Recruit Asterion
+- ::item_ordinary:: [Padded Armour (Astarion)](https://bg3.wiki/wiki/Padded_Armour) - Recruit Astarion
 - ::item_ordinary:: [Shadowheart's Clothes](https://bg3.wiki/wiki/Shadowheart%27s_Clothes) - Recruit Shadowheart
 - ::item_ordinary:: [Shadowheart's Underwear](https://bg3.wiki/wiki/Shadowheart%27s_Underwear) - Recruit Shadowheart
-- ::item_ordinary:: [Tasteful Boots (Astarion)](https://bg3.wiki/wiki/Tasteful_Boots) - Recruit Asterion
+- ::item_ordinary:: [Tasteful Boots (Astarion)](https://bg3.wiki/wiki/Tasteful_Boots) - Recruit Astarion
 - ::item_ordinary:: [Tasteful Boots (Shadowheart)](https://bg3.wiki/wiki/Tasteful_Boots) - Recruit Shadowheart
 # Roadside Cliffs
 - ::task:: Start quest [The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep)
@@ -63,7 +63,7 @@
 - ::item_ordinary:: [Lae'zel's Clothes](https://bg3.wiki/wiki/Lae%27zel%27s_Clothes) - Recruit Lae'zel
 - ::item_ordinary:: [Lae'zel's Underwear](https://bg3.wiki/wiki/Lae%27zel%27s_Underwear) - Recruit Lae'zel
 - ::item_ordinary:: [Netherese Briefs](https://bg3.wiki/wiki/Netherese_Briefs) - Recruit Gale
-- ::item_ordinary:: [Scroll of True Ressurection](https://bg3.wiki/wiki/Scroll_of_True_Resurrection) - Obtained from the quest [In Case of Death...](https://bg3.wiki/wiki/In_Case_of_Death...)
+- ::item_ordinary:: [Scroll of True Resurrection](https://bg3.wiki/wiki/Scroll_of_True_Resurrection) - Obtained from the quest [In Case of Death...](https://bg3.wiki/wiki/In_Case_of_Death...)
 - ::item_ordinary:: [Simple Robe (Gale)](https://bg3.wiki/wiki/Simple_Robe) - Recruit Gale
 - ::item_ordinary:: [Spider Egg Sac](https://bg3.wiki/wiki/Spider_Egg_Sac) - Located at the [Harper Outpost](https://bg3.wiki/wiki/Ravaged_Beach#Harper_Outpost)
 - ::item_ordinary:: [Tasteful Boots (Gale)](https://bg3.wiki/wiki/Tasteful_Boots) - Recruit Gale
@@ -74,12 +74,16 @@
 - ::item_rare:: [The Amulet of Lost Voices](https://bg3.wiki/wiki/The%20Amulet%20of%20Lost%20Voices) - Located at the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)
 - ::item_uncommon:: [The Watcher's Guide](https://bg3.wiki/wiki/The%20Watcher's%20Guide) - Located at the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)
 - ::item_ordinary:: [Book of the Dead Gods](https://bg3.wiki/wiki/Book_of_Dead_Gods) - Located at the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)
+- ::item_common:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) - in a sarcophagus in the trapped room of the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)
+- ::item_common:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) - in a sarcophagus next to the [Book of Dead Gods](https://bg3.wiki/wiki/Book_of_Dead_Gods) within the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)
+- ::item_common:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) - in the sarcophagus that [Withers](https://bg3.wiki/wiki/Withers) emerges from in the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)
 # Emerald Grove
-- ::missable:: Save [Berth](https://bg3.wiki/wiki/Barth) and [Aradin](https://bg3.wiki/wiki/Aradin) and the rest of their companions from the goblins at the gate.  Berth must survive for a missable quest. Aradin must survive for additional content in Act 3.
+- ::missable:: Save [Berth](https://bg3.wiki/wiki/Barth) and [Aradin](https://bg3.wiki/wiki/Aradin) and the rest of their companions from the goblins at the gate. Berth must survive for a missable quest. Aradin must survive for additional content in Act 3.
   - ::item_uncommon:: [Gloves of Power](https://bg3.wiki/wiki/Gloves%20of%20Power)
-  - ::item_story:: Find the [stolen locket](https://bg3.wiki/wiki/Brass%20Locket) to complete a [quest](https://bg3.wiki/wiki/Return_the_Locket)
+  - ::item_story:: Find the [stolen locket](https://bg3.wiki/wiki/Brass%20Locket) to complete the [Return the Locket](https://bg3.wiki/wiki/Return_the_Locket) quest
 - ::task:: Minor missable events with ordinary rewards are available
-  - ::missable:: Save [Nadira](https://bg3.wiki/wiki/Nadira) from a Bugbear Assasin
+  - ::missable:: Save [Nadira](https://bg3.wiki/wiki/Nadira) from a Bugbear Assassin
+    - ::item_common:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) - carried by [Nadira](https://bg3.wiki/wiki/Nadira) at the top of a hill in the [Emerald Grove](https://bg3.wiki/wiki/Emerald_Grove)
   - ::missable:: Heal [Pandirna](https://bg3.wiki/wiki/Pandirna) from paralysis
 - ::task:: [Arron](https://bg3.wiki/wiki/Arron) offers merchant services
   - ::item_rare:: [Gloves of Missile Snaring](https://bg3.wiki/wiki/Gloves%20of%20Missile%20Snaring)
@@ -102,14 +106,16 @@
   - ::item_ordinary:: [Wyll's Underwear](https://bg3.wiki/wiki/Wyll%27s_Underwear)
   - ::item_ordinary:: [Tasteful Boots (Wyll)](https://bg3.wiki/wiki/Tasteful_Boots)
 - ::task:: Use Speak with Animals to talk to the [Strange Ox](https://bg3.wiki/wiki/Strange_Ox) for some dialogue. The Strange Ox must not be killed to obtain future rewards
-- ::task:: [Dammon](https://bg3.wiki/wiki/Dammon) is a core part of [Karlach's](https://bg3.wiki/wiki/Karlach) companion quest [The Hellion's Heart](https://bg3.wiki/wiki/The_Hellion%27s_Heart).  He must not die
+- ::task:: [Dammon](https://bg3.wiki/wiki/Dammon) is a core part of [Karlach's](https://bg3.wiki/wiki/Karlach) companion quest [The Hellion's Heart](https://bg3.wiki/wiki/The_Hellion%27s_Heart). He must not die
   - ::task:: The first upgrade may be performed here if Karlach is present and the required items are obtained
 - ::item_story:: Perform with [Alfira](https://bg3.wiki/wiki/Alfira) to obtain an [Lute](https://bg3.wiki/wiki/Lihala%27s%20Lute).
-- ::missable::  Complete the quest [Save Arabella](https://bg3.wiki/wiki/Save_Arabella) before resolving [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees) to receive a reward now and more later
+- ::ability:: [Instrument proficiency](https://bg3.wiki/wiki/Instrument_proficiency) - perform with [Alfira](https://bg3.wiki/wiki/Alfira) to gain proficiency in musical instruments and ability to entertain crowds
+- ::ability:: [Bardic Inspiration](https://bg3.wiki/wiki/Bardic_Inspiration) - perform with [Alfira](https://bg3.wiki/wiki/Alfira) to gain permanent [Bardic Inspiration](https://bg3.wiki/wiki/Bardic_Inspiration) ability
+- ::missable:: Complete the quest [Save Arabella](https://bg3.wiki/wiki/Save_Arabella) before resolving [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees) to receive a reward now and more later
   - ::task:: [Arabella](https://bg3.wiki/wiki/Arabella) must not die
   - ::item_uncommon:: [Komira's Locket](https://bg3.wiki/wiki/Komira's%20Locket)
 - ::missable:: Complete [Investigate the Beach](https://bg3.wiki/wiki/Investigate_the_Beach) before completing [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
-- ::missable:: Compelte [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) before [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin)
+- ::missable:: Complete [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) before [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin)
   - ::item_uncommon:: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother's%20Revenge) (Kagha Dies or is Knocked Out) (#1)
   - ::item_rare:: [Pale Oak](https://bg3.wiki/wiki/Pale%20Oak) (Kagha Survives and player is Druid)
   - ::item_uncommon:: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider's%20Pride)
@@ -128,25 +134,26 @@
   - ::item_uncommon:: [Ring of Colour Spray](https://bg3.wiki/wiki/Ring%20of%20Colour%20Spray)
 - ::task:: The following items can be pickpocketed
   - ::item_uncommon:: [Key of the Ancients](https://bg3.wiki/wiki/Key%20of%20the%20Ancients)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - found in the [Enclave Library](https://bg3.wiki/wiki/Enclave_Library) of the [Druid Grove](https://bg3.wiki/wiki/Druid_Grove) on a table
 # Forest
 ::task:: The following items can be found around the area
 - ::item_uncommon:: [Fleetfingers](https://bg3.wiki/wiki/Fleetfingers)
 # The Risen Road
-- ::item_veryrare:: [Abyss Beckoners](https://bg3.wiki/wiki/Abyss%20Beckoners)
 - ::item_rare:: [Shattered Flail](https://bg3.wiki/wiki/Shattered%20Flail)
-- ::item_uncommon:: [Githyanki Greatsword (Psionic)](https://bg3.wiki/wiki/Githyanki%20Greatsword%20(Psionic))
 - ::item_uncommon:: [Gloves of Heroism](https://bg3.wiki/wiki/Gloves%20of%20Heroism)
 - ::item_uncommon:: [Reason's Grasp](https://bg3.wiki/wiki/Reason's%20Grasp)
 - ::item_uncommon:: [Smuggler's Ring](https://bg3.wiki/wiki/Smuggler's%20Ring)
 - ::item_uncommon:: [Speedy Reply](https://bg3.wiki/wiki/Speedy%20Reply)
 - ::item_uncommon:: [Sword of Justice](https://bg3.wiki/wiki/Sword%20of%20Justice)
 - ::item_common:: [Broken Padded Armour](https://bg3.wiki/wiki/Broken%20Padded%20Armour)
+- ::item_common:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) - on the balcony of the Toll House at [The Risen Road](https://bg3.wiki/wiki/The_Risen_Road)
 - Meet [Karlach](https://bg3.wiki/wiki/Karlach)
-- ::missable::[Deal with the paladins](https://bg3.wiki/wiki/Hunt_the_Devil) she brings up before going to Act 1.5, or deal with some permanent consequences
+- ::missable:: [Deal with the paladins](https://bg3.wiki/wiki/Hunt_the_Devil) she brings up before going to Act 1.5, or deal with some permanent consequences
 - Find the [Silver Pendant](https://bg3.wiki/wiki/Silver_Pendant) 
-- ::missable::Protect [two](https://bg3.wiki/wiki/Rugan) [people](https://bg3.wiki/wiki/Olly) being attacked by furries to start the [missing shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest (if you encounter them and long rest without saving them, they'll permanently die)
+- ::missable:: Protect [Rugan](https://bg3.wiki/wiki/Rugan) and [Olly](https://bg3.wiki/wiki/Olly) being attacked by gnolls to start the [Find the Missing Shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest (if you encounter them and long rest without saving them, they'll permanently die)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Flind](https://bg3.wiki/wiki/Flind) when killed
 # Blighted Village
-- ::item_story:: The first opportunity to find the [Bloody Amulet](https://bg3.wiki/wiki/Bloody%20Amulet).  It is not recommended to obtain this.
+- ::item_story:: The first opportunity to find the [Bloody Amulet](https://bg3.wiki/wiki/Bloody%20Amulet). It is not recommended to obtain this.
 - ::item_rare:: [Haste Helm](https://bg3.wiki/wiki/Haste%20Helm)
 - ::item_rare:: [Sussur Dagger](https://bg3.wiki/wiki/Sussur%20Dagger)
 - ::item_rare:: [Sussur Greatsword](https://bg3.wiki/wiki/Sussur%20Greatsword)
@@ -154,17 +161,19 @@
 - ::item_rare:: [The Speedy Lightfeet](https://bg3.wiki/wiki/The%20Speedy%20Lightfeet)
 - ::item_uncommon:: [Warped Headband of Intellect](https://bg3.wiki/wiki/Warped%20Headband%20of%20Intellect)
 - ::item_common:: [Heavy Spiked Club](https://bg3.wiki/wiki/Heavy%20Spiked%20Club)
-- ::missable::Find two new friends [next to a dead man](https://bg3.wiki/wiki/Edowin) (if you don't interact in time they'll leave)
+- ::missable:: Find two new friends [next to a dead man](https://bg3.wiki/wiki/Edowin) (if you don't interact in time they'll leave)
   - Consume what lies in the dwarf's noggin
-  - Combine the [shaft](https://bg3.wiki/wiki/Shaft_of_a_Broken_Spear) he has on his person with [an item from the nearby cave](https://bg3.wiki/wiki/Head_of_a_Broken_Spear) to create [a powerful item](https://bg3.wiki/wiki/Vision_of_the_Absolute)
+  - Combine the [Shaft of a Broken Spear](https://bg3.wiki/wiki/Shaft_of_a_Broken_Spear) he has on his person with [Head of a Broken Spear](https://bg3.wiki/wiki/Head_of_a_Broken_Spear) from the nearby cave to create [Vision of the Absolute](https://bg3.wiki/wiki/Vision_of_the_Absolute)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Edowin](https://bg3.wiki/wiki/Edowin) when killed
 - Finish the Masterwork weapon at a former blacksmith's home, get a sussur bark from the Underdark
 - Find The Cellar
-  - Finding the [Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) book which gives +1 WIS checks
-  - Find [a cheeky familiar spell](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit)
+  - ::ability:: [Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) - turn all three pages while reading the book to gain +1 to Wisdom saving throws and ability checks, plus ability to cast Speak with Dead once per long rest
+  - ::ability:: [Find Familiar: Cheeky Quasit](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit) - find the [Scroll of Summon Quasit](https://bg3.wiki/wiki/Scroll_of_Summon_Quasit) in the cellar and use correct dialogue options to permanently gain ability to summon [Shovel](https://bg3.wiki/wiki/Shovel_(familiar))
 - Climb the well into a dungeon ([Whispering Depths](https://bg3.wiki/wiki/Whispering_Depths)) which has decent loot
-  - Find a [gem](https://bg3.wiki/wiki/Dark_Amethyst) that can be used to [open a certain book](https://bg3.wiki/wiki/Necromancy_of_Thay)
+  - Find a [Dark Amethyst](https://bg3.wiki/wiki/Dark_Amethyst) that can be used to [open a certain book](https://bg3.wiki/wiki/Necromancy_of_Thay)
 - ::missable:: Rescue [Barcus](https://bg3.wiki/wiki/Rescue_the_Gnome) from the windmill (leaving for Act 1.5 will mean he can no longer be rescued)
-- [Scratch](https://bg3.wiki/wiki/Scratch) the dog 
+- [Scratch](https://bg3.wiki/wiki/Scratch) the dog
+- ::ability:: [Find Familiar: Scratch](https://bg3.wiki/wiki/Find_Familiar:_Scratch) - leave scent for [Scratch](https://bg3.wiki/wiki/Scratch) to join camp, then play fetch with him to gain ability to summon him as familiar and uncover buried treasure 
 - Kill the [ogres](https://bg3.wiki/wiki/Lump_the_Enlightened)
   - Nab the [Headband of Intellect](https://bg3.wiki/wiki/Warped_Headband_of_Intellect)
 - In one of the houses north of the village, there is a bugbear having a moment with their partner
@@ -175,32 +184,34 @@
 - ::item_uncommon:: [Spiderstep Boots](https://bg3.wiki/wiki/Spiderstep%20Boots)
 - ::item_uncommon:: [Spurred Band](https://bg3.wiki/wiki/Spurred%20Band)
 # Mountain Pass
+- ::item_uncommon:: [Githyanki Greatsword (Psionic)](https://bg3.wiki/wiki/Githyanki%20Greatsword%20(Psionic))
 - After you discover [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss), speak to him before long resting, or deal with some permanent consequences
 - If you decide to fight, remember you can cause [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss) to drop [his sword](https://bg3.wiki/wiki/Silver%20Sword%20of%20the%20Astral%20Plane) for Lae'zel with the command spell
 # Owlbear Nest
 - ::item_uncommon:: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop%20Pendant)
 - ::item_uncommon:: [The Oak Father's Embrace](https://bg3.wiki/wiki/The%20Oak%20Father's%20Embrace)
-- ::missable::[Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby (do this now, or an owlbear will die after a long rest)
+- ::missable:: [Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby (do this now, or an owlbear will die after a long rest)
 - Check out [the shrine](https://bg3.wiki/wiki/Owlbear_Nest#Sel%C3%BBne_Shrine) and complete a shrine puzzle to unlock a chest
 # Waukeen's Rest
 - Free [the shipment holders](https://bg3.wiki/wiki/Find_the_Missing_Shipment) from the gnoll attackers
   - Keep at least one alive to learn the password to the [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement)
   - If you deliver their shipment to the [Zhentarim Hideout](https://bg3.wiki/wiki/Zhentarim_Basement) unopened, you'll receive [Harold](https://bg3.wiki/wiki/Harold) as a reward
-  - Alternatively, open the chest they give you to get [the shipment item](https://bg3.wiki/wiki/Iron_Flask)
+  - Alternatively, open the chest they give you to get [Iron Flask](https://bg3.wiki/wiki/Iron_Flask)
 - ::item_uncommon:: [Hamarhraft](https://bg3.wiki/wiki/Hamarhraft)
 - ::missable:: Save two people from the [burning inn](https://bg3.wiki/wiki/Waukeen%27s_Rest). DO NOT fast travel or rest, or they will both die
-  - [Rescue](https://bg3.wiki/wiki/Rescue_the_Trapped_Man) a [trapped man](https://bg3.wiki/wiki/Benryn) and help him [find a certain ring](https://bg3.wiki/wiki/Dowry_Ring)
+  - [Rescue](https://bg3.wiki/wiki/Rescue_the_Trapped_Man) a [trapped man](https://bg3.wiki/wiki/Benryn) and help him [find the Dowry Ring](https://bg3.wiki/wiki/Dowry_Ring)
   - Rescue an important [Counsellor](https://bg3.wiki/wiki/Florrick) to learn about a [captured Duke](https://bg3.wiki/wiki/Ulder_Ravengard) in need of [rescue](https://bg3.wiki/wiki/Rescue_the_Grand_Duke). She'll reward you with your selection of one of three items
   - ::item_rare:: [The Joltshooter](https://bg3.wiki/wiki/The%20Joltshooter)
   - ::item_rare:: [The Sparky Points](https://bg3.wiki/wiki/The%20Sparky%20Points)
   - ::item_rare:: [The Spellsparkler](https://bg3.wiki/wiki/The%20Spellsparkler)
-- After breaking down a door, obtain a [unique sword](https://bg3.wiki/wiki/Svartlebee%27s_Woundseeker) by [commanding](https://bg3.wiki/wiki/Command) its [wielder](https://bg3.wiki/wiki/Yeva) to drop it.
-- One of the cows next to the entrace to the [Thief Hideout](https://bg3.wiki/wiki/Zhentarim_Basement) has interesting dialogue if you've got Speak with Animals
+- After breaking down a door, obtain [Svartlebee's Woundseeker](https://bg3.wiki/wiki/Svartlebee%27s_Woundseeker) by [commanding](https://bg3.wiki/wiki/Command) its [wielder](https://bg3.wiki/wiki/Yeva) to drop it.
+- One of the cows next to the entrance to the [Thief Hideout](https://bg3.wiki/wiki/Zhentarim_Basement) has interesting dialogue if you've got Speak with Animals
 # Zhentarim Hideout
 - Enter the basement to the [Thief Hideout](https://bg3.wiki/wiki/Zhentarim_Basement)
 - Free [the artist](https://bg3.wiki/wiki/Free_the_Artist)
+- ::item_veryrare:: [Abyss Beckoners](https://bg3.wiki/wiki/Abyss%20Beckoners)
 - [Brem](https://bg3.wiki/wiki/Brem) offers merchant services
-  - ::missable:: Brem's special stock can be accessed after gaining [](https://bg3.wiki/wiki/Zarys') approval
+  - ::missable:: Brem's special stock can be accessed after gaining [Zarys](https://bg3.wiki/wiki/Zarys) approval
   - ::item_rare:: [Giantbreaker](https://bg3.wiki/wiki/Giantbreaker)
   - ::item_rare:: [The Jolty Vest](https://bg3.wiki/wiki/The%20Jolty%20Vest)
   - ::item_rare:: [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow)
@@ -215,7 +226,9 @@
 - Meet a [monster hunter](https://bg3.wiki/wiki/Gandrel) and deal with him as you see fit
 # Riverside Teahouse
 - Save a [pregnant mother](https://bg3.wiki/wiki/Save_Mayrina)
-- ::item_story:: A missable [item](https://bg3.wiki/wiki/Mayrina%27s%20Locket) can be obtained here.  Obtaining this item may prevent obtaining other items, so it is not recommended to collect this one. (Alternate methods may be available. Verification needed.)
+- ::ability:: [Auntie Ethel's Hair](https://bg3.wiki/wiki/Auntie_Ethel%27s_Hair) - defeat [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) and take her deal to spare her life, permanently gain +1 to any ability score (can exceed 20)
+- ::ability:: [Paid the Price](https://bg3.wiki/wiki/Paid_the_Price_(Condition)) - accept [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel)'s deal to remove the parasite, gain +1 to Intimidation but -1 to Perception and disadvantage when attacking hags
+- ::item_story:: A missable [Mayrina's Locket](https://bg3.wiki/wiki/Mayrina%27s%20Locket) can be obtained here. Obtaining this item may prevent obtaining other items, so it is not recommended to collect this one. (Alternate methods may be available. Verification needed.)
 # Overgrown Tunnel
 - ::item_uncommon:: [Staff of Crones](https://bg3.wiki/wiki/Staff%20of%20Crones)
 - ::item_uncommon:: [The Ever-Seeing Eye](https://bg3.wiki/wiki/The%20Ever-Seeing%20Eye)
@@ -232,21 +245,23 @@
   - Light the sconces and braziers in the area to solve the wall puzzles 
   - Find the "secret" chest available with mage hand, jump, or misty step
 - Reenact [the sword in the stone](https://bg3.wiki/wiki/Phalar_Aluve)
-- Check out the [fish people's cove](https://bg3.wiki/wiki/The_Festering_Cove)  
+- Check out the [fish people's cove](https://bg3.wiki/wiki/The_Festering_Cove) 
 - Interact with [the petrified humanoid statues and the aberration](https://bg3.wiki/wiki/Underdark#Petrified_Battlefield) that appears
 - Help [the mushroom leader](https://bg3.wiki/wiki/Spaw)
-  - ::missable::[Cure the sick humanoid](https://bg3.wiki/wiki/Cure_the_Poisoned_Gnome) before taking 3 long rests
-- Help [a friend that looks like a foe](https://bg3.wiki/wiki/Help_Omeluum_Investigate_the_Parasite) 
+  - ::missable:: [Cure the sick humanoid](https://bg3.wiki/wiki/Cure_the_Poisoned_Gnome) before taking 3 long rests
+- Help [a friend that looks like a foe](https://bg3.wiki/wiki/Help_Omeluum_Investigate_the_Parasite)
+  - ::ability:: [Survival Instinct](https://bg3.wiki/wiki/Survival_Instinct) - complete the quest [Help Omeluum investigate the parasite](https://bg3.wiki/wiki/Help_Omeluum_investigate_the_parasite) with [Omeluum](https://bg3.wiki/wiki/Omeluum) to gain unique illithid power that heals creatures when they reach 0 hit points 
 - Save [a witless dwarf in dire straits](https://bg3.wiki/wiki/Find_the_Mushroom_Picker) 
   - Choose what to do with [the reward from the gnome](https://bg3.wiki/wiki/Noblestalk) 
 - Go and [defeat the duergars](https://bg3.wiki/wiki/Defeat_the_Duergar_Intruders)
 - ["Help" Glut](https://bg3.wiki/wiki/Avenge_Glut%27s_Circle), but you probably want to betray him
 - Eliminate Nere (which brings you to Grymforge) -- if you've come across the trapped gnomes, don't rest, or this quest will be lost
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Nere](https://bg3.wiki/wiki/Nere) when killed
 - Get your sussur bark here to finish the weapon in Blighted Village
 - Don't forget to gather three components that are needed to craft a [frosty staff](https://bg3.wiki/wiki/Mourning_Frost)
   - ::item_veryrare:: [Mourning Frost](https://bg3.wiki/wiki/Mourning%20Frost)
 - Defeat the drow that handles hooked horror monsters
-- Fight [a land shark](https://baldursgate3.wiki.fextralife.com/Bulette)
+- Fight [a land shark](https://bg3.wiki/wiki/Bulette)
 - If you find a small grave site in a clearing, don't touch it until you read a certain note regarding a canine companion in the Arcane Tower
   - Once you've done that, grab the collar from within and use it with the Arcane Tower button
 # Myconid Colony
@@ -281,6 +296,7 @@
 - ::item_uncommon:: [Luminous Armour](https://bg3.wiki/wiki/Luminous%20Armour)
 - ::item_uncommon:: [The Blast Pendant](https://bg3.wiki/wiki/The%20Blast%20Pendant)
 # The Festering Cove
+- ::ability:: [BOOOAL's Benediction](https://bg3.wiki/wiki/BOOOAL%27s_Benediction_(Condition)) - sacrifice a companion to [BOOOAL](https://bg3.wiki/wiki/BOOOAL) or pickpocket the [Sickle of BOOOAL](https://bg3.wiki/wiki/Sickle_of_BOOOAL) and pass persuasion checks, gain advantage on attack rolls against bleeding targets
 - ::item_rare:: [Drow Studded Leather Armour (R1)](https://bg3.wiki/wiki/Drow%20Studded%20Leather%20Armour%20(R1))
 - ::item_uncommon:: [Helmet of Autonomy](https://bg3.wiki/wiki/Helmet%20of%20Autonomy)
 - ::item_uncommon:: [Slippery Chain Shirt](https://bg3.wiki/wiki/Slippery%20Chain%20Shirt)
@@ -324,7 +340,7 @@
 - ::item_common:: [Devilfoil Mask](https://bg3.wiki/wiki/Devilfoil%20Mask)
 - Get [the sergeant's boots](https://bg3.wiki/wiki/Find_the_Missing_Boots)
 - Talk to a [gnome with runepowder](https://bg3.wiki/wiki/Philomeen), past hidden kitchen area of Grymforge
-- ::missable::Free a certain [Drow](https://bg3.wiki/wiki/Free_True_Soul_Nere) (if you long rest or fast travel he'll die)
+- ::missable:: Free a certain [Drow](https://bg3.wiki/wiki/Free_True_Soul_Nere) (if you long rest or fast travel he'll die)
 - ::missable::Similarly, save [some gnomes](https://bg3.wiki/wiki/Save_the_Grymforge_Gnomes) before long resting or fast travelling (although they technically may live a little longer)
   - Remember to speak to [Thulla](https://bg3.wiki/wiki/Thulla) back at the myconid area now that this is done
 - Enter the [Forge](https://bg3.wiki/wiki/Adamantine_Forge) (you can find 2 mithril ores to make 2 pieces of gear)
@@ -332,7 +348,7 @@
 - Help the [cursed monk](https://bg3.wiki/wiki/Help_the_Cursed_Monk) (you just need to pick up a certain amulet and speak to him about his goals, for now)
 - Grab a [specific idol](https://bg3.wiki/wiki/Idol_of_Shar) to unlock some dialogue and influence, but otherwise nothing missable
 - Loot the [mimics](https://bg3.wiki/wiki/Mimic)
-- Kill some [piggies](https://bg3.wiki/wiki/Hellsboar) in [the area](https://bg3.wiki/wiki/Grymforge#Abandoned_Temple) and optionally get [some masks](https://bg3.wiki/wiki/Devilfoil_Mask)
+- Kill some [Hellsboar](https://bg3.wiki/wiki/Hellsboar) in [the area](https://bg3.wiki/wiki/Grymforge#Abandoned_Temple) and optionally get [Devilfoil Masks](https://bg3.wiki/wiki/Devilfoil_Mask)
 - Don't take the elevator up until you've done the creche and other Act 1.5 content
 # Abandoned Refuge
 - ::item_veryrare:: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine%20Scale%20Mail)
@@ -374,13 +390,15 @@
 - ::ability:: Participate in [Abdirak's](https://bg3.wiki/wiki/Abdirak) ritual to gain a permanent bonus, [Loviatar's Love](https://bg3.wiki/wiki/Loviatar%27s_Love_%28Condition%29)
 - ::task:: Complete [Rescue Volo](https://bg3.wiki/wiki/Rescue_Volo) before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
   - ::item_uncommon:: [Blazer of Benevolence](https://bg3.wiki/wiki/Blazer%20of%20Benevolence)
+  - ::ability:: [Volo's Ersatz Eye](https://bg3.wiki/wiki/Volo%27s_Ersatz_Eye) - agree to his experimental surgery, permanently gain [See Invisibility](https://bg3.wiki/wiki/See_Invisibility_(Condition)) effect
 - ::task:: Minor missable events with ordinary rewards are available
   - ::task:: [Poison the goblins](https://bg3.wiki/wiki/Goblin_Camp#Booze_Tub) and do not get caught
   - ::task:: Rescue the [tortured prisoner](https://bg3.wiki/wiki/Shattered_Sanctum#Torture_rack) and do not get caught
 - ::missable:: Complete [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
   - ::task:: If you plan on recruiting Minthara or obtaining the achievement for keeping Sazza alive, work this into the next task.
   - ::item_uncommon:: [Assassin's Touch](https://bg3.wiki/wiki/Assassin's%20Touch)
-- ::task:: Compelte [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
+- ::ability:: [Brand of the Absolute](https://bg3.wiki/wiki/Brand_of_the_Absolute) - agree to let a character be branded by [Gut](https://bg3.wiki/wiki/Gut) to gain benefits from Absolute equipment and unlock unique dialogue options
+- ::task:: Complete [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
   - ::task:: If you plan on recruiting Minthara or obtaining the achievement for keeping Sazza alive do the following below
   - ::task:: Remember: do not long rest until told to do so
   - ::task:: Defeat [Priestess Gut](https://bg3.wiki/wiki/Gut) and do not get caught
@@ -424,6 +442,9 @@
   - ::item_uncommon:: [Loviatar's Scourge](https://bg3.wiki/wiki/Loviatar's%20Scourge)
   - ::item_uncommon:: [Ritual Axe](https://bg3.wiki/wiki/Ritual%20Axe)
   - ::item_uncommon:: [Ritual Dagger](https://bg3.wiki/wiki/Ritual%20Dagger)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Dror Ragzlin](https://bg3.wiki/wiki/Dror_Ragzlin) when killed
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Gut](https://bg3.wiki/wiki/Gut) when killed
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Minthara](https://bg3.wiki/wiki/Minthara) when killed
 # BEFORE CONTINUING TO ACT 1.5
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before going to Act 1.5
 # Rosymorn Monastery Trail
@@ -442,7 +463,7 @@
 # Rosymorn Monastery
 - ::item_uncommon:: [Ceremonial Mace](https://bg3.wiki/wiki/Ceremonial%20Mace)
 - ::item_uncommon:: [Holy Lance Helm](https://bg3.wiki/wiki/Holy%20Lance%20Helm)
-- Solve a puzzle that involves the [blood of a god](https://bg3.wiki/wiki/Find_the_Blood_of_Lathander)  
+- Solve a puzzle that involves the [blood of a god](https://bg3.wiki/wiki/Find_the_Blood_of_Lathander) 
 # Crèche Y'llek
 - ::item_legendary:: [The Blood of Lathander](https://bg3.wiki/wiki/The%20Blood%20of%20Lathander)
 - ::item_veryrare:: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves%20of%20Dexterity)
@@ -470,7 +491,7 @@
 - Gith Egg quest
 - Visit the infirmary and get ready to try [the machine](https://bg3.wiki/wiki/Zaith%27isk)
   - Grab 3 more parasites from this room
-  - Get [a permanent buff](https://bg3.wiki/wiki/Awakened) by sitting in a chair
+  - ::ability:: [Awakened](https://bg3.wiki/wiki/Awakened) - succeed at all three saving throws with the Zaith'isk to gain ability to use all illithid powers as bonus actions
 - Have a conversation with [the inquisitor](https://bg3.wiki/wiki/W%27wargaz)
 - Perform an [Astral Plane](https://bg3.wiki/wiki/Astral_Plane) visit, and then talk to Lae'zel
   - Talk to [the visitor](https://bg3.wiki/wiki/Voss) upon a long rest
@@ -478,6 +499,7 @@
 - ::item_uncommon:: [Varsh Ko'kuu's Boots](https://bg3.wiki/wiki/Varsh%20Ko'kuu's%20Boots)
 # Crèche Y'llek (Infirmary)
 - ::item_uncommon:: [Ring of Elemental Infusion](https://bg3.wiki/wiki/Ring%20of%20Elemental%20Infusion)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) x3 - found in the [Infirmary](https://bg3.wiki/wiki/Cr%C3%A8che_Y%27llek#Infirmary) of [Crèche Y'llek](https://bg3.wiki/wiki/Cr%C3%A8che_Y%27llek), next to the Zaith'isk. Two are around tables
 # BEFORE CONTINUING TO ACT 2
 - Let a certain Dandy [shove an icepick in your eye](https://bg3.wiki/wiki/Volo%27s_Ersatz_Eye) for a permanent upgrade (unconfirmed that this has to be before Act 2)
 - Deluxe edition -- portraits: optionally find Fane in The Ruins, Lohse near Nettie in The Emerald Grove, Red Prince in the Waukeen's Rest, Ifan in the Blighted Village, Sebille in the Hag's house, and finally Beast in The Arcane Tower 
@@ -493,7 +515,7 @@
   - ::item_uncommon:: [Ring of Shadows](https://bg3.wiki/wiki/Ring%20of%20Shadows)
 # Ruined Battlefield
 - ::item_story:: First opportunity to find a [Moonlantern](https://bg3.wiki/wiki/Moonlantern), dropped from [Kar'niss](https://bg3.wiki/wiki/Kar%27niss).
-  - ::missable:: This version of the item is time limited and, depending on how the player entered Act 2, must be obtained before the target reaches Moonrise Towers.  It is recommended to obtain this item ASAP.
+  - ::missable:: This version of the item is time limited and, depending on how the player entered Act 2, must be obtained before the target reaches Moonrise Towers. It is recommended to obtain this item ASAP.
   - ::item_common:: It is higly recommended to get this one as it grants another item, the [Filigreed Feywild Bell](https://bg3.wiki/wiki/Filigreed_Feywild_Bell), and affects a future interaction with [Dolly Dolly Dolly](https://bg3.wiki/wiki/Dolly_Dolly_Dolly)
 - ::item_rare:: [Ring of Twilight](https://bg3.wiki/wiki/Ring%20of%20Twilight)
 - ::item_uncommon:: [Family Ring](https://bg3.wiki/wiki/Family%20Ring)
@@ -583,13 +605,13 @@
 - ::item_uncommon:: [Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak%20of%20Elemental%20Absorption)
 - ::item_uncommon:: [Myrkulite Scourge](https://bg3.wiki/wiki/Myrkulite%20Scourge)
 - ::item_uncommon:: [Spineshudder Amulet](https://bg3.wiki/wiki/Spineshudder%20Amulet)
-- Get some more tadpoles
+- Get some more [Mind Flayer Parasite Specimens](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen)
   - Convince the guard on the docks to let you investigate the shipping crates
-  - Destroy the barrel with the tadpoles after investigating (you can move the crate out of sight of the guards)
-  - Gather 2 more tadpoles 
+  - Destroy the barrel with the parasites after investigating (you can move the crate out of sight of the guards)
+  - Gather 2 more parasites
 - ::task:: [Lann Tarv](https://bg3.wiki/wiki/Lann_Tarv) offers merchant services.
-  - If [Karlach](https://bg3.wiki/wiki/Karlach) is in the party, you can listen to some sad stories to get three [Soul Coins](https://bg3.wiki/wiki/Soul_Coin)
-  - ::missable:: Impress him or get [Zrell's] approval to access his secret stock
+  - ::item_common:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) x3 - If [Karlach](https://bg3.wiki/wiki/Karlach) is in the party, you can listen to some sad stories to get three [Soul Coins](https://bg3.wiki/wiki/Soul_Coin)
+  - ::missable:: Impress him or get [Zrell's](https://bg3.wiki/wiki/Zrell) approval to access his secret stock
   - ::item_veryrare:: [Halberd of Vigilance](https://bg3.wiki/wiki/Halberd%20of%20Vigilance)
   - ::item_rare:: [Bigboy's Chew Toy](https://bg3.wiki/wiki/Bigboy's%20Chew%20Toy)
   - ::item_rare:: [Enraging Heart Garb](https://bg3.wiki/wiki/Enraging%20Heart%20Garb)
@@ -601,8 +623,9 @@
   - ::item_rare:: [Gauntlets of Surging Accuracy](https://bg3.wiki/wiki/Gauntlets%20of%20Surging%20Accuracy) (Secret Stock)
   - ::item_uncommon:: [Render of Mind and Body](https://bg3.wiki/wiki/Render%20of%20Mind%20and%20Body) (Secret Stock)
   - ::item_rare:: [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow) is available only if you did not get access to [Brem's](https://bg3.wiki/wiki/Brem) secret stock
-- ::task:: [Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra) offers merchant sevices
+- ::task:: [Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra) offers merchant services
   - Get [a specially-brewed potion](https://bg3.wiki/wiki/Araj_Oblodra#Blood-draw_elixirs) from each of your companions blood (there are truly no downsides to this event)
+  - ::item_common:: [Potion of Everlasting Vigour](https://bg3.wiki/wiki/Potion_of_Everlasting_Vigour) - obtained by convincing [Astarion](https://bg3.wiki/wiki/Astarion) to bite [Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra) in [Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers), permanently increases Strength by +2
   - ::item_veryrare:: [Circlet of Hunting](https://bg3.wiki/wiki/Circlet%20of%20Hunting)
   - ::item_rare:: [Boots of Arcane Bolstering](https://bg3.wiki/wiki/Boots%20of%20Arcane%20Bolstering)
   - ::item_rare:: [Ring of Free Action](https://bg3.wiki/wiki/Ring%20of%20Free%20Action)
@@ -624,16 +647,23 @@
 - Visit [the kitchen](https://bg3.wiki/wiki/Moonrise_Towers#Kitchen)
   - Convince [the gnolls](https://bg3.wiki/wiki/%27Barnabus%27) to work with you
   - You can optionally harvest [their captor's](https://bg3.wiki/wiki/Linsella) parasite (in the kitchen)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Krizt](https://bg3.wiki/wiki/Krizt) when killed
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Linsella](https://bg3.wiki/wiki/Linsella) when killed
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Malik](https://bg3.wiki/wiki/Malik_(zealot)) when killed
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Marcus](https://bg3.wiki/wiki/Marcus_Falgor) when killed
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Merim](https://bg3.wiki/wiki/Merim) when killed
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Z'rell](https://bg3.wiki/wiki/Z%27rell) when killed
 - Find the third Orpheus disc in Balthazar's tower and talk to Lae'zel to hear her thoughts
 - Get [a dark lantern](https://bg3.wiki/wiki/Shadow_Lantern) from [an enemy leader's chambers](https://bg3.wiki/wiki/Moonrise_Towers#Balthazar's_room), and have a wizard in your party activate it for a permanent summon
 - Investigate the daughter's room to find [something that isn't as it appears](https://bg3.wiki/wiki/Moonrise_Towers#Isobel's_room)
 - [Save the gnomes](https://bg3.wiki/wiki/Rescue_Wulbren) (talk to them before freeing them)
-  - ::item_uncommon:: [Wulbren's Hammer](https://bg3.wiki/wiki/Wulbren's%20Hammer), found in the same area, can be given to [Wulbren Bongle](https://bg3.wiki/wiki/Wulbren_Bongle).  It is possible to purchase this item back from him anytime (confirmed Act 3).
+  - ::item_uncommon:: [Wulbren's Hammer](https://bg3.wiki/wiki/Wulbren's%20Hammer), found in the same area, can be given to [Wulbren Bongle](https://bg3.wiki/wiki/Wulbren_Bongle). It is possible to purchase this item back from him anytime (confirmed Act 3).
 - [Save the tieflings](https://bg3.wiki/wiki/Rescue_the_Tieflings) 
   - Talk to [the aspiring Tiefling wizard](https://bg3.wiki/wiki/Rolan)
 # Oubliette
 - Enter [the area under the prisons](https://bg3.wiki/wiki/Oubliette)
 - Get the parasite from a Zealot corpse in the main area you drop into
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - found in Zealot [Krizt](https://bg3.wiki/wiki/Krizt), who will be guarding the broken bridge to Moonrise Towers when first approaching it. If she is not attacked, her corpse can be later found in the [Oubliette](https://bg3.wiki/wiki/Oubliette) under Moonrise Towers
 - Kill [the monstrosities within](https://bg3.wiki/wiki/Hook_Horror) and complete the area (you can't continue forward for now)
 # Reithwin Town
 - ::item_veryrare:: [Hr'a'cknir Bracers](https://bg3.wiki/wiki/Hr'a'cknir%20Bracers)
@@ -641,7 +671,9 @@
 - ::item_uncommon:: [Helmet of Arcane Acuity](https://bg3.wiki/wiki/Helmet%20of%20Arcane%20Acuity)
 - ::item_uncommon:: [Ritual Dagger of Shar](https://bg3.wiki/wiki/Ritual%20Dagger%20of%20Shar)
 - ::item_uncommon:: [Shadow Blade Ring](https://bg3.wiki/wiki/Shadow%20Blade%20Ring)
-- Find [a young tiefling](https://bg3.wiki/wiki/Arabella#Act_Two) that needs help 
+- Find [a young tiefling](https://bg3.wiki/wiki/Arabella#Act_Two) that needs help
+- ::ability:: [Arabella's Shadow Entangle](https://bg3.wiki/wiki/Arabella%27s_Shadow_Entangle) - tell [Arabella](https://bg3.wiki/wiki/Arabella) about her parents' fate during [Find Arabella's Parents](https://bg3.wiki/wiki/Find_Arabella%27s_Parents) to gain ability to entangle undead and shadow creatures
+- ::ability:: [Consumed Shadow Weave](https://bg3.wiki/wiki/Consumed_Shadow_Weave) - consume shadow weave in the Shadow-Cursed Lands to gain advantage against shadow creatures 
 - Interact with the center statue puzzle to [open a pathway down](https://bg3.wiki/wiki/Sharran_Sanctuary)
   - Complete the puzzle in the room for three temporary buffs ([1](https://bg3.wiki/wiki/Dark_Lady%27s_Grace_(Condition)), ([2](https://bg3.wiki/wiki/Dark_Lady%27s_Awareness_(Condition)), ([3](https://bg3.wiki/wiki/Dark_Lady%27s_Erudition_(Condition)) but DO NOT head further down and complete the area, freeing an important prisoner, or you'll lock yourself out of freeing prisoners at Moonrise
   - Deal with the gith patrol and [their leader](https://bg3.wiki/wiki/Tska%27an)
@@ -692,6 +724,7 @@
 - ::item_rare:: [Twist of Fortune](https://bg3.wiki/wiki/Twist%20of%20Fortune)
 - ::item_uncommon:: [Fireheart](https://bg3.wiki/wiki/Fireheart)
 - ::item_uncommon:: [Ironvine Shield](https://bg3.wiki/wiki/Ironvine%20Shield)
+- ::item_common:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) - on a table behind a secret wall in [Reithwin Tollhouse](https://bg3.wiki/wiki/Reithwin_Tollhouse) basement
 - Deal with [the "coin boss"](https://bg3.wiki/wiki/Gerringothe_Thorm) 
   - Keep her from doing anything to you for [an achievement](https://bg3.wiki/wiki/Achievements)
 # BEFORE CONTINUING TO THE TEMPLE
@@ -733,7 +766,7 @@
 - Visit [the Inn](https://bg3.wiki/wiki/Last_Light_Inn) and gather forces
   - Talk to [the Selunite](https://bg3.wiki/wiki/Isobel)
 - Attack [the Towers](https://bg3.wiki/wiki/Infiltrate_Moonrise_Towers#Assaulting_Moonrise_Towers)
-  - Pick up two tadpoles in the entryway
+  - Pick up two [Mind Flayer Parasite Specimens](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) in the entryway
 - Join a new fight in the basement cells (even if you cleared it before)
 - Make your way upstairs and [fight the boss](https://bg3.wiki/wiki/Defeat_Ketheric_Thorm)
 - ::item_legendary:: [Selûne's Spear of Night](https://bg3.wiki/wiki/Selûne's%20Spear%20of%20Night)
@@ -748,11 +781,16 @@
 - Destroy the undead creatures in [a ritual room](https://bg3.wiki/wiki/Mind_Flayer_Colony#Necrotic_laboratory)
   - Complete the brain puzzle
 - Past the door, get the sword, green jar, and items on the corpse
-  - Put the jar in the mind reader and gain [a permanent boon](https://bg3.wiki/wiki/Waking_Mind) (until the character with the buff dies)
-- [Free an old brain friend](https://bg3.wiki/wiki/Us#Act_Two), if you didn't kill them earlier, to get a new ability 
+  - ::ability:: [Githzerai Mind Barrier](https://bg3.wiki/wiki/Githzerai_Mind_Barrier) - put the [Waking Mind](https://bg3.wiki/wiki/Waking_Mind) jar in the mind reader and agree to purge or consume its mind to gain advantage against psychic damage (until the character with the buff dies)
+- [Free an old brain friend](https://bg3.wiki/wiki/Us#Act_Two), if you didn't kill them earlier, to get a new ability
+- ::ability:: [Summon Us](https://bg3.wiki/wiki/Summon_Us) - free [Us](https://bg3.wiki/wiki/Us) in the [Mind Flayer Colony](https://bg3.wiki/wiki/Mind_Flayer_Colony) to gain ability to summon them as a companion
+- ::ability:: [Partial Ceremorphosis](https://bg3.wiki/wiki/Partial_Ceremorphosis) - embrace illithid powers to gain the Partial Ceremorphosis transformation
+- ::ability:: [Danse Macabre](https://bg3.wiki/wiki/Danse_Macabre) - read [The Tharchiate Codex](https://bg3.wiki/wiki/The_Tharchiate_Codex) after reading [Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) to gain the Danse Macabre necromancy spell 
 - Find [the tadpole room](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_centre)
-  - Collect a tadpole from the pool
+  - Collect a [tadpole](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) from the pool
   - Free [Wyll's captor](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_Centre)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - found in a Brine Pool, after passing a DC 16 [Perception](https://bg3.wiki/wiki/Perception) check, in the [Mind Flayer Colony](https://bg3.wiki/wiki/Mind_Flayer_Colony) under Moonrise Towers
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Isobel](https://bg3.wiki/wiki/Isobel_Thorm) if she was abducted from [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn) (either dead or alive), she has a parasite on her body when fighting her alongside Ketheric
 - Free [the captured citizens](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_Centre)
   - ::item_uncommon:: If [Svartlebee's Woundseeker](https://bg3.wiki/wiki/Svartlebee%27s_Woundseeker) was missed, it can be obtained by disarming [Gauntlet Yeva](https://bg3.wiki/wiki/Yeva) in combat without negative consequences.
 # BEFORE CONTINUING TO ACT 3
@@ -800,8 +838,8 @@
 # Rivington - Abandoned Windmill
 - ::item_rare:: [Ring of Truthfulness](https://bg3.wiki/wiki/Ring%20of%20Truthfulness) 
 - Decide whether or not to [help a newborn abberation](https://bg3.wiki/wiki/Feed%20the%20Mind%20Flayer)
-  - If attack it, you can loot and consume [it's brain](https://bg3.wiki/wiki/Mind_Flayer_Brain) for a tadpole
-  - If you help it, it will also ereward you with a tadpole (This will break your Paladin oath)
+  - If attack it, you can loot and consume [it's brain](https://bg3.wiki/wiki/Mind_Flayer_Brain) for a [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen)
+  - If you help it, it will also reward you with a [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) (This will break your Paladin oath)
 
 
 # Rivington - Gur Camp
@@ -826,6 +864,7 @@
 
 # Rivington - Circus of the Last Days
 - ::item_rare:: [The Pointy Hat](https://bg3.wiki/wiki/The%20Pointy%20Hat)
+- ::ability:: [Sweet Stone Features](https://bg3.wiki/wiki/Sweet_Stone_Features_(Condition)) - pay [Boney](https://bg3.wiki/wiki/Boney) 5000 gold to have [Stoney](https://bg3.wiki/wiki/Stoney) construct a statue of your character, gain +1d4 bonus to attack rolls and saving throws
 - Participate in a show with a [suspicious clown](https://bg3.wiki/wiki/Dribbles)
   - ::item_rare:: [Clown Hammer](https://bg3.wiki/wiki/Clown%20Hammer)
 - Speak to [Lucretious](https://bg3.wiki/wiki/Lucretious) about her [staffing problem](https://bg3.wiki/wiki/Find_Dribbles_the_Clown) after the show
@@ -841,7 +880,7 @@
   - ::item_common:: [Bag of Moulding](https://bg3.wiki/wiki/Bag_of_Moulding)
   - ::item_common:: [Magical Walnut](https://bg3.wiki/wiki/Magical_Walnut)
   - ::item_common:: [+1 Breastplate](https://bg3.wiki/wiki/%2B1_Breastplate)
-  - Pickpocket his [ring](https://bg3.wiki/wiki/Djinni_Ring) to hit the jackpot win an all-expenses paid trip to [an exotic land](https://bg3.wiki/wiki/Jungle)
+  - Pickpocket his [Djinni Ring](https://bg3.wiki/wiki/Djinni_Ring) to hit the jackpot win an all-expenses paid trip to [an exotic land](https://bg3.wiki/wiki/Jungle)
     - ::missable:: You cannot return to [this area](https://bg3.wiki/wiki/Jungle), so be sure to grab all loot here while you can
     - ::item_uncommon:: [Djinni Ring](https://bg3.wiki/wiki/Djinni%20Ring)
     - ::item_legendary:: [Nyrulna](https://bg3.wiki/wiki/Nyrulna)
@@ -859,6 +898,7 @@
 # Rivington - Open Hand Temple
 - ::item_veryrare:: [Stillmaker](https://bg3.wiki/wiki/Stillmaker)
 - ::item_rare:: [Seraphic Pugilist Gloves](https://bg3.wiki/wiki/Seraphic%20Pugilist%20Gloves)
+- ::ability:: [Tasha's Hideous Laughter/Monk's Hideous Laughter](https://bg3.wiki/wiki/Tasha%27s_Hideous_Laughter/Monk%27s_Hideous_Laughter) - complete the Open Hand Temple questline to gain access to these unique spells
 - If you obtained [a funny amulet](https://bg3.wiki/wiki/Sentient_Amulet_(Rare)) in Act 1, visit the basement to [reunite a monk with his granddaughter](https://bg3.wiki/wiki/Help_the_Spirit_of_the_Amulet)
   - ::item_veryrare:: [Sentient Amulet (Very Rare)](https://bg3.wiki/wiki/Sentient_Amulet_(Very_Rare))
 - Find some murdered refugees in the basement and help [Solve the Open Hand Temple Murders](https://bg3.wiki/wiki/Solve%20the%20Open%20Hand%20Temple%20Murders)
@@ -916,14 +956,14 @@
 
 # Wyrm's Rock Fortress
 - ::item_story:: [Counting House Safe n°5 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%B05_Key)
-- ::item_veryrare:: [Fabricated Arbalest](https://bg3.wiki/wiki/Fabricated%20Arbalest)  Wyrm's Rock Fortress
-- ::item_veryrare:: [Flame Enamelled Armour](https://bg3.wiki/wiki/Flame%20Enamelled%20Armour)  Wyrm's Rock Fortress
-- ::item_veryrare:: [Gauntlet of the Tyrant](https://bg3.wiki/wiki/Gauntlet%20of%20the%20Tyrant)  Wyrm's Rock Fortress
-- ::item_veryrare:: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk%20Boots)  Wyrm's Rock Fortress
-- ::item_rare:: [Cloth of Authority](https://bg3.wiki/wiki/Cloth%20of%20Authority)  Wyrm's Rock Fortress
-- ::item_rare:: [Infernal Spear](https://bg3.wiki/wiki/Infernal%20Spear)  Wyrm's Rock Fortress
-- ::item_uncommon:: [Tyrannical Jackboots](https://bg3.wiki/wiki/Tyrannical%20Jackboots)  Wyrm's Rock Fortress
-- ::item_rare:: [Servitor of the Black Hand Gloves](https://bg3.wiki/wiki/Servitor%20of%20the%20Black%20Hand%20Gloves)  Wyrm's Rock Fortress
+- ::item_veryrare:: [Fabricated Arbalest](https://bg3.wiki/wiki/Fabricated%20Arbalest) Wyrm's Rock Fortress
+- ::item_veryrare:: [Flame Enamelled Armour](https://bg3.wiki/wiki/Flame%20Enamelled%20Armour) Wyrm's Rock Fortress
+- ::item_veryrare:: [Gauntlet of the Tyrant](https://bg3.wiki/wiki/Gauntlet%20of%20the%20Tyrant) Wyrm's Rock Fortress
+- ::item_veryrare:: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk%20Boots) Wyrm's Rock Fortress
+- ::item_rare:: [Cloth of Authority](https://bg3.wiki/wiki/Cloth%20of%20Authority) Wyrm's Rock Fortress
+- ::item_rare:: [Infernal Spear](https://bg3.wiki/wiki/Infernal%20Spear) Wyrm's Rock Fortress
+- ::item_uncommon:: [Tyrannical Jackboots](https://bg3.wiki/wiki/Tyrannical%20Jackboots) Wyrm's Rock Fortress
+- ::item_rare:: [Servitor of the Black Hand Gloves](https://bg3.wiki/wiki/Servitor%20of%20the%20Black%20Hand%20Gloves) Wyrm's Rock Fortress
 
 
 # Wyrm's Rock Fortress - Wyrm's Rock Prison
@@ -933,15 +973,25 @@
 
 
 # Wyrm's Rock Fortress - The Dragon's Sanctum
-- ::item_legendary:: [Balduran's Giantslayer](https://bg3.wiki/wiki/Balduran's%20Giantslayer)  The Dragon's Sanctum
-- ::item_legendary:: [Helm of Balduran](https://bg3.wiki/wiki/Helm%20of%20Balduran)  The Dragon's Sanctum
+- ::item_legendary:: [Balduran's Giantslayer](https://bg3.wiki/wiki/Balduran's%20Giantslayer) The Dragon's Sanctum
+- ::item_legendary:: [Helm of Balduran](https://bg3.wiki/wiki/Helm%20of%20Balduran) The Dragon's Sanctum
 
 
 # Lower City
-- ::item_story:: [Guild Ring](https://bg3.wiki/wiki/Guild%20Ring)  Lower City
-- ::item_veryrare:: [Abdel's Trusted Shield](https://bg3.wiki/wiki/Abdel's%20Trusted%20Shield)  Lower City
-- ::item_uncommon:: [Cloth Armour](https://bg3.wiki/wiki/Cloth%20Armour)  Lower City
-- ::item_common:: [Djinni Scimitar](https://bg3.wiki/wiki/Djinni%20Scimitar)  Lower City
+- ::item_story:: [Guild Ring](https://bg3.wiki/wiki/Guild%20Ring) Lower City
+- ::item_veryrare:: [Abdel's Trusted Shield](https://bg3.wiki/wiki/Abdel's%20Trusted%20Shield) Lower City
+- ::item_uncommon:: [Cloth Armour](https://bg3.wiki/wiki/Cloth%20Armour) Lower City
+- ::item_common:: [Djinni Scimitar](https://bg3.wiki/wiki/Djinni%20Scimitar) Lower City
+- ::item_common:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) - in the mailbox outside Peartree's house, [Lower City](https://bg3.wiki/wiki/Lower_City)
+- ::item_common:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) x2 - in the basement of [Peartree House](https://bg3.wiki/wiki/Peartree_House), inside a "Strongbox" on the wall
+- ::item_common:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) - in the Rustic Chest atop the stairs in Nortale's Hostel, [Lower City](https://bg3.wiki/wiki/Lower_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Avery Sonshal](https://bg3.wiki/wiki/Avery_Sonshal) in [Felogyr's Fireworks](https://bg3.wiki/wiki/Felogyr%27s_Fireworks)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Churg Elvek](https://bg3.wiki/wiki/Churg_Elvek) around the [Grey Harbour Docks](https://bg3.wiki/wiki/Grey_Harbour_Docks)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Darbonna](https://bg3.wiki/wiki/Darbonna) guarding the entrance to the Upper City near the Baldur's Gate [Waypoint](https://bg3.wiki/wiki/Waypoint)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Dravo Flymm](https://bg3.wiki/wiki/Dravo_Flymm) in [Flymm's Cobblers](https://bg3.wiki/wiki/Flymm%27s_Cobblers)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Edenosa](https://bg3.wiki/wiki/Edenosa) around [Bloomridge Park](https://bg3.wiki/wiki/Bloomridge_Park)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Mibbs](https://bg3.wiki/wiki/Mibbs) guarding the entrance to the Upper City near the Baldur's Gate [Waypoint](https://bg3.wiki/wiki/Waypoint)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Sally Flymm](https://bg3.wiki/wiki/Sally_Flymm) in [Flymm's Cobblers](https://bg3.wiki/wiki/Flymm%27s_Cobblers)
 
 
 # Lower City - Basilisk Gate Barracks
@@ -1017,6 +1067,7 @@
 - ::item_veryrare:: [Shield (VR1)](https://bg3.wiki/wiki/Shield%20(VR1))
 - ::item_veryrare:: [Staff of Spellpower](https://bg3.wiki/wiki/Staff%20of%20Spellpower)
 - ::item_uncommon:: [Amulet of Elemental Torment](https://bg3.wiki/wiki/Amulet%20of%20Elemental%20Torment)
+- ::item_common:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) x5 - inside [Raphael's](https://bg3.wiki/wiki/Raphael) safe at the Boudoir in the [House of Hope](https://bg3.wiki/wiki/House_of_Hope)
 
 
 # Lower City - Forge of the Nine
@@ -1034,7 +1085,7 @@
 # Lower City - Graveyard
 - Save the kid from Myrkul's influence
 - Dig up a peculiar grave to speak to a [peculiar graverobber](https://bg3.wiki/wiki/Bugthimble)
-  - ::item_uncommon:: [Kurwin's Cauteriser](https://bg3.wiki/wiki/Kurwin's%20Cauteriser)  Lower City
+  - ::item_uncommon:: [Kurwin's Cauteriser](https://bg3.wiki/wiki/Kurwin's%20Cauteriser) Lower City
 
 
 # Lower City - Murder Tribunal
@@ -1083,7 +1134,7 @@
 - ::item_legendary:: [The Red Knight's Final Strategem](https://bg3.wiki/wiki/The_Red_Knight%27s_Final_Strategem)
   - ::missable:: Reading this rewards a [Scroll of Artistry of War](https://bg3.wiki/wiki/Scroll_of_Artistry_of_War), the only of its kind (need to confirm?)
 - ::item_legendary:: [The Tharchiate Codex](https://bg3.wiki/wiki/The_Tharchiate_Codex)
-  - Can give permanant buff of 20 temp HP on each long rest
+  - ::ability:: [The Tharchiate Codex: Blessing](https://bg3.wiki/wiki/The_Tharchiate_Codex:_Blessing) - read [The Tharchiate Codex](https://bg3.wiki/wiki/The_Tharchiate_Codex) to gain 20 temporary hit points after each long rest
   - Allows the character who read [Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) to read it again for [Danse Macabre](https://bg3.wiki/wiki/Danse_Macabre)
 - ::item_veryrare:: [Foebreaker](https://bg3.wiki/wiki/Foebreaker)
 - ::item_veryrare:: [Hellfire Greataxe](https://bg3.wiki/wiki/Hellfire%20Greataxe)
@@ -1112,6 +1163,7 @@
 - ::item_veryrare:: [Staff of Cherished Necromancy](https://bg3.wiki/wiki/Staff%20of%20Cherished%20Necromancy)
 - ::item_veryrare:: [Torch of Revocation](https://bg3.wiki/wiki/Torch%20of%20Revocation)
 - ::item_veryrare:: [Veil of the Morning](https://bg3.wiki/wiki/Veil%20of%20the%20Morning)
+- ::item_common:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) - in [Philgrave's Mansion](https://bg3.wiki/wiki/Philgrave%27s_Mansion) inside Viscera
 - Just to the east is [Vonayn's Home](https://bg3.wiki/wiki/Vonayn%27s_Home)
   - ::item_story:: [Counting House Safe n°6 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%B06_Key)
 
@@ -1120,6 +1172,8 @@
 - ::item_story:: [Counting House Safe n°1 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%B01_Key)
 - ::item_story:: [Szarr Family Ring](https://bg3.wiki/wiki/Szarr_Family_Ring)
 - ::item_veryrare:: [Helmet of Grit](https://bg3.wiki/wiki/Helmet_of_Grit)
+- ::ability:: [Vampire Ascendant](https://bg3.wiki/wiki/Vampire_Ascendant) - help [Astarion](https://bg3.wiki/wiki/Astarion) ascend to become a Vampire Ascendant to gain enhanced vampire abilities
+- ::ability:: [Vampire](https://bg3.wiki/wiki/Vampire) - accept a romanced Vampire Ascendant [Astarion](https://bg3.wiki/wiki/Astarion) to gain [Bite (Vampire Spawn)](https://bg3.wiki/wiki/Bite_(Vampire_Spawn)) action and access to [Circle of Bones](https://bg3.wiki/wiki/Circle_of_Bones) buff
 
 
 # Lower City - Cazador's Dungeon
@@ -1139,6 +1193,7 @@
 - ::item_veryrare:: [Ring of Feywild Sparks](https://bg3.wiki/wiki/Ring%20of%20Feywild%20Sparks)
 - ::item_rare:: [Staff of Interruption](https://bg3.wiki/wiki/Staff%20of%20Interruption)
 - ::item_rare:: [Salty Scimitar(rrr)](https://bg3.wiki/wiki/Salty%20Scimitar(rrr))
+- ::ability:: [Unstable Blood](https://bg3.wiki/wiki/Unstable_Blood) - meet [Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra) east of the Blushing Mermaid and help her again to receive a potion that makes your blood highly flammable
 
 
 # Lower City - Beehive General Goods
@@ -1182,7 +1237,7 @@
   - High Security Vault n°5 - Its [key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%B05_Key) found in a safe hidden behind a painting in [Wyrm's Rock Fortress](https://bg3.wiki/wiki/Wyrm%27s_Rock_Fortress)
     - ::item_rare:: [Ravengard's Scourger](https://bg3.wiki/wiki/Ravengard's%20Scourger)
   - High Security Vault n°6 - Its [key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%B06_Key) found in the northwestern room of the [Iron Throne](https://bg3.wiki/wiki/Iron_Throne)
-    - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen)
+    - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - found in [High Security Vault n°6](https://bg3.wiki/wiki/The_Counting_House)
   - High Security Vault n°7 - Its [key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%B07_Key) can be looted or pickpocketed from [Nine-Fingers Keene](https://bg3.wiki/wiki/Nine-Fingers_Keene) in the [Guildhall](https://bg3.wiki/wiki/Guildhall)
     - ::item_uncommon:: [Knock Knuckle Gloves](https://bg3.wiki/wiki/Knock%20Knuckle%20Gloves)
   - High Security Vault n°8 - Its [key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%B08_Key) found in a jewellery Box in the [Cloister of Sombre Embrace](https://bg3.wiki/wiki/Cloister_of_Sombre_Embrace)
@@ -1212,6 +1267,7 @@
 
 # Lower City - Cloister of Sombre Embrace
 - ::task:: Act 3 - [A Familiar Face](https://bg3.wiki/wiki/A%20Familiar%20Face)
+- ::ability:: [Mirror of Loss](https://bg3.wiki/wiki/Mirror_of_Loss) - offer a prayer (DC 25 Religion check) to the Mirror of Loss and sacrifice ability scores to gain +2 to any ability score and optionally +1 to Charisma
 - ::item_story:: [High Security Vault n°8 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%B08_Key)
 - ::item_legendary:: [Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia's%20Walking%20Fortress)
 - ::item_veryrare:: [Handmaiden's Mace](https://bg3.wiki/wiki/Handmaiden's%20Mace)
@@ -1224,6 +1280,7 @@
 - ::item_rare:: [Steelwatcher Helmet](https://bg3.wiki/wiki/Steelwatcher%20Helmet)
 - ::item_rare:: [Winkling Gloves](https://bg3.wiki/wiki/Winkling%20Gloves)
 - ::item_common:: [Watcher Greatsword](https://bg3.wiki/wiki/Watcher%20Greatsword)
+- ::ability:: [Slayer Knowledge](https://bg3.wiki/wiki/Slayer_Knowledge) - rescue [Volo](https://bg3.wiki/wiki/Volo) from the Steel Watch Foundry and ask him about the [Slayer](https://bg3.wiki/wiki/Slayer) to gain advantage against Slayer abilities
 
 
 # Lower City - Water Queen's House
@@ -1234,17 +1291,17 @@
 
 
 # Undercity - City Sweres
-- ::item_rare:: [Breaching Pikestaff](https://bg3.wiki/wiki/Breaching%20Pikestaff)  Lower City Sewers
-- ::item_rare:: [Magic Amulet](https://bg3.wiki/wiki/Magic%20Amulet)  Lower City Sewers, have to put Sarin (skeleton?) back together
-- ::item_uncommon:: [Cindermoth Cloak](https://bg3.wiki/wiki/Cindermoth%20Cloak)  Lower City Sewers, worn by a greasy wizard
+- ::item_rare:: [Breaching Pikestaff](https://bg3.wiki/wiki/Breaching%20Pikestaff) Lower City Sewers
+- ::item_rare:: [Magic Amulet](https://bg3.wiki/wiki/Magic%20Amulet) Lower City Sewers, have to put Sarin (skeleton?) back together
+- ::item_uncommon:: [Cindermoth Cloak](https://bg3.wiki/wiki/Cindermoth%20Cloak) Lower City Sewers, worn by a greasy wizard
 - Kitrak Voss
   - ::item_legendary:: [Silver Sword of the Astral Plane](https://bg3.wiki/wiki/Silver%20Sword%20of%20the%20Astral%20Plane)
 
 
 # Undercity - Guildhall
 - ::item_story:: [High Security Vault n°7 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%B07_Key)
-- ::item_veryrare:: [Shade-Slayer Cloak](https://bg3.wiki/wiki/Shade-Slayer%20Cloak)  Guildhall
-- ::item_rare:: [Drunken Cloth](https://bg3.wiki/wiki/Drunken%20Cloth)  Guildhall
+- ::item_veryrare:: [Shade-Slayer Cloak](https://bg3.wiki/wiki/Shade-Slayer%20Cloak) Guildhall
+- ::item_rare:: [Drunken Cloth](https://bg3.wiki/wiki/Drunken%20Cloth) Guildhall
 
 
 # Undercity - Undercity Ruins
@@ -1258,18 +1315,39 @@
 - ::item_legendary:: [Crimson Mischief](https://bg3.wiki/wiki/Crimson%20Mischief)
 - ::item_veryrare:: [Bonespike Gloves](https://bg3.wiki/wiki/Bonespike%20Gloves)
 - ::item_rare:: [Mutilated Carapace](https://bg3.wiki/wiki/Mutilated%20Carapace) Looted from Orin
+- ::ability:: [Slayer Form](https://bg3.wiki/wiki/Slayer_Form) - as the [Dark Urge](https://bg3.wiki/wiki/Dark_Urge), embrace your nature to gain the Slayer transformation ability
 
 
 # Upper City - The High Hall
+- ::ability:: [Anointed in Splendour](https://bg3.wiki/wiki/Anointed_in_Splendour) - complete the coronation ceremony to gain +1 to all ability scores
 - ::item_rare:: [Thermodynamo Axe](https://bg3.wiki/wiki/Thermodynamo%20Axe)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Aelis](https://bg3.wiki/wiki/Aelis) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Baelen](https://bg3.wiki/wiki/Baelen) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Barcus](https://bg3.wiki/wiki/Barcus) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Bex](https://bg3.wiki/wiki/Bex) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Danis](https://bg3.wiki/wiki/Danis) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Dulcinea](https://bg3.wiki/wiki/Dulcinea) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Gribbo](https://bg3.wiki/wiki/Gribbo) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Lakrissa](https://bg3.wiki/wiki/Lakrissa) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Lorroakan](https://bg3.wiki/wiki/Lorroakan) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Minsc](https://bg3.wiki/wiki/Minsc) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Rion](https://bg3.wiki/wiki/Rion) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Rolan](https://bg3.wiki/wiki/Rolan) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Sarevok](https://bg3.wiki/wiki/Sarevok) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Sarevok's Daughter](https://bg3.wiki/wiki/Sarevok%27s_Daughter) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Sarevok's Son](https://bg3.wiki/wiki/Sarevok%27s_Son) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Sarevok's Wife](https://bg3.wiki/wiki/Sarevok%27s_Wife) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Talia](https://bg3.wiki/wiki/Talia) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Tav](https://bg3.wiki/wiki/Tav) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Wyll](https://bg3.wiki/wiki/Wyll) in the [Upper City](https://bg3.wiki/wiki/Upper_City)
 
 
 # Misc Items
-- ::item_veryrare:: [Orphic Ring](https://bg3.wiki/wiki/Orphic%20Ring)  Astral Plane
-- ::item_veryrare:: [Infernal Robe](https://bg3.wiki/wiki/Infernal%20Robe)  Campsite
-- ::item_veryrare:: [Ring of Evasion](https://bg3.wiki/wiki/Ring%20of%20Evasion) (Gale Origin)  Campsite
-- ::item_rare:: [The Deathstalker Mantle](https://bg3.wiki/wiki/The%20Deathstalker%20Mantle)  Campsite
-- ::item_rare:: [Spear +2](https://bg3.wiki/wiki/Spear%20+2)  Netherbrain Fight
+- ::item_veryrare:: [Orphic Ring](https://bg3.wiki/wiki/Orphic%20Ring) Astral Plane
+- ::item_veryrare:: [Infernal Robe](https://bg3.wiki/wiki/Infernal%20Robe) Campsite
+- ::item_veryrare:: [Ring of Evasion](https://bg3.wiki/wiki/Ring%20of%20Evasion) (Gale Origin) Campsite
+- ::item_rare:: [The Deathstalker Mantle](https://bg3.wiki/wiki/The%20Deathstalker%20Mantle) Campsite
+- ::item_rare:: [Spear +2](https://bg3.wiki/wiki/Spear%20+2) Netherbrain Fight
 
 
 
@@ -1323,8 +1401,8 @@
 - ::task:: Act 3 - [Our Fiery Friend](https://bg3.wiki/wiki/Our%20Fiery%20Friend)
 - ::task:: Act 3 - [Rescue Orin's Victim](https://bg3.wiki/wiki/Rescue%20Orin%27s%20Victim)
 - ::missable:: Act 3 - [Rescue the Grand Duke](https://bg3.wiki/wiki/Rescue%20the%20Grand%20Duke)
-  - ::item_veryrare:: [Emblazoned Plate of the Marshal](https://bg3.wiki/wiki/Emblazoned_Plate_of_the_Marshal) Sneak+darkness+non-lethal attacks to knock out Duke Ravengard at camp.  Engaging dialogue with him can restore action points.
-  - ::item_rare:: [Duke Ravengard's Longsword](https://bg3.wiki/wiki/Duke%20Ravengard's%20Longsword) Sneak+darkness+non-lethal attacks to knock out Duke Ravengard at camp.  Engaging dialogue with him can restore action points.
+  - ::item_veryrare:: [Emblazoned Plate of the Marshal](https://bg3.wiki/wiki/Emblazoned_Plate_of_the_Marshal) Sneak+darkness+non-lethal attacks to knock out Duke Ravengard at camp. Engaging dialogue with him can restore action points.
+  - ::item_rare:: [Duke Ravengard's Longsword](https://bg3.wiki/wiki/Duke%20Ravengard's%20Longsword) Sneak+darkness+non-lethal attacks to knock out Duke Ravengard at camp. Engaging dialogue with him can restore action points.
   - Save the Gondians before Avenging the Ironhands or before leaving the Iron Throne
 - ::missable:: Act 3 - [Retrieve Omeluum](https://bg3.wiki/wiki/Retrieve%20Omeluum)
 - Save the Gondians before Avenging the Ironhands or before leaving the Iron Throne
