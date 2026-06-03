@@ -1,0 +1,21 @@
+{
+  "current": "Legacy Test Profile",
+  "bg3_profiles": {
+    "Legacy Test Profile": {
+      "checklistData": {
+        "playthrough_If_you_see_a__tie_up_any_loose_ends__warning__this": true,
+        "playthrough_Always_crouch_when_stealing_--_enemies_will_automa": true,
+        "playthrough_Mask_of_the_Shapeshifter_Deluxe_Edition_--_find_th": true,
+        "playthrough_Start_the_quest_Daughter_of_Darkness": true,
+        "playthrough_Chain_Shirt__Shadowheart__-_Remove_Shadowheart_s_a": true,
+        "playthrough_Champion_s_Chain": true,
+        "playthrough_Cap_of_Wrath": true,
+        "playthrough_Holy_Lance_Helm": true,
+        "playthrough_Crusher_s_Ring": true,
+        "playthrough_Caustic_Band": true,
+        "playthrough_THIS_BULLET_NEVER_EXISTED_in_the_chec": true,
+        "playthrough_Removed_in_some_prior_release_xyz_pla": true
+      }
+    }
+  }
+}

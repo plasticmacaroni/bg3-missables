@@ -1,0 +1,2281 @@
+{
+  "generatedFrom": "checklist.md",
+  "totalItemsParsed": 1233,
+  "totalSampled": 270,
+  "sections": [
+    "Getting Started (Feel Free to Check These Off)",
+    "Act 1 (General Tasks)",
+    "Nautiloid",
+    "Ravaged Beach",
+    "Roadside Cliffs",
+    "Overgrown Ruins",
+    "Emerald Grove",
+    "Forest",
+    "The Risen Road",
+    "Blighted Village",
+    "Apothecary's Cellar",
+    "Whispering Depths",
+    "Mountain Pass",
+    "Owlbear Nest",
+    "Waukeen's Rest",
+    "Zhentarim Hideout",
+    "Sunlit Wetlands",
+    "Riverside Teahouse",
+    "Overgrown Tunnel",
+    "Underdark",
+    "Myconid Colony",
+    "Selûnite Outpost",
+    "The Festering Cove",
+    "Arcane Tower",
+    "Grymforge",
+    "Abandoned Refuge",
+    "The Adamantine Forge",
+    "Goblin Camp",
+    "BEFORE CONTINUING TO ACT 1.5",
+    "Rosymorn Monastery Trail",
+    "Rosymorn Monastery",
+    "Crèche Y'llek",
+    "Crèche Y'llek (Hatchery)",
+    "Crèche Y'llek (Infirmary)",
+    "BEFORE CONTINUING TO ACT 2",
+    "Act 2: First Things First",
+    "House in Deep Shadows",
+    "Ruined Battlefield",
+    "Last Light Inn",
+    "Moonrise Towers",
+    "Oubliette",
+    "Reithwin Town",
+    "Mason's Guild",
+    "House of Healing",
+    "House of Healing Morgue",
+    "The Waning Moon",
+    "Reithwin Tollhouse",
+    "BEFORE CONTINUING TO THE TEMPLE",
+    "Grand Mausoleum",
+    "Gauntlet of Shar",
+    "Shadowfell",
+    "Moonrise Towers (Revisited)",
+    "Mind Flayer Colony",
+    "BEFORE CONTINUING TO ACT 3",
+    "Campsite Ambush",
+    "Rivington",
+    "Rivington - Requisitioned Barn",
+    "Rivington - Abandoned Windmill",
+    "Rivington - Gur Camp",
+    "Rivington - The Rivington General",
+    "Rivington - Circus of the Last Days",
+    "Rivington - Sword Coast Couriers",
+    "Rivington - Open Hand Temple",
+    "Rivington - Western Beach",
+    "Wyrm's Crossing",
+    "Wyrm's Crossing - Sharess' Caress",
+    "Wyrm's Crossing - Fraygo's Flophouse",
+    "Wyrm's Crossing - Carm's Garm",
+    "Wyrm's Crossing - Danthelon's Dancing Axe",
+    "Wyrm's Rock Fortress",
+    "Wyrm's Rock Fortress - Wyrm's Rock Prison",
+    "Wyrm's Rock Fortress - The Dragon's Sanctum",
+    "Lower City",
+    "Lower City - Basilisk Gate Barracks",
+    "Lower City - Stormshore Tabernacle",
+    "Lower City - Elfsong Tavern",
+    "Lower City - Baldur's Mouth",
+    "Lower City - Highberry's Home",
+    "Lower City - Bonecloak's Apothecary",
+    "Lower City - The Devil's Fee",
+    "House of Hope",
+    "Lower City - Forge of the Nine",
+    "Lower City - Graveyard",
+    "Lower City - Murder Tribunal",
+    "Lower City - Sorcerous Sundries",
+    "Ramazith's Tower",
+    "Lower City - Sorcerous Vault",
+    "Lower City - Stormshore Armoury",
+    "Lower City - Felogyr's Fireworks",
+    "Lower City - Philgrave's Mansion",
+    "Lower City - Szarr Palace",
+    "Lower City - Cazador's Dungeon",
+    "Lower City - Bloomridge Park",
+    "Lower City - The Blushing Mermaid",
+    "Lower City - Beehive General Goods",
+    "Lower City - The Counting House",
+    "Lower City - The Iron Throne",
+    "Lower City - The Lodge",
+    "Lower City - Elerrathin's Home (Jaheira's Basement)",
+    "Lower City - Lady Jannath's Estate",
+    "Lower City - Cloister of Sombre Embrace",
+    "Lower City - Steel Watch Foundry",
+    "Lower City - Water Queen's House",
+    "Undercity - City Sweres",
+    "Undercity - Guildhall",
+    "Undercity - Undercity Ruins",
+    "Undercity - Temple of Bhaal",
+    "Upper City - The High Hall",
+    "Misc Items",
+    "Act 3 quests (need to move to above sections)",
+    "Items Obtained in Various Locations (WIP)",
+    "Items Obtained in Unknown Locations (WIP)"
+  ],
+  "sample": [
+    {
+      "section": "Getting Started (Feel Free to Check These Off)",
+      "level": 0,
+      "legacyId": "playthrough_If_you_see_a__tie_up_any_loose_ends__warning__this",
+      "preview": "- ::task:: If you see a \"tie up any loose ends\" warning, this indicates a progre",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Getting Started (Feel Free to Check These Off)",
+      "level": 0,
+      "legacyId": "playthrough_This_guide_assumes_you_re_completing_everything_on",
+      "preview": "- This guide assumes you're completing everything on your quest log -- this list",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Getting Started (Feel Free to Check These Off)",
+      "level": 2,
+      "legacyId": "playthrough_Various_quests_can_be_automatically_completed__usu",
+      "preview": "  - ::task:: Various quests can be automatically completed (usually failed), and",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Act 1 (General Tasks)",
+      "level": 0,
+      "legacyId": "playthrough_Mask_of_the_Shapeshifter_Deluxe_Edition_--_find_th",
+      "preview": "- ::item_legendary:: [Mask of the Shapeshifter](https://bg3.wiki/wiki/Mask%20of%",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Act 1 (General Tasks)",
+      "level": 0,
+      "legacyId": "playthrough_Progress_quest_The_Wizard_of_Waterdeep",
+      "preview": "- ::task:: Progress quest [The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wi",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Act 1 (General Tasks)",
+      "level": 2,
+      "legacyId": "playthrough_At_various_locations_during_Act_1_in_your_adventur",
+      "preview": "  - ::task:: At various locations during Act 1 in your adventure [Gale](https://",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Nautiloid",
+      "level": 0,
+      "legacyId": "playthrough_Start_quest_Escape_the_Nautiloid",
+      "preview": "- ::task:: Start quest [Escape the Nautiloid](https://bg3.wiki/wiki/Prologue) <!",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Nautiloid",
+      "level": 0,
+      "legacyId": "playthrough_Make_friends_with_Us_and_keep_him_alive_to_be_gran",
+      "preview": "- ::task:: Make friends with [Us](https://bg3.wiki/wiki/Us) and keep him alive t",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Ravaged Beach",
+      "level": 0,
+      "legacyId": "playthrough_Start_the_quest_Daughter_of_Darkness",
+      "preview": "- ::task:: Start the quest [Daughter of Darkness](https://bg3.wiki/wiki/Daughter",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Ravaged Beach",
+      "level": 0,
+      "legacyId": "playthrough_Start_the_quest_The_Pale_Elf",
+      "preview": "- ::task:: Start the quest [The Pale Elf](https://bg3.wiki/wiki/The_Pale_Elf) <!",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Roadside Cliffs",
+      "level": 0,
+      "legacyId": "playthrough_Start_quest_The_Wizard_of_Waterdeep",
+      "preview": "- ::task:: Start quest [The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizar",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Roadside Cliffs",
+      "level": 0,
+      "legacyId": "playthrough_Start_quest_In_Case_of_Death___",
+      "preview": "- ::task:: Start quest [In Case of Death...](https://bg3.wiki/wiki/In_Case_of_De",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Roadside Cliffs",
+      "level": 2,
+      "legacyId": "playthrough_Defeat_Gale_with_your_own_party_to_quickly_complet",
+      "preview": "  - ::task:: Defeat Gale with your own party to quickly complete this quest <!--",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Overgrown Ruins",
+      "level": 0,
+      "legacyId": "playthrough_Start_quest_Explore_the_Ruins",
+      "preview": "- ::task:: Start quest [Explore the Ruins](https://bg3.wiki/wiki/Explore_the_Rui",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Overgrown Ruins",
+      "level": 0,
+      "legacyId": "playthrough_Complete_quest_Explore_the_Ruins",
+      "preview": "- ::task:: Complete quest [Explore the Ruins](https://bg3.wiki/wiki/Explore_the_",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Emerald Grove",
+      "level": 0,
+      "legacyId": "playthrough_Save_Berth_and_Aradin_and_the_rest_of_their_compan",
+      "preview": "- ::missable:: Save [Berth](https://bg3.wiki/wiki/Barth) and [Aradin](https://bg",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Emerald Grove",
+      "level": 0,
+      "legacyId": "playthrough_Minor_missable_events_with_ordinary_rewards_are_av",
+      "preview": "- ::task:: Minor missable events with ordinary rewards are available <!--uuid:7e",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Emerald Grove",
+      "level": 2,
+      "legacyId": "playthrough_Gloves_of_Power",
+      "preview": "  - ::item_uncommon:: [Gloves of Power](https://bg3.wiki/wiki/Gloves%20of%20Powe",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Forest",
+      "level": 0,
+      "legacyId": "playthrough_Fleetfingers",
+      "preview": "- ::item_uncommon:: [Fleetfingers](https://bg3.wiki/wiki/Fleetfingers) <!--uuid:",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "The Risen Road",
+      "level": 0,
+      "legacyId": "playthrough_Shattered_Flail",
+      "preview": "- ::item_rare:: [Shattered Flail](https://bg3.wiki/wiki/Shattered%20Flail) <!--u",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "The Risen Road",
+      "level": 0,
+      "legacyId": "playthrough_Gloves_of_Heroism",
+      "preview": "- ::item_uncommon:: [Gloves of Heroism](https://bg3.wiki/wiki/Gloves%20of%20Hero",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Blighted Village",
+      "level": 0,
+      "legacyId": "playthrough_The_first_opportunity_to_find_the_Bloody_Amulet__I",
+      "preview": "- ::item_story:: The first opportunity to find the [Bloody Amulet](https://bg3.w",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Blighted Village",
+      "level": 0,
+      "legacyId": "playthrough_Haste_Helm",
+      "preview": "- ::item_rare:: [Haste Helm](https://bg3.wiki/wiki/Haste%20Helm) <!--uuid:5f9ce7",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Blighted Village",
+      "level": 2,
+      "legacyId": "playthrough_Consume_what_lies_in_the_dwarf_s_noggin",
+      "preview": "  - Consume what lies in the dwarf's noggin <!--uuid:7cf880ae-a51b-4d2d-aaa6-6e8",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Apothecary's Cellar",
+      "level": 0,
+      "legacyId": "playthrough_Bracers_of_Defence",
+      "preview": "- ::item_rare:: [Bracers of Defence](https://bg3.wiki/wiki/Bracers%20of%20Defenc",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Whispering Depths",
+      "level": 0,
+      "legacyId": "playthrough_Poisoner_s_Robe",
+      "preview": "- ::item_uncommon:: [Poisoner's Robe](https://bg3.wiki/wiki/Poisoner's%20Robe) <",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Whispering Depths",
+      "level": 0,
+      "legacyId": "playthrough_Spiderstep_Boots",
+      "preview": "- ::item_uncommon:: [Spiderstep Boots](https://bg3.wiki/wiki/Spiderstep%20Boots)",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Mountain Pass",
+      "level": 0,
+      "legacyId": "playthrough_Githyanki_Greatsword__Psionic__",
+      "preview": "- ::item_uncommon:: [Githyanki Greatsword (Psionic)](https://bg3.wiki/wiki/Githy",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Mountain Pass",
+      "level": 0,
+      "legacyId": "playthrough_After_you_discover_Kith_rak_Voss__speak_to_him_bef",
+      "preview": "- After you discover [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss), spe",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Owlbear Nest",
+      "level": 0,
+      "legacyId": "playthrough_Moondrop_Pendant",
+      "preview": "- ::item_uncommon:: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop%20Pendant)",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Owlbear Nest",
+      "level": 0,
+      "legacyId": "playthrough_The_Oak_Father_s_Embrace",
+      "preview": "- ::item_uncommon:: [The Oak Father's Embrace](https://bg3.wiki/wiki/The%20Oak%2",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Waukeen's Rest",
+      "level": 0,
+      "legacyId": "playthrough_Free_the_shipment_holders_from_the_gnoll_attackers",
+      "preview": "- Free [the shipment holders](https://bg3.wiki/wiki/Find_the_Missing_Shipment) f",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Waukeen's Rest",
+      "level": 0,
+      "legacyId": "playthrough_Hamarhraft",
+      "preview": "- ::item_uncommon:: [Hamarhraft](https://bg3.wiki/wiki/Hamarhraft) <!--uuid:2036",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Waukeen's Rest",
+      "level": 2,
+      "legacyId": "playthrough_Keep_at_least_one_alive_to_learn_the_password_to_t",
+      "preview": "  - Keep at least one alive to learn the password to the [Zhentarim Hideout](htt",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Zhentarim Hideout",
+      "level": 0,
+      "legacyId": "playthrough_Enter_the_basement_to_the_Thief_Hideout",
+      "preview": "- Enter the basement to the [Thief Hideout](https://bg3.wiki/wiki/Zhentarim_Base",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Zhentarim Hideout",
+      "level": 0,
+      "legacyId": "playthrough_Free_the_artist",
+      "preview": "- Free [the artist](https://bg3.wiki/wiki/Free_the_Artist) <!--uuid:01b379e9-1f6",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Zhentarim Hideout",
+      "level": 2,
+      "legacyId": "playthrough_Brem_s_special_stock_can_be_accessed_after_gaining",
+      "preview": "  - ::missable:: Brem's special stock can be accessed after gaining [Zarys](http",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Sunlit Wetlands",
+      "level": 0,
+      "legacyId": "playthrough_The_Sparkle_Hands",
+      "preview": "- ::item_rare:: [The Sparkle Hands](https://bg3.wiki/wiki/The%20Sparkle%20Hands)",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Sunlit Wetlands",
+      "level": 0,
+      "legacyId": "playthrough_Gandrel_s_Aspiration",
+      "preview": "- ::item_uncommon:: [Gandrel's Aspiration](https://bg3.wiki/wiki/Gandrel's%20Asp",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Riverside Teahouse",
+      "level": 0,
+      "legacyId": "playthrough_Save_a_pregnant_mother",
+      "preview": "- Save a [pregnant mother](https://bg3.wiki/wiki/Save_Mayrina) <!--uuid:eeabc8e2",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Riverside Teahouse",
+      "level": 0,
+      "legacyId": "playthrough_Auntie_Ethel_s_Hair_-_defeat_Auntie_Ethel_and_take",
+      "preview": "- ::ability:: [Auntie Ethel's Hair](https://bg3.wiki/wiki/Auntie_Ethel%27s_Hair)",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Overgrown Tunnel",
+      "level": 0,
+      "legacyId": "playthrough_Staff_of_Crones",
+      "preview": "- ::item_uncommon:: [Staff of Crones](https://bg3.wiki/wiki/Staff%20of%20Crones)",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Overgrown Tunnel",
+      "level": 0,
+      "legacyId": "playthrough_The_Ever-Seeing_Eye",
+      "preview": "- ::item_uncommon:: [The Ever-Seeing Eye](https://bg3.wiki/wiki/The%20Ever-Seein",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Underdark",
+      "level": 0,
+      "legacyId": "playthrough_The_Spectator_Eyes",
+      "preview": "- ::item_veryrare:: [The Spectator Eyes](https://bg3.wiki/wiki/The%20Spectator%2",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Underdark",
+      "level": 0,
+      "legacyId": "playthrough_Phalar_Aluve",
+      "preview": "- ::item_rare:: [Phalar Aluve](https://bg3.wiki/wiki/Phalar%20Aluve) <!--uuid:69",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Underdark",
+      "level": 2,
+      "legacyId": "playthrough_Light_the_sconces_and_braziers_in_the_area_to_solv",
+      "preview": "  - Light the sconces and braziers in the area to solve the wall puzzles <!--uui",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Myconid Colony",
+      "level": 0,
+      "legacyId": "playthrough_Boots_of_Genial_Striding",
+      "preview": "- ::item_rare:: [Boots of Genial Striding](https://bg3.wiki/wiki/Boots%20of%20Ge",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Myconid Colony",
+      "level": 0,
+      "legacyId": "playthrough_Boots_of_Speed",
+      "preview": "- ::item_rare:: [Boots of Speed](https://bg3.wiki/wiki/Boots%20of%20Speed) <!--u",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Myconid Colony",
+      "level": 2,
+      "legacyId": "playthrough_Amulet_of_Restoration",
+      "preview": "  - ::item_rare:: [Amulet of Restoration](https://bg3.wiki/wiki/Amulet_of_Restor",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Selûnite Outpost",
+      "level": 0,
+      "legacyId": "playthrough_Helmet_of_Smiting",
+      "preview": "- ::item_uncommon:: [Helmet of Smiting](https://bg3.wiki/wiki/Helmet%20of%20Smit",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Selûnite Outpost",
+      "level": 0,
+      "legacyId": "playthrough_Luminous_Armour",
+      "preview": "- ::item_uncommon:: [Luminous Armour](https://bg3.wiki/wiki/Luminous%20Armour) <",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "The Festering Cove",
+      "level": 0,
+      "legacyId": "playthrough_BOOOAL_s_Benediction__-_sacrifice_a_companion_to_B",
+      "preview": "- ::ability:: [BOOOAL's Benediction](https://bg3.wiki/wiki/BOOOAL%27s_Benedictio",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "The Festering Cove",
+      "level": 0,
+      "legacyId": "playthrough_Drow_Studded_Leather_Armour__R1__",
+      "preview": "- ::item_rare:: [Drow Studded Leather Armour (R1)](https://bg3.wiki/wiki/Drow%20",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Arcane Tower",
+      "level": 0,
+      "legacyId": "playthrough_Uncovered_Mysteries",
+      "preview": "- ::item_rare:: [Uncovered Mysteries](https://bg3.wiki/wiki/Uncovered%20Mysterie",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Arcane Tower",
+      "level": 0,
+      "legacyId": "playthrough_Club_of_Hill_Giant_Strength",
+      "preview": "- ::item_uncommon:: [Club of Hill Giant Strength](https://bg3.wiki/wiki/Club%20o",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Arcane Tower",
+      "level": 2,
+      "legacyId": "playthrough_Find_and_dig_on_a_dog_s_grave_on_the_Underdark_Roa",
+      "preview": "  - Find and dig on a dog's grave on the Underdark Road to find the necessary it",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Grymforge",
+      "level": 0,
+      "legacyId": "playthrough_Disintegrating_Night_Walkers",
+      "preview": "- ::item_veryrare:: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disinte",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Grymforge",
+      "level": 0,
+      "legacyId": "playthrough_Bow_of_the_Banshee",
+      "preview": "- ::item_rare:: [Bow of the Banshee](https://bg3.wiki/wiki/Bow%20of%20the%20Bans",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Grymforge",
+      "level": 2,
+      "legacyId": "playthrough_Remember_to_speak_to_Thulla_back_at_the_myconid_ar",
+      "preview": "  - Remember to speak to [Thulla](https://bg3.wiki/wiki/Thulla) back at the myco",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Abandoned Refuge",
+      "level": 0,
+      "legacyId": "playthrough_Adamantine_Scale_Mail",
+      "preview": "- ::item_veryrare:: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine%20S",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Abandoned Refuge",
+      "level": 0,
+      "legacyId": "playthrough_Adamantine_Splint_Armour",
+      "preview": "- ::item_veryrare:: [Adamantine Splint Armour](https://bg3.wiki/wiki/Adamantine%",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "The Adamantine Forge",
+      "level": 0,
+      "legacyId": "playthrough_Grymskull_Helm",
+      "preview": "- ::item_veryrare:: [Grymskull Helm](https://bg3.wiki/wiki/Grymskull%20Helm) <!-",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "The Adamantine Forge",
+      "level": 0,
+      "legacyId": "playthrough_Adamantine_Longsword",
+      "preview": "- ::item_rare:: [Adamantine Longsword](https://bg3.wiki/wiki/Adamantine%20Longsw",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Goblin Camp",
+      "level": 0,
+      "legacyId": "playthrough_Note__Goblin_Camp_has_been_listed_last_due_to_paci",
+      "preview": "- ::missable:: Note: Goblin Camp has been listed last due to pacing requirements",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Goblin Camp",
+      "level": 0,
+      "legacyId": "playthrough_Start_Save_the_Goblin_Sazza_after_Investigate_Kagh",
+      "preview": "- ::missable:: Start [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Gobl",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Goblin Camp",
+      "level": 2,
+      "legacyId": "playthrough_Several_quests_become_unavailable_once_the_area_be",
+      "preview": "  - ::missable:: Several quests become unavailable once the area becomes hostile",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "BEFORE CONTINUING TO ACT 1.5",
+      "level": 0,
+      "legacyId": "playthrough_Clear_anything_remaining_in_your_quest_log_for_the",
+      "preview": "- Clear anything remaining in your quest log for the area (some items will be un",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rosymorn Monastery Trail",
+      "level": 0,
+      "legacyId": "playthrough_Cacophony",
+      "preview": "- ::item_rare:: [Cacophony](https://bg3.wiki/wiki/Cacophony) <!--uuid:d99a6d42-b",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rosymorn Monastery Trail",
+      "level": 0,
+      "legacyId": "playthrough_Gloves_of_Cinder_and_Sizzle",
+      "preview": "- ::item_rare:: [Gloves of Cinder and Sizzle](https://bg3.wiki/wiki/Gloves%20of%",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rosymorn Monastery Trail",
+      "level": 2,
+      "legacyId": "playthrough_Use_speak_with_dead_on_corpses_surrounding_them",
+      "preview": "  - Use speak with dead on corpses surrounding them <!--uuid:2eb47114-1711-45be-",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rosymorn Monastery",
+      "level": 0,
+      "legacyId": "playthrough_Ceremonial_Mace",
+      "preview": "- ::item_uncommon:: [Ceremonial Mace](https://bg3.wiki/wiki/Ceremonial%20Mace) <",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Rosymorn Monastery",
+      "level": 0,
+      "legacyId": "playthrough_Holy_Lance_Helm",
+      "preview": "- ::item_uncommon:: [Holy Lance Helm](https://bg3.wiki/wiki/Holy%20Lance%20Helm)",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Crèche Y'llek",
+      "level": 0,
+      "legacyId": "playthrough_The_Blood_of_Lathander",
+      "preview": "- ::item_legendary:: [The Blood of Lathander](https://bg3.wiki/wiki/The%20Blood%",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Crèche Y'llek",
+      "level": 0,
+      "legacyId": "playthrough_Gloves_of_Dexterity",
+      "preview": "- ::item_veryrare:: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves%20of%20De",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Crèche Y'llek",
+      "level": 2,
+      "legacyId": "playthrough_Grab_3_more_parasites_from_this_room",
+      "preview": "  - Grab 3 more parasites from this room <!--uuid:132b1ea5-e5aa-48ef-bc83-f45977",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Crèche Y'llek (Hatchery)",
+      "level": 0,
+      "legacyId": "playthrough_Varsh_Ko_kuu_s_Boots",
+      "preview": "- ::item_uncommon:: [Varsh Ko'kuu's Boots](https://bg3.wiki/wiki/Varsh%20Ko'kuu'",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Crèche Y'llek (Infirmary)",
+      "level": 0,
+      "legacyId": "playthrough_Ring_of_Elemental_Infusion",
+      "preview": "- ::item_uncommon:: [Ring of Elemental Infusion](https://bg3.wiki/wiki/Ring%20of",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Crèche Y'llek (Infirmary)",
+      "level": 0,
+      "legacyId": "playthrough_Mind_Flayer_Parasite_Specimen_x3_-_found_in_the_In",
+      "preview": "- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flay",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "BEFORE CONTINUING TO ACT 2",
+      "level": 0,
+      "legacyId": "playthrough_Let_a_certain_Dandy_shove_an_icepick_in_your_eye_f",
+      "preview": "- Let a certain Dandy [shove an icepick in your eye](https://bg3.wiki/wiki/Volo%",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "BEFORE CONTINUING TO ACT 2",
+      "level": 0,
+      "legacyId": "playthrough_Deluxe_edition_--_portraits__optionally_find_Fane_",
+      "preview": "- Deluxe edition -- portraits: optionally find Fane in The Ruins, Lohse near Net",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Act 2: First Things First",
+      "level": 0,
+      "legacyId": "playthrough_Remember_if_you_didn_t_talk_to_Dammon_in_Act_1__do",
+      "preview": "- Remember if you didn't talk to [Dammon](https://bg3.wiki/wiki/Dammon) in Act 1",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Act 2: First Things First",
+      "level": 0,
+      "legacyId": "playthrough_Plan_to_rescue_the_prisoners_BEFORE_Shar_s_Temple_",
+      "preview": "- Plan to rescue the prisoners BEFORE Shar's Temple (and the Nightsong questline",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "House in Deep Shadows",
+      "level": 0,
+      "legacyId": "playthrough_Play_hide_and_seek_with_a_child__get_a_cool_ring",
+      "preview": "- Play hide and seek with [a child](https://bg3.wiki/wiki/Oliver), get [a cool r",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "House in Deep Shadows",
+      "level": 2,
+      "legacyId": "playthrough_Ring_of_Mental_Inhibition",
+      "preview": "  - ::item_uncommon:: [Ring of Mental Inhibition](https://bg3.wiki/wiki/Ring%20o",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Ruined Battlefield",
+      "level": 0,
+      "legacyId": "playthrough_First_opportunity_to_find_a_Moonlantern__dropped_f",
+      "preview": "- ::item_story:: First opportunity to find a [Moonlantern](https://bg3.wiki/wiki",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Ruined Battlefield",
+      "level": 0,
+      "legacyId": "playthrough_Ring_of_Twilight",
+      "preview": "- ::item_rare:: [Ring of Twilight](https://bg3.wiki/wiki/Ring%20of%20Twilight) <",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Ruined Battlefield",
+      "level": 2,
+      "legacyId": "playthrough_This_version_of_the_item_is_time_limited_and__depe",
+      "preview": "  - ::missable:: This version of the item is time limited and, depending on how ",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Last Light Inn",
+      "level": 0,
+      "legacyId": "playthrough_Second_chance_to_get_a_Moonlantern_",
+      "preview": "- ::item_story:: Second chance to get a [Moonlantern](https://bg3.wiki/wiki/Moon",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Last Light Inn",
+      "level": 0,
+      "legacyId": "playthrough_Potent_Robe",
+      "preview": "- ::item_veryrare:: [Potent Robe](https://bg3.wiki/wiki/Potent%20Robe) <!--uuid:",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Last Light Inn",
+      "level": 2,
+      "legacyId": "playthrough_Make_sure_to_speak_with_a_pair_playing_chess__a_ti",
+      "preview": "  - Make sure to speak with a pair playing chess ([a tiefling child](https://bg3",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Moonrise Towers",
+      "level": 0,
+      "legacyId": "playthrough_Final_chance_to_get_a_Moonlantern_",
+      "preview": "- ::item_story:: Final chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonl",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Moonrise Towers",
+      "level": 0,
+      "legacyId": "playthrough_Spellcrux_Amulet",
+      "preview": "- ::item_veryrare:: [Spellcrux Amulet](https://bg3.wiki/wiki/Spellcrux%20Amulet)",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Moonrise Towers",
+      "level": 2,
+      "legacyId": "playthrough_Convince_the_guard_on_the_docks_to_let_you_investi",
+      "preview": "  - Convince the guard on the docks to let you investigate the shipping crates <",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Oubliette",
+      "level": 0,
+      "legacyId": "playthrough_Enter_the_area_under_the_prisons",
+      "preview": "- Enter [the area under the prisons](https://bg3.wiki/wiki/Oubliette) <!--uuid:4",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Oubliette",
+      "level": 0,
+      "legacyId": "playthrough_Get_the_parasite_from_a_Zealot_corpse_in_the_main_",
+      "preview": "- Get the parasite from a Zealot corpse in the main area you drop into <!--uuid:",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Reithwin Town",
+      "level": 0,
+      "legacyId": "playthrough_Hr_a_cknir_Bracers",
+      "preview": "- ::item_veryrare:: [Hr'a'cknir Bracers](https://bg3.wiki/wiki/Hr'a'cknir%20Brac",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Reithwin Town",
+      "level": 0,
+      "legacyId": "playthrough_Psionic_Ward_Armour",
+      "preview": "- ::item_rare:: [Psionic Ward Armour](https://bg3.wiki/wiki/Psionic%20Ward%20Arm",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Reithwin Town",
+      "level": 2,
+      "legacyId": "playthrough_Complete_the_puzzle_in_the_room_for_three_temporar",
+      "preview": "  - Complete the puzzle in the room for three temporary buffs ([1](https://bg3.w",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Mason's Guild",
+      "level": 0,
+      "legacyId": "playthrough_Explore_the_basement",
+      "preview": "- Explore [the basement](https://bg3.wiki/wiki/Mason%27s_Guild) <!--uuid:808d8fd",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Mason's Guild",
+      "level": 0,
+      "legacyId": "playthrough_Investigate_a_particular_resistance_group",
+      "preview": "- Investigate [a particular resistance group](https://bg3.wiki/wiki/Investigate_",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Mason's Guild",
+      "level": 2,
+      "legacyId": "playthrough_Use_a_Tower-Shaped_Key",
+      "preview": "  - Use a [Tower-Shaped Key](https://bg3.wiki/wiki/Tower-Shaped_Key) <!--uuid:a5",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "House of Healing",
+      "level": 0,
+      "legacyId": "playthrough_Boots_of_Apparent_Death",
+      "preview": "- ::item_rare:: [Boots of Apparent Death](https://bg3.wiki/wiki/Boots%20of%20App",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "House of Healing",
+      "level": 0,
+      "legacyId": "playthrough_Icebite_Robe",
+      "preview": "- ::item_rare:: [Icebite Robe](https://bg3.wiki/wiki/Icebite%20Robe) <!--uuid:a7",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "House of Healing",
+      "level": 2,
+      "legacyId": "playthrough_Keep_him_from_stabbing_you_for_an_achievement",
+      "preview": "  - Keep him from stabbing you for an achievement <!--uuid:3fc9d6f6-625c-4a12-9e",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "House of Healing Morgue",
+      "level": 0,
+      "legacyId": "playthrough_Check_out_the_morgue_for_some_lore_and_good_items",
+      "preview": "- Check out [the morgue](https://bg3.wiki/wiki/House_of_Healing_Morgue) for some",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "The Waning Moon",
+      "level": 0,
+      "legacyId": "playthrough_Punch-Drunk_Bastard",
+      "preview": "- ::item_rare:: [Punch-Drunk Bastard](https://bg3.wiki/wiki/Punch-Drunk%20Bastar",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "The Waning Moon",
+      "level": 0,
+      "legacyId": "playthrough_Rat_Bat",
+      "preview": "- ::item_rare:: [Rat Bat](https://bg3.wiki/wiki/Rat%20Bat) <!--uuid:7d30d6ec-ea1",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "The Waning Moon",
+      "level": 2,
+      "legacyId": "playthrough_Use_his_key_to_open_up_the_back",
+      "preview": "  - Use [his key](https://bg3.wiki/wiki/Worn_Key) to open up the back <!--uuid:4",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Reithwin Tollhouse",
+      "level": 0,
+      "legacyId": "playthrough_Gloves_of_Battlemage_s_Power",
+      "preview": "- ::item_rare:: [Gloves of Battlemage's Power](https://bg3.wiki/wiki/Gloves%20of",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Reithwin Tollhouse",
+      "level": 0,
+      "legacyId": "playthrough_Twist_of_Fortune",
+      "preview": "- ::item_rare:: [Twist of Fortune](https://bg3.wiki/wiki/Twist%20of%20Fortune) <",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Reithwin Tollhouse",
+      "level": 2,
+      "legacyId": "playthrough_Keep_her_from_doing_anything_to_you_for_an_achieve",
+      "preview": "  - Keep her from doing anything to you for [an achievement](https://bg3.wiki/wi",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "BEFORE CONTINUING TO THE TEMPLE",
+      "level": 0,
+      "legacyId": "playthrough_Clear_anything_remaining_in_your_quest_log_for_the_2",
+      "preview": "- Clear anything remaining in your quest log for the area (some items will be un",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Grand Mausoleum",
+      "level": 0,
+      "legacyId": "playthrough_Vivacious_Cloak",
+      "preview": "- ::item_uncommon:: [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious%20Cloak) <",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Gauntlet of Shar",
+      "level": 0,
+      "legacyId": "playthrough_Dark_Justiciar_Helmet",
+      "preview": "- ::item_veryrare:: [Dark Justiciar Helmet](https://bg3.wiki/wiki/Dark%20Justici",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Gauntlet of Shar",
+      "level": 0,
+      "legacyId": "playthrough_Justiciar_s_Scimitar",
+      "preview": "- ::item_veryrare:: [Justiciar's Scimitar](https://bg3.wiki/wiki/Justiciar's%20S",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Gauntlet of Shar",
+      "level": 2,
+      "legacyId": "playthrough_If_somehow_you_don_t_have_a_moonlantern_yet__pass_",
+      "preview": "  - If somehow you don't have a moonlantern yet, pass checks before killing him ",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Shadowfell",
+      "level": 0,
+      "legacyId": "playthrough_Shar_s_Spear_of_Evening",
+      "preview": "- ::item_legendary:: [Shar's Spear of Evening](https://bg3.wiki/wiki/Shar's%20Sp",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Shadowfell",
+      "level": 0,
+      "legacyId": "playthrough_Dark_Justiciar_Half-Plate__VR1__",
+      "preview": "- ::item_veryrare:: [Dark Justiciar Half-Plate (VR1)](https://bg3.wiki/wiki/Dark",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Moonrise Towers (Revisited)",
+      "level": 0,
+      "legacyId": "playthrough_Visit_the_Inn_and_gather_forces",
+      "preview": "- Visit [the Inn](https://bg3.wiki/wiki/Last_Light_Inn) and gather forces <!--uu",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Moonrise Towers (Revisited)",
+      "level": 0,
+      "legacyId": "playthrough_Attack_the_Towers",
+      "preview": "- Attack [the Towers](https://bg3.wiki/wiki/Infiltrate_Moonrise_Towers#Assaultin",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Moonrise Towers (Revisited)",
+      "level": 2,
+      "legacyId": "playthrough_Talk_to_the_Selunite",
+      "preview": "  - Talk to [the Selunite](https://bg3.wiki/wiki/Isobel) <!--uuid:a7138d34-7a1e-",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Mind Flayer Colony",
+      "level": 0,
+      "legacyId": "playthrough_Infernal_Rapier",
+      "preview": "- ::item_veryrare:: [Infernal Rapier](https://bg3.wiki/wiki/Infernal%20Rapier) <",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Mind Flayer Colony",
+      "level": 0,
+      "legacyId": "playthrough_Reaper_s_Embrace",
+      "preview": "- ::item_veryrare:: [Reaper's Embrace](https://bg3.wiki/wiki/Reaper's%20Embrace)",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Mind Flayer Colony",
+      "level": 2,
+      "legacyId": "playthrough_Complete_the_brain_puzzle",
+      "preview": "  - Complete the brain puzzle <!--uuid:0de83f28-f0f5-4bc9-ab2b-4e0961e76c01-->\r",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "BEFORE CONTINUING TO ACT 3",
+      "level": 0,
+      "legacyId": "playthrough_Get_the_Owlbear_Cub__and_pet_him_in_the_middle_of_",
+      "preview": "- Get the Owlbear Cub (and pet him in the middle of the night, of course) <!--uu",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "BEFORE CONTINUING TO ACT 3",
+      "level": 0,
+      "legacyId": "playthrough_Clear_anything_remaining_in_your_quest_log_for_the_3",
+      "preview": "- Clear anything remaining in your quest log for the area (some items will be un",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Campsite Ambush",
+      "level": 0,
+      "legacyId": "playthrough_Boots_of_Uninhibited_Kushigo",
+      "preview": "- ::item_rare:: [Boots of Uninhibited Kushigo](https://bg3.wiki/wiki/Boots%20of%",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Campsite Ambush",
+      "level": 0,
+      "legacyId": "playthrough_Staff_of_the_Emperor_can_looted_off_The_Emperor_s_",
+      "preview": "- ::item_rare:: [Staff of the Emperor](https://bg3.wiki/wiki/Staff%20of%20the%20",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington",
+      "level": 0,
+      "legacyId": "playthrough_Settle_a_housing_dispute_outside_Arfur_s_Mansion",
+      "preview": "- Settle a housing dispute outside [Arfur's Mansion](https://bg3.wiki/wiki/Arfur",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington",
+      "level": 0,
+      "legacyId": "playthrough_Ferg_Drogher_offers_merchant_services",
+      "preview": "- [Ferg Drogher](https://bg3.wiki/wiki/Ferg_Drogher) offers merchant services <!",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington",
+      "level": 2,
+      "legacyId": "playthrough_Visit_the_basement_to_find_some_suspicious_toys",
+      "preview": "  - Visit the basement to find some [suspicious toys](https://bg3.wiki/wiki/Inve",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Rivington - Requisitioned Barn",
+      "level": 0,
+      "legacyId": "playthrough_Talk_your_way_into_a_crime_scene_to_learn_about_mo",
+      "preview": "- Talk your way into a crime scene to learn about more [suspicious toys](https:/",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Requisitioned Barn",
+      "level": 0,
+      "legacyId": "playthrough_If_you_helped_it_in_Acts_1_and_2__speak_to_the_odd",
+      "preview": "- ::missable:: If you helped it in Acts 1 and 2, speak to the [odd bovine](https",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Requisitioned Barn",
+      "level": 2,
+      "legacyId": "playthrough_Shapeshifter_s_Boon_Ring_Recevied_for_helping_the_",
+      "preview": "  - ::item_uncommon:: [Shapeshifter's Boon Ring](https://bg3.wiki/wiki/Shapeshif",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Abandoned Windmill",
+      "level": 0,
+      "legacyId": "playthrough_Ring_of_Truthfulness",
+      "preview": "- ::item_rare:: [Ring of Truthfulness](https://bg3.wiki/wiki/Ring%20of%20Truthfu",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Abandoned Windmill",
+      "level": 0,
+      "legacyId": "playthrough_Decide_whether_or_not_to_help_a_newborn_abberation",
+      "preview": "- Decide whether or not to [help a newborn abberation](https://bg3.wiki/wiki/Fee",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Rivington - Abandoned Windmill",
+      "level": 2,
+      "legacyId": "playthrough_If_attack_it__you_can_loot_and_consume_it_s_brain_",
+      "preview": "  - If attack it, you can loot and consume [it's brain](https://bg3.wiki/wiki/Mi",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Gur Camp",
+      "level": 0,
+      "legacyId": "playthrough_Speak_to_Ulma_to_learn_about_a_recent_vampire_atta",
+      "preview": "- Speak to [Ulma](https://bg3.wiki/wiki/Ulma) to learn about a recent vampire at",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Gur Camp",
+      "level": 2,
+      "legacyId": "playthrough_The_Undead_Bane_can_be_pickpocketed_____or_looted_",
+      "preview": "  - ::item_uncommon:: [The Undead Bane](https://bg3.wiki/wiki/The%20Undead%20Ban",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - The Rivington General",
+      "level": 0,
+      "legacyId": "playthrough_Exxvikyap_offers_merchant_services",
+      "preview": "- [Exxvikyap](https://bg3.wiki/wiki/Exxvikyap) offers merchant services <!--uuid",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - The Rivington General",
+      "level": 0,
+      "legacyId": "playthrough_Speak_to_some_familiar_terrorists_in_the_basement_",
+      "preview": "- Speak to some [familiar terrorists](https://bg3.wiki/wiki/Clan_Ironhand) in [t",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Rivington - The Rivington General",
+      "level": 2,
+      "legacyId": "playthrough_The_Dancing_Breeze",
+      "preview": "  - ::item_veryrare:: [The Dancing Breeze](https://bg3.wiki/wiki/The%20Dancing%2",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Circus of the Last Days",
+      "level": 0,
+      "legacyId": "playthrough_The_Pointy_Hat",
+      "preview": "- ::item_rare:: [The Pointy Hat](https://bg3.wiki/wiki/The%20Pointy%20Hat) <!--u",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Circus of the Last Days",
+      "level": 0,
+      "legacyId": "playthrough_Sweet_Stone_Features__-_pay_Boney_5000_gold_to_hav",
+      "preview": "- ::ability:: [Sweet Stone Features](https://bg3.wiki/wiki/Sweet_Stone_Features_",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Circus of the Last Days",
+      "level": 2,
+      "legacyId": "playthrough_Clown_Hammer",
+      "preview": "  - ::item_rare:: [Clown Hammer](https://bg3.wiki/wiki/Clown%20Hammer) <!--uuid:",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Sword Coast Couriers",
+      "level": 0,
+      "legacyId": "playthrough_Help_find_some_lost_mail",
+      "preview": "- [Help find some lost mail](https://bg3.wiki/wiki/Find%20the%20Missing%20Letter",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Rivington - Sword Coast Couriers",
+      "level": 0,
+      "legacyId": "playthrough_Eliminate_an_animal_abuser_to_make_some_good_dogs_",
+      "preview": "- Eliminate [an animal abuser](https://bg3.wiki/wiki/Mar%27hyah) to make some go",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Open Hand Temple",
+      "level": 0,
+      "legacyId": "playthrough_Stillmaker",
+      "preview": "- ::item_veryrare:: [Stillmaker](https://bg3.wiki/wiki/Stillmaker) <!--uuid:bc94",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Open Hand Temple",
+      "level": 0,
+      "legacyId": "playthrough_Seraphic_Pugilist_Gloves",
+      "preview": "- ::item_rare:: [Seraphic Pugilist Gloves](https://bg3.wiki/wiki/Seraphic%20Pugi",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Open Hand Temple",
+      "level": 2,
+      "legacyId": "playthrough_Sentient_Amulet__Very_Rare__",
+      "preview": "  - ::item_veryrare:: [Sentient Amulet (Very Rare)](https://bg3.wiki/wiki/Sentie",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Rivington - Western Beach",
+      "level": 0,
+      "legacyId": "playthrough_Bonespike_Boots",
+      "preview": "- ::item_veryrare:: [Bonespike Boots](https://bg3.wiki/wiki/Bonespike%20Boots) <",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Rivington - Western Beach",
+      "level": 0,
+      "legacyId": "playthrough_Corpsegrinder",
+      "preview": "- ::item_rare:: [Corpsegrinder](https://bg3.wiki/wiki/Corpsegrinder) <!--uuid:60",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Crossing",
+      "level": 0,
+      "legacyId": "playthrough_Get_judged_for_your_past_deeds_at_a_checkpoint_whi",
+      "preview": "- Get judged for your past deeds at [a checkpoint](https://bg3.wiki/wiki/South_S",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Crossing",
+      "level": 0,
+      "legacyId": "playthrough_Figure_out_how_to_get_into_Wyrm_s_Rock_fortress",
+      "preview": "- Figure out how to [get into Wyrm's Rock fortress](https://bg3.wiki/wiki/Find%2",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Crossing",
+      "level": 2,
+      "legacyId": "playthrough_Warhammer__2_can_be_pickpocketed_____or_looted_off",
+      "preview": "  - ::item_rare:: [Warhammer +2](https://bg3.wiki/wiki/Warhammer%20+2) can be pi",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Crossing - Sharess' Caress",
+      "level": 0,
+      "legacyId": "playthrough_Act_3_-_Find_the__Stern_Librarian__Ffion",
+      "preview": "- ::task:: Act 3 - [Find the 'Stern Librarian' Ffion](https://bg3.wiki/wiki/Find",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Wyrm's Crossing - Sharess' Caress",
+      "level": 0,
+      "legacyId": "playthrough_Hoots_Hooligan_offers_some_strong_booze__and_merch",
+      "preview": "- [Hoots Hooligan](https://bg3.wiki/wiki/Hoots_Hooligan) offers some strong booz",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Crossing - Sharess' Caress",
+      "level": 2,
+      "legacyId": "playthrough_Amulet_of_the_Drunkard",
+      "preview": "  - ::item_rare:: [Amulet of the Drunkard](https://bg3.wiki/wiki/Amulet%20of%20t",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Crossing - Fraygo's Flophouse",
+      "level": 0,
+      "legacyId": "playthrough_Find_a_murdered_librarian",
+      "preview": "- Find a [murdered librarian](https://bg3.wiki/wiki/Ffion_Goldgrind) <!--uuid:ff",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Crossing - Fraygo's Flophouse",
+      "level": 0,
+      "legacyId": "playthrough_Vampire_spawn_encounter_",
+      "preview": "- Vampire spawn encounter? <!--uuid:87ff21bd-7655-4b87-8642-78e734ae2ae1-->\r",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Crossing - Carm's Garm",
+      "level": 0,
+      "legacyId": "playthrough_Speak_to_the_most_annoying_creature_in_the_univers",
+      "preview": "- Speak to [the most annoying creature in the universe](https://bg3.wiki/wiki/Na",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Wyrm's Crossing - Carm's Garm",
+      "level": 2,
+      "legacyId": "playthrough_Pickpocket_his_amulet_before_listening_to_all_his_",
+      "preview": "  - ::missable:: Pickpocket his amulet before listening to all his ramblings to ",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Crossing - Danthelon's Dancing Axe",
+      "level": 0,
+      "legacyId": "playthrough_Entharl_Danthelon_offers_merchant_services",
+      "preview": "- [Entharl Danthelon](https://bg3.wiki/wiki/Entharl_Danthelon) offers merchant s",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Crossing - Danthelon's Dancing Axe",
+      "level": 0,
+      "legacyId": "playthrough_If_Jaheira_is_with_you_or_told_you_about_it__he_ll",
+      "preview": "- If [Jaheira](https://bg3.wiki/wiki/Jaheira) is with you or told you about it, ",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Crossing - Danthelon's Dancing Axe",
+      "level": 2,
+      "legacyId": "playthrough_Blightbringer",
+      "preview": "  - ::item_veryrare:: [Blightbringer](https://bg3.wiki/wiki/Blightbringer) <!--u",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Rock Fortress",
+      "level": 0,
+      "legacyId": "playthrough_Counting_House_Safe_n_5_Key",
+      "preview": "- ::item_story:: [Counting House Safe n°5 Key](https://bg3.wiki/wiki/Counting_Ho",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Wyrm's Rock Fortress",
+      "level": 0,
+      "legacyId": "playthrough_Fabricated_Arbalest_Wyrm_s_Rock_Fortress",
+      "preview": "- ::item_veryrare:: [Fabricated Arbalest](https://bg3.wiki/wiki/Fabricated%20Arb",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Rock Fortress - Wyrm's Rock Prison",
+      "level": 0,
+      "legacyId": "playthrough_Act_3_-_Free_Counsellor_Florrick",
+      "preview": "- ::missable:: Act 3 - [Free Counsellor Florrick](https://bg3.wiki/wiki/Free%20C",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Rock Fortress - Wyrm's Rock Prison",
+      "level": 0,
+      "legacyId": "playthrough_Dragon_torches_to_access_Dragon_s_Sanctum",
+      "preview": "- Dragon torches to access Dragon's Sanctum <!--uuid:306591fd-3e23-4738-a502-34c",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Rock Fortress - Wyrm's Rock Prison",
+      "level": 2,
+      "legacyId": "playthrough_Free_Counselor_Florrick_before_5_long_rests",
+      "preview": "  - Free Counselor Florrick before 5 long rests <!--uuid:3ea9486d-47f8-4c42-ba6a",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Wyrm's Rock Fortress - The Dragon's Sanctum",
+      "level": 0,
+      "legacyId": "playthrough_Balduran_s_Giantslayer_The_Dragon_s_Sanctum",
+      "preview": "- ::item_legendary:: [Balduran's Giantslayer](https://bg3.wiki/wiki/Balduran's%2",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Wyrm's Rock Fortress - The Dragon's Sanctum",
+      "level": 0,
+      "legacyId": "playthrough_Helm_of_Balduran_The_Dragon_s_Sanctum",
+      "preview": "- ::item_legendary:: [Helm of Balduran](https://bg3.wiki/wiki/Helm%20of%20Baldur",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City",
+      "level": 0,
+      "legacyId": "playthrough_Guild_Ring_Lower_City",
+      "preview": "- ::item_story:: [Guild Ring](https://bg3.wiki/wiki/Guild%20Ring) Lower City <!-",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City",
+      "level": 0,
+      "legacyId": "playthrough_Abdel_s_Trusted_Shield_Lower_City",
+      "preview": "- ::item_veryrare:: [Abdel's Trusted Shield](https://bg3.wiki/wiki/Abdel's%20Tru",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Basilisk Gate Barracks",
+      "level": 0,
+      "legacyId": "playthrough_See_hag_survivor_talking_to_Portyr",
+      "preview": "- See hag survivor talking to Portyr <!--uuid:ec49cfce-e518-4d09-923f-65c90e46bc",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Basilisk Gate Barracks",
+      "level": 0,
+      "legacyId": "playthrough_If_you_can_speak_to_animals__Skittle_down_in_the_p",
+      "preview": "- If you can speak to animals, [Skittle](https://bg3.wiki/wiki/Skittle) down in ",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Lower City - Basilisk Gate Barracks",
+      "level": 2,
+      "legacyId": "playthrough_Counting_House_Safe_n_2_Key_",
+      "preview": "  - ::item_story:: [Counting House Safe n°2 Key]([https://bg3.wiki/wiki/Guild%20",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Stormshore Tabernacle",
+      "level": 0,
+      "legacyId": "playthrough_Amulet_of_the_Devout",
+      "preview": "- ::item_veryrare:: [Amulet of the Devout](https://bg3.wiki/wiki/Amulet%20of%20t",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Stormshore Tabernacle",
+      "level": 0,
+      "legacyId": "playthrough_Mantle_of_the_Holy_Warrior",
+      "preview": "- ::item_veryrare:: [Mantle of the Holy Warrior](https://bg3.wiki/wiki/Mantle%20",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Elfsong Tavern",
+      "level": 0,
+      "legacyId": "playthrough_Counting_House_Safe_n_5_Key_1",
+      "preview": "- ::item_story:: [Counting House Safe n°5 Key](https://bg3.wiki/wiki/Counting_Ho",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Elfsong Tavern",
+      "level": 0,
+      "legacyId": "playthrough_Counting_House_Vault_n_2_Key",
+      "preview": "- ::item_story:: [Counting House Vault n°2 Key](https://bg3.wiki/wiki/Counting_H",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Lower City - Baldur's Mouth",
+      "level": 0,
+      "legacyId": "playthrough_Act_3_-_Stop_the_Presses",
+      "preview": "- ::missable:: Act 3 - [Stop the Presses](https://bg3.wiki/wiki/Stop%20the%20Pre",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Baldur's Mouth",
+      "level": 2,
+      "legacyId": "playthrough_Stop_the_bad_news_from_spreading_before_making_a_l",
+      "preview": "  - Stop the bad news from spreading before making a long rest <!--uuid:c20128e9",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Highberry's Home",
+      "level": 0,
+      "legacyId": "playthrough_Spaceshunt_Boots_Worn_by_an_assassin_if_you_can_ma",
+      "preview": "- ::item_rare:: [Spaceshunt Boots](https://bg3.wiki/wiki/Spaceshunt%20Boots) Wor",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Highberry's Home",
+      "level": 0,
+      "legacyId": "playthrough_Tara_can_be_found_on_the_roof_with_after_speaking_",
+      "preview": "- [Tara](https://bg3.wiki/wiki/Tara) can be found on the roof with after speakin",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Highberry's Home",
+      "level": 2,
+      "legacyId": "playthrough_Slinging_Shoes",
+      "preview": "  - ::item_rare:: [Slinging Shoes](https://bg3.wiki/wiki/Slinging%20Shoes) <!--u",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Lower City - Bonecloak's Apothecary",
+      "level": 0,
+      "legacyId": "playthrough_Talk_to_Derryth_and_her_mean_husband",
+      "preview": "- Talk to Derryth and her mean husband <!--uuid:94c5e17a-0ec6-4a18-9ef5-e0e74477",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Bonecloak's Apothecary",
+      "level": 0,
+      "legacyId": "playthrough_Counting_House_Safe_n_3_Key",
+      "preview": "- ::item_story:: [Counting House Safe n°3 Key](https://bg3.wiki/wiki/Counting_Ho",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - The Devil's Fee",
+      "level": 0,
+      "legacyId": "playthrough_Mask_of_Soul_Perception",
+      "preview": "- ::item_veryrare:: [Mask of Soul Perception](https://bg3.wiki/wiki/Mask%20of%20",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - The Devil's Fee",
+      "level": 0,
+      "legacyId": "playthrough_Tara_can_be_found_on_the_roof_with_after_speaking__1",
+      "preview": "- [Tara](https://bg3.wiki/wiki/Tara) can be found on the roof with after speakin",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - The Devil's Fee",
+      "level": 2,
+      "legacyId": "playthrough_Hat_of_the_Sharp_Caster",
+      "preview": "  - ::item_rare:: [Hat of the Sharp Caster](https://bg3.wiki/wiki/Hat%20of%20the",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "House of Hope",
+      "level": 0,
+      "legacyId": "playthrough_Act_3_-_Save_Hope",
+      "preview": "- ::task:: Act 3 - [Save Hope](https://bg3.wiki/wiki/Save%20Hope) <!--uuid:54e80",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "House of Hope",
+      "level": 0,
+      "legacyId": "playthrough_Orphic_Hammer",
+      "preview": "- ::item_legendary:: [Orphic Hammer](https://bg3.wiki/wiki/Orphic%20Hammer) <!--",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Forge of the Nine",
+      "level": 0,
+      "legacyId": "playthrough_Unwanted_Masterwork_Gauntlets",
+      "preview": "- ::item_rare:: [Unwanted Masterwork Gauntlets](https://bg3.wiki/wiki/Unwanted%2",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Forge of the Nine",
+      "level": 0,
+      "legacyId": "playthrough_Unwanted_Masterwork_Greaves",
+      "preview": "- ::item_rare:: [Unwanted Masterwork Greaves](https://bg3.wiki/wiki/Unwanted_Mas",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Forge of the Nine",
+      "level": 2,
+      "legacyId": "playthrough_Armour_of_Persistence",
+      "preview": "  - ::item_veryrare:: [Armour of Persistence](https://bg3.wiki/wiki/Armour%20of%",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Lower City - Graveyard",
+      "level": 0,
+      "legacyId": "playthrough_Save_the_kid_from_Myrkul_s_influence",
+      "preview": "- Save the kid from Myrkul's influence <!--uuid:c8cf4f98-b485-41da-b0b3-95748a84",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Graveyard",
+      "level": 0,
+      "legacyId": "playthrough_Dig_up_a_peculiar_grave_to_speak_to_a_peculiar_gra",
+      "preview": "- Dig up a peculiar grave to speak to a [peculiar graverobber](https://bg3.wiki/",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Graveyard",
+      "level": 2,
+      "legacyId": "playthrough_Kurwin_s_Cauteriser_Lower_City",
+      "preview": "  - ::item_uncommon:: [Kurwin's Cauteriser](https://bg3.wiki/wiki/Kurwin's%20Cau",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Murder Tribunal",
+      "level": 0,
+      "legacyId": "playthrough_Amulet_of_Bhaal",
+      "preview": "- ::item_story:: [Amulet of Bhaal](https://bg3.wiki/wiki/Amulet%20of%20Bhaal) <!",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Murder Tribunal",
+      "level": 0,
+      "legacyId": "playthrough_Assassin_of_Bhaal_Cowl",
+      "preview": "- ::item_veryrare:: [Assassin of Bhaal Cowl](https://bg3.wiki/wiki/Assassin%20of",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Lower City - Sorcerous Sundries",
+      "level": 0,
+      "legacyId": "playthrough_Act_3_-_Search_the_Cellar_ends_here_w__Tharcyite_C",
+      "preview": "- ::task:: Act 3 - [Search the Cellar](https://bg3.wiki/wiki/Search%20the%20Cell",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Sorcerous Sundries",
+      "level": 0,
+      "legacyId": "playthrough_If_still_alive__Rolan_offers_merchant_services__Ot",
+      "preview": "- If still alive, [Rolan](https://bg3.wiki/wiki/Rolan) offers merchant services.",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Sorcerous Sundries",
+      "level": 2,
+      "legacyId": "playthrough_Armour_of_Landfall",
+      "preview": "  - ::item_veryrare:: [Armour of Landfall](https://bg3.wiki/wiki/Armour%20of%20L",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Ramazith's Tower",
+      "level": 0,
+      "legacyId": "playthrough_Deal_with_Lorroakan",
+      "preview": "- Deal with Lorroakan <!--uuid:6b6a3019-6e5d-488b-a24a-a4ff4ca3e722-->\r",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Ramazith's Tower",
+      "level": 0,
+      "legacyId": "playthrough_High_Security_Vault_n_1_Key",
+      "preview": "- ::item_story:: [High Security Vault n°1 Key](https://bg3.wiki/wiki/High_Securi",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Ramazith's Tower",
+      "level": 2,
+      "legacyId": "playthrough_Despair_of_Athkatla_looted_off_him",
+      "preview": "  - ::item_rare:: [Despair of Athkatla](https://bg3.wiki/wiki/Despair%20of%20Ath",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Sorcerous Vault",
+      "level": 0,
+      "legacyId": "playthrough_Caution_Before_the_Seelie",
+      "preview": "- ::item_legendary:: [Caution Before the Seelie](https://bg3.wiki/wiki/Caution_B",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Sorcerous Vault",
+      "level": 0,
+      "legacyId": "playthrough_The_Annals_of_Karsus",
+      "preview": "- ::item_legendary:: [The Annals of Karsus](https://bg3.wiki/wiki/The_Annals_of_",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Sorcerous Vault",
+      "level": 2,
+      "legacyId": "playthrough_Reading_this_rewards_a_Scroll_of_Bestial_Communion",
+      "preview": "  - ::missable:: Reading this rewards a [Scroll of Bestial Communion](https://bg",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Stormshore Armoury",
+      "level": 0,
+      "legacyId": "playthrough_Fytz_the_Firecracker_offers_merchant_services",
+      "preview": "- [Fytz the Firecracker](https://bg3.wiki/wiki/Fytz) offers merchant services <!",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Lower City - Stormshore Armoury",
+      "level": 0,
+      "legacyId": "playthrough_Gloomy_Fentonson_offers_merchant_services",
+      "preview": "- [Gloomy Fentonson](https://bg3.wiki/wiki/Gloomy_Fentonson) offers merchant ser",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Stormshore Armoury",
+      "level": 2,
+      "legacyId": "playthrough_The_Dead_Shot",
+      "preview": "  - ::item_veryrare:: [The Dead Shot](https://bg3.wiki/wiki/The%20Dead%20Shot) <",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Felogyr's Fireworks",
+      "level": 0,
+      "legacyId": "playthrough_Counting_House_Vault_n_5_Key",
+      "preview": "- ::item_story:: [Counting House Vault n°5 Key](https://bg3.wiki/wiki/Counting_H",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Philgrave's Mansion",
+      "level": 0,
+      "legacyId": "playthrough_Act_3_-_End_Mystic_Carrion_s_Immortality",
+      "preview": "- ::task:: Act 3 - [End Mystic Carrion's Immortality](https://bg3.wiki/wiki/End%",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Philgrave's Mansion",
+      "level": 0,
+      "legacyId": "playthrough_Act_3_-_Find_Mystic_Carrion_s_Servant",
+      "preview": "- ::task:: Act 3 - [Find Mystic Carrion's Servant](https://bg3.wiki/wiki/Find%20",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Lower City - Philgrave's Mansion",
+      "level": 2,
+      "legacyId": "playthrough_Counting_House_Safe_n_6_Key",
+      "preview": "  - ::item_story:: [Counting House Safe n°6 Key](https://bg3.wiki/wiki/Counting_",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Szarr Palace",
+      "level": 0,
+      "legacyId": "playthrough_Counting_House_Safe_n_1_Key",
+      "preview": "- ::item_story:: [Counting House Safe n°1 Key](https://bg3.wiki/wiki/Counting_Ho",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Szarr Palace",
+      "level": 0,
+      "legacyId": "playthrough_Szarr_Family_Ring",
+      "preview": "- ::item_story:: [Szarr Family Ring](https://bg3.wiki/wiki/Szarr_Family_Ring) <!",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Cazador's Dungeon",
+      "level": 0,
+      "legacyId": "playthrough_High_Security_Vault_n_3_Key",
+      "preview": "- ::item_story:: [High Security Vault n°3 Key](https://bg3.wiki/wiki/High_Securi",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Cazador's Dungeon",
+      "level": 0,
+      "legacyId": "playthrough_Pelorsun_Blade",
+      "preview": "- ::item_veryrare:: [Pelorsun Blade](https://bg3.wiki/wiki/Pelorsun_Blade) <!--u",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Lower City - Bloomridge Park",
+      "level": 0,
+      "legacyId": "playthrough_Bhaalist_ambush",
+      "preview": "- Bhaalist ambush <!--uuid:4fe5e623-3ded-4b62-a7ba-41df0cd0b830-->\r",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - The Blushing Mermaid",
+      "level": 0,
+      "legacyId": "playthrough_Counting_House_Vault_n_1_Key",
+      "preview": "- ::item_story:: [Counting House Vault n°1 Key](https://bg3.wiki/wiki/Counting_H",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - The Blushing Mermaid",
+      "level": 0,
+      "legacyId": "playthrough_Duellist_s_Prerogative",
+      "preview": "- ::item_legendary:: [Duellist's Prerogative](https://bg3.wiki/wiki/Duellist's%2",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Beehive General Goods",
+      "level": 0,
+      "legacyId": "playthrough_Counting_House_Safe_n_7_Key",
+      "preview": "- ::item_story:: [Counting House Safe n°7 Key](https://bg3.wiki/wiki/Counting_Ho",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - The Counting House",
+      "level": 0,
+      "legacyId": "playthrough_Counting_House_Safe_n_4_Key",
+      "preview": "- ::item_story:: [Counting House Safe n°4 Key](https://bg3.wiki/wiki/Counting_Ho",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Lower City - The Counting House",
+      "level": 0,
+      "legacyId": "playthrough_High_Security_Vault_n_9_Key",
+      "preview": "- ::item_story:: [High Security Vault n°9 Key](https://bg3.wiki/wiki/High_Securi",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - The Counting House",
+      "level": 2,
+      "legacyId": "playthrough_Safe_n_1_-_Its_key_found_in_Szarr_Palace__in_a_roo",
+      "preview": "  - Safe n°1 - Its [key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%B01_Key)",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - The Iron Throne",
+      "level": 0,
+      "legacyId": "playthrough_High_Security_Vault_n_6_Key",
+      "preview": "- ::item_story:: [High Security Vault n°6 Key](https://bg3.wiki/wiki/High_Securi",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - The Lodge",
+      "level": 0,
+      "legacyId": "playthrough_Counting_House_Safe_n_8_Key__need_to_confirm_this_",
+      "preview": "- ::item_story:: [Counting House Safe n°8 Key](https://bg3.wiki/wiki/Counting_Ho",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - The Lodge",
+      "level": 0,
+      "legacyId": "playthrough_Unflinching_Protector_Amulet_Basement_Docks",
+      "preview": "- ::item_veryrare:: [Unflinching Protector Amulet](https://bg3.wiki/wiki/Unflinc",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Lower City - Elerrathin's Home (Jaheira's Basement)",
+      "level": 0,
+      "legacyId": "playthrough_Belm",
+      "preview": "- ::item_veryrare:: [Belm](https://bg3.wiki/wiki/Belm) <!--uuid:1f5aea4f-6329-4b",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Elerrathin's Home (Jaheira's Basement)",
+      "level": 0,
+      "legacyId": "playthrough_Khalid_s_Gift",
+      "preview": "- ::item_veryrare:: [Khalid's Gift](https://bg3.wiki/wiki/Khalid's%20Gift) <!--u",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Lady Jannath's Estate",
+      "level": 0,
+      "legacyId": "playthrough_High_Security_Vault_n_2_Key",
+      "preview": "- ::item_story:: [High Security Vault n°2 Key](https://bg3.wiki/wiki/High_Securi",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Lady Jannath's Estate",
+      "level": 0,
+      "legacyId": "playthrough_Hand_Crossbow__2",
+      "preview": "- ::item_rare:: [Hand Crossbow +2](https://bg3.wiki/wiki/Hand%20Crossbow%20+2) <",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Cloister of Sombre Embrace",
+      "level": 0,
+      "legacyId": "playthrough_Act_3_-_A_Familiar_Face",
+      "preview": "- ::task:: Act 3 - [A Familiar Face](https://bg3.wiki/wiki/A%20Familiar%20Face) ",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Lower City - Cloister of Sombre Embrace",
+      "level": 0,
+      "legacyId": "playthrough_Mirror_of_Loss_-_offer_a_prayer__DC_25_Religion_ch",
+      "preview": "- ::ability:: [Mirror of Loss](https://bg3.wiki/wiki/Mirror_of_Loss) - offer a p",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Steel Watch Foundry",
+      "level": 0,
+      "legacyId": "playthrough_Gontr_Mael",
+      "preview": "- ::item_legendary:: [Gontr Mael](https://bg3.wiki/wiki/Gontr%20Mael) <!--uuid:8",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Steel Watch Foundry",
+      "level": 0,
+      "legacyId": "playthrough_Hellfire_Engine_Crossbow",
+      "preview": "- ::item_veryrare:: [Hellfire Engine Crossbow](https://bg3.wiki/wiki/Hellfire%20",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Water Queen's House",
+      "level": 0,
+      "legacyId": "playthrough_High_Security_Vault_n_4_Key",
+      "preview": "- ::item_story:: [High Security Vault n°4 Key](https://bg3.wiki/wiki/High_Securi",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Lower City - Water Queen's House",
+      "level": 0,
+      "legacyId": "playthrough_Wavemother_s_Robe",
+      "preview": "- ::item_veryrare:: [Wavemother's Robe](https://bg3.wiki/wiki/Wavemother's%20Rob",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Undercity - City Sweres",
+      "level": 0,
+      "legacyId": "playthrough_Breaching_Pikestaff_Lower_City_Sewers",
+      "preview": "- ::item_rare:: [Breaching Pikestaff](https://bg3.wiki/wiki/Breaching%20Pikestaf",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Undercity - City Sweres",
+      "level": 0,
+      "legacyId": "playthrough_Magic_Amulet_Lower_City_Sewers__have_to_put_Sarin_",
+      "preview": "- ::item_rare:: [Magic Amulet](https://bg3.wiki/wiki/Magic%20Amulet) Lower City ",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Undercity - City Sweres",
+      "level": 2,
+      "legacyId": "playthrough_Silver_Sword_of_the_Astral_Plane",
+      "preview": "  - ::item_legendary:: [Silver Sword of the Astral Plane](https://bg3.wiki/wiki/",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Undercity - Guildhall",
+      "level": 0,
+      "legacyId": "playthrough_High_Security_Vault_n_7_Key",
+      "preview": "- ::item_story:: [High Security Vault n°7 Key](https://bg3.wiki/wiki/High_Securi",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Undercity - Guildhall",
+      "level": 0,
+      "legacyId": "playthrough_Shade-Slayer_Cloak_Guildhall",
+      "preview": "- ::item_veryrare:: [Shade-Slayer Cloak](https://bg3.wiki/wiki/Shade-Slayer%20Cl",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Undercity - Undercity Ruins",
+      "level": 0,
+      "legacyId": "playthrough_Voiceless_Penitent_Bareki_odders_merchant_services",
+      "preview": "- [Voiceless Penitent Bareki](https://bg3.wiki/wiki/Bareki) odders merchant serv",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Undercity - Undercity Ruins",
+      "level": 2,
+      "legacyId": "playthrough_Armour_of_Moonbasking",
+      "preview": "  - ::item_veryrare:: [Armour of Moonbasking](https://bg3.wiki/wiki/Armour%20of%",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Undercity - Temple of Bhaal",
+      "level": 0,
+      "legacyId": "playthrough_Bloodthirst",
+      "preview": "- ::item_legendary:: [Bloodthirst](https://bg3.wiki/wiki/Bloodthirst) <!--uuid:d",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Undercity - Temple of Bhaal",
+      "level": 0,
+      "legacyId": "playthrough_Crimson_Mischief",
+      "preview": "- ::item_legendary:: [Crimson Mischief](https://bg3.wiki/wiki/Crimson%20Mischief",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Upper City - The High Hall",
+      "level": 0,
+      "legacyId": "playthrough_Anointed_in_Splendour_-_complete_the_coronation_ce",
+      "preview": "- ::ability:: [Anointed in Splendour](https://bg3.wiki/wiki/Anointed_in_Splendou",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Upper City - The High Hall",
+      "level": 0,
+      "legacyId": "playthrough_Thermodynamo_Axe_1",
+      "preview": "- ::item_rare:: [Thermodynamo Axe](https://bg3.wiki/wiki/Thermodynamo%20Axe) <!-",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Misc Items",
+      "level": 0,
+      "legacyId": "playthrough_Orphic_Ring_Astral_Plane",
+      "preview": "- ::item_veryrare:: [Orphic Ring](https://bg3.wiki/wiki/Orphic%20Ring) Astral Pl",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Misc Items",
+      "level": 0,
+      "legacyId": "playthrough_Infernal_Robe_Campsite",
+      "preview": "- ::item_veryrare:: [Infernal Robe](https://bg3.wiki/wiki/Infernal%20Robe) Camps",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Act 3 quests (need to move to above sections)",
+      "level": 0,
+      "legacyId": "playthrough_Act_3_-_Aid_the_Underduke",
+      "preview": "- ::task:: Act 3 - [Aid the Underduke](https://bg3.wiki/wiki/Aid%20the%20Underdu",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Act 3 quests (need to move to above sections)",
+      "level": 0,
+      "legacyId": "playthrough_Act_3_-_Avenge_the_Drowned",
+      "preview": "- ::task:: Act 3 - [Avenge the Drowned](https://bg3.wiki/wiki/Avenge%20the%20Dro",
+      "checkedInDefault": false,
+      "checkedInTav": true
+    },
+    {
+      "section": "Act 3 quests (need to move to above sections)",
+      "level": 2,
+      "legacyId": "playthrough_Save_the_Gondians_before_Avenging_the_Ironhands_or",
+      "preview": "  - Save the Gondians before Avenging the Ironhands or before leaving the Iron T",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Items Obtained in Various Locations (WIP)",
+      "level": 0,
+      "legacyId": "playthrough_Moon_Devotion_Robe",
+      "preview": "- ::item_veryrare:: [Moon Devotion Robe](https://bg3.wiki/wiki/Moon%20Devotion%2",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Items Obtained in Various Locations (WIP)",
+      "level": 0,
+      "legacyId": "playthrough_Voss__Silver_Sword",
+      "preview": "- ::item_veryrare:: [Voss' Silver Sword](https://bg3.wiki/wiki/Voss'%20Silver%20",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Items Obtained in Unknown Locations (WIP)",
+      "level": 0,
+      "legacyId": "playthrough_Studded_Shield__1",
+      "preview": "- ::item_rare:: [Studded Shield +1](https://bg3.wiki/wiki/Studded%20Shield%20+1)",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Items Obtained in Unknown Locations (WIP)",
+      "level": 0,
+      "legacyId": "playthrough_Sylvan_Scimitar",
+      "preview": "- ::item_uncommon:: [Sylvan Scimitar](https://bg3.wiki/wiki/Sylvan%20Scimitar) <",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Blighted Village",
+      "level": 0,
+      "legacyId": "playthrough_Rescue_Barcus_from_the_windmill__leaving_for_Act_1",
+      "preview": "- ::missable:: Rescue [Barcus](https://bg3.wiki/wiki/Rescue_the_Gnome) from the ",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Goblin Camp",
+      "level": 0,
+      "legacyId": "playthrough_Minor_missable_events_with_ordinary_rewards_are_av_1",
+      "preview": "- ::task:: Minor missable events with ordinary rewards are available <!--uuid:5c",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Goblin Camp",
+      "level": 2,
+      "legacyId": "playthrough_If_you_plan_on_recruiting_Minthara_or_obtaining_th_1",
+      "preview": "  - ::task:: If you plan on recruiting Minthara or obtaining the achievement for",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Goblin Camp",
+      "level": 0,
+      "legacyId": "playthrough_The_following_items_can_be_found_around_the_area_1",
+      "preview": "- ::task:: The following items can be found around the area <!--uuid:ff27966e-1e",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "BEFORE CONTINUING TO ACT 2",
+      "level": 0,
+      "legacyId": "playthrough_Clear_anything_remaining_in_your_quest_log_for_the_1",
+      "preview": "- Clear anything remaining in your quest log for the area (some items will be un",
+      "checkedInDefault": true,
+      "checkedInTav": true
+    },
+    {
+      "section": "Getting Started (Feel Free to Check These Off)",
+      "level": 2,
+      "legacyId": "playthrough_This_represents_missable_or_limited_legendary_item",
+      "preview": "  - ::item_legendary:: This represents missable or limited legendary items <!--u",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Getting Started (Feel Free to Check These Off)",
+      "level": 2,
+      "legacyId": "playthrough_This_represents_missable_or_limited_very_rare_item",
+      "preview": "  - ::item_veryrare:: This represents missable or limited very rare items <!--uu",
+      "checkedInDefault": false,
+      "checkedInTav": false
+    },
+    {
+      "section": "Getting Started (Feel Free to Check These Off)",
+      "level": 2,
+      "legacyId": "playthrough_This_represents_missable_or_limited_skills__spells",
+      "preview": "  - ::ability:: This represents missable or limited skills, spells or abilities ",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    },
+    {
+      "section": "Getting Started (Feel Free to Check These Off)",
+      "level": 2,
+      "legacyId": "playthrough_This_represents_time_sensitive_tasks_that_can_be_f",
+      "preview": "  - ::missable:: This represents time sensitive tasks that can be failed if you ",
+      "checkedInDefault": true,
+      "checkedInTav": false
+    }
+  ]
+}

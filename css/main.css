@@ -1,7 +1,9 @@
 :root {
   --badge-color: #ff6600;
+  --main-color: #ff6600;
   --done-color: #32cd32;
   --checkbox-bg-color: #1f6f8b;
+  --checkbox-color: #1f6f8b;
   --body-bg-color: #121212;
   --body-font-color: #d0d0d0;
   --highlight-bg-color: #ffd700;
@@ -127,6 +129,7 @@ select {
   color: var(--navbar-link-color) !important;
 }
 
+nav .nav-link.active,
 nav .active a {
   background-color: var(--active-link-bg-color) !important;
 }
@@ -160,6 +163,14 @@ nav .active a {
   border-left: 0;
   flex-shrink: 1;
   min-width: 0;
+}
+
+.btn-group-flex .filter-bar-action {
+  margin-left: auto;
+}
+
+.filter-bar-action-label {
+  margin-left: 4px;
 }
 
 .fadingbutton.back-to-top {
@@ -221,31 +232,19 @@ nav .active a {
   outline: 0;
 }
 
-.btn.filter-inactive .glyphicon-eye-close {
-  display: inline-block;
-}
-.btn.filter-active .glyphicon-eye-open {
-  display: inline-block;
-}
-.btn.filter-inactive .glyphicon-chevron-down {
-  display: inline-block;
-}
-.btn.filter-active .glyphicon-chevron-up {
-  display: inline-block;
-}
-
-.btn.active {
+.btn.active,
+.btn:has(input[type="checkbox"]:checked) {
   text-decoration: line-through;
 }
 
 /* Icon when the collapsible content is shown */
-.btn-collapse:after {
-  font-family: "Glyphicons Halflings";
-  content: "\e082";
+.btn-collapse::after {
+  font-family: "bootstrap-icons";
+  content: "\f286";
 }
 /* Icon when the collapsible content is hidden */
-.btn-collapse.collapsed:after {
-  content: "\e081";
+.btn-collapse.collapsed::after {
+  content: "\f282";
 }
 
 h1 {
@@ -276,29 +275,29 @@ input[type="checkbox"]:checked + .item_content {
   text-decoration: line-through;
 }
 
-input[type="checkbox"] ~ .glyphicon-eye-close,
-input[type="checkbox"] ~ * > .glyphicon-eye-close,
-input[type="checkbox"]:checked ~ .glyphicon-eye-open,
-input[type="checkbox"]:checked ~ * > .glyphicon-eye-open {
+input[type="checkbox"] ~ .bi-eye-slash,
+input[type="checkbox"] ~ * > .bi-eye-slash,
+input[type="checkbox"]:checked ~ .bi-eye,
+input[type="checkbox"]:checked ~ * > .bi-eye {
   display: none;
 }
-input[type="checkbox"] ~ .glyphicon-eye-open,
-input[type="checkbox"] ~ * > .glyphicon-eye-open,
-input[type="checkbox"]:checked ~ .glyphicon-eye-close,
-input[type="checkbox"]:checked ~ * > .glyphicon-eye-close {
+input[type="checkbox"] ~ .bi-eye,
+input[type="checkbox"] ~ * > .bi-eye,
+input[type="checkbox"]:checked ~ .bi-eye-slash,
+input[type="checkbox"]:checked ~ * > .bi-eye-slash {
   display: inline-block;
 }
 
-input[type="checkbox"] ~ .glyphicon-chevron-down,
-input[type="checkbox"] ~ * > .glyphicon-chevron-down,
-input[type="checkbox"]:checked ~ .glyphicon-chevron-up,
-input[type="checkbox"]:checked ~ * > .glyphicon-chevron-up {
+input[type="checkbox"] ~ .bi-chevron-down,
+input[type="checkbox"] ~ * > .bi-chevron-down,
+input[type="checkbox"]:checked ~ .bi-chevron-up,
+input[type="checkbox"]:checked ~ * > .bi-chevron-up {
   display: none;
 }
-input[type="checkbox"] ~ .glyphicon-chevron-up,
-input[type="checkbox"] ~ * > .glyphicon-chevron-up,
-input[type="checkbox"]:checked ~ .glyphicon-chevron-down,
-input[type="checkbox"]:checked ~ * > .glyphicon-chevron-down {
+input[type="checkbox"] ~ .bi-chevron-up,
+input[type="checkbox"] ~ * > .bi-chevron-up,
+input[type="checkbox"]:checked ~ .bi-chevron-down,
+input[type="checkbox"]:checked ~ * > .bi-chevron-down {
   display: inline-block;
 }
 
@@ -306,6 +305,13 @@ input[type="checkbox"]:checked ~ * > .glyphicon-chevron-down {
   margin-left: -24px;
   margin-right: 12px;
   height: 80%;
+}
+
+.btn .bi,
+.btn-close .bi {
+  margin-left: 0;
+  margin-right: 0;
+  height: auto;
 }
 
 label.completed .bi {

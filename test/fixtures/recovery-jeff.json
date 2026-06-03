@@ -1,0 +1,26 @@
+{
+  "_note": "Recovery snapshot of profiles captured from your localStorage on 2026-05-02 03:00 (Firefox port 8002), before the destructive import. This restores your 4 prior profiles. Holy Lance Helm in Default Profile retains its prior false value.",
+  "schemaVersion": 2,
+  "current": "Chungus",
+  "bg3_profiles": {
+    "Default Profile": {
+      "checklistData": {
+        "playthrough_09d6ae23-4c84-4f11-840f-1c3971dc3d71": false
+      },
+      "hidePreferences": {}
+    },
+    "Chungus": {
+      "checklistData": {},
+      "hidePreferences": {}
+    },
+    "Chungus2": {
+      "checklistData": {},
+      "hidePreferences": {}
+    },
+    "Bingo": {
+      "checklistData": {},
+      "hidePreferences": {}
+    }
+  },
+  "exportedAt": "2026-05-02T03:00:00.000Z"
+}

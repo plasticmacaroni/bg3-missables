@@ -1,25 +1,19 @@
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <title>The Best Baldur's Gate 3: Missable Questlines and Events Guide</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="The best, most updated cheat sheet for Baldur's Gate 3. Don't miss anything with this missables checklist.">
     <meta name="author" content="plasticmacaroni">
-    <link id="bootstrap" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link id="bootstrap" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <!-- icons -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"> 
-    <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" integrity="sha384-Ay26V7L8bsJTsX9Sxclnvsn+hkdiwRnrjZJXqKmkIDobPgIIWBOVguEcQQLDuhfN" crossorigin="anonymous">
     <link href="css/main.css" rel="stylesheet">
-    <!--[if lt IE 9]>
-        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-	<script src="https://cdn.rawgit.com/andris9/jStorage/v0.4.12/jstorage.min.js"></script>	
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-	<script type="text/javascript">
-        var profilesKey = 'bg3_profiles';
-    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js" integrity="sha384-o6l2EXLcx4A+q7ls2O2OP2Lb2W7iBgOsYvuuRI6G+Efbjbk6J4xbirJpHZZoHbfs" crossorigin="anonymous"></script>
+    <script src="js/jstorage.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="js/migrate.js"></script>
     <script src="js/main.js"></script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-C7B1ECQPD0"></script>
@@ -37,53 +31,48 @@
     </script>
 </head>
 <body data-bs-theme="dark">
-    <nav class="navbar navbar-default">
+    <nav class="navbar navbar-expand-md">
         <div class="container">
-                
-                    
-            <ul class="nav navbar-nav">
-                <li class="active"><a href="#tabPlaythrough" data-toggle="tab">Playthrough</a></li>
-                <!-- <li><a href="#tabInformation" data-toggle="tab">Information</a></li> -->
-                <li><a href="#tabHelp" data-toggle="tab">Help</a></li>
+            <ul class="nav navbar-nav" role="tablist">
+                <li class="nav-item" role="presentation"><a class="nav-link active" href="#tabPlaythrough" data-bs-toggle="tab" role="tab" aria-controls="tabPlaythrough" aria-selected="true">Playthrough</a></li>
+                <!-- <li class="nav-item" role="presentation"><a class="nav-link" href="#tabInformation" data-bs-toggle="tab" role="tab">Information</a></li> -->
+                <li class="nav-item" role="presentation"><a class="nav-link" href="#tabHelp" data-bs-toggle="tab" role="tab" aria-controls="tabHelp" aria-selected="false">Help</a></li>
             </ul>
-                <div class="profile" style="float: right; padding-top: 8px;">
-                    <div class="input-append">
-                        <select id="profiles">
-                        </select>
-                        <button class="btn btn-secondary" type="button" id="profileAdd">Add</button>
-                        <button class="btn btn-secondary" type="button" id="profileEdit">Edit</button>
-                    </div>
+            <div class="profile ms-auto" style="padding-top: 8px;">
+                <div class="input-group">
+                    <select id="profiles" class="form-select"></select>
+                    <button class="btn btn-secondary" type="button" id="profileAdd">Add</button>
+                    <button class="btn btn-secondary" type="button" id="profileEdit">Edit</button>
                 </div>
-                    
-                
+            </div>
         </div>
     </nav>
 
     <h1 class="text-center">Baldur's Gate 3 Missables Checklist</h1>
-    <img src="img/banner-image.png" class="img-responsive center-block" alt="Baldur's Gate 3 Derpy Logo" style="max-width: 100%; margin-bottom: 20px;">
+    <img src="img/banner-image.png" class="img-fluid d-block mx-auto" alt="Baldur's Gate 3 Derpy Logo" style="max-width: 100%; margin-bottom: 20px;">
     <div class="container">
-        <div class="btn btn-primary" type="button" data-toggle="collapse" data-target="#intro" aria-expanded="false" aria-controls="intro">Checklist Information</div>
+        <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#intro" aria-expanded="false" aria-controls="intro">Checklist Information</button>
         <div id="intro" class="collapse">
             <p>
                 Are you annoyed that you're expected to play through the game 5 times, blindly, as a good character, just to see the basic questlines complete? Are you a save-scummer because your time is valuable? Are you over Reddit's insistence that you should let Gale die just because you failed the random roll? Then this guide is for you. Tasks include the least spoiler-related information possible, although links may include heavy spoilers. After you complete a task, you should recognize it within the list, but probably not before. Check things as you go, and when you reach a door that says "tie up loose ends," you may want to visit the wiki. 
             </p>
-            <p>
-                This guide has several goals:
+            <div>
+                <p>This guide has several goals:</p>
                 <ul>
                     <li><i class="bi bi-check2"></i>Start important events that you need to visit a location, talk to an NPC, or pick up an item (and then these can be completed from the Journal tab)</li>
                     <li><i class="bi bi-check2"></i>Show story-related missable events (trivial events are excluded)</li>
                     <li><i class="bi bi-check2"></i>Keep you from missing out by unintentionally breaking quests through resting, traveling ahead, or doing things out of order</li>
                     <li><i class="bi bi-check2"></i>This guide generally assumes a neutral or good playthrough, so evil missables are possible</li>
                 </ul>
-                It also has several non-goals:
+                <p>It also has several non-goals:</p>
                 <ul>
                     <li><i class="bi bi-x-lg"></i>Include full walkthroughs of quests</li>
                     <li><i class="bi bi-x-lg"></i>Include quest events once they're in the Journal</li>
                     <li><i class="bi bi-x-lg"></i>Link to Fextralife (always use bg3.wiki for links)</li>
                 </ul>
-            </p>
+            </div>
             <p>
-                <em>Warning: While it's mitigated as much as possible, this guide *Contains Spoilers!*</em></br></br>
+                <em>Warning: While it's mitigated as much as possible, this guide *Contains Spoilers!*</em><br><br>
             </p>
             <p>
                 This guide began from the helpful Reddit thread <a href="https://www.reddit.com/r/BaldursGate3/comments/15o0ye9/spoilers_checklist_of_things_to_do_before_leaving/">here</a>, and uses the Dark Souls checklist format created by <a href="https://github.com/smcnabb">Stephen McNabb</a> on the <a href="http://smcnabb.github.io/dark-souls-2-cheat-sheet/">Dark Souls 2 Cheat Sheet</a>, and <a href="https://github.com/xenevel">Xenevel</a> with their <a href="https://github.com/xenevel/dark-souls-2-sotfs-cheat-sheet">updated version</a>. 
@@ -95,88 +84,95 @@
         <div class="tab-content">
 
             <div class="btn-group" role="group">
-		        <div class="btn-group btn-group-flex" role="group" data-toggle="buttons">
-		            <label class="btn btn-secondary">
-                        <input type="checkbox" id="toggleHideCompleted">
-                        <span class="glyphicon glyphicon-eye-close"></span>
-                        <span class="glyphicon glyphicon-eye-open"></span>
+                <div class="btn-group btn-group-flex" role="group">
+                    <label class="btn btn-secondary">
+                        <input type="checkbox" id="toggleHideCompleted" autocomplete="off">
+                        <span class="bi bi-eye-slash"></span>
+                        <span class="bi bi-eye"></span>
                         Hide Completed
                     </label>
                     <label class="btn btn-secondary">
-                        <input type="checkbox" id="toggleHideOrdinary">
-                        <span class="glyphicon glyphicon-eye-close"></span>
-                        <span class="glyphicon glyphicon-eye-open"></span>
+                        <input type="checkbox" id="toggleHideOrdinary" autocomplete="off">
+                        <span class="bi bi-eye-slash"></span>
+                        <span class="bi bi-eye"></span>
                         Hide Ordinary Items
                     </label>
                     <!-- Hide Common Items -->
                     <label class="btn btn-secondary">
-                        <input type="checkbox" id="toggleHideCommon">
-                        <span class="glyphicon glyphicon-eye-close"></span>
-                        <span class="glyphicon glyphicon-eye-open"></span>
+                        <input type="checkbox" id="toggleHideCommon" autocomplete="off">
+                        <span class="bi bi-eye-slash"></span>
+                        <span class="bi bi-eye"></span>
                         Hide Common Items
                     </label>
                     <!-- Hide Uncommon items -->
                     <label class="btn btn-secondary">
-                        <input type="checkbox" id="toggleHideUncommon">
-                        <span class="glyphicon glyphicon-eye-close"></span>
-                        <span class="glyphicon glyphicon-eye-open"></span>
+                        <input type="checkbox" id="toggleHideUncommon" autocomplete="off">
+                        <span class="bi bi-eye-slash"></span>
+                        <span class="bi bi-eye"></span>
                         Hide Uncommon Items
                     </label>
                     <label class="btn btn-secondary">
-                        <input type="checkbox" id="toggleHideRare">
-                        <span class="glyphicon glyphicon-eye-close"></span>
-                        <span class="glyphicon glyphicon-eye-open"></span>
+                        <input type="checkbox" id="toggleHideRare" autocomplete="off">
+                        <span class="bi bi-eye-slash"></span>
+                        <span class="bi bi-eye"></span>
                         Hide Rare Items
                     </label>
                     <label class="btn btn-secondary">
-                        <input type="checkbox" id="toggleHideVeryRare">
-                        <span class="glyphicon glyphicon-eye-close"></span>
-                        <span class="glyphicon glyphicon-eye-open"></span>
+                        <input type="checkbox" id="toggleHideVeryRare" autocomplete="off">
+                        <span class="bi bi-eye-slash"></span>
+                        <span class="bi bi-eye"></span>
                         Hide Very Rare Items
                     </label>
                     <label class="btn btn-secondary">
-                        <input type="checkbox" id="toggleHideLegendary">
-                        <span class="glyphicon glyphicon-eye-close"></span>
-                        <span class="glyphicon glyphicon-eye-open"></span>
+                        <input type="checkbox" id="toggleHideLegendary" autocomplete="off">
+                        <span class="bi bi-eye-slash"></span>
+                        <span class="bi bi-eye"></span>
                         Hide Legendary Items
                     </label>
                     <label class="btn btn-secondary">
-                        <input type="checkbox" id="toggleHideStory">
-                        <span class="glyphicon glyphicon-eye-close"></span>
-                        <span class="glyphicon glyphicon-eye-open"></span>
+                        <input type="checkbox" id="toggleHideStory" autocomplete="off">
+                        <span class="bi bi-eye-slash"></span>
+                        <span class="bi bi-eye"></span>
                         Hide Story Items
                     </label>
+                    <button type="button" class="btn btn-secondary filter-bar-action" id="exportSave" title="Download a backup of all your profiles">
+                        <i class="bi bi-download"></i>
+                        <span class="filter-bar-action-label">Export</span>
+                    </button>
+                    <button type="button" class="btn btn-secondary" id="importSave" title="Restore a backup or import a save file">
+                        <i class="bi bi-upload"></i>
+                        <span class="filter-bar-action-label">Import</span>
+                    </button>
+                    <input type="file" id="importFileInput" accept="application/json,.json" style="display: none;">
                 </div>
-	        </div>
+            </div>
 
-            <div class="btn-group" role="group" data-toggle="buttons">
+            <div class="btn-group" role="group">
                 <label class="btn btn-secondary">
-                  <input type="checkbox" id="toggleCollapseAll">
-                  <span class="glyphicon glyphicon-chevron-up"></span>
-                  <span class="glyphicon glyphicon-chevron-down"></span>
+                  <input type="checkbox" id="toggleCollapseAll" autocomplete="off">
+                  <span class="bi bi-chevron-up"></span>
+                  <span class="bi bi-chevron-down"></span>
                   Collapse All
                 </label>
               </div>
         	
-            <div class="tab-pane active" id="tabPlaythrough">
+            <div class="tab-pane fade show active" id="tabPlaythrough">
 
                 <h2>Missables Checklist <span id="playthrough_overall_total"></span></h2>
                 <ul class="table_of_contents">
-                    
+
                 </ul>
                 <hr />
-            
-                <h3 id="Start_The_Game"><a href="#" data-toggle="collapse" data-parent="#tabPlaythrough" class="btn btn-primary btn-collapse btn-sm"></a><a href="#">Start The Game</a></h3>
-                <ul class="panel-collapse collapse in">
+
+                <h3 id="Start_The_Game"><a href="#" data-bs-toggle="collapse" class="btn btn-primary btn-collapse btn-sm"></a>Start The Game</h3>
+                <ul class="panel-collapse collapse show">
                     <li data-id="playthrough_485ac964-d369-49b1-8b8c-3197ab317b78"><i class="bi bi-clipboard-check"></i>See our savior Swen on the title menu leading a clueless band of adventurers</li>
                 </ul>
 
-                
-            </div>
-            
-            <div id="bottom-spacer" style="height:15vh;"></div>
 
-            <div class="tab-pane" id="tabHelp">
+            </div>
+
+            <div class="tab-pane fade" id="tabHelp">
 
                 <h2>Help</h2>
 
@@ -214,28 +210,30 @@
 
         </div>
 
+        <div id="bottom-spacer" style="height:15vh;"></div>
+
     </div>
 
-    <div id="profileModal" class="modal fade">
+    <div id="profileModal" class="modal fade" tabindex="-1" aria-labelledby="profileModalTitle" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h3 id="profileModalTitle" class="modal-title">Profile</h3>
+                    <h1 id="profileModalTitle" class="modal-title fs-5">Profile</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <form class="form-horizontal">
-                        <div class="control-group">
-                            <label class="control-label" for="profileModalName">Name</label>
-                            <div class="controls">
-                                <input type="text" id="profileModalName" placeholder="Enter profile name">
+                    <form>
+                        <div class="mb-3 row">
+                            <label class="col-sm-3 col-form-label" for="profileModalName">Name</label>
+                            <div class="col-sm-9">
+                                <input type="text" class="form-control" id="profileModalName" placeholder="Enter profile name">
                             </div>
                         </div>
                     </form>
                 </div>
                 <div class="modal-footer">
-                    <a href="#" id="profileModalClose" class="btn btn-secondary" data-dismiss="modal">Close</a>
-                    <a href="#" id="profileModalAdd" class="btn btn-primary" data-dismiss="modal">Add</a>
+                    <a href="#" id="profileModalClose" class="btn btn-secondary" data-bs-dismiss="modal">Close</a>
+                    <a href="#" id="profileModalAdd" class="btn btn-primary" data-bs-dismiss="modal">Add</a>
                     <a href="#" id="profileModalUpdate" class="btn btn-primary">Update</a>
                     <a href="#" id="profileModalDelete" class="btn btn-danger">Delete</a>
                 </div>
@@ -243,7 +241,7 @@
         </div>
     </div>
 
-    <a class="btn btn-secondary btn-sm fadingbutton back-to-top">Back to Top&thinsp;<span class="glyphicon glyphicon-arrow-up"></span></a>
+    <a class="btn btn-secondary btn-sm fadingbutton back-to-top">Back to Top&thinsp;<span class="bi bi-arrow-up"></span></a>
 
 </body>
 </html>

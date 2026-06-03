@@ -1,4 +1,4 @@
-## Baldur's Gate 3: Divinity Original Sin 3 Missables Sheet
+## Baldur's Gate 3 Missables Sheet
 
 To view the cheat sheet [click here](https://plasticmacaroni.github.io/bg3-missables/).
 
