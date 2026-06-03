@@ -154,6 +154,7 @@
 - ::missable:: Protect [Rugan](https://bg3.wiki/wiki/Rugan) and [Olly](https://bg3.wiki/wiki/Olly) being attacked by gnolls to start the [Find the Missing Shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest (if you encounter them and long rest without saving them, they'll permanently die) <!--uuid:a5bc6a22-3168-4dad-a9be-be4f326ebd84-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Flind](https://bg3.wiki/wiki/Flind) when killed <!--uuid:17c7e2aa-da0e-4e05-bc92-6efc47304641-->
 # Blighted Village
+- ::item_uncommon:: [Very Heavy Greataxe](https://bg3.wiki/wiki/Very%20Heavy%20Greataxe) <!--uuid:e751fb86-125a-4acb-a6ad-5ce54d963d89-->
 - ::item_story:: The first opportunity to find the [Bloody Amulet](https://bg3.wiki/wiki/Bloody%20Amulet). It is not recommended to obtain this. <!--uuid:60673222-5ec4-44d5-a53d-f9f0628ea7c8-->
 - ::item_rare:: [Haste Helm](https://bg3.wiki/wiki/Haste%20Helm) <!--uuid:5f9ce740-e85a-4e2f-ac45-4cfcf71867a7-->
 - ::item_rare:: [Sussur Dagger](https://bg3.wiki/wiki/Sussur%20Dagger) <!--uuid:7cd0fa9a-ad29-40b1-b6b6-c12128a83fb0-->
@@ -189,6 +190,7 @@
 - After you discover [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss), speak to him before long resting, or deal with some permanent consequences <!--uuid:0f87beef-196c-47af-b2e1-93b72726201a-->
 - If you decide to fight, remember you can cause [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss) to drop [his sword](https://bg3.wiki/wiki/Silver%20Sword%20of%20the%20Astral%20Plane) for Lae'zel with the command spell <!--uuid:c9868acf-91ef-4216-b3d9-e58435e9f6b1-->
 # Owlbear Nest
+- ::item_uncommon:: [Vision of the Absolute](https://bg3.wiki/wiki/Vision%20of%20the%20Absolute) <!--uuid:00eaef13-156b-4391-9443-45e51843d8d0-->
 - ::item_uncommon:: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop%20Pendant) <!--uuid:9c3ef4c9-a5fc-495f-b283-90cc282d1303-->
 - ::item_uncommon:: [The Oak Father's Embrace](https://bg3.wiki/wiki/The%20Oak%20Father's%20Embrace) <!--uuid:add0db2d-d656-4791-ba76-808e14cc37f7-->
 - ::missable:: [Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby (do this now, or an owlbear will die after a long rest) <!--uuid:2b12b550-dca5-4a4c-8cfa-3a0b3be01e37-->
@@ -540,6 +542,8 @@
 - Destroy the everburning torches next to [Korliss](https://bg3.wiki/wiki/Korliss) and fight the [Shadow Mastiffs](https://bg3.wiki/wiki/Shadow_mastiff) <!--uuid:e5964b7b-6d4a-4066-b17a-d0f1f2a309aa-->
   - ::item_uncommon:: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked%20Ring) <!--uuid:356af8e5-039e-400b-99ec-6527fa97e61b-->
 # Last Light Inn
+- ::item_veryrare:: [Moon Devotion Robe](https://bg3.wiki/wiki/Moon%20Devotion%20Robe) <!--uuid:b68a8fac-25c2-43d6-ae27-05b3768ea4cc-->
+- ::item_uncommon:: [Sylvan Scimitar](https://bg3.wiki/wiki/Sylvan%20Scimitar) <!--uuid:37d0b806-5c58-408a-bc76-9336ee8f0350-->
 - ::item_story:: Second chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern). <!--uuid:0e0bb855-dc8f-436f-9101-02948c894316-->
 - ::item_veryrare:: [Potent Robe](https://bg3.wiki/wiki/Potent%20Robe) <!--uuid:19394146-a8d1-4527-bb89-0132a4ed132c-->
 - ::item_rare:: [Penumbral Armour](https://bg3.wiki/wiki/Penumbral%20Armour) <!--uuid:be6eec91-6b16-4443-ac1c-f6d1d1bfa2af-->
@@ -776,6 +780,7 @@
 - Make your way upstairs and [fight the boss](https://bg3.wiki/wiki/Defeat_Ketheric_Thorm) <!--uuid:1a4a51cf-54e5-4ad9-8cb6-c4f4d8de381e-->
 - ::item_legendary:: [Selûne's Spear of Night](https://bg3.wiki/wiki/Selûne's%20Spear%20of%20Night) <!--uuid:a4143cc2-029f-491a-a4a3-ffc3febedac2-->
 # Mind Flayer Colony
+- ::item_rare:: [Blade of Oppressed Souls](https://bg3.wiki/wiki/Blade%20of%20Oppressed%20Souls) <!--uuid:19ed7f6a-ff78-4969-9522-0a95331d7b30-->
 - ::item_veryrare:: [Infernal Rapier](https://bg3.wiki/wiki/Infernal%20Rapier) <!--uuid:b0fa963e-0465-4dcb-bf98-935defe17cff-->
 - ::item_veryrare:: [Reaper's Embrace](https://bg3.wiki/wiki/Reaper's%20Embrace) <!--uuid:cac45409-3f4b-49b7-b9c2-983e76d00ffe-->
 - ::item_rare:: [Circlet of Mental Anguish](https://bg3.wiki/wiki/Circlet%20of%20Mental%20Anguish) <!--uuid:8d10b6cb-abb4-46a7-a52f-e4fba9b3b9ba-->
@@ -928,6 +933,7 @@
 
 
 # Wyrm's Crossing - Sharess' Caress
+- ::item_veryrare:: [Voss' Silver Sword](https://bg3.wiki/wiki/Voss'%20Silver%20Sword) <!--uuid:78bf2734-a34d-49de-87b8-3b70a755a90f-->
 - ::task:: Act 3 - [Find the 'Stern Librarian' Ffion](https://bg3.wiki/wiki/Find%20the%20%27Stern%20Librarian%27%20Ffion) <!--uuid:4840c9d5-36a4-4824-8405-5c185c514ca3-->
 - [Hoots Hooligan](https://bg3.wiki/wiki/Hoots_Hooligan) offers some strong booze (and merchant services) <!--uuid:aae1adb9-cb06-444f-8e74-1c039a946351-->
   - ::item_rare:: [Amulet of the Drunkard](https://bg3.wiki/wiki/Amulet%20of%20the%20Drunkard) <!--uuid:d116a83b-cb1d-432b-9a40-c4008c95b6a0-->
@@ -983,6 +989,8 @@
 
 
 # Lower City
+- ::item_rare:: [Dolor Amarus](https://bg3.wiki/wiki/Dolor%20Amarus) <!--uuid:bc221788-30a3-496c-b5bc-9e449b9b7918-->
+- ::item_rare:: [Infernal Mace](https://bg3.wiki/wiki/Infernal%20Mace) <!--uuid:5e972642-7b98-4a1a-b9b7-2985cf17dabc-->
 - ::item_story:: [Guild Ring](https://bg3.wiki/wiki/Guild%20Ring) Lower City <!--uuid:ba68771b-0330-47a0-8c4b-578b19ae8734-->
 - ::item_veryrare:: [Abdel's Trusted Shield](https://bg3.wiki/wiki/Abdel's%20Trusted%20Shield) Lower City <!--uuid:8a29c79f-a166-4116-acdb-8647060c1a19-->
 - ::item_uncommon:: [Cloth Armour](https://bg3.wiki/wiki/Cloth%20Armour) Lower City <!--uuid:92bbef62-cc6a-45c8-bd45-80ca12600984-->
@@ -1334,7 +1342,6 @@
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Barcus](https://bg3.wiki/wiki/Barcus) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:d2693f40-5810-4a1a-a5f3-47369b88edc8-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Bex](https://bg3.wiki/wiki/Bex) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:7b4fafd8-e372-44b2-b725-4d8f1164cdc1-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Danis](https://bg3.wiki/wiki/Danis) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:6754c7fa-5f91-4b20-ab48-65cada6aa765-->
-- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Dulcinea](https://bg3.wiki/wiki/Dulcinea) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:7cf35079-7b31-4b9a-8547-10b762195695-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Gribbo](https://bg3.wiki/wiki/Gribbo) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:7544ae41-185a-4edc-97ef-9260dc9ec3c6-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Lakrissa](https://bg3.wiki/wiki/Lakrissa) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:c85dc0cd-46f2-4bcf-a00b-31379896d916-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Lorroakan](https://bg3.wiki/wiki/Lorroakan) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:d0dee677-f6c4-4c07-9607-65f57bd50f29-->
@@ -1342,10 +1349,6 @@
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Rion](https://bg3.wiki/wiki/Rion) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:219d17c3-3439-499b-8ee3-6b3241bcd45b-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Rolan](https://bg3.wiki/wiki/Rolan) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:e08181f2-6238-49de-9ca8-b1e157b8ee8d-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Sarevok](https://bg3.wiki/wiki/Sarevok) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:54426530-002d-4c4c-886c-08b1d621910e-->
-- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Sarevok's Daughter](https://bg3.wiki/wiki/Sarevok%27s_Daughter) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:1c518293-1feb-440e-97e5-7d04e74ef307-->
-- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Sarevok's Son](https://bg3.wiki/wiki/Sarevok%27s_Son) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:489a4e68-2033-428d-adbc-70e962af5c16-->
-- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Sarevok's Wife](https://bg3.wiki/wiki/Sarevok%27s_Wife) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:7977d1b1-0a2c-4ca8-be3f-524d2fb8d44c-->
-- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Talia](https://bg3.wiki/wiki/Talia) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:a1aeb318-5455-4224-8b78-31a0459835f1-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Tav](https://bg3.wiki/wiki/Tav) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:d7df864e-4cb7-405d-8c69-c249be68c65f-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Wyll](https://bg3.wiki/wiki/Wyll) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:73a6952b-840c-4924-a20a-bc80145432ec-->
 
@@ -1457,14 +1460,9 @@
 
   
 # Items Obtained in Various Locations (WIP)
-- ::item_veryrare:: [Moon Devotion Robe](https://bg3.wiki/wiki/Moon%20Devotion%20Robe) <!--uuid:b68a8fac-25c2-43d6-ae27-05b3768ea4cc-->
-- ::item_veryrare:: [Voss' Silver Sword](https://bg3.wiki/wiki/Voss'%20Silver%20Sword) <!--uuid:78bf2734-a34d-49de-87b8-3b70a755a90f-->
 - ::item_rare:: [After Death Do Us Part](https://bg3.wiki/wiki/After%20Death%20Do%20Us%20Part) <!--uuid:f12972a7-2fd7-44ff-bb52-d2c0f72fd751-->
-- ::item_rare:: [Blade of Oppressed Souls](https://bg3.wiki/wiki/Blade%20of%20Oppressed%20Souls) <!--uuid:19ed7f6a-ff78-4969-9522-0a95331d7b30-->
 - ::item_rare:: [Dagger +2](https://bg3.wiki/wiki/Dagger%20+2) <!--uuid:9790700b-271a-488c-aabd-a35db68e376d-->
-- ::item_rare:: [Dolor Amarus](https://bg3.wiki/wiki/Dolor%20Amarus) <!--uuid:bc221788-30a3-496c-b5bc-9e449b9b7918-->
 - ::item_rare:: [Gold Wyrmling Staff](https://bg3.wiki/wiki/Gold%20Wyrmling%20Staff) <!--uuid:6ce99b32-daa1-4459-a4b5-060cc14c4db2-->
-- ::item_rare:: [Infernal Mace](https://bg3.wiki/wiki/Infernal%20Mace) <!--uuid:5e972642-7b98-4a1a-b9b7-2985cf17dabc-->
 - ::item_rare:: [Jhannyl's Gloves](https://bg3.wiki/wiki/Jhannyl's%20Gloves) <!--uuid:d1a37b9c-a813-4baa-8eeb-f7e8a4591c70-->
 - ::item_rare:: [Quarterstaff +2](https://bg3.wiki/wiki/Quarterstaff%20+2) <!--uuid:2952444e-2c4d-4521-9147-e4f1470a31ed-->
 - ::item_rare:: [Rapier +2](https://bg3.wiki/wiki/Rapier%20+2) <!--uuid:e4759a01-be00-4eb5-bf4a-51691b2cac27-->
@@ -1481,8 +1479,6 @@
 - ::item_uncommon:: [Necklace of Elemental Augmentation](https://bg3.wiki/wiki/Necklace%20of%20Elemental%20Augmentation) <!--uuid:4d2769c7-0c56-477a-961e-af1c1c617a73-->
 - ::item_uncommon:: [Tarnished Charm](https://bg3.wiki/wiki/Tarnished%20Charm) <!--uuid:d7ee72e5-7573-4c72-9dd7-6bc955dcfb0a-->
 - ::item_uncommon:: [The Whispering Promise](https://bg3.wiki/wiki/The%20Whispering%20Promise) <!--uuid:1a27a313-822a-404c-a25f-07f51ea37bab-->
-- ::item_uncommon:: [Very Heavy Greataxe](https://bg3.wiki/wiki/Very%20Heavy%20Greataxe) <!--uuid:e751fb86-125a-4acb-a6ad-5ce54d963d89-->
-- ::item_uncommon:: [Vision of the Absolute](https://bg3.wiki/wiki/Vision%20of%20the%20Absolute) <!--uuid:00eaef13-156b-4391-9443-45e51843d8d0-->
 - ::item_uncommon:: [Winter's Clutches](https://bg3.wiki/wiki/Winter's%20Clutches) <!--uuid:84b6a557-da0a-4863-8f91-47df7fe14ad5-->
 - ::item_common:: [Artificial Leech (C1)](https://bg3.wiki/wiki/Artificial%20Leech) <!--uuid:dd27457d-a3ef-4f65-8f9f-533aba5dc744-->
 - ::item_common:: [Gnarled Tree Branch](https://bg3.wiki/wiki/Gnarled%20Tree%20Branch) <!--uuid:fcacf1c4-f243-4d24-9cfa-e3d964ec6895-->
@@ -1493,7 +1489,6 @@
 - ::item_common:: [Watcher Crossbow](https://bg3.wiki/wiki/Watcher%20Crossbow) <!--uuid:45ce69a9-2080-43d1-af8f-ae07699803aa-->
 # Items Obtained in Unknown Locations (WIP)
 - ::item_rare:: [Studded Shield +1](https://bg3.wiki/wiki/Studded%20Shield%20+1) <!--uuid:aa1df211-181d-4ec8-993d-81d8934a8f5a-->
-- ::item_uncommon:: [Sylvan Scimitar](https://bg3.wiki/wiki/Sylvan%20Scimitar) <!--uuid:37d0b806-5c58-408a-bc76-9336ee8f0350-->
 - ::item_uncommon:: [Murderous Cut](https://bg3.wiki/wiki/Murderous%20Cut) <!--uuid:ef77ffbc-1451-4898-8bb2-9331cca91b5a-->
 - ::item_common:: [Azer Warhammer](https://bg3.wiki/wiki/Azer%20Warhammer) <!--uuid:989b85a1-fc91-4034-8412-50b28c1d377a-->
 - ::item_common:: [Damaged Scale Mail](https://bg3.wiki/wiki/Damaged%20Scale%20Mail) <!--uuid:41a3c637-89cf-4e5f-9845-67990eaab574-->
