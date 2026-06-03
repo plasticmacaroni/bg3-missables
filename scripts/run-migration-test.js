@@ -26,6 +26,7 @@ const {
   migrateSaveToUUIDs,
   CURRENT_VERSION,
   SAVE_KEY_PREFIX,
+  LEGACY_KEY_ALIASES,
 } = require("../js/migrate");
 
 const REPO_ROOT = path.resolve(__dirname, "..");
@@ -56,6 +57,13 @@ function main() {
       oldToNewMap[it.legacyId] = it.uuid;
       itemsWithUuid++;
     }
+  }
+
+  // Mirror migrate.js: historical broken-link keys resolve via the alias
+  // table. Seed beneath the parse-derived map so this test's orphan/preserve
+  // accounting matches what migrateSaveToUUIDs actually does.
+  for (const aliasKey of Object.keys(LEGACY_KEY_ALIASES || {})) {
+    if (!(aliasKey in oldToNewMap)) oldToNewMap[aliasKey] = LEGACY_KEY_ALIASES[aliasKey];
   }
 
   if (itemsWithUuid === 0) {

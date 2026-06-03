@@ -169,7 +169,7 @@
 - Finish the Masterwork weapon at a former blacksmith's home, get a sussur bark from the Underdark <!--uuid:ab96aedc-2fde-46dc-9026-a84fcc99b3dd-->
 - Find The Cellar <!--uuid:0975ad60-5383-49d4-a5d3-453fbd996f0e-->
   - ::ability:: [Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) - turn all three pages while reading the book to gain +1 to Wisdom saving throws and ability checks, plus ability to cast Speak with Dead once per long rest <!--uuid:6e05e781-af31-4052-9201-70a770479c9d-->
-  - ::ability:: [Find Familiar: Cheeky Quasit](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit) - find the [Scroll of Summon Quasit](https://bg3.wiki/wiki/Scroll_of_Summon_Quasit) in the cellar and use correct dialogue options to permanently gain ability to summon [Shovel](https://bg3.wiki/wiki/Shovel_(familiar)) <!--uuid:911f21a1-87cc-4548-a979-c192f3ece662-->
+  - ::ability:: [Find Familiar: Cheeky Quasit](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit) - find the [Scroll of Summon Quasit](https://bg3.wiki/wiki/Scroll_of_Summon_Quasit) in the cellar and use correct dialogue options to permanently gain ability to summon [Shovel](https://bg3.wiki/wiki/Shovel_%28familiar%29) <!--uuid:911f21a1-87cc-4548-a979-c192f3ece662-->
 - Climb the well into a dungeon ([Whispering Depths](https://bg3.wiki/wiki/Whispering_Depths)) which has decent loot <!--uuid:87e30a88-1136-4e92-aa0e-c59578e3282b-->
   - Find a [Dark Amethyst](https://bg3.wiki/wiki/Dark_Amethyst) that can be used to [open a certain book](https://bg3.wiki/wiki/Necromancy_of_Thay) <!--uuid:3f5be803-5a7f-4191-97a8-470e504da231-->
 - ::missable:: Rescue [Barcus](https://bg3.wiki/wiki/Rescue_the_Gnome) from the windmill (leaving for Act 1.5 will mean he can no longer be rescued) <!--uuid:b8ce1064-bc47-43cf-b471-7966b3b14099-->
@@ -185,7 +185,7 @@
 - ::item_uncommon:: [Spiderstep Boots](https://bg3.wiki/wiki/Spiderstep%20Boots) <!--uuid:f9792f41-9dd7-4ef2-a093-77de66aece3e-->
 - ::item_uncommon:: [Spurred Band](https://bg3.wiki/wiki/Spurred%20Band) <!--uuid:100040e3-c193-4cb1-b6bd-84cd653a034d-->
 # Mountain Pass
-- ::item_uncommon:: [Githyanki Greatsword (Psionic)](https://bg3.wiki/wiki/Githyanki%20Greatsword%20(Psionic)) <!--uuid:46c491b8-6239-48b5-9300-2e55b70a820f-->
+- ::item_uncommon:: [Githyanki Greatsword (Psionic)](https://bg3.wiki/wiki/Githyanki%20Greatsword%20%28Psionic%29) <!--uuid:46c491b8-6239-48b5-9300-2e55b70a820f-->
 - After you discover [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss), speak to him before long resting, or deal with some permanent consequences <!--uuid:0f87beef-196c-47af-b2e1-93b72726201a-->
 - If you decide to fight, remember you can cause [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss) to drop [his sword](https://bg3.wiki/wiki/Silver%20Sword%20of%20the%20Astral%20Plane) for Lae'zel with the command spell <!--uuid:c9868acf-91ef-4216-b3d9-e58435e9f6b1-->
 # Owlbear Nest
@@ -228,7 +228,7 @@
 # Riverside Teahouse
 - Save a [pregnant mother](https://bg3.wiki/wiki/Save_Mayrina) <!--uuid:eeabc8e2-71f3-4f93-93b9-d2d821467434-->
 - ::ability:: [Auntie Ethel's Hair](https://bg3.wiki/wiki/Auntie_Ethel%27s_Hair) - defeat [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) and take her deal to spare her life, permanently gain +1 to any ability score (can exceed 20) <!--uuid:718357b6-1600-4a80-9a4c-eb61960883f7-->
-- ::ability:: [Paid the Price](https://bg3.wiki/wiki/Paid_the_Price_(Condition)) - accept [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel)'s deal to remove the parasite, gain +1 to Intimidation but -1 to Perception and disadvantage when attacking hags <!--uuid:4eff1e74-df7b-4447-b9df-27e8a384333e-->
+- ::ability:: [Paid the Price](https://bg3.wiki/wiki/Paid_the_Price_%28Condition%29) - accept [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel)'s deal to remove the parasite, gain +1 to Intimidation but -1 to Perception and disadvantage when attacking hags <!--uuid:4eff1e74-df7b-4447-b9df-27e8a384333e-->
 - ::item_story:: A missable [Mayrina's Locket](https://bg3.wiki/wiki/Mayrina%27s%20Locket) can be obtained here. Obtaining this item may prevent obtaining other items, so it is not recommended to collect this one. (Alternate methods may be available. Verification needed.) <!--uuid:1d9d2d16-e8a8-467f-b3d8-269fe4f6d8d8-->
 # Overgrown Tunnel
 - ::item_uncommon:: [Staff of Crones](https://bg3.wiki/wiki/Staff%20of%20Crones) <!--uuid:48dfa06c-9cc6-46c5-a10f-633072c64542-->
@@ -297,8 +297,8 @@
 - ::item_uncommon:: [Luminous Armour](https://bg3.wiki/wiki/Luminous%20Armour) <!--uuid:194abd6e-1b76-4596-976d-dcf702720ed5-->
 - ::item_uncommon:: [The Blast Pendant](https://bg3.wiki/wiki/The%20Blast%20Pendant) <!--uuid:f4ce381d-cc37-4e4e-892a-2144669d7cb0-->
 # The Festering Cove
-- ::ability:: [BOOOAL's Benediction](https://bg3.wiki/wiki/BOOOAL%27s_Benediction_(Condition)) - sacrifice a companion to [BOOOAL](https://bg3.wiki/wiki/BOOOAL) or pickpocket the [Sickle of BOOOAL](https://bg3.wiki/wiki/Sickle_of_BOOOAL) and pass persuasion checks, gain advantage on attack rolls against bleeding targets <!--uuid:61b61926-558b-4114-8d7f-6259b1b05d82-->
-- ::item_rare:: [Drow Studded Leather Armour (R1)](https://bg3.wiki/wiki/Drow%20Studded%20Leather%20Armour%20(R1)) <!--uuid:6558a71a-7ca5-4c32-87d2-d03d0dbdb9a0-->
+- ::ability:: [BOOOAL's Benediction](https://bg3.wiki/wiki/BOOOAL%27s_Benediction_%28Condition%29) - sacrifice a companion to [BOOOAL](https://bg3.wiki/wiki/BOOOAL) or pickpocket the [Sickle of BOOOAL](https://bg3.wiki/wiki/Sickle_of_BOOOAL) and pass persuasion checks, gain advantage on attack rolls against bleeding targets <!--uuid:61b61926-558b-4114-8d7f-6259b1b05d82-->
+- ::item_rare:: [Drow Studded Leather Armour (R1)](https://bg3.wiki/wiki/Drow%20Studded%20Leather%20Armour) <!--uuid:6558a71a-7ca5-4c32-87d2-d03d0dbdb9a0-->
 - ::item_uncommon:: [Helmet of Autonomy](https://bg3.wiki/wiki/Helmet%20of%20Autonomy) <!--uuid:ea04759f-c988-4c03-b7db-73adb1c64578-->
 - ::item_uncommon:: [Slippery Chain Shirt](https://bg3.wiki/wiki/Slippery%20Chain%20Shirt) <!--uuid:56535c4e-69c1-4fbd-8b9e-2ca6f721cc2a-->
 # Arcane Tower
@@ -311,7 +311,7 @@
 - ::item_uncommon:: [Skybreaker](https://bg3.wiki/wiki/Skybreaker) <!--uuid:35ab98d9-1e86-499f-a0e0-5724a7f92dec-->
 - ::item_uncommon:: [Staff of Arcane Blessing](https://bg3.wiki/wiki/Staff%20of%20Arcane%20Blessing) <!--uuid:cff915f4-66c3-4e50-9085-1f2de153d7ed-->
 - ::item_uncommon:: [The Sparkswall](https://bg3.wiki/wiki/The%20Sparkswall) <!--uuid:132df8d6-3d37-464d-9851-203898fec3d7-->
-- ::item_common:: [Dog Collar (C2)](https://bg3.wiki/wiki/Dog%20Collar%20(C2)) <!--uuid:0a1d5437-10f1-4f5c-b7dd-99510a24b5bd-->
+- ::item_common:: [Dog Collar (C2)](https://bg3.wiki/wiki/Dog%20Collar) <!--uuid:0a1d5437-10f1-4f5c-b7dd-99510a24b5bd-->
 - Use the dog collar to [achieve an unexpected result with a button](https://bg3.wiki/wiki/Dog_Collar) <!--uuid:7c293436-48bd-42d1-890d-f1dde5e61ee7-->
   - Find and dig on a dog's grave on the Underdark Road to find the necessary item <!--uuid:69c5151d-bcfe-47f3-8458-499e52004497-->
 - Meet Bernard <!--uuid:c1d59fe6-3216-499f-bf59-eaf1862def07-->
@@ -325,7 +325,7 @@
 - ::item_rare:: [Cap of Wrath](https://bg3.wiki/wiki/Cap%20of%20Wrath) <!--uuid:a84a644a-9bc9-46ac-82bc-98231a5e925d-->
 - ::item_rare:: [Fetish of Callarduran Smoothhands](https://bg3.wiki/wiki/Fetish%20of%20Callarduran%20Smoothhands) <!--uuid:e8de0be9-19b5-463b-8652-174048d94480-->
 - ::item_rare:: [Jorgoral's Greatsword](https://bg3.wiki/wiki/Jorgoral's%20Greatsword) <!--uuid:e3323856-87fa-4ddd-9c86-78802f9e4576-->
-- ::item_rare:: [Sentient Amulet (R1)](https://bg3.wiki/wiki/Sentient%20Amulet%20(R1)) <!--uuid:ed97252d-fcaf-44a0-90df-936b999c6436-->
+- ::item_rare:: [Sentient Amulet (R1)](https://bg3.wiki/wiki/Sentient%20Amulet) <!--uuid:ed97252d-fcaf-44a0-90df-936b999c6436-->
 - ::item_rare:: [The Protecty Sparkswall](https://bg3.wiki/wiki/The%20Protecty%20Sparkswall) <!--uuid:375aac15-b335-42f1-b093-d55316b0448b-->
 - ::item_rare:: [Wondrous Gloves](https://bg3.wiki/wiki/Wondrous%20Gloves) <!--uuid:19ad93c6-4824-481a-a159-8ed782625fe1-->
 - ::item_uncommon:: [Armour of Uninhibited Kushigo](https://bg3.wiki/wiki/Armour%20of%20Uninhibited%20Kushigo) <!--uuid:a26fbacb-decd-4095-b8c0-f89e04dac3b9-->
@@ -392,7 +392,7 @@
 - ::ability:: Participate in [Abdirak's](https://bg3.wiki/wiki/Abdirak) ritual to gain a permanent bonus, [Loviatar's Love](https://bg3.wiki/wiki/Loviatar%27s_Love_%28Condition%29) <!--uuid:2bb5124e-5ccc-442b-85d7-8c7932489bb7-->
 - ::task:: Complete [Rescue Volo](https://bg3.wiki/wiki/Rescue_Volo) before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees) <!--uuid:af70c16a-3137-4cae-bb2f-38b31b039b12-->
   - ::item_uncommon:: [Blazer of Benevolence](https://bg3.wiki/wiki/Blazer%20of%20Benevolence) <!--uuid:597056b0-7b84-4b1f-abab-7db42cbca9fb-->
-  - ::ability:: [Volo's Ersatz Eye](https://bg3.wiki/wiki/Volo%27s_Ersatz_Eye) - agree to his experimental surgery, permanently gain [See Invisibility](https://bg3.wiki/wiki/See_Invisibility_(Condition)) effect <!--uuid:3866df92-aac7-4d81-97b4-4624659dd7c1-->
+  - ::ability:: [Volo's Ersatz Eye](https://bg3.wiki/wiki/Volo%27s_Ersatz_Eye) - agree to his experimental surgery, permanently gain [See Invisibility](https://bg3.wiki/wiki/See_Invisibility_%28Condition%29) effect <!--uuid:3866df92-aac7-4d81-97b4-4624659dd7c1-->
 - ::task:: Minor missable events with ordinary rewards are available <!--uuid:5c0c6a13-5312-4f98-bf46-8e2451edd66c-->
   - ::task:: [Poison the goblins](https://bg3.wiki/wiki/Goblin_Camp#Booze_Tub) and do not get caught <!--uuid:893fd701-bf55-4a06-ab8f-b75a3974b26e-->
   - ::task:: Rescue the [tortured prisoner](https://bg3.wiki/wiki/Shattered_Sanctum#Torture_rack) and do not get caught <!--uuid:4d031075-0ca8-43e6-883d-7a7f121b3740-->
@@ -654,7 +654,7 @@
   - You can optionally harvest [their captor's](https://bg3.wiki/wiki/Linsella) parasite (in the kitchen) <!--uuid:96ab82dc-e896-49e8-a3f7-0eb04e40eed1-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Krizt](https://bg3.wiki/wiki/Krizt) when killed <!--uuid:b46f80db-5b0e-4668-b735-4f08bbe70053-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Linsella](https://bg3.wiki/wiki/Linsella) when killed <!--uuid:cc5574e2-2954-4ac3-94a1-25efb53ccf27-->
-- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Malik](https://bg3.wiki/wiki/Malik_(zealot)) when killed <!--uuid:4b7d6974-b511-4926-8cff-ea0412c6bf56-->
+- ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Malik](https://bg3.wiki/wiki/Malik_%28zealot%29) when killed <!--uuid:4b7d6974-b511-4926-8cff-ea0412c6bf56-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Marcus](https://bg3.wiki/wiki/Marcus_Falgor) when killed <!--uuid:3629dbc1-54b4-4041-87cc-b25fd5fcd528-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Merim](https://bg3.wiki/wiki/Merim) when killed <!--uuid:de9613c6-2065-424b-8fdb-50f2f6d9ba3f-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Z'rell](https://bg3.wiki/wiki/Z%27rell) when killed <!--uuid:9a483699-f108-44af-b1db-c6b5ea34678b-->
@@ -680,7 +680,7 @@
 - ::ability:: [Arabella's Shadow Entangle](https://bg3.wiki/wiki/Arabella%27s_Shadow_Entangle) - tell [Arabella](https://bg3.wiki/wiki/Arabella) about her parents' fate during [Find Arabella's Parents](https://bg3.wiki/wiki/Find_Arabella%27s_Parents) to gain ability to entangle undead and shadow creatures <!--uuid:16e9af85-fa5c-4c51-a984-488a477e40bc-->
 - ::ability:: [Consumed Shadow Weave](https://bg3.wiki/wiki/Consumed_Shadow_Weave) - consume shadow weave in the Shadow-Cursed Lands to gain advantage against shadow creatures <!--uuid:cd4dfd97-a567-4207-bc2b-4c30d122aa57--> 
 - Interact with the center statue puzzle to [open a pathway down](https://bg3.wiki/wiki/Sharran_Sanctuary) <!--uuid:a8167371-aeec-4792-bef3-eb3bf094e75e-->
-  - Complete the puzzle in the room for three temporary buffs ([1](https://bg3.wiki/wiki/Dark_Lady%27s_Grace_(Condition)), ([2](https://bg3.wiki/wiki/Dark_Lady%27s_Awareness_(Condition)), ([3](https://bg3.wiki/wiki/Dark_Lady%27s_Erudition_(Condition)) but DO NOT head further down and complete the area, freeing an important prisoner, or you'll lock yourself out of freeing prisoners at Moonrise <!--uuid:2280146a-8331-4be3-9702-06b8e1c2a5b0-->
+  - Complete the puzzle in the room for three temporary buffs ([1](https://bg3.wiki/wiki/Dark_Lady%27s_Grace_%28Condition%29), ([2](https://bg3.wiki/wiki/Dark_Lady%27s_Awareness_%28Condition%29), ([3](https://bg3.wiki/wiki/Dark_Lady%27s_Erudition_%28Condition%29) but DO NOT head further down and complete the area, freeing an important prisoner, or you'll lock yourself out of freeing prisoners at Moonrise <!--uuid:2280146a-8331-4be3-9702-06b8e1c2a5b0-->
   - Deal with the gith patrol and [their leader](https://bg3.wiki/wiki/Tska%27an) <!--uuid:bf999034-d91e-4b81-8bc2-78c8585b9aeb-->
 # Mason's Guild
 - Explore [the basement](https://bg3.wiki/wiki/Mason%27s_Guild) <!--uuid:808d8fdf-4b92-4555-9b91-4923e2000f14-->
@@ -695,22 +695,22 @@
 - ::item_rare:: [Surgeon's Subjugation Amulet](https://bg3.wiki/wiki/Surgeon's%20Subjugation%20Amulet) <!--uuid:1d6ed916-f569-4b07-b6b9-7f857cf1d525-->
 - ::item_rare:: [True Love's Caress](https://bg3.wiki/wiki/True%20Love's%20Caress) <!--uuid:49e5f9d6-f7b8-4b37-acb4-f9492c3224ea-->
 - ::item_rare:: [True Love's Embrace](https://bg3.wiki/wiki/True%20Love's%20Embrace) <!--uuid:36e2d475-e0d7-447e-8294-9d77b9fd028b-->
-- ::item_uncommon:: [Artificial Leech (U1)](https://bg3.wiki/wiki/Artificial%20Leech%20(U1)) <!--uuid:4e95eb6c-e1ac-444f-8f1a-03e0aca27f05-->
+- ::item_uncommon:: [Artificial Leech (U1)](https://bg3.wiki/wiki/Artificial%20Leech) <!--uuid:4e95eb6c-e1ac-444f-8f1a-03e0aca27f05-->
 - ::item_uncommon:: [Assassin's Shortsword](https://bg3.wiki/wiki/Assassin's%20Shortsword) <!--uuid:ddb6b3e9-fe84-42c3-8a7b-48d6fab7b59d-->
 - ::item_uncommon:: [Bided Time](https://bg3.wiki/wiki/Bided%20Time) <!--uuid:fd456dc0-8ea1-40f9-ac6f-e0a685d52d6f-->
-- ::item_uncommon:: [Bonesaw (U1)](https://bg3.wiki/wiki/Bonesaw%20(U1)) <!--uuid:9d36a249-823f-4c9e-a65c-30ce95fd0939-->
+- ::item_uncommon:: [Bonesaw (U1)](https://bg3.wiki/wiki/Bonesaw) <!--uuid:9d36a249-823f-4c9e-a65c-30ce95fd0939-->
 - ::item_uncommon:: [Eversight Ring](https://bg3.wiki/wiki/Eversight%20Ring) <!--uuid:9178f3fc-f381-4345-a1b7-0522a7392801-->
 - ::item_uncommon:: [Firzu's Ring of Trading](https://bg3.wiki/wiki/Firzu's%20Ring%20of%20Trading) <!--uuid:617fbd44-faba-4fca-8624-e13a8f5634eb-->
 - ::item_uncommon:: [Fleshmelter Cloak](https://bg3.wiki/wiki/Fleshmelter%20Cloak) <!--uuid:f5b13e2c-0af4-4b73-9c98-607b1a24548b-->
 - ::item_uncommon:: [Lightning Jabber](https://bg3.wiki/wiki/Lightning%20Jabber) <!--uuid:f52415b0-ddca-4c62-a7a9-4067770faae4-->
 - ::item_uncommon:: [Protective Plate](https://bg3.wiki/wiki/Protective%20Plate) <!--uuid:f3550ccf-b88f-4ce9-95b4-00fc18a9d060-->
 - ::item_uncommon:: [Shar's Temptation](https://bg3.wiki/wiki/Shar's%20Temptation) <!--uuid:38f62cf6-b8c1-49dc-baa4-22d0bafb7b0a-->
-- ::item_uncommon:: [Syringe (U1)](https://bg3.wiki/wiki/Syringe%20(U1)) <!--uuid:61a0fd08-25a1-4280-a6d2-84894e949f39-->
-- ::item_uncommon:: [Trepan (U1)](https://bg3.wiki/wiki/Trepan%20(U1)) <!--uuid:14476ec2-17a9-4660-8fc1-4f2ba2c3ad9a-->
+- ::item_uncommon:: [Syringe (U1)](https://bg3.wiki/wiki/Syringe) <!--uuid:61a0fd08-25a1-4280-a6d2-84894e949f39-->
+- ::item_uncommon:: [Trepan (U1)](https://bg3.wiki/wiki/Trepan) <!--uuid:14476ec2-17a9-4660-8fc1-4f2ba2c3ad9a-->
 - ::item_uncommon:: [Watcher's Shield](https://bg3.wiki/wiki/Watcher's%20Shield) <!--uuid:499c6bae-62b3-4a27-a66e-382ec16ecdc2-->
-- ::item_common:: [Bonesaw (C1)](https://bg3.wiki/wiki/Bonesaw%20(C1)) <!--uuid:c655ceb6-4c90-403f-8954-d712aafe1418-->
-- ::item_common:: [Syringe (C1)](https://bg3.wiki/wiki/Syringe%20(C1)) <!--uuid:252bafc2-35d5-4134-8d27-081b859e6e7b-->
-- ::item_common:: [Trepan (C1)](https://bg3.wiki/wiki/Trepan%20(C1)) <!--uuid:1612a669-bd56-40fc-ab6b-3ccd5c310e5e-->
+- ::item_common:: [Bonesaw (C1)](https://bg3.wiki/wiki/Bonesaw) <!--uuid:c655ceb6-4c90-403f-8954-d712aafe1418-->
+- ::item_common:: [Syringe (C1)](https://bg3.wiki/wiki/Syringe) <!--uuid:252bafc2-35d5-4134-8d27-081b859e6e7b-->
+- ::item_common:: [Trepan (C1)](https://bg3.wiki/wiki/Trepan) <!--uuid:1612a669-bd56-40fc-ab6b-3ccd5c310e5e-->
 - Find [the lost tiefling child's parents](https://bg3.wiki/wiki/Find_Arabella%27s_Parents) <!--uuid:7594f212-54e3-4a9e-83e5-e2606441d391-->
 - Kill [a surgeon with questionable ethics](https://bg3.wiki/wiki/Malus_Thorm) and take his instrument <!--uuid:d9eaa592-3aff-49aa-aa37-c25337623499--> 
   - Keep him from stabbing you for an achievement <!--uuid:3fc9d6f6-625c-4a12-9eae-0e254cff9044-->
@@ -742,14 +742,14 @@
 - ::item_veryrare:: [Killer's Sweetheart](https://bg3.wiki/wiki/Killer's%20Sweetheart) <!--uuid:7b17f2a0-107a-4e94-9033-6e728d692f67-->
 - ::item_rare:: [Boots of Brilliance](https://bg3.wiki/wiki/Boots%20of%20Brilliance) <!--uuid:df2adeb9-8d89-4281-bb4c-8d14bd34444b-->
 - ::item_rare:: [Dark Justiciar Boots](https://bg3.wiki/wiki/Dark%20Justiciar%20Boots) <!--uuid:37c8f43f-c344-48de-8142-33b171009745-->
-- ::item_rare:: [Dark Justiciar Gauntlets (R1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Gauntlets%20(R1)) <!--uuid:cac6bb38-65d9-4b46-9c75-58d002028a07-->
-- ::item_rare:: [Dark Justiciar Half-Plate (R1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Half-Plate%20(R1)) <!--uuid:82bce5ad-e927-498d-a43d-bb5bfd02c5cf-->
+- ::item_rare:: [Dark Justiciar Gauntlets (R1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Gauntlets) <!--uuid:cac6bb38-65d9-4b46-9c75-58d002028a07-->
+- ::item_rare:: [Dark Justiciar Half-Plate (R1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Half-Plate) <!--uuid:82bce5ad-e927-498d-a43d-bb5bfd02c5cf-->
 - ::item_rare:: [Justiciar's Greatshield](https://bg3.wiki/wiki/Justiciar's%20Greatshield) <!--uuid:dcad7849-25e3-4643-9484-1347095fbc00-->
 - ::item_rare:: [Least Expected](https://bg3.wiki/wiki/Least%20Expected) <!--uuid:3817e383-03fa-4015-a841-2839a0a6c6e7-->
 - ::item_rare:: [Spear of Night](https://bg3.wiki/wiki/Spear%20of%20Night) <!--uuid:c6b3485a-478f-46be-ae10-b8d4eec87198-->
 - ::item_uncommon:: [Callous Glow Ring](https://bg3.wiki/wiki/Callous%20Glow%20Ring) <!--uuid:4efd6bc1-9f93-4548-b838-a2eb54c7964f-->
-- ::item_uncommon:: [Dark Justiciar Gauntlets (U1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Gauntlets%20(U1)) <!--uuid:7675adef-17bd-4b39-9c03-6d698ced6714-->
-- ::item_common:: [Shortsword (Yurgir)](https://bg3.wiki/wiki/Shortsword%20(Yurgir)) <!--uuid:14408a59-8a81-432b-969a-747a8c1dde17-->
+- ::item_uncommon:: [Dark Justiciar Gauntlets (U1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Gauntlets) <!--uuid:7675adef-17bd-4b39-9c03-6d698ced6714-->
+- ::item_common:: [Shortsword (Yurgir)](https://bg3.wiki/wiki/Shortsword%20%28Yurgir%29) <!--uuid:14408a59-8a81-432b-969a-747a8c1dde17-->
 - Check out the path to the right of the entryway statue for treasure "hidden in darkness" <!--uuid:bb3d7462-d379-4087-aa59-38da80f43b4d-->
 - Kill [Balthazar](https://bg3.wiki/wiki/Balthazar) <!--uuid:8b1a4aef-4d5a-4a01-b666-f29b50cf9a48-->
   - If somehow you don't have a moonlantern yet, pass checks before killing him to get one <!--uuid:e8bffcb5-e344-409b-be4f-fb0cd9acc287-->
@@ -765,7 +765,7 @@
   - [Faith-Leap Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Faith-Step_Trial) <!--uuid:a88b5867-ba94-4c45-8f49-bcda14897cbc-->
 # Shadowfell
 - ::item_legendary:: [Shar's Spear of Evening](https://bg3.wiki/wiki/Shar's%20Spear%20of%20Evening) <!--uuid:208130f7-e533-49e7-a387-b65842e2d898-->
-- ::item_veryrare:: [Dark Justiciar Half-Plate (VR1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Half-Plate%20(VR1)) <!--uuid:f4bc02a9-acb2-45b5-97e2-f5c68fce1b8f-->
+- ::item_veryrare:: [Dark Justiciar Half-Plate (VR1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Half-Plate) <!--uuid:f4bc02a9-acb2-45b5-97e2-f5c68fce1b8f-->
 - ::item_rare:: [Moonlight Glaive](https://bg3.wiki/wiki/Moonlight%20Glaive) <!--uuid:acd31030-c8bc-40b9-9711-57235a6fb3e2-->
 # Moonrise Towers (Revisited)
 - Visit [the Inn](https://bg3.wiki/wiki/Last_Light_Inn) and gather forces <!--uuid:25eb366f-140e-4df5-9db0-cf86ab0e19bf-->
@@ -869,7 +869,7 @@
 
 # Rivington - Circus of the Last Days
 - ::item_rare:: [The Pointy Hat](https://bg3.wiki/wiki/The%20Pointy%20Hat) <!--uuid:cd04c5aa-3886-4b0e-807d-23af85a8ac3a-->
-- ::ability:: [Sweet Stone Features](https://bg3.wiki/wiki/Sweet_Stone_Features_(Condition)) - pay [Boney](https://bg3.wiki/wiki/Boney) 5000 gold to have [Stoney](https://bg3.wiki/wiki/Stoney) construct a statue of your character, gain +1d4 bonus to attack rolls and saving throws <!--uuid:34ddc36a-783f-4df6-bc2c-50960ae37bd2-->
+- ::ability:: [Sweet Stone Features](https://bg3.wiki/wiki/Sweet_Stone_Features_%28Condition%29) - pay [Boney](https://bg3.wiki/wiki/Boney) 5000 gold to have [Stoney](https://bg3.wiki/wiki/Stoney) construct a statue of your character, gain +1d4 bonus to attack rolls and saving throws <!--uuid:34ddc36a-783f-4df6-bc2c-50960ae37bd2-->
 - Participate in a show with a [suspicious clown](https://bg3.wiki/wiki/Dribbles) <!--uuid:6c379966-31b6-412d-b41e-4939c43024e5-->
   - ::item_rare:: [Clown Hammer](https://bg3.wiki/wiki/Clown%20Hammer) <!--uuid:5d860a60-c623-4ffe-a33b-5a43e3f61709-->
 - Speak to [Lucretious](https://bg3.wiki/wiki/Lucretious) about her [staffing problem](https://bg3.wiki/wiki/Find_Dribbles_the_Clown) after the show <!--uuid:21791ad9-d075-4266-907c-84a133afcf07-->
@@ -878,7 +878,7 @@
 - Get scammed by [a Djinni](https://bg3.wiki/wiki/Akabi) for some prizes <!--uuid:4d5f0857-ecf1-4836-9f66-7c7bc6777a4b-->
   - ::item_uncommon:: [Comback Handaxe](https://bg3.wiki/wiki/Comeback_Handaxe) <!--uuid:146f3afd-2fd5-4df7-968b-4ab258269793-->
   - ::item_uncommon:: [Boots of Very Fast Blinking](https://bg3.wiki/wiki/Boots%20of%20Very%20Fast%20Blinking) <!--uuid:448b2c71-8ed2-4021-8066-eceef4434cee-->
-  - ::item_uncommon:: [Eternal Carafe of Wine (Or Sometimes Acid)](https://bg3.wiki/wiki/Eternal_Carafe_of_Wine_(Or_Sometimes_Acid)) <!--uuid:775d707f-6d29-4e8e-b40d-7ab44a40369f-->
+  - ::item_uncommon:: [Eternal Carafe of Wine (Or Sometimes Acid)](https://bg3.wiki/wiki/Eternal_Carafe_of_Wine_%28Or_Sometimes_Acid%29) <!--uuid:775d707f-6d29-4e8e-b40d-7ab44a40369f-->
   - ::item_uncommon:: [Reverse Rain Cloak](https://bg3.wiki/wiki/Reverse%20Rain%20Cloak) <!--uuid:5c335f6d-c88e-4c42-9ea5-ab97f9cf001d-->
   - ::item_uncommon:: [Staff of a Mumbling Wizard](https://bg3.wiki/wiki/Staff%20of%20a%20Mumbling%20Wizard) <!--uuid:ee96ae6c-763e-4e0b-8f35-41394dff5cfb-->
   - ::item_uncommon:: [Unlucky Thief's Gloves](https://bg3.wiki/wiki/Unlucky%20Thief's%20Gloves) <!--uuid:bd9cc31a-d0c5-4160-a458-faa2b6b71df7-->
@@ -903,9 +903,9 @@
 # Rivington - Open Hand Temple
 - ::item_veryrare:: [Stillmaker](https://bg3.wiki/wiki/Stillmaker) <!--uuid:bc9446f2-9f0f-4986-81ce-75c9b54e124c-->
 - ::item_rare:: [Seraphic Pugilist Gloves](https://bg3.wiki/wiki/Seraphic%20Pugilist%20Gloves) <!--uuid:862bb171-1418-44a6-b917-4c8306f5d6d9-->
-- ::ability:: [Tasha's Hideous Laughter/Monk's Hideous Laughter](https://bg3.wiki/wiki/Tasha%27s_Hideous_Laughter/Monk%27s_Hideous_Laughter) - complete the Open Hand Temple questline to gain access to these unique spells <!--uuid:6d27d062-b661-4f92-b25c-11724a5e5c39-->
-- If you obtained [a funny amulet](https://bg3.wiki/wiki/Sentient_Amulet_(Rare)) in Act 1, visit the basement to [reunite a monk with his granddaughter](https://bg3.wiki/wiki/Help_the_Spirit_of_the_Amulet) <!--uuid:a7b5b5ed-7f6b-4a0c-8543-d0d078453a4a-->
-  - ::item_veryrare:: [Sentient Amulet (Very Rare)](https://bg3.wiki/wiki/Sentient_Amulet_(Very_Rare)) <!--uuid:a75b08b3-340f-459c-9492-9fb8afdd64bc-->
+- ::ability:: [Tasha's Hideous Laughter/Monk's Hideous Laughter](https://bg3.wiki/wiki/Tasha%27s_Hideous_Laughter) - complete the Open Hand Temple questline to gain access to these unique spells <!--uuid:6d27d062-b661-4f92-b25c-11724a5e5c39-->
+- If you obtained [a funny amulet](https://bg3.wiki/wiki/Sentient_Amulet_%28Rare%29) in Act 1, visit the basement to [reunite a monk with his granddaughter](https://bg3.wiki/wiki/Help_the_Spirit_of_the_Amulet) <!--uuid:a7b5b5ed-7f6b-4a0c-8543-d0d078453a4a-->
+  - ::item_veryrare:: [Sentient Amulet (Very Rare)](https://bg3.wiki/wiki/Sentient_Amulet_%28Very_Rare%29) <!--uuid:a75b08b3-340f-459c-9492-9fb8afdd64bc-->
 - Find some murdered refugees in the basement and help [Solve the Open Hand Temple Murders](https://bg3.wiki/wiki/Solve%20the%20Open%20Hand%20Temple%20Murders) <!--uuid:21eb4297-d169-4a6b-a244-910a0f153251-->
 - [An important body part](https://bg3.wiki/wiki/Clown%27s_Severed_Torso) can be found in the cellar near some doppelgangers <!--uuid:52d63005-3a8b-47b0-b9aa-44f686961515-->
 - [Tara](https://bg3.wiki/wiki/Tara) can be found on the roof with [some missing letters](https://bg3.wiki/wiki/Find_the_Missing_Letters) <!--uuid:4453047d-e2c7-4aff-8149-2c6eee929a27-->
@@ -1002,7 +1002,7 @@
 # Lower City - Basilisk Gate Barracks
 - See hag survivor talking to Portyr <!--uuid:ec49cfce-e518-4d09-923f-65c90e46bccf-->
 - If you can speak to animals, [Skittle](https://bg3.wiki/wiki/Skittle) down in the prison offers merchant services <!--uuid:6492f36b-2ba6-4f9e-966f-4cc8927286d9-->
-  - ::item_story:: [Counting House Safe n°2 Key]([https://bg3.wiki/wiki/Guild%20Ring](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%B02_Key)) <!--uuid:6059c6e9-02d6-4e50-9daa-a3a0ed4f7017-->
+  - ::item_story:: [Counting House Safe n°2 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%B02_Key) <!--uuid:6059c6e9-02d6-4e50-9daa-a3a0ed4f7017-->
 
 
 # Lower City - Stormshore Tabernacle
@@ -1066,11 +1066,11 @@
 - ::item_veryrare:: [Amulet of Greater Health](https://bg3.wiki/wiki/Amulet%20of%20Greater%20Health) <!--uuid:6f7d9f23-8bed-4425-918b-880c4a1c12ff-->
 - ::item_veryrare:: [Burnished Ring](https://bg3.wiki/wiki/Burnished%20Ring) <!--uuid:aebb74c5-0451-465a-b90c-3012f119fdad-->
 - ::item_veryrare:: [Gauntlets of Hill Giant Strength](https://bg3.wiki/wiki/Gauntlets%20of%20Hill%20Giant%20Strength) <!--uuid:044b7d4e-c1f1-41fa-a172-6156f41228b3-->
-- ::item_veryrare:: [Gloves of Soul Catching](https://bg3.wiki/wiki/Gloves%20of%20Soul%20Catching) <!--uuid:4a5521e6-895c-487e-9d29-7b7a1966dab5-->
-- ::item_veryrare:: [Helldusk Armour](https://bg3.wiki/wiki/Helldusk%20Armour) <!--uuid:8d7f308f-2937-4a18-a4dd-9ac1867ae0e9-->
+- ::item_legendary:: [Gloves of Soul Catching](https://bg3.wiki/wiki/Gloves%20of%20Soul%20Catching) <!--uuid:4a5521e6-895c-487e-9d29-7b7a1966dab5-->
+- ::item_legendary:: [Helldusk Armour](https://bg3.wiki/wiki/Helldusk%20Armour) <!--uuid:8d7f308f-2937-4a18-a4dd-9ac1867ae0e9-->
 - ::item_veryrare:: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk%20Gloves) <!--uuid:c4809deb-fa01-4426-ba71-ba8723d3f3b1-->
 - ::item_veryrare:: [Helldusk Helmet](https://bg3.wiki/wiki/Helldusk%20Helmet) <!--uuid:c7c41957-42e0-443e-92e3-879ead8b0000-->
-- ::item_veryrare:: [Shield (VR1)](https://bg3.wiki/wiki/Shield%20(VR1)) <!--uuid:d55394ab-f9eb-4203-8a9b-ab4238f17783-->
+- ::item_veryrare:: [Shield (VR1)](https://bg3.wiki/wiki/Shield) <!--uuid:d55394ab-f9eb-4203-8a9b-ab4238f17783-->
 - ::item_veryrare:: [Staff of Spellpower](https://bg3.wiki/wiki/Staff%20of%20Spellpower) <!--uuid:0b8e0842-c816-4741-8c76-bb5e00b3b449-->
 - ::item_uncommon:: [Amulet of Elemental Torment](https://bg3.wiki/wiki/Amulet%20of%20Elemental%20Torment) <!--uuid:ceef5243-08ef-41c7-9928-3b4968e8f17c-->
 - ::item_common:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) x5 - inside [Raphael's](https://bg3.wiki/wiki/Raphael) safe at the Boudoir in the [House of Hope](https://bg3.wiki/wiki/House_of_Hope) <!--uuid:d31a55eb-f909-48e4-9043-c73f1e4bccff-->
@@ -1179,7 +1179,7 @@
 - ::item_story:: [Szarr Family Ring](https://bg3.wiki/wiki/Szarr_Family_Ring) <!--uuid:d948eba4-e2b7-45af-9d9f-1f6985dbba53-->
 - ::item_veryrare:: [Helmet of Grit](https://bg3.wiki/wiki/Helmet_of_Grit) <!--uuid:9cd6d863-e95d-4bc3-9e76-6fc9a066b354-->
 - ::ability:: [Vampire Ascendant](https://bg3.wiki/wiki/Vampire_Ascendant) - help [Astarion](https://bg3.wiki/wiki/Astarion) ascend to become a Vampire Ascendant to gain enhanced vampire abilities <!--uuid:985ac5e3-8ac1-4a74-a39f-109d2bc93629-->
-- ::ability:: [Vampire](https://bg3.wiki/wiki/Vampire) - accept a romanced Vampire Ascendant [Astarion](https://bg3.wiki/wiki/Astarion) to gain [Bite (Vampire Spawn)](https://bg3.wiki/wiki/Bite_(Vampire_Spawn)) action and access to [Circle of Bones](https://bg3.wiki/wiki/Circle_of_Bones) buff <!--uuid:7cb641a0-4d84-4f2b-8aa8-d100a88850a9-->
+- ::ability:: [Vampire](https://bg3.wiki/wiki/Vampire) - accept a romanced Vampire Ascendant [Astarion](https://bg3.wiki/wiki/Astarion) to gain [Bite (Vampire Spawn)](https://bg3.wiki/wiki/Bite_%28Vampire_Spawn%29) action and access to [Circle of Bones](https://bg3.wiki/wiki/Circle_of_Bones) buff <!--uuid:7cb641a0-4d84-4f2b-8aa8-d100a88850a9-->
 
 
 # Lower City - Cazador's Dungeon
@@ -1200,7 +1200,7 @@
 - ::item_veryrare:: [Fey Semblance Amulet](https://bg3.wiki/wiki/Fey%20Semblance%20Amulet) <!--uuid:10bea7e3-0ecf-444c-b864-42aa1b700a66-->
 - ::item_veryrare:: [Ring of Feywild Sparks](https://bg3.wiki/wiki/Ring%20of%20Feywild%20Sparks) <!--uuid:18506edf-ce70-4f1f-9bc5-aad43c9a444c-->
 - ::item_rare:: [Staff of Interruption](https://bg3.wiki/wiki/Staff%20of%20Interruption) <!--uuid:472cf2ae-dd4c-4062-89e1-a1f46f167829-->
-- ::item_rare:: [Salty Scimitar(rrr)](https://bg3.wiki/wiki/Salty%20Scimitar(rrr)) <!--uuid:a2a542c6-3e0b-4e68-8d2a-07e77d115a8f-->
+- ::item_rare:: [Salty Scimitar(rrr)](https://bg3.wiki/wiki/Salty%20Scimitar%28rrr%29) <!--uuid:a2a542c6-3e0b-4e68-8d2a-07e77d115a8f-->
 - ::ability:: [Unstable Blood](https://bg3.wiki/wiki/Unstable_Blood) - meet [Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra) east of the Blushing Mermaid and help her again to receive a potion that makes your blood highly flammable <!--uuid:5138dc0b-09dc-40f8-9cb6-b2c6409ee0d2-->
 
 
@@ -1323,11 +1323,11 @@
 - ::item_legendary:: [Crimson Mischief](https://bg3.wiki/wiki/Crimson%20Mischief) <!--uuid:84f507ac-2c48-49b6-b705-a491af181dcc-->
 - ::item_veryrare:: [Bonespike Gloves](https://bg3.wiki/wiki/Bonespike%20Gloves) <!--uuid:0d0e2cf0-0b82-4702-9b21-40fab3741623-->
 - ::item_rare:: [Mutilated Carapace](https://bg3.wiki/wiki/Mutilated%20Carapace) Looted from Orin <!--uuid:950f7fc3-3244-40b5-b10d-cfd46017bc03-->
-- ::ability:: [Slayer Form](https://bg3.wiki/wiki/Slayer_Form) - as the [Dark Urge](https://bg3.wiki/wiki/Dark_Urge), embrace your nature to gain the Slayer transformation ability <!--uuid:2a60f918-87f8-45aa-b98d-409705740427-->
+- ::ability:: [Slayer Form](https://bg3.wiki/wiki/Slayer) - as the [Dark Urge](https://bg3.wiki/wiki/Dark_Urge), embrace your nature to gain the Slayer transformation ability <!--uuid:2a60f918-87f8-45aa-b98d-409705740427-->
 
 
 # Upper City - The High Hall
-- ::ability:: [Anointed in Splendour](https://bg3.wiki/wiki/Anointed_in_Splendour) - complete the coronation ceremony to gain +1 to all ability scores <!--uuid:e039c438-5660-42ba-88a8-211690f70c3e-->
+- ::ability:: [Anointed in Splendour](https://bg3.wiki/wiki/Coronation) - complete the coronation ceremony to gain +1 to all ability scores <!--uuid:e039c438-5660-42ba-88a8-211690f70c3e-->
 - ::item_rare:: [Thermodynamo Axe](https://bg3.wiki/wiki/Thermodynamo%20Axe) <!--uuid:6c8e65f2-27a6-4f1e-b7b4-52867c0d5e08-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Aelis](https://bg3.wiki/wiki/Aelis) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:ab3b202c-ebb9-4eb4-a8d5-b9711f66b091-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Baelen](https://bg3.wiki/wiki/Baelen) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:9551beb4-a039-4e7f-90b3-dbf52a6e5bf8-->
@@ -1484,9 +1484,9 @@
 - ::item_uncommon:: [Very Heavy Greataxe](https://bg3.wiki/wiki/Very%20Heavy%20Greataxe) <!--uuid:e751fb86-125a-4acb-a6ad-5ce54d963d89-->
 - ::item_uncommon:: [Vision of the Absolute](https://bg3.wiki/wiki/Vision%20of%20the%20Absolute) <!--uuid:00eaef13-156b-4391-9443-45e51843d8d0-->
 - ::item_uncommon:: [Winter's Clutches](https://bg3.wiki/wiki/Winter's%20Clutches) <!--uuid:84b6a557-da0a-4863-8f91-47df7fe14ad5-->
-- ::item_common:: [Artificial Leech (C1)](https://bg3.wiki/wiki/Artificial%20Leech%20(C1)) <!--uuid:dd27457d-a3ef-4f65-8f9f-533aba5dc744-->
+- ::item_common:: [Artificial Leech (C1)](https://bg3.wiki/wiki/Artificial%20Leech) <!--uuid:dd27457d-a3ef-4f65-8f9f-533aba5dc744-->
 - ::item_common:: [Gnarled Tree Branch](https://bg3.wiki/wiki/Gnarled%20Tree%20Branch) <!--uuid:fcacf1c4-f243-4d24-9cfa-e3d964ec6895-->
-- ::item_common:: [Greatclub (C1)](https://bg3.wiki/wiki/Greatclub%20(C1)) <!--uuid:9b9a1ce6-173f-46e6-87fa-a47a972283ff-->
+- ::item_common:: [Greatclub (C1)](https://bg3.wiki/wiki/Greatclub) <!--uuid:9b9a1ce6-173f-46e6-87fa-a47a972283ff-->
 - ::item_common:: [Makeshift Bow](https://bg3.wiki/wiki/Makeshift%20Bow) <!--uuid:649ea63e-8f6f-4092-97bb-13c5bdba4d7e-->
 - ::item_common:: [Metallic Gloves](https://bg3.wiki/wiki/Metallic%20Gloves) <!--uuid:7255787e-6471-4277-8863-472ba46f5c39-->
 - ::item_common:: [Practice Sword](https://bg3.wiki/wiki/Practice%20Sword) <!--uuid:71e9bf9c-6e82-42a8-ba56-10c7c1f556fa-->
