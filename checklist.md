@@ -5,6 +5,8 @@
   - ::task:: It may be impossible to return to some areas <!--uuid:751b49ef-9304-436c-b40b-c94dac14ce97-->
 - This guide assumes you're completing everything on your quest log -- this list contains mostly tasks you may miss without seeing a related Journal entry <!--uuid:3ae6fe38-7d9c-426b-9c7d-46dd173b4b6f-->
 - Always crouch when stealing -- enemies will automatically start investigating if not <!--uuid:ebca2b62-0b26-4183-831c-b358d5ebcb56-->
+- ::task:: [Jack-of-all-Trades](https://bg3.wiki/wiki/Multiclassing) wants one character to take all twelve classes, one level each, planned from level 1: the game permanently blocks it for any character Withers has respecced (not possible on Explorer) <!--uuid:269f5449-b079-47f0-8c43-83f1174225b4-->
+- ::task:: [Critical Hit](https://bg3.wiki/wiki/Difficulty) and [Foehammer](https://bg3.wiki/wiki/Honour_Mode) are tracked in the save as "still possible" while the campaign runs on Tactician or Honour; Honour mode cannot be switched into later <!--uuid:88b59071-bd45-4e6f-913e-a2cba1f9fb2d-->
 - Send all camp supplies to camp -- they'll automatically show up when you Long Rest <!--uuid:5e6d7627-6de0-4a7b-b7ac-0269c5812019-->
 - The following icon usage is described below <!--uuid:fccffb3d-9458-4643-b689-ee8328b7dca9-->
   - ::task:: This represents general tasks <!--uuid:53b237c9-cb2c-406e-b448-e0a081fc84cc-->
@@ -28,6 +30,8 @@
 - ::item_legendary:: [Mask of the Shapeshifter](https://bg3.wiki/wiki/Mask%20of%20the%20Shapeshifter) Deluxe Edition -- find this item in the Traveler's Chest in camp <!--uuid:454fb7a7-5084-44a3-af43-3df38fe27243-->
 - ::task:: Progress quest [The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep) <!--uuid:2efe55ad-9592-49ac-a9b0-206f7578e24a-->
   - ::task:: At various locations during Act 1 in your adventure [Gale](https://bg3.wiki/wiki/Gale) will receive a debuff and ask for 3 magical artefacts <!--uuid:d1efa851-73d5-44b4-8fb0-3f2d9644c4e9-->
+- ::missable:: Long rest at camp a few times early with [Astarion](https://bg3.wiki/wiki/Astarion) along; his night-time scene (and [its achievement](https://bg3.wiki/wiki/The_Pale_Elf)) is skipped if the Underdark or the Rosymorn trail reveal his secret first <!--uuid:411e2e17-0cc3-4c1e-8089-c45ba7a47206-->
+- ::task:: Feed [Gale](https://bg3.wiki/wiki/Gale) when he asks (three unfed long rests end badly) and meet [Elminster](https://bg3.wiki/wiki/Elminster_Aumar) before the end of Act 2 for [an achievement](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep); Gale leaves if that meeting never happens <!--uuid:b4abe18b-2438-4879-a778-1ea1b33852ef-->
 # Nautiloid
 - ::task:: Start quest [Escape the Nautiloid](https://bg3.wiki/wiki/Prologue) <!--uuid:f2cd30d1-e654-48f4-b725-253a60483654-->
 - ::task:: Make friends with [Us](https://bg3.wiki/wiki/Us) and keep him alive to be granted a missable ability later <!--uuid:93bb5268-2bf8-4e00-9a3b-572b740ee785-->
@@ -36,6 +40,7 @@
 - ::item_ordinary:: [Dark Mind](https://bg3.wiki/wiki/Dark_Mind) - Pick this up for some dialogue later in Act 2 <!--uuid:9f44bd06-22cb-4f2d-b632-733ce7492c1d-->
 - ::item_ordinary:: [Slave Mind](https://bg3.wiki/wiki/Slave_Mind) - Pick this up for some dialogue later in Act 2 <!--uuid:a27d0bbd-4fe6-4c5c-b27f-f8275e8d7313-->
 - ::item_uncommon:: [Everburn Blade](https://bg3.wiki/wiki/Everburn_Blade) - Defeat or [Disarm](https://bg3.wiki/wiki/Disarming) [Commander Zhalk](https://bg3.wiki/wiki/Zhalk) <!--uuid:8879349e-05b3-4d19-b9bf-91aeeed18804-->
+  - ::task:: Defeating him within the fifteen-turn limit is also an achievement; it cannot be done later <!--uuid:b0dd18c2-6b81-4fa3-8c98-d35e940e512a-->
 # Ravaged Beach
 - ::task:: Start the quest [Daughter of Darkness](https://bg3.wiki/wiki/Daughter_of_Darkness) <!--uuid:6773fcba-1049-4630-8ee3-0562a7743e05-->
 - ::task:: Start the quest [The Pale Elf](https://bg3.wiki/wiki/The_Pale_Elf) <!--uuid:b49926ae-2cc4-4839-88f5-62bdcc774e59-->
@@ -171,11 +176,13 @@
 - Find The Cellar <!--uuid:0975ad60-5383-49d4-a5d3-453fbd996f0e-->
   - ::ability:: [Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) - turn all three pages while reading the book to gain +1 to Wisdom saving throws and ability checks, plus ability to cast Speak with Dead once per long rest <!--uuid:6e05e781-af31-4052-9201-70a770479c9d-->
   - ::ability:: [Find Familiar: Cheeky Quasit](https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit) - find the [Scroll of Summon Quasit](https://bg3.wiki/wiki/Scroll_of_Summon_Quasit) in the cellar and use correct dialogue options to permanently gain ability to summon [Shovel](https://bg3.wiki/wiki/Shovel_%28familiar%29) <!--uuid:911f21a1-87cc-4548-a979-c192f3ece662-->
+    - ::task:: Summoning her once is an achievement; the scroll is only here <!--uuid:e253a827-6f34-43d1-a717-ef061a06887a-->
 - Climb the well into a dungeon ([Whispering Depths](https://bg3.wiki/wiki/Whispering_Depths)) which has decent loot <!--uuid:87e30a88-1136-4e92-aa0e-c59578e3282b-->
   - Find a [Dark Amethyst](https://bg3.wiki/wiki/Dark_Amethyst) that can be used to [open a certain book](https://bg3.wiki/wiki/Necromancy_of_Thay) <!--uuid:3f5be803-5a7f-4191-97a8-470e504da231-->
 - ::missable:: Rescue [Barcus](https://bg3.wiki/wiki/Rescue_the_Gnome) from the windmill (leaving for Act 1.5 will mean he can no longer be rescued) <!--uuid:b8ce1064-bc47-43cf-b471-7966b3b14099-->
 - [Scratch](https://bg3.wiki/wiki/Scratch) the dog <!--uuid:814c44af-6809-49e0-a89c-d2047b0ec7eb-->
 - ::ability:: [Find Familiar: Scratch](https://bg3.wiki/wiki/Find_Familiar:_Scratch) - leave scent for [Scratch](https://bg3.wiki/wiki/Scratch) to join camp, then play fetch with him to gain ability to summon him as familiar and uncover buried treasure <!--uuid:0968af73-49ff-4a22-a0ba-9f2134bd39d5--> 
+  - ::task:: Recruit him before leaving for Act 2; petting him together with the owlbear cub at camp one night is an achievement <!--uuid:6448864d-c436-46d4-83ba-f6cea7de282c-->
 - Kill the [ogres](https://bg3.wiki/wiki/Lump_the_Enlightened) <!--uuid:e23da8e8-dee7-4007-8020-3aea4b79eac0-->
   - Nab the [Headband of Intellect](https://bg3.wiki/wiki/Warped_Headband_of_Intellect) <!--uuid:3e67a3df-793d-43bc-8a44-67fa82981a4f-->
 - In one of the houses north of the village, there is a bugbear having a moment with their partner <!--uuid:3e856700-72e4-4881-baf5-e174eae7a759-->
@@ -185,6 +192,7 @@
 - ::item_uncommon:: [Poisoner's Robe](https://bg3.wiki/wiki/Poisoner's%20Robe) <!--uuid:871d6804-d058-4b79-922f-72387cab6d34-->
 - ::item_uncommon:: [Spiderstep Boots](https://bg3.wiki/wiki/Spiderstep%20Boots) <!--uuid:f9792f41-9dd7-4ef2-a093-77de66aece3e-->
 - ::item_uncommon:: [Spurred Band](https://bg3.wiki/wiki/Spurred%20Band) <!--uuid:100040e3-c193-4cb1-b6bd-84cd653a034d-->
+- Destroy the three egg clusters from stealth before fighting the [Phase Spider Matriarch](https://bg3.wiki/wiki/Phase_Spider_Matriarch) for [an achievement](https://bg3.wiki/wiki/Pest_Control); clusters broken after hatching starts do not count <!--uuid:01e9bf78-44a0-488e-a4ce-79008583b25c-->
 # Mountain Pass
 - ::item_uncommon:: [Githyanki Greatsword (Psionic)](https://bg3.wiki/wiki/Githyanki%20Greatsword%20%28Psionic%29) <!--uuid:46c491b8-6239-48b5-9300-2e55b70a820f-->
 - After you discover [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss), speak to him before long resting, or deal with some permanent consequences <!--uuid:0f87beef-196c-47af-b2e1-93b72726201a-->
@@ -194,6 +202,7 @@
 - ::item_uncommon:: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop%20Pendant) <!--uuid:9c3ef4c9-a5fc-495f-b283-90cc282d1303-->
 - ::item_uncommon:: [The Oak Father's Embrace](https://bg3.wiki/wiki/The%20Oak%20Father's%20Embrace) <!--uuid:add0db2d-d656-4791-ba76-808e14cc37f7-->
 - ::missable:: [Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby (do this now, or an owlbear will die after a long rest) <!--uuid:2b12b550-dca5-4a4c-8cfa-3a0b3be01e37-->
+  - ::task:: Spare the cub, and later never kill it, knock it out, or call Lump into the Goblin Camp: it has to live to join camp, and the colony at the end of Act 2 is the last chance for it to do so <!--uuid:3581f558-fb34-43b0-b8f0-bce3ac4d299d-->
 - Check out [the shrine](https://bg3.wiki/wiki/Owlbear_Nest#Sel%C3%BBne_Shrine) and complete a shrine puzzle to unlock a chest <!--uuid:e0e07a4c-9d30-4510-9572-8c748381a8e4-->
 # Waukeen's Rest
 - Free [the shipment holders](https://bg3.wiki/wiki/Find_the_Missing_Shipment) from the gnoll attackers <!--uuid:ac9b7219-4cf1-437d-97c5-eaf9b77b90e7-->
@@ -372,9 +381,11 @@
   - ::missable:: Several quests become unavailable once [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees) is completed <!--uuid:14831a23-4408-474d-b3e8-94244c5d6190-->
   - ::missable:: While it is possible to enter and leave the Goblin Camp early, it's safest to delay it until the player has completed all other tasks and is ready to clear it just before entering Act 1.5. <!--uuid:1cc22f9f-1d01-487b-aabd-7cb4b4fe20e7-->
   - ::missable:: It is advised to read through this section in it's entirety to avoid any problems <!--uuid:02b4ff04-1e4d-46d7-9d90-6e5b17955189-->
+  - ::missable:: Raiding the grove with [Minthara](https://bg3.wiki/wiki/Minthara) kills Dammon, Zevlor and Alfira, and Karlach, Wyll and Gale leave: it ends their companion achievements and [Leave No One Behind](https://bg3.wiki/wiki/Guide:Leave_No_One_Behind) <!--uuid:8144e3b1-1caf-4a3c-ba9a-c35e59880d0b-->
 - ::missable:: Start [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins) <!--uuid:20328f34-fcf5-49fe-9288-a634388909cf-->
   - ::task:: This task officially starts in Emerald Grove, but it's better placed here for pacing <!--uuid:bfcf39cc-f84b-4284-967a-767545f9c97a-->
   - ::task:: Keeping Sazza alive into Act 2 unlocks a missable achievement <!--uuid:beb34ce5-59a5-43d9-91e7-a68a79d12324-->
+  - ::task:: The achievement needs her freed three times: here, at the Goblin Camp (tell Minthara "She had no idea" and "I'll get it done") and from the cells at Moonrise Towers in Act 2 <!--uuid:be52d79b-1e56-47ed-a34b-00499a779c2b-->
   - ::task:: It is highly recommended to delay this until you are ready to enter the Goblin Camp <!--uuid:4cbbe00d-83dd-4298-b9a4-4f4285655a95-->
   - ::task:: Perform a manual save before triggering this quest in the event Sazza dies <!--uuid:c93a72b5-051d-44c1-ba3f-1247ed5433e9-->
   - ::task:: Do not perform a long rest until after [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) and [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees) <!--uuid:f2ea60da-f6af-4896-8c39-71ce66b34cab-->
@@ -451,6 +462,7 @@
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Minthara](https://bg3.wiki/wiki/Minthara) when killed <!--uuid:2fef3807-e02b-4354-9d28-28b504e40fe0-->
 # BEFORE CONTINUING TO ACT 1.5
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before going to Act 1.5 <!--uuid:28bfecaf-495a-467c-b01d-7ff5f5ea46df-->
+- Resolve [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees) first: reaching the Rosymorn trail or Act 2 with it open seals the grove and fails its quests, the refugees with them. The rest of the Wilderness and the Underdark stay reachable from Act 2 until the Shadowfell <!--uuid:7a57dc4a-baf7-4b22-b1db-2c7bfac6e6e3-->
 # Rosymorn Monastery Trail
 - ::item_rare:: [Cacophony](https://bg3.wiki/wiki/Cacophony) <!--uuid:d99a6d42-bc69-4a60-9804-e50d7a145c5f-->
 - ::item_rare:: [Gloves of Cinder and Sizzle](https://bg3.wiki/wiki/Gloves%20of%20Cinder%20and%20Sizzle) <!--uuid:d72b36dd-8a77-45ff-9590-69b13cd09aca-->
@@ -471,6 +483,7 @@
 - ::item_uncommon:: [Ceremonial Warhammer](https://bg3.wiki/wiki/Ceremonial%20Warhammer) <!--uuid:db000d0b-ec1a-4601-a305-8ae36e5ed968-->
 - ::item_uncommon:: [Holy Lance Helm](https://bg3.wiki/wiki/Holy%20Lance%20Helm) <!--uuid:09d6ae23-4c84-4f11-840f-1c3971dc3d71-->
 - Solve a puzzle that involves the [blood of a god](https://bg3.wiki/wiki/Find_the_Blood_of_Lathander) <!--uuid:e098cd83-97c5-4e2c-bc23-d8e00c2a1334--> 
+  - ::task:: Taking the relic is an achievement, and the crèche is only reachable until the Shadowfell <!--uuid:b65391d3-a90e-4ade-bde7-1ac4a010f766-->
 # Crèche Y'llek
 - ::item_legendary:: [The Blood of Lathander](https://bg3.wiki/wiki/The%20Blood%20of%20Lathander) <!--uuid:a0244d2f-2ae6-4bb1-a919-13cede9c7293-->
 - ::item_veryrare:: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves%20of%20Dexterity) <!--uuid:f24df696-5cf5-4dde-9849-2e6fd0dfcda0-->
@@ -502,6 +515,7 @@
 - Have a conversation with [the inquisitor](https://bg3.wiki/wiki/W%27wargaz) <!--uuid:e6a9c2cb-1cab-4a52-b439-6239d496412d-->
 - Perform an [Astral Plane](https://bg3.wiki/wiki/Astral_Plane) visit, and then talk to Lae'zel <!--uuid:448d7af3-edcb-4479-af56-a18aae347b1a-->
   - Talk to [the visitor](https://bg3.wiki/wiki/Voss) upon a long rest <!--uuid:00a9c42b-e629-40c5-ada2-1e35ceaf46e1-->
+    - ::task:: Hear him out with Lae'zel present and side with him for [an achievement](https://bg3.wiki/wiki/The_Githyanki_Warrior); attacking him there ends it, and so does losing Lae'zel <!--uuid:244db7b0-5ecb-4486-af3b-84253fca97d3-->
 # Crèche Y'llek (Hatchery)
 - ::item_uncommon:: [Varsh Ko'kuu's Boots](https://bg3.wiki/wiki/Varsh%20Ko'kuu's%20Boots) <!--uuid:c4a9b39e-8624-41f5-b997-8691c366be3b-->
 # Crèche Y'llek (Infirmary)
@@ -516,6 +530,8 @@
 # Act 2: First Things First
 - Remember if you didn't talk to [Dammon](https://bg3.wiki/wiki/Dammon) in Act 1, do this as soon as you can for [Karlach](https://bg3.wiki/wiki/Karlach)'s poor sake <!--uuid:ec97de5b-0292-44ea-aab0-2f88cb4400c7-->
 - Plan to rescue the prisoners BEFORE Shar's Temple (and the Nightsong questline) <!--uuid:693e95b1-4668-4b4a-afb5-0c8437c5b8f5-->
+  - All seven count for [Under Lock and Key](https://bg3.wiki/wiki/Guide:Under_Lock_and_Key): the four tieflings and the three gnomes, out by boat together. Once the Nightsong is dealt with the cells are emptied for good <!--uuid:eb097100-3c2b-4b75-b1fc-7097dfce98d5-->
+- [Dammon](https://bg3.wiki/wiki/Dammon)'s second engine upgrade for [Karlach](https://bg3.wiki/wiki/Karlach) must happen before the Shadowfell, and her Act 2 evening scene before Act 3, for [Hot Date](https://bg3.wiki/wiki/Karlach/Romance) <!--uuid:bad02d53-4bc9-400b-b97e-5257c324cb47-->
 # House in Deep Shadows
 - Play hide and seek with [a child](https://bg3.wiki/wiki/Oliver), get [a cool ring](https://bg3.wiki/wiki/Ring_of_Shadows) <!--uuid:80e37478-b20c-46c3-bca7-6decc5ac3d36-->
   - ::item_uncommon:: [Ring of Mental Inhibition](https://bg3.wiki/wiki/Ring%20of%20Mental%20Inhibition) <!--uuid:73f01f65-8854-466b-a3b6-c3dff340fde8-->
@@ -557,6 +573,7 @@
   - Talk to [a Strange Ox](https://bg3.wiki/wiki/Strange_Ox) again (don't kill it) <!--uuid:cb354d9e-38d2-40a2-9efc-4129bf701d8c-->
   - Get [a key](https://bg3.wiki/wiki/Tower-Shaped_Key) from a little tiefling thief <!--uuid:aaafccc6-5418-4000-9c45-d4c0940087ae-->
 - Save the moon Cleric from the ambush at the Inn and [start hunting for abductees](https://bg3.wiki/wiki/Resolve_the_Abduction) <!--uuid:c83fa518-5bdf-4245-87c3-e2672b266977-->
+  - ::missable:: If she falls or is carried off, everyone in the inn dies with her: Dammon, the gnomes, the refugees, and [Leave No One Behind](https://bg3.wiki/wiki/Guide:Leave_No_One_Behind) with them. As the Dark Urge, refuse the order concerning her <!--uuid:d1e13a70-d07a-4cda-9054-c6d06bc1ec53-->
 - ::missable:: [Find the tiefling](https://bg3.wiki/wiki/Find_Rolan_in_the_Shadows) without fast traveling or long resting (only happens after [the battle with the flying enemies](https://bg3.wiki/wiki/Resolve_the_Abduction), and the timer only starts if you walk near him) <!--uuid:f91c9b66-8875-485f-8643-64dec9ddc91c-->
   - Save him from some scary shadows <!--uuid:f36d5edb-9bc0-40d0-a810-aef2d57f0bdb-->
 - Wake up [a heavy sleeper](https://bg3.wiki/wiki/Wake_up_Art_Cullagh) <!--uuid:03a7c9c8-bf59-42db-b9b1-3b1679ae295f-->
@@ -669,6 +686,8 @@
   - ::item_uncommon:: [Wulbren's Hammer](https://bg3.wiki/wiki/Wulbren's%20Hammer), found in the same area, can be given to [Wulbren Bongle](https://bg3.wiki/wiki/Wulbren_Bongle). It is possible to purchase this item back from him anytime (confirmed Act 3). <!--uuid:33a69a03-2cc6-43d6-8bb9-b09142dd3934-->
 - [Save the tieflings](https://bg3.wiki/wiki/Rescue_the_Tieflings) <!--uuid:411e3d75-656f-48e6-afeb-69f8626a28e4--> 
   - Talk to [the aspiring Tiefling wizard](https://bg3.wiki/wiki/Rolan) <!--uuid:029ad61f-8ad4-43a4-9f33-ae5819462dd2-->
+  - Free all four, plus the three gnomes, in one go for [an achievement](https://bg3.wiki/wiki/Guide:Under_Lock_and_Key): clear the guards and both scrying eyes, give Wulbren something bludgeoning, and leave by boat together <!--uuid:91b281f4-422c-4015-af13-2a22d4607393-->
+- If [the captive goblin](https://bg3.wiki/wiki/Sazza) lived through Act 1, vouch for the goblins in front of the tower's masters ("Guards. Release them.") for [her achievement](https://bg3.wiki/wiki/Guide:She_Cannot_Be_Caged!) <!--uuid:2f69f94b-8515-484a-a67c-d8e923218148-->
 # Oubliette
 - Enter [the area under the prisons](https://bg3.wiki/wiki/Oubliette) <!--uuid:47bde0c7-7731-4a41-92c0-f37ac1f109e4-->
 - Get the parasite from a Zealot corpse in the main area you drop into <!--uuid:844bff57-ea1a-4b2a-adcb-6d5d083ddd6a-->
@@ -738,6 +757,8 @@
   - Keep her from doing anything to you for [an achievement](https://bg3.wiki/wiki/Achievements) <!--uuid:9cc08c1a-6036-4044-ad6f-516e86f8c420-->
 # BEFORE CONTINUING TO THE TEMPLE
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before entering the Temple <!--uuid:233119c4-cdda-4f4d-8efa-cd52b7e34a6b-->
+- The Shadowfell past the Gauntlet is the point of no return for Act 1: the Wilderness, Underdark, Grymforge and crèche close behind it, and so do the Moonrise cells and Dammon's forge <!--uuid:aa4e7be1-2823-4725-99dc-88da92f8a342-->
+- Don't kill [the Nightsong](https://bg3.wiki/wiki/Nightsong): the moon cleric at the inn dies with her and the inn falls <!--uuid:4b7e821d-4f5a-4ead-9bcd-7081731f131f-->
 # Grand Mausoleum
 - ::item_uncommon:: [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious%20Cloak) <!--uuid:84af48d7-879d-4812-8fc5-2cc9700533b9-->
 # Gauntlet of Shar
@@ -799,10 +820,13 @@
 - Find [the tadpole room](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_centre) <!--uuid:9db1bb66-7b57-43c9-8bc4-cb8ce779ccb5-->
   - Collect a [tadpole](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) from the pool <!--uuid:6d576118-6886-4358-be49-593568bd0dd1-->
   - Free [Wyll's captor](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_Centre) <!--uuid:0d96caf7-74d5-4b0e-95b1-5ac8f1d66290-->
+    - ::task:: Open the pod with the console, don't break it: breaking it kills her and [Wyll](https://bg3.wiki/wiki/Wyll) for good, and [Loophole](https://bg3.wiki/wiki/The_Blade_of_Frontiers) with him <!--uuid:4f3c6ba3-6331-4816-b64d-6ce99d226295-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - found in a Brine Pool, after passing a DC 16 [Perception](https://bg3.wiki/wiki/Perception) check, in the [Mind Flayer Colony](https://bg3.wiki/wiki/Mind_Flayer_Colony) under Moonrise Towers <!--uuid:f885c49f-d9d7-4e76-a845-c20ce1b895df-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Isobel](https://bg3.wiki/wiki/Isobel_Thorm) if she was abducted from [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn) (either dead or alive), she has a parasite on her body when fighting her alongside Ketheric <!--uuid:55878083-0d20-4d43-b1bc-d7bdbed25181-->
 - Free [the captured citizens](https://bg3.wiki/wiki/Mind_Flayer_Colony#Tadpoling_Centre) <!--uuid:5e6db8c2-4e4e-42ee-b5d4-968451cf20f3-->
   - ::item_uncommon:: If [Svartlebee's Woundseeker](https://bg3.wiki/wiki/Svartlebee%27s_Woundseeker) was missed, it can be obtained by disarming [Gauntlet Yeva](https://bg3.wiki/wiki/Yeva) in combat without negative consequences. <!--uuid:2db9427d-7959-4afa-944a-f1098fbe92ab-->
+  - ::task:: Open every pod: [Zevlor](https://bg3.wiki/wiki/Zevlor) only survives if all of them are opened <!--uuid:47cf2833-406b-401a-b92b-c99b8bb7608d-->
+- Kill the final form of [the general](https://bg3.wiki/wiki/Ketheric_Thorm) before it consumes a necromite for [an achievement](https://bg3.wiki/wiki/Guide:No_Free_Lunches) <!--uuid:e7a924bf-c7ad-4ff7-9d22-43114cf61c21-->
 # BEFORE CONTINUING TO ACT 3
 - Get the Owlbear Cub (and pet him in the middle of the night, of course) <!--uuid:bd954033-62b1-4656-9e3b-5248f7459ff2--> 
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before leaving <!--uuid:84a7cb9d-aae5-4546-b456-f118ef1e3c9d-->
@@ -981,6 +1005,8 @@
 - ::missable:: Act 3 - [Free Counsellor Florrick](https://bg3.wiki/wiki/Free%20Counsellor%20Florrick) <!--uuid:27c19a79-7ae4-464c-a23f-886d907faf72-->
   - Free Counselor Florrick before 5 long rests <!--uuid:3ea9486d-47f8-4c42-ba6a-79204bb45363-->
 - Dragon torches to access Dragon's Sanctum <!--uuid:306591fd-3e23-4738-a502-34c6c2842426-->
+- Kill [Gortash](https://bg3.wiki/wiki/Enver_Gortash) without setting off any of his throne-room traps for [an achievement](https://bg3.wiki/wiki/Guide:Fancy_Footwork_(achievement)); shoot them from the staging room first. Throwing him off the balcony turns the fortress hostile and blocks [Rescue the Grand Duke](https://bg3.wiki/wiki/Rescue_the_Grand_Duke) <!--uuid:c0508f05-be8f-4026-b8ba-58a3b7ee9c68-->
+- Under the prison, light the two dragon torches with lightning to open [the Wyrmway](https://bg3.wiki/wiki/Wyrmway); knock [its dragon](https://bg3.wiki/wiki/Ansur) out of the air mid-flight (prone, stun or incapacitate) for an achievement. Before the Morphic Pool <!--uuid:157ac27e-f5d7-4c23-bb30-27e083201495-->
 
 
 # Wyrm's Rock Fortress - The Dragon's Sanctum
@@ -1119,6 +1145,7 @@
 - ::item_rare:: [Fleshrender](https://bg3.wiki/wiki/Fleshrender) <!--uuid:6f93c1e9-41d7-4a7b-9e81-bf586b28e13c-->
 - ::item_rare:: [Vicious Battleaxe](https://bg3.wiki/wiki/Vicious%20Battleaxe) <!--uuid:69a0eb41-9186-412b-80dd-4a98aeb61635-->
 - ::item_rare:: [Vicious Shortbow](https://bg3.wiki/wiki/Vicious%20Shortbow) <!--uuid:fc830d70-2992-4360-8583-dcd0edfc9cf1-->
+- Becoming the Unholy Assassin ([an achievement](https://bg3.wiki/wiki/Impress_the_Murder_Tribunal)) means killing Investigator Valeria: it breaks a paladin's oath and removes her from [Gather Your Allies](https://bg3.wiki/wiki/Gather_Your_Allies) <!--uuid:c7b1e048-4506-487b-bd2c-bdbda8f8a705-->
 
 
 # Lower City - Sorcerous Sundries
@@ -1135,6 +1162,7 @@
 - Deal with Lorroakan <!--uuid:6b6a3019-6e5d-488b-a24a-a4ff4ca3e722-->
   - ::item_rare:: [Despair of Athkatla](https://bg3.wiki/wiki/Despair%20of%20Athkatla) looted off him <!--uuid:41d9accf-d520-46aa-9d4e-80340a87ed25-->
   - ::item_rare:: [Shelter of Athkatla](https://bg3.wiki/wiki/Shelter%20of%20Athkatla) lotted off him <!--uuid:2cd9b85d-91cc-4179-a6e8-e3e0e0cb24a7-->
+  - [Rolan](https://bg3.wiki/wiki/Rolan) only turns on him if both of Rolan's siblings lived, and must survive the fight for [Leave No One Behind](https://bg3.wiki/wiki/Guide:Leave_No_One_Behind) <!--uuid:ddaaf25e-279a-497d-9cb3-90f80842b31f-->
 - ::item_story:: [High Security Vault n°1 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%B01_Key) <!--uuid:b4145a40-dfe5-426a-af3e-c3c4d8817a1a-->
 - ::item_veryrare:: [Robe of the Weave](https://bg3.wiki/wiki/Robe%20of%20the%20Weave) <!--uuid:1dca11de-2709-4479-8d65-522640ea0380-->
 - ::item_legendary:: [Markoheshkir](https://bg3.wiki/wiki/Markoheshkir) <!--uuid:403cb494-c208-47ec-99cc-f32c2163564f-->
@@ -1318,6 +1346,7 @@
 - ::item_story:: [High Security Vault n°7 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%B07_Key) <!--uuid:be064309-2d1c-4426-880d-75abe8c57267-->
 - ::item_veryrare:: [Shade-Slayer Cloak](https://bg3.wiki/wiki/Shade-Slayer%20Cloak) Guildhall <!--uuid:68cc800e-043a-47cf-a61a-a36720fb99dc-->
 - ::item_rare:: [Drunken Cloth](https://bg3.wiki/wiki/Drunken%20Cloth) Guildhall <!--uuid:8e4d48c4-a023-43b8-b074-a804e2c28603-->
+- [Mol](https://bg3.wiki/wiki/Mol) must survive the battle here for [Leave No One Behind](https://bg3.wiki/wiki/Guide:Leave_No_One_Behind) <!--uuid:bc7a8e08-973c-4527-bd97-8768d5139af7-->
 
 
 # Undercity - Undercity Ruins
@@ -1332,6 +1361,8 @@
 - ::item_veryrare:: [Bonespike Gloves](https://bg3.wiki/wiki/Bonespike%20Gloves) <!--uuid:0d0e2cf0-0b82-4702-9b21-40fab3741623-->
 - ::item_rare:: [Mutilated Carapace](https://bg3.wiki/wiki/Mutilated%20Carapace) Looted from Orin <!--uuid:950f7fc3-3244-40b5-b10d-cfd46017bc03-->
 - ::ability:: [Slayer Form](https://bg3.wiki/wiki/Slayer) - as the [Dark Urge](https://bg3.wiki/wiki/Dark_Urge), embrace your nature to gain the Slayer transformation ability <!--uuid:2a60f918-87f8-45aa-b98d-409705740427-->
+- Kill [Orin](https://bg3.wiki/wiki/Orin_the_Red) while her cultists are still chanting for an achievement; failing the checks before the fight costs her hostage <!--uuid:0427f799-31f9-4055-92b9-61a5de83fd48-->
+- Dark Urge: refusing Bhaal after Orin loses [the Slayer achievement](https://bg3.wiki/wiki/Slayer) if you don't have it yet, and [Sins of the Father](https://bg3.wiki/wiki/Achievements) <!--uuid:a6d12dd6-d178-49d6-982f-90275c71a4a9-->
 
 
 # Upper City - The High Hall
@@ -1351,6 +1382,8 @@
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Sarevok](https://bg3.wiki/wiki/Sarevok) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:54426530-002d-4c4c-886c-08b1d621910e-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Tav](https://bg3.wiki/wiki/Tav) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:d7df864e-4cb7-405d-8c69-c249be68c65f-->
 - ::item_story:: [Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen) - from [Wyll](https://bg3.wiki/wiki/Wyll) in the [Upper City](https://bg3.wiki/wiki/Upper_City) <!--uuid:73a6952b-840c-4924-a20a-bc80145432ec-->
+- Kill the red dragon over the Upper City during the assault for an achievement <!--uuid:687754ce-8693-469c-813c-b824f9518f10-->
+- Keep a save before the final choice: the ending achievements branch from it (destroy the brain, rule it, rule it for Bhaal as the Dark Urge, or become a mind flayer to do it) <!--uuid:e9e38d53-8548-4112-9b9c-30f6db728f84-->
 
 
 # Misc Items
